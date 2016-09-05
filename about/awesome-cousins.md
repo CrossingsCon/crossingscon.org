@@ -1,0 +1,84 @@
+---
+layout: page
+title: Wall of Awesome Cousins
+---
+
+These are (some of) the cousins who supported us in the beginning during our official fundraiser. Hats off to you, cousins! You're the reason CrossingsCon exists!
+
+- AE Michels
+- Alex (imaginariumgeographica)
+- Alyssa Hillary
+- Amanda DeLand
+- Andrea N
+- aproustian42
+- astralaria
+- bookwyrmkc
+- Carol J Guess
+- Cereus (Soilrockslove)
+- Charico
+- Cheryl Pedersen
+- Christina Marie
+- Claudia Ross
+- clotpoleofthelord
+- colorfulcuttlefish
+- Dalia
+- Denver H.
+- Diana Jacomb-Hood
+- Dove
+- Emily Topham
+- Erik Bergesen
+- Erin
+- GrayGriffin
+- Heather D.
+- hello-delicious-tea
+- Holland Dougherty
+- imjoshdean
+- inky-thoughts
+- Is
+- Jazz
+- Jessica Ng
+- Jules and Liz Coleman
+- Katerina
+- Kay
+- Kayla
+- Kayla Rudbek
+- Kendal Reed
+- Kit Laika
+- Laura KP
+- Leila Robles
+- LeVar
+- Linda
+- Line Monkey
+- Liz/ladybard
+- lizzieraindrops
+- Lyssie
+- Mage of Blood
+- Marmotknit
+- Mary Shrieks
+- Meg B
+- Meghan
+- Mel Gilbertson
+- Miaka Provost
+- Moments Away
+- Nandinee
+- NasiDe
+- nyquildriver
+- O. Nativ
+- ohthewhomanity
+- Olivia
+- Olivia Maurer
+- PosiCat
+- Rebecca
+- Rebecca K
+- Rebecca Krentz-Wee
+- Roger Wolfson
+- Sara H.
+- Sarah Johansen
+- Sarbear
+- Shannon
+- Shmaylor
+- soulsuckingisaacnewton
+- Tango
+- verdigrisvagabond
+- Virginia & Susan Mellinger
+- Yavosaur

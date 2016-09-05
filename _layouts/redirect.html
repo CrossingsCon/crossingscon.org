@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        <meta http-equiv="refresh" content="0;{{ page.redirect_url}}"/>
+        <p class="redirect-notice">You are being redirected to <a href="{{ page.redirect_url }}">{{ page.redirect_url}}</a>.</p>
+        {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
