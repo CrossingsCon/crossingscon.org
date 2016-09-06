@@ -46,3 +46,28 @@ Once the PR is approved, go ahead and merge it, and delete the branch.
 
 ### Making text-only changes
 Go ahead and just do them right on gh-pages, unless it's, like, paragraphs and paragraphs of text. We're not barbarians.
+
+## Page Layouts
+
+### page
+This is the default page layout. It should be used for just about everything.
+
+```markdown
+---
+layout: page
+title: About CrossingsCon
+---
+```
+
+### redirect
+This page layout actually causes that page to redirect to a specified external URL. We do this so we can capture that we redirected somewhere else in our analytics.
+
+```markdown
+---
+title: Young Wizards Slack
+layout: redirect
+redirect_url: http://youngwizards-slackin.herokuapp.com/
+---
+```
+
+`redirect_url`: The URL to redirect to.

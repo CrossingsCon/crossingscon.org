@@ -1,0 +1,21 @@
+- name: Nita Callahan
+  image: nita.png
+  bio: |
+    Nita Callahan is a wizard of some renown, famous especially for *Callahan's Unfavorable
+    Instigation*. She's also a character in the Young Wizards Series.
+
+    She lives at home with her sister Dairine and her father Harry, who is only a mere florist.
+
+- name: Kit Rodriguez
+  image: kit.jpg
+  bio: |
+    Kit Rodriguez isn't a wizardly slouch either, and takes the "a boy and his dog" genre to
+    ridiculous extremes. Well, that's what happens when you make a leash out of the Speech.
+
+    He lives at home with his sisters Helena and Carmela. One thinks he's a *brujo*; the other
+    will either kiss or sell chocolate to everything in sight.
+
+- name: Dairine Callahan
+  image: dairine.png
+  bio: |
+    Dairine Callahan once told Darth Vader to take a hike, and he did.
