@@ -7,7 +7,8 @@ So you want to help a congoer? Great! We'll need a few hands to help plan and ru
 pretty great, actually. Volunteers don't have to pay for their badges and may qualify to stay in staff housing at
 discounted rates. Plus, it's a lot of fun!
 
-{% if site.data.jobs | size > 0 %}
+{% assign number_of_jobs = site.data.jobs | size %}
+{% if number_of_jobs %}
 Here are the positions that are currently open:
 
   {% for job in site.data.jobs %}
