@@ -10,13 +10,13 @@ $ git clone github.com/crossingscon/crossingscon.org
 $ cd crossingscon.org
 
 # install dependencies
-$ bundle install
+$ make install
 
 # build the site (optional, because you probably just want to...)
-$ bundle exec jekyll build
+$ make build
 
 # use jekyll's server mode
-$ bundle exec jekyll serve
+$ make start
 ```
 
 You should now be able to see the site at [http://localhost:4000/](http://localhost:4000/).
