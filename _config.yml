@@ -18,3 +18,9 @@ twitter_username: crossingscon
 
 # Build settings
 markdown: kramdown
+
+# Collections
+collections:
+  static:
+    output: true
+    permalink: /:path/
