@@ -1,0 +1,20 @@
+.site-header {
+  @include outer-container;
+
+  padding-top: $base-spacing;
+  padding-bottom: $small-spacing;
+
+  > .site-logo {
+    @include span-columns(10);
+    @include shift(1);
+  }
+
+  > .convention-dates, .convention-location {
+    @include span-columns(6);
+    @include media($phone) {
+      @include span-columns(12);
+    }
+
+    text-align: center;
+  }
+}

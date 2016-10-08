@@ -1,0 +1,42 @@
+.site-nav {
+  @include outer-container;
+
+  padding: $small-spacing $base-spacing;
+  background: $medium-gray;
+
+  /**
+   * Desktop navigation
+   */
+  .menu-button {
+    display: none;
+
+    text-align: center;
+  }
+
+  .page-link {
+    @include span-columns(2);
+    text-align: center;
+  }
+
+  /**
+   * Mobile navigation
+   */
+  @include media($tablet) {
+    .menu-button {
+      display: block;
+      @include span-columns(12);
+    }
+
+    .menu-bar {
+      display: none;
+    }
+
+    &.open .menu-bar {
+      display: block;
+    }
+
+    .page-link {
+      @include span-columns(12);
+    }
+  };
+}
