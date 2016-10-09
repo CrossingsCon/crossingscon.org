@@ -16,6 +16,11 @@
 
   .con-name {
     font-size: modular-scale(1);
+    font-weight: 500;
+  }
+
+  .jd-date, .lat-long {
+    display: none;
   }
 }
 
@@ -58,6 +63,10 @@
 @include media($desktop) {
   .footer-title {
     @include span-columns(4);
+
+    .jd-date, .lat-long {
+      display: block;
+    }
   }
 
   .footer-nav {
