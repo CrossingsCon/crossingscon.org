@@ -3,6 +3,7 @@
  * Use like:
  * @include media($phone) { phone-only css goes here }
  */
+$tiny: new-breakpoint(max-width $tiny-screen);
 $phone: new-breakpoint(max-width $medium-screen);
 $tablet: new-breakpoint(max-width $large-screen);
 $desktop: new-breakpoint(min-width $large-screen);

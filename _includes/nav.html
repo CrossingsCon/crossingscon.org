@@ -1,14 +1,14 @@
 <nav class="site-nav">
-  <div class="menu-button">
-    Menu
+  <div class="close-menu-button">
+    <button><span class="icon">{% include icons/x.svg %}</span> Close</button>
   </div>
 
-  <div class="menu-bar">
+  <ul class="nav-links">
     {% for my_page in site.static %}
       {% assign depth = my_page.url | split: "/" | size %}
       {% if depth <= 2 %}
-      <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+      <li><a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
       {% endif %}
     {% endfor %}
-  </div>
+  </ul>
 </nav>

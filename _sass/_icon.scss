@@ -1,13 +1,17 @@
 .icon {
-
     > svg {
         display: inline-block;
-        width: 16px;
-        height: 16px;
-        vertical-align: middle;
+        width: 1em;
+        height: 1em;
+        vertical-align: top;
 
-        path {
-            fill: $medium-gray;
+        #Octicons > g {
+          fill: currentColor;
         }
     }
+}
+
+.inline-icon {
+  height: 1em;
+  margin-bottom: -2px;
 }
