@@ -1,25 +1,4 @@
 /**
- * Reset some basic elements
- */
-body, h1, h2, h3, h4, h5, h6,
-p, blockquote, pre, hr,
-dl, dd, ol, ul, figure {
-    margin: 0;
-    padding: 0;
-}
-
-/**
- * Ground rules
- */
-body {
-  background-color: $base-background-color;
-  // TODO: do we need these text-adjustments?
-  -webkit-text-size-adjust: 100%;
-  @include prefixer(font-feature-settings, "kern" 1, webkit moz o spec);
-  font-kerning: normal;
-}
-
-/**
  * Media queries
  * Use like:
  * @include media($phone) { phone-only css goes here }
@@ -27,3 +6,18 @@ body {
 $phone: new-breakpoint(max-width $medium-screen);
 $tablet: new-breakpoint(max-width $large-screen);
 $desktop: new-breakpoint(min-width $large-screen);
+
+/**
+ * Ground rules
+ */
+body {
+  background: $base-background-color;
+  // TODO: do we need these text-adjustments?
+  -webkit-text-size-adjust: 100%;
+  @include prefixer(font-feature-settings, "kern" 1, webkit moz o spec);
+  font-kerning: normal;
+}
+
+.page-content {
+  padding: $base-spacing;
+}

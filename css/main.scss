@@ -3,9 +3,8 @@
 ---
 @charset "utf-8";
 
-// Global/incidental variables
-$visual-grid: true !global;
-
+// Site-specific variables
+$baseurl: "{{ site.baseurl }}";
 $font-stack-cc: "museo-sans", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
@@ -16,5 +15,7 @@ $font-stack-cc: "museo-sans", "Helvetica Neue", "Helvetica", "Roboto", "Arial", 
   "icon",
   "site",
   "header",
-  "nav"
+  "nav",
+  "post",
+  "footer"
 ;

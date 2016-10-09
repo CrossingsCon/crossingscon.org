@@ -1,0 +1,71 @@
+.site-footer {
+  @include outer-container;
+
+  border-top: $base-border;
+  padding: $base-spacing;
+  color: white;
+  background: url($baseurl + '/images/undersea1.jpg') bottom center / cover;
+
+  a {
+    color: $cyan;
+  }
+}
+
+.footer-title {
+  @include span-columns(12);
+
+  .con-name {
+    font-size: modular-scale(1);
+  }
+}
+
+.footer-nav {
+  @include span-columns(6);
+
+  .page-link {
+    display: block;
+  }
+}
+
+.footer-social {
+  @include span-columns(6);
+  @include omega;
+
+  .social-list {
+    list-style: none;
+  }
+
+  .inline-icon {
+    height: 1em;
+    margin-bottom: -2px;
+    margin-right: $small-spacing;
+  }
+}
+
+.made-with-love {
+  @include span-columns(12);
+
+  color: white;
+  margin-top: $base-spacing;
+  text-align: center;
+  font-size: modular-scale(-2);
+
+  .heart {
+    color: $cyan;
+  }
+}
+
+@include media($desktop) {
+  .footer-title {
+    @include span-columns(4);
+  }
+
+  .footer-nav {
+    @include span-columns(4);
+  }
+
+  .footer-social {
+    @include span-columns(4);
+    @include omega;
+  }
+}

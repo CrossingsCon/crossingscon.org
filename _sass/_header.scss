@@ -1,6 +1,7 @@
 .site-header {
   @include outer-container;
 
+  background-color: $base-background-color;
   padding-top: $base-spacing;
   padding-bottom: $small-spacing;
 

@@ -1,8 +1,31 @@
 <footer class="site-footer">
+  <div class="footer-title">
+    <div class="con-name">CrossingsCon</div>
+    <div class="jd-time">JD 2457935.250000</div>
+    <div class="lat-long">33.765496, -118.115351</div>
+  </div>
+  <nav class="footer-nav">
+    <a class="page-link" href="{{ "/badges" | prepend: site.baseurl }}">Register</a>
+    <a class="page-link" href="{{ "/location" | prepend: site.baseurl }}">Hotel</a>
+    <a class="page-link" href="{{ "/events" | prepend: site.baseurl }}">Schedule</a>
+    <a class="page-link" href="{{ "/events/guests" | prepend: site.baseurl }}">Guests</a>
+    <a class="page-link" href="{{ "/about/contact" | prepend: site.baseurl }}">Contact Us</a>
+  </nav>
+  <div class="footer-social">
+    <div>Keep up with us:</div>
+    <ul class="social-list">
+      {% for sm in site.data.social_media %}
+      <li><a href="{{sm.site}}"><img class="inline-icon" src="{{site.baseurl}}/images/social-icons/{{sm.service}}-white.svg"/> {{ sm.service | capitalize }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+  <aside class="made-with-love">Made with <span class="heart">♥</span> on Rirhath B</aside>
+</footer>
+  <!--
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title }}</h2>
+
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
@@ -35,4 +58,4 @@
 
   </div>
 
-</footer>
+</footer> -->

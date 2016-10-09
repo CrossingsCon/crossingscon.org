@@ -21,13 +21,17 @@ $base-z-index: 0;
 
 // Colors
 $blue: #1565c0;
+$cyan: #00adef;
+$dark-cyan: darken($cyan, 20%);
+$green: #227f44;
+$light-green: lighten($green, 40%);
 $dark-gray: #333;
 $medium-gray: #999;
 $light-gray: #ddd;
 
 // Font Colors
 $base-font-color: $dark-gray;
-$action-color: $blue;
+$action-color: $green;
 
 // Border
 $base-border-color: $light-gray;
