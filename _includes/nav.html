@@ -5,10 +5,10 @@
 
   <ul class="nav-links">
     {% for my_page in site.static %}
-      {% assign depth = my_page.url | split: "/" | size %}
-      {% if depth <= 2 %}
-      <li><a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
-      {% endif %}
+      {% assign depth = my_page.url | split: "/" | size | minus: 1 %}
+      <li class="depth-{{depth}}">
+        <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+      </li>
     {% endfor %}
   </ul>
 </nav>
