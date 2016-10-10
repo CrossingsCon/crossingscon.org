@@ -1,0 +1,9 @@
+.menu-bar {
+  @include outer-container;
+
+  padding: $small-spacing $base-spacing 0 $base-spacing;
+
+  .open-menu-button {
+    @include span-columns(4);
+  }
+}

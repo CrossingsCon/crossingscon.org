@@ -11,10 +11,13 @@ email: thecrossingscon@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This universe's first Young Wizards convention!
 baseurl: "/crossingscon.org" # the subpath of your site, e.g. /blog
-url: "https://crossingscon.github.io/" # the base hostname & protocol for your site
-twitter_username: crossingscon
-# tumblr_username?
-# facebook_username?
+url: "https://crossingscon.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
+
+# Collections
+collections:
+  static:
+    output: true
+    permalink: /:path/

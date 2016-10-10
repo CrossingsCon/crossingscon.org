@@ -14,6 +14,10 @@ start:
 	@echo "\033[1;34m-----> \033[1;39mStarting server...\033[0m"
 	@bundle exec jekyll serve
 
+live:
+	@echo "\033[1;34m-----> \033[1;39mStarting livereload server...\033[0m"
+	@bundle exec jekyll liveserve
+
 clean:
 	@echo "\033[1;34m-----> \033[1;39mCleaning up...\033[0m"
 	@rm -rf .jekyll-metadata

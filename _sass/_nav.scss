@@ -1,0 +1,68 @@
+.site-nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 320px;
+  overflow-y: auto;
+
+  background: $dark-gray;
+
+  /* Only display the "Close Menu" button when the screen size is
+    so small we can't still see the "Nav" button. */
+  .close-menu-button {
+    display: none;
+    text-align: right;
+
+    @include media($tiny) {
+      display: block;
+    }
+  }
+
+  .nav-links {
+
+    li {
+      border-bottom: $base-border;
+      border-bottom-color: $dark-cyan;
+
+      &.depth-1 {
+        font-size: modular-scale(1);
+        background-color: $dark-cyan;
+        &:not(:first-child) {
+          margin-top: $base-spacing;
+        }
+      }
+      &.depth-2 {
+
+      }
+
+      a {
+        display: block;
+        padding: $small-spacing;
+
+        color: white;
+      }
+      &.depth-2 a {
+        padding-left: $base-spacing;
+      }
+
+      &:hover {
+        background-color: $medium-gray;
+        color: $dark-cyan;
+      }
+    }
+  }
+}
+
+.site-nav + .site-wrapper {
+  position: relative;
+
+
+  background-color: $base-background-color;
+  transition: transform $base-duration $base-timing;
+}
+
+.site-nav.open + .site-wrapper {
+  transform: translateX(320px);
+  transition: transform $base-duration $base-timing;
+}
