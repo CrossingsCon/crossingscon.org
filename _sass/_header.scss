@@ -2,9 +2,8 @@
   @include outer-container;
 
   background-color: $base-background-color;
-  padding-top: $base-spacing;
-  padding-bottom: $small-spacing;
-
+  padding: $base-spacing $base-spacing $small-spacing $base-spacing;
+  
   > .site-logo {
     @include span-columns(10);
     @include shift(1);

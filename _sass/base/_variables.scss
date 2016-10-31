@@ -24,18 +24,24 @@ $small-spacing: $base-spacing / 2;
 $base-z-index: 0;
 
 // Colors
-$blue: #1565c0;
-$cyan: #00adef;
-$dark-cyan: darken($cyan, 20%);
-$green: #227f44;
+$blue: #005BAB;
+$dark-blue: #1B1B4C;
+
+$cyan: #2ED3E5;
+$dark-cyan: $dark-blue;
+
+$green: #134C21;
 $light-green: lighten($green, 40%);
+
+$gold: #E58E0B;
+
 $dark-gray: #333;
 $medium-gray: #999;
 $light-gray: #ddd;
 
 // Font Colors
 $base-font-color: $dark-gray;
-$action-color: $green;
+$action-color: $gold;
 
 // Border
 $base-border-color: $light-gray;
