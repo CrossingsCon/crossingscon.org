@@ -1,14 +1,17 @@
 .site-footer {
-  @include outer-container;
-
   border-top: $base-border;
-  padding: $base-spacing;
   color: white;
   background: url($baseurl + '/images/undersea1.jpg') bottom center / cover;
 
   a {
     color: $cyan;
   }
+}
+
+.footer-content {
+  @include outer-container;
+
+  padding: $base-spacing;
 }
 
 .footer-title {

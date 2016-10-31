@@ -1,4 +1,6 @@
 .site-nav {
+  $site-nav-background-color: $dark-blue;
+
   position: fixed;
   top: 0;
   left: 0;
@@ -6,15 +8,16 @@
   width: 320px;
   overflow-y: auto;
 
-  background: $dark-gray;
+  background: $site-nav-background-color;
+  color: white;
 
   /* Only display the "Close Menu" button when the screen size is
     so small we can't still see the "Nav" button. */
   .close-menu-button {
     display: none;
-    text-align: right;
+    padding: $small-spacing;
 
-    @include media($tiny) {
+    @include media($phone) {
       display: block;
     }
   }
@@ -22,12 +25,9 @@
   .nav-links {
 
     li {
-      border-bottom: $base-border;
-      border-bottom-color: $dark-cyan;
-
       &.depth-1 {
         font-size: modular-scale(1);
-        background-color: $dark-cyan;
+
         &:not(:first-child) {
           margin-top: $base-spacing;
         }
@@ -40,23 +40,29 @@
         display: block;
         padding: $small-spacing;
 
-        color: white;
+        color: currentColor;
       }
       &.depth-2 a {
         padding-left: $base-spacing;
       }
 
       &:hover {
-        background-color: $medium-gray;
-        color: $dark-cyan;
+        background-color: lighten($site-nav-background-color, 20%);
+        transition: background-color $base-duration $base-timing;
       }
     }
   }
 }
 
 .site-nav + .site-wrapper {
-  position: relative;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  overflow-y: auto;
 
+  box-shadow: 0 0 $base-spacing $dark-gray;
 
   background-color: $base-background-color;
   transition: transform $base-duration $base-timing;

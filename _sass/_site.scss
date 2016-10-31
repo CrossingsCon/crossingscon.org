@@ -20,5 +20,6 @@ body {
 }
 
 .page-content {
+  @include outer-container;
   padding: $base-spacing;
 }
