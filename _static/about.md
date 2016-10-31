@@ -1,6 +1,8 @@
 ---
 layout: page
 title: What is CrossingsCon?
+nav_title: About Us
+order: 40
 ---
 
 CrossingsCon is this universe's only Young Wizards convention! We are a convention celebrating the works of Diane Duane,
