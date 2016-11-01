@@ -1,12 +1,17 @@
 ---
 layout: page
 title: Rules and Policies
-permalink: /about/rules/
+order: 40
 ---
 
 The main focus of CrossingsCon is to hang out and have fun! But there is also a code of conduct we expect our attendees, staff, and guests to adhere to so that the convention stays fun for everyone.
 
-## Convention Rules
+- [Convention Rules](#convention-rules)
+- [Anti-harassment Policy](#anti-harassment-policy)
+- [Spoiler Policy](#spoiler-policy)
+- [Accessibility](#accessibility)
+
+## Convention Rules {#convention-rules}
 
 Keep to these rules and we’ll be able to avoid speeding up entropy, at least in our corner of the universe:
 
@@ -18,10 +23,11 @@ Keep to these rules and we’ll be able to avoid speeding up entropy, at least i
 1. Costumes should be safe enough to accidentally bump into and not get hurt.
 1. Always check your name before doing a spell.
 1. Listen to convention staff when they ask you to do something (or stop doing something).
+{:.rules}
 
 Failure to observe these rules will result in appropriate action being taken by staff, up to and including revocation of your badge and ejection from convention space at the extreme. If there is a disagreement, the ruling of the convention chair is final.
 
-If you have any questions about our rules and policies, contact us! We want to make sure there aren't any easily-avoidable misunderstandings.
+If you have any questions about our rules and policies, [contact us]({{site.baseurl}}/about/contact)! We'd hate to have misunderstanding that could have been avoided.
 
 ## Anti-harassment Policy {#anti-harassment-policy}
 
@@ -36,6 +42,9 @@ Keep your hands to yourself. Ask before hugging. Watch what you say, how you say
 If you feel harassed, you are welcome to ask your harasser to stop, if you feel comfortable doing so. Otherwise, find a CrossingsCon staff member and report the harassment. Once notified, the staff member will do what is necessary in their judgement to stop the harassing behavior, up to and including revocation of the harasser’s badge and ejection from convention space. We will also, if you like, take steps to help you feel safe again, like escorting you to a place you feel safe or calling your friends or family for you.
 
 This policy applies without exception to everyone at the convention, including attendees, special guests, convention staff, and venue staff.
+
+## Spoiler Policy {#spoiler-policy}
+Can't tell you this yet. Spoilers!
 
 ## Accessibility {#accessibility}
 

@@ -1,6 +1,8 @@
 ---
 layout: page
 title: First-time Congoer Advice
+order: 50
+published: false
 ---
 
 So you want to go to a con? Here are some things to help make sure that this weekend is great experience.

@@ -1,5 +1,6 @@
 ---
-title: Young Wizards Slack
+title: Young Wizards Chat
 layout: redirect
 redirect_url: http://youngwizards-slackin.herokuapp.com/
+order: 10
 ---
