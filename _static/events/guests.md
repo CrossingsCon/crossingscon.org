@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Special Guests
-order: 10
+order: 30
 ---
 
 CrossingsCon is proud to welcome our special guests!

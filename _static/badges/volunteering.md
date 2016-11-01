@@ -1,18 +1,19 @@
 ---
 layout: page
 title: Volunteering
+order: 10
 ---
 
 So you want to help a congoer? Great! We'll need a few hands to help plan and run the convention. Being a volunteer is
 pretty great, actually. Volunteers don't have to pay for their badges and may qualify to stay in staff housing at
 discounted rates. Plus, it's a lot of fun!
 
+## Open positions
 {% assign number_of_jobs = site.data.jobs | size %}
-{% if number_of_jobs %}
-Here are the positions that are currently open:
+{% if number_of_jobs > 0 %}
 
   {% for job in site.data.jobs %}
-## {{ job.title }}
+### {{ job.title }}
 
 {{ job.description | markdownify }}
 
