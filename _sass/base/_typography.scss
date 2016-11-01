@@ -15,7 +15,11 @@ h6 {
   font-family: $heading-font-family;
   font-size: modular-scale(1);
   line-height: $heading-line-height;
-  margin: 0 0 $small-spacing;
+  margin: $small-spacing 0;
+
+  &:first-child {
+    margin: 0 0 $small-spacing;
+  }
 }
 
 p {

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Wall of Awesome Cousins
+order: 40
 ---
 
 These are (some of) the cousins who supported us in the beginning during our official fundraiser. Hats off to you, cousins! You're the reason CrossingsCon exists!
@@ -79,6 +80,5 @@ These are (some of) the cousins who supported us in the beginning during our off
 - Shmaylor
 - soulsuckingisaacnewton
 - Tango
-- verdigrisvagabond
 - Virginia & Susan Mellinger
 - Yavosaur

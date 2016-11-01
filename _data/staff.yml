@@ -1,35 +1,42 @@
-- name: Eli Morris-Heft
-  title: Stationmaster
+- section: Stationmaster's Office
+  staff:
+    - name: Eli Morris-Heft
+      title: Stationmaster (Convention Chair)
+    - name: MaryVail Baucom
+      title: Assistant Stationmaster (Vice Chair)
 
-- name: Masha Baucom
-  title: Assistant Stationmaster
+- section: Events
+  staff:
+    - name: Sonia McCallum
+      title: Events Coordinator
+    - name: Emma Heuchert
+      title: Deputy Events Coordinator
 
-- name: Ana Britt
-  title: Head of Registration
+- section: Guest Relations
+  staff:
+    - name: Sarah Cowett
+      title: Guest Liaison
 
-- name: Sarah Cowett
-  title: Guest Liaison
+- section: Marketing
+  staff:
+    - name: Ronald Kelly
+      title: Head of Marketing (and Tackling)
+    - name: Kayla Forshey
+      title: Deputy Head of Marketing
 
-- name: Holland Dougherty
-  title: Treasurer
+- section: Merchandise
+  staff:
+    - name: Holland Dougherty
+      title: Head of Merchandise
 
-- name: Kayla Forshey
-  title: Marketing Staff
+- section: Operations
+  staff:
+    - name: Andy Rusterholz
+      title: Head of Operations
+    - name: Hanna Kuldiner
+      title: Crocheter-in-Chief
 
-- name: Emma Heuchert
-  title: Deputy Events Coordinator
-
-- name: Ronald Kelly
-  title: Deputy Head of Marketing
-
-- name: Hanna Kuldiner
-  title: Knitter-in-Chief
-
-- name: Claudia Kowalski
-  title: Head of Marketing
-
-- name: Sonia McCallum
-  title: Events Coordinator
-
-- name: Andy Rusterholz
-  title: Head of Operations
+- section: Registration
+  staff:
+    - name: Ana Britt
+      title: Head of Registration
