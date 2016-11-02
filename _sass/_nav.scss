@@ -15,6 +15,13 @@
     display: none;
     padding: $small-spacing;
 
+    button {
+      background: $site-nav-background-color;
+      color: white;
+      border: $base-border;
+      border-color: currentColor;  
+    }
+
     @include media($phone) {
       display: block;
     }
