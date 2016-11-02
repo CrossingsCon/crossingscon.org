@@ -5,8 +5,6 @@ nav_title: Buy a Badge!
 order: 10
 ---
 
-[Buy your badge!](http://www.eventbrite.com/crossingscon-2017/){: .badge-cta}
-
 ## Badges
 
 All the badges for CrossingsCon give you access to all three days of onsite events.
