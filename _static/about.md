@@ -2,6 +2,7 @@
 layout: page
 title: What is CrossingsCon?
 nav_title: About Us
+category_title: About Us
 order: 40
 ---
 

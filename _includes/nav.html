@@ -10,15 +10,19 @@
       {% assign depth = parts_depth1 | size | minus: 1 %}
       {% if depth == 1 %}
       <li class="depth-1">
-        <a class="page-link" href="{{ page_depth1.url | prepend: site.baseurl }}">{{ page_depth1.nav_title | default: page_depth1.title }}</a>
+        <a class="page-link" href="{{ page_depth1.url | prepend: site.baseurl }}">{{ page_depth1.category_title | default: page_depth1.title }}</a>
       </li>
 
+      <!-- Repeat the top-level link with a more-focused name, always as the first link.-->
+      <li class="depth-2">
+        <a class="page-link {% if page.url == page_depth1.url %}current-page{% endif %}" href="{{ page_depth1.url | prepend: site.baseurl }}">{{ page_depth1.nav_title | default: page_depth1.title }}</a>
+      </li>
       {% for page_depth2 in ordered_pages %}
         {% assign parts_depth2 = page_depth2.url | split: "/" %}
         {% assign depth = parts_depth2 | size | minus: 1 %}
         {% if parts_depth2[1] == parts_depth1[1] %}{% if depth == 2 %}
         <li class="depth-2">
-          <a class="page-link" href="{{ page_depth2.url | prepend: site.baseurl }}">{{ page_depth2.nav_title | default: page_depth2.title }}</a>
+          <a class="page-link {% if page.url == page_depth2.url %}current-page{% endif %}" href="{{ page_depth2.url | prepend: site.baseurl }}">{{ page_depth2.nav_title | default: page_depth2.title }}</a>
         </li>
         {% endif %}{% endif %}
       {% endfor %}
