@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Hotel & Location
+title: Location
+nav_title: Hotel
 order: 20
 ---
 

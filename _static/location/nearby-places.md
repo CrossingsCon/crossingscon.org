@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Nearby Restaurants and Shops
+published: false
 ---
 
 ## Restaurants

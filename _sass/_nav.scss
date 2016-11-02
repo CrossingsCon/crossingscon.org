@@ -41,6 +41,12 @@
         padding: $small-spacing;
 
         color: currentColor;
+
+        &.current-page {
+          background-color: white;
+          color: $site-nav-background-color;
+          font-weight: bold;
+        }
       }
       &.depth-2 a {
         padding-left: $base-spacing;

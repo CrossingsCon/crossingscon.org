@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Badge Info
+nav_title: Buy a badge
 order: 10
 ---
 

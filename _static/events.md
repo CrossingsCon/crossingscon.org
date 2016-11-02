@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Programming
+nav_title: Schedule
 order: 30
 ---
 
