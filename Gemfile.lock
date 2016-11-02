@@ -144,6 +144,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages (= 100)
   hawkins
+  json
 
 BUNDLED WITH
    1.12.5
