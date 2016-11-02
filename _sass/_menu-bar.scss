@@ -5,5 +5,19 @@
 
   .open-menu-button {
     @include span-columns(4);
+
+    button {
+      background: white;
+      color: $site-nav-background-color;
+      border: $base-border;
+      border-color: currentColor;
+    }
+  }
+
+  .buy-badge-button {
+    @include span-columns(8);
+    @include omega();
+
+    text-align: right;
   }
 }

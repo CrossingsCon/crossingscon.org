@@ -8,6 +8,8 @@ $phone: new-breakpoint(max-width $medium-screen);
 $tablet: new-breakpoint(max-width $large-screen);
 $desktop: new-breakpoint(min-width $large-screen);
 
+$site-nav-background-color: $dark-blue;
+
 /**
  * Ground rules
  */

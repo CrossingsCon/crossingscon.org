@@ -1,6 +1,4 @@
 .site-nav {
-  $site-nav-background-color: $dark-blue;
-
   position: fixed;
   top: 0;
   left: 0;
@@ -23,6 +21,7 @@
   }
 
   .nav-links {
+    list-style-type: none;
 
     li {
       &.depth-1 {

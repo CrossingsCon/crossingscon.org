@@ -1,10 +1,14 @@
-<nav class="site-nav open">
+<nav class="site-nav">
   <div class="close-menu-button">
     <button><span class="icon">{% include icons/x.svg %}</span> Close</button>
   </div>
 
   {% assign ordered_pages = (site.static | sort: 'order') %}
   <ul class="nav-links">
+    <!-- Include the home page -->
+    <li class="depth-1">
+      <a class="page-link {% if page.url == '/' %}current-page{% endif %}" href="{{ site.baseurl }}/">CrossingsCon Home</a>
+    </li>
     {% for page_depth1 in ordered_pages %}
       {% assign parts_depth1 = page_depth1.url | split: "/" %}
       {% assign depth = parts_depth1 | size | minus: 1 %}
