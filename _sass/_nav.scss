@@ -14,12 +14,10 @@
   .close-menu-button {
     display: none;
     padding: $small-spacing;
+    text-align: right;
 
     button {
-      background: $site-nav-background-color;
-      color: white;
-      border: $base-border;
-      border-color: currentColor;  
+      color: inherit;
     }
 
     @include media($phone) {
