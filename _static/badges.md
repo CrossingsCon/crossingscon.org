@@ -5,6 +5,8 @@ nav_title: Buy a Badge!
 order: 10
 ---
 
+In order to attend CrossingsCon, you'll need to [register for a badge](https://crossingscon-2017.eventbrite.com/). If you want to go on one of our Sunday offsite activities or if you'd like to order a CrossingsCon shirt, you can do that while registering too! You can also donate a [badge scholarship]({{ site.baseurl }}/badges/scholarships).
+
 ## Badges
 
 All the badges for CrossingsCon give you access to all three days of onsite events.
@@ -24,12 +26,11 @@ You can also add tickets for offsite activities on Sunday to each badge you buy 
 |---
 | Activity | Price
 | Aquarium of the Pacific | $29
-| Aquarium & Behind-the-Scenes Tour | $49
 | Aquarium & Whale-Watching Trip | $69
 {: .prices}
 
-## Add a CrossingsCon Shirt
+## Order a CrossingsCon Shirt
 
-And if you buy a CrossingsCon shirt for $20 with your badge, we'll have it ready for you to pick up and wear during the weekend. Our shirts come in unisex cut (sizes S&ndash;5XL, [sizing chart](http://www.mygildan.com/store/us/browse/productDetailsPage.jsp?productId=5000)) and women's cut (sizes S&ndash;3XL, [sizing chart](http://www.mygildan.com/store/us/browse/productDetailsPage.jsp?productId=5000L)).
+And if you buy a CrossingsCon shirt for $24 with your badge, we'll have it ready for you to pick up and wear during the weekend. Our shirts come in unisex cut (sizes S&ndash;5XL, [sizing chart](http://www.mygildan.com/store/us/browse/productDetailsPage.jsp?productId=5000)) and women's cut (sizes S&ndash;3XL, [sizing chart](http://www.mygildan.com/store/us/browse/productDetailsPage.jsp?productId=5000L)).
 
 We don't know if we'll have shirts for sale during the convention, so if you want to make sure you get a CrossingsCon shirt, the best way is to order it with your badge!
