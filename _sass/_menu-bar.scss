@@ -7,10 +7,15 @@
     @include span-columns(4);
 
     button {
-      background: white;
-      color: $site-nav-background-color;
-      border: $base-border;
-      border-color: currentColor;
+      color: inherit;
+
+      .text {
+        margin-left: $small-spacing / 2;
+
+        @include media($phone) {
+          display: none;
+        }
+      }
     }
   }
 

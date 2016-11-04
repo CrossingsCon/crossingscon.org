@@ -32,4 +32,15 @@
       background-color: $action-color;
     }
   }
+
+  &.secondary {
+    color: $action-color;
+
+    background-color: transparent;
+
+    border: $base-border;
+    border-color: currentColor;
+
+    padding: calc(#{$small-spacing} - #{$base-border-width}) calc(#{$base-spacing} - #{$base-border-width})
+  }
 }
