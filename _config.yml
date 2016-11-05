@@ -10,7 +10,7 @@ title: CrossingsCon
 email: info@crossingscon.org
 description: > # this means to ignore newlines until "baseurl:"
   This universe's first Young Wizards convention!
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.crossingscon.org" # the base hostname & protocol for your site
 
 # Build settings
