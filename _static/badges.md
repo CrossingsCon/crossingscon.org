@@ -5,7 +5,7 @@ nav_title: Buy a Badge!
 order: 10
 ---
 
-In order to attend CrossingsCon, you'll need to [register for a badge](https://crossingscon-2017.eventbrite.com/). If you want to go on one of our Sunday offsite activities or if you'd like to order a CrossingsCon shirt, you can do that while registering too! You can also donate a [badge scholarship]({{ site.baseurl }}/badges/scholarships).
+In order to attend CrossingsCon, you'll need to [register for a badge](https://crossingscon-2017.eventbrite.com/?aff=site). If you want to go on one of our Sunday offsite activities or if you'd like to order a CrossingsCon shirt, you can do that while registering too! You can also donate a [badge scholarship]({{ site.baseurl }}/badges/scholarships).
 
 ## Badges
 
