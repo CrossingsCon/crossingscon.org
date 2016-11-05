@@ -12,10 +12,12 @@ We held the first CrossingsCon on June 24-26, 2016 in Newark, NJ with 125 cousin
 
 We spent the first two days telling stories, getting to know each other, and playing games at the Courtyard Marriott in Newark. On Sunday, 90 of us ventured into Manhattan to tour the city and see landmarks from _So You Want To Be A Wizard_. We visited Rockefeller Plaza, side-eyed the CBS building, had a scavenger hunt in Grand Central Terminal, explored the New York Public Library, and checked every bathroom in the American Museum of Natural History for wormholes to other planets.
 
-[Take a look at some highlights from 2016!](https://www.facebook.com/pg/CrossingsCon/photos/?tab=album&album_id=1068827729837141)
+Take a look at some [of the highlights][facebook-album-2016], or [watch some of our 2016 panels][youtube-playlist-2016].
 
 
 ## 2017: Long Beach, CA
 The next CrossingsCon is coming up in 2017. [See you there!]({{site.baseurl}}/badges)
 
 [wizcon-post]: {{ site.baseurl }}/images/the-original-post.png
+[youtube-playlist-2016]: https://www.youtube.com/playlist?list=PL5nkrJ3R5UQxlANmJm7ErjBxrDxGdYwwT
+[facebook-album-2016]: https://www.facebook.com/pg/CrossingsCon/photos/?tab=album&album_id=1068827729837141

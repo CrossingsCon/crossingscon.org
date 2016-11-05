@@ -14,9 +14,9 @@ All the badges for CrossingsCon give you access to all three days of onsite even
 |---
 | Badge Type | Age Range | Price
 |---
-| Adult Badge | 13 years or older | $50
-| Child Badge | 4 to 12 years old | $30 <br/><small>(when purchased with an Adult Badge)</small>
-| Toddler Badge | 3 years or younger | $0 <br/><small>(when purchased with an Adult Badge)</small>
+| Adult Badge | 12 years or older | $50
+| Child Badge | 3 to 11 years old | $30 <br/><small>(when purchased with an Adult Badge)</small>
+| Toddler Badge | 2 years or younger | $0 <br/><small>(when purchased with an Adult Badge)</small>
 {: .prices}
 
 ## Sunday Offsite Activities
@@ -24,9 +24,9 @@ All the badges for CrossingsCon give you access to all three days of onsite even
 You can also add tickets for offsite activities on Sunday to each badge you buy &mdash; but spots are limited, so sign up soon!
 
 |---
-| Activity | Price
-| Aquarium of the Pacific | $29
-| Aquarium & Whale-Watching Trip | $69
+| Activity | Price (Adult) | Price (Child)
+| Aquarium of the Pacific | $29 | $15
+| Aquarium & Whale-Watching Trip | $69 | $25
 {: .prices}
 
 ## Order a CrossingsCon Shirt
