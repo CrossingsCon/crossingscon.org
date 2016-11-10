@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Special Guests
+title: Guests of Honor
 order: 30
 ---
 
-CrossingsCon is proud to welcome our special guests!
+CrossingsCon is proud to welcome our guests of honor!
 
 {% for guest in site.data.guests %}
 ## {{ guest.name }}
