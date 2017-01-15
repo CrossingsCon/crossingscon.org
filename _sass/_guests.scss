@@ -1,0 +1,28 @@
+.guest {
+  clear: both;
+
+  .guest-photo {
+    display: block;
+    width: 30%;
+    float: left;
+  }
+
+  .guest-bio {
+    margin-left: calc(30% + 2em);
+  }
+
+  &.right {
+    .guest-photo {
+      float: right;
+    }
+
+    .guest-bio {
+      margin-right: calc(30% + 2em);
+      margin-left: 0;
+    }
+  }
+
+  &:not(:first-child) {
+    padding-top: 2em;
+  }
+}
