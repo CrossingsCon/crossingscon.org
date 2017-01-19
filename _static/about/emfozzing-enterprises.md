@@ -9,5 +9,4 @@ Emfozzing Enterprises, Inc. is the corporation that backs CrossingsCon. We are a
 The board for EE, Inc. is:
 
 {% for board_member in site.data.board %}
-- **{{ board_member.name }}**, {{ board_member.title }}
-{% endfor %}
+- **{{ board_member.name }}**, {{ board_member.title }}{% endfor %}
