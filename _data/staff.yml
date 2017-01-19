@@ -28,13 +28,13 @@
   staff:
     - name: Holland Dougherty
       title: Head of Merchandise
+    - name: Hanna Kuldiner
+      title: Crocheter-in-Chief
 
 - section: Operations
   staff:
     - name: Andy Rusterholz
-      title: Head of Operations
-    - name: Hanna Kuldiner
-      title: Crocheter-in-Chief
+      title: Director of Operations
 
 - section: Registration
   staff:

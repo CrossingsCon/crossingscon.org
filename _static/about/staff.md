@@ -9,6 +9,5 @@ Who's minding these worldgates anyway? Look no further! Below are the people who
 {% for section in site.data.staff %}
 ## {{section.section}}
   {% for staff_member in section.staff %}
-- **{{ staff_member.name }}**, {{ staff_member.title }}
-  {% endfor %}
+- **{{ staff_member.name }}**, {{ staff_member.title }}{% endfor %}
 {% endfor %}
