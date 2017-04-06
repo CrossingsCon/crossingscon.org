@@ -28,9 +28,3 @@ You can also add tickets for offsite activities on Sunday to each badge you buy 
 | Aquarium of the Pacific | $29 | $15
 | Aquarium & Whale-Watching Trip | $69 | $25
 {: .prices}
-
-## Order a CrossingsCon Shirt
-
-And if you buy a CrossingsCon shirt for $24 with your badge, we'll have it ready for you to pick up and wear during the weekend. Our shirts come in unisex cut (sizes S&ndash;5XL, [sizing chart](http://www.mygildan.com/store/us/browse/productDetailsPage.jsp?productId=5000)) and women's cut (sizes S&ndash;3XL, [sizing chart](http://www.mygildan.com/store/us/browse/productDetailsPage.jsp?productId=5000L)).
-
-We don't know if we'll have shirts for sale during the convention, so if you want to make sure you get a CrossingsCon shirt, the best way is to order it with your badge!

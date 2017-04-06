@@ -24,11 +24,11 @@
       {% for page_depth2 in ordered_pages %}
         {% assign parts_depth2 = page_depth2.url | split: "/" %}
         {% assign depth = parts_depth2 | size | minus: 1 %}
-        {% if parts_depth2[1] == parts_depth1[1] %}{% if depth == 2 %}
+        {% if parts_depth2[1] == parts_depth1[1] %}{% if depth == 2 %}{% if page_depth2.nav != 'hide' %}
         <li class="depth-2">
           <a class="page-link {% if page.url == page_depth2.url %}current-page{% endif %}" href="{{ page_depth2.url | prepend: site.baseurl }}">{{ page_depth2.nav_title | default: page_depth2.title }}</a>
         </li>
-        {% endif %}{% endif %}
+        {% endif %}{% endif %}{% endif %}
       {% endfor %}
 
       {% endif %}
