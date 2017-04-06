@@ -29,4 +29,4 @@ You can also add tickets for offsite activities on Sunday to each badge you buy 
 | Aquarium & Whale-Watching Trip | $69 | $25
 {: .prices}
 
-<div class="badge-cta-container"><button class="primary">Register now!</button></div>
+<div class="badge-cta-container"><button class="primary"><a href="https://crossingscon-2017.eventbrite.com/?aff=site" target="_blank">Register now!</a></button></div>
