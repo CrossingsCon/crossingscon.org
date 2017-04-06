@@ -54,4 +54,5 @@ h2#continuing-flavors {
 h2 ~ p {
   clear: both;
   padding-top: $small-spacing;
+  @include clearfix;
 }

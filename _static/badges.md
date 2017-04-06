@@ -28,3 +28,5 @@ You can also add tickets for offsite activities on Sunday to each badge you buy 
 | Aquarium of the Pacific | $29 | $15
 | Aquarium & Whale-Watching Trip | $69 | $25
 {: .prices}
+
+<div class="badge-cta-container"><button class="primary">Register now!</button></div>
