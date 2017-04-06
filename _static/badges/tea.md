@@ -4,7 +4,7 @@ title: Tea
 order: 41
 nav: hide
 ---
-As Annie Callahan will tell you, there's always time for a cup of tea. Our staffer Sarah has put together several blends of tea based on Young Wizards characters, all of which are available for you to pre-order and pick up with your badge.
+As Annie Callahan will tell you, there's always time for a cup of tea. Our staffer Sarah has put together several blends of tea based on Young Wizards characters, all of which are available for you to [pre-order and pick up with your badge](/badges).
 
 All our tea tins have beautiful art made by [yix](http://sheeplocked.tumblr.com).
 
