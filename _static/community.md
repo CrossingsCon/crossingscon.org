@@ -9,7 +9,7 @@ The best way to stay in touch with the con and all the friends you met there is 
 with CrossingsCon:
 
 - [Facebook](https://facebook.com/crossingscon)
-- [Tumblr](https://crossingscon.tumblr.com)
+- [Tumblr](https://blog.crossingscon.org)
 - [Twitter](https://twitter.com/crossingscon)
 
 And the best way to keep talking with your newfound cousins is on the Young Wizards Slack team:
