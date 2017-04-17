@@ -1,5 +1,5 @@
 - service: tumblr
-  site: https://crossingscon.tumblr.com
+  site: https://blog.crossingscon.org
 - service: facebook
   site: https://facebook.com/crossingscon
 - service: twitter
