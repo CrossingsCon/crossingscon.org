@@ -58,6 +58,9 @@ All our tea tins have beautiful art made by [yix](http://sheeplocked.tumblr.com)
 ![peach label][peach]{: .tea-label}
 [Machu Picchu](https://www.adagio.com/signature_blend/blend.html?blend=27784): This bird-turned-Power can’t stay away from wordplay, so She will surely appreciate the peachy flavor of her namesake tea. [Ceylon sonata](https://www.adagio.com/black/ceylon_sonata.html), [peach](https://www.adagio.com/flavors/peach.html), [rooibos peach](https://www.adagio.com/rooibos/rooibos_peach.html) with apple pieces.
 
+## More questions?
+Check out our [Tea FAQ](../tea-faq)!
+
 [carl]: {{ site.baseurl }}/images/merch/tea/carl.jpg
 [carmela]: {{ site.baseurl }}/images/merch/tea/carmela.png
 [dairine]: {{ site.baseurl }}/images/merch/tea/dairine.png
