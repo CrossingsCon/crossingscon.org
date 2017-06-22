@@ -34,7 +34,7 @@ Good things come in threes, and tea is no exception. Each of these three-packs, 
 - Three Powers walk into a bar... (caffeine-free): Darryl McAllister + Ponch + Machu Picchu
 
 ### And More!
-[Click here](../tea) to see *all* the flavors we have for sale.
+[Click here](../tea) to see *all* the flavors we have for sale. Or check [out our Tea FAQ](../tea-faq).
 
 [merch]: {{ site.baseurl }}/images/merch-table.jpg
 [ed]: {{ site.baseurl }}/images/merch/tea/ed.jpg
