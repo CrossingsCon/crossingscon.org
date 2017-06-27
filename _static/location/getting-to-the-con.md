@@ -11,7 +11,7 @@ The closest airport to CrossingsCon is the **Long Beach Airport (LGB)**. Many ai
 You can also fly into **Los Angeles International Airport (LAX)**, which is 23 miles away. There is likewise no hotel shuttle, but public transportation to the hotel is available, and there are a number of private services that will shuttle you to the hotel. More information can be found under "Driving Directions from Airport" on [this page](http://www.marriott.com/hotels/fact-sheet/travel/lgbcy-courtyard-long-beach-downtown/).
 
 ## By road
-Take I-405 to I-710 South. After getting on I-710 South, take Exit 1C (on the left) and follow signs to Downtown Long Beach. Take the Broadway St exit via the ramp on the left. Travel east on Broadway for 1 mile, then turn right on Linden Avenue. Go one block to First Street, cross the intersection, and the Courtyard will be on your left.
+Take I-405 to I-710 South. After getting on I-710 South, take Exit 1C (on the left) and follow signs to Downtown Long Beach. Take the Broadway St exit via the ramp on the left. Travel east on Broadway for 1 mile, then turn right on Linden Avenue. Go one block to First Street, then turn left. The hotel will be on your right.
 
 ## By rail
-Arrive at Long Beach Transit Gallery by Amtrak and exit onto First Street. Cross Long Beach Boulevard and walk east on First Street. Walk four blocks, cross Linden Avenue, and turn right. You will be at the hotel.
+Take the [**Metro Blue Line**](https://www.metro.net/riding/paid_parking/blue-line/), which runs from 7th Street/Metro Center in downtown Los Angeles to the **Downtown Long Beach** stop. Walk east on First Street, crossing Pine Avenue, for six blocks until you reach Linden Avenue. Cross Linden Avenue and walk for another half block to arrive at the hotel entrance.
