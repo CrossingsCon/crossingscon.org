@@ -5,6 +5,20 @@ nav_title: Schedule
 order: 30
 ---
 
-We don't have a programming schedule up yet; check back a couple months before the convention!
+Well here we have it cousins! [This](https://docs.google.com/spreadsheets/d/1ZeF_j-tIpx5MelNDfgP-lPOSY9hq376gwLbvGEmVeEo) is the working schedule for CrossingsCon 2017. The document linked there is still undergoing some minor changes as a few more events get finalized and slotted into place, and times may change in a minor way, but for the most part… ta da! This is what CrossingsCon 2017 will look like!  
 
-In the meantime, [maybe you've got a killer idea for something that could be on that schedule]({{ site.baseurl }}/events/submit-an-activity)?
+For ease of access, here are PDFs of the schedule as it exists on the 7th of July. We will update these PDFs regularly as events are finalized, but you can always check the link above for the most up-to-date information!
+
+<object data="{{ site.baseurl }}/pdfs/Schedule Template - Friday.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="{{ site.baseurl }}/pdfs/Schedule Template - Friday.pdf">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="{{ site.baseurl }}/Schedule Template - Friday.pdf">Download Friday Schedule</a></p>
+    </embed>
+</object>
+
+<object data="{{ site.baseurl }}/pdfs/Schedule Template - Saturday.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="{{ site.baseurl }}/pdfs/Schedule Template - Saturday.pdf">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="{{ site.baseurl }}/Schedule Template - Saturday.pdf">Download Saturday Schedule</a></p>
+    </embed>
+</object>
+
+If you want details on any of the events, check out our [event blurbs](blog.crossingscon.org/tagged-events), which we will continue posting as we approach the con. We can’t wait to [see you there]({{ site.baseurl }}/badges) cousins! It’s going to be a rollicking good time.
