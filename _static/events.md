@@ -9,16 +9,8 @@ Well here we have it cousins! [This](https://docs.google.com/spreadsheets/d/1ZeF
 
 For ease of access, here are PDFs of the schedule as it exists on the 7th of July. We will update these PDFs regularly as events are finalized, but you can always check the link above for the most up-to-date information!
 
-<object data="{{ site.baseurl }}/pdfs/Schedule Template - Friday.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="{{ site.baseurl }}/pdfs/Schedule Template - Friday.pdf">
-        This browser does not support PDFs. Please download the PDF to view it: <a href="{{ site.baseurl }}/Schedule Template - Friday.pdf">Download Friday Schedule</a></p>
-    </embed>
-</object>
+[Friday Schedule]({{ site.baseurl }}/pdfs/Schedule Template - Friday.pdf)
 
-<object data="{{ site.baseurl }}/pdfs/Schedule Template - Saturday.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="{{ site.baseurl }}/pdfs/Schedule Template - Saturday.pdf">
-        This browser does not support PDFs. Please download the PDF to view it: <a href="{{ site.baseurl }}/Schedule Template - Saturday.pdf">Download Saturday Schedule</a></p>
-    </embed>
-</object>
+[Saturday Schedule]({{ site.baseurl }}/pdfs/Schedule Template - Saturday.pdf)
 
 If you want details on any of the events, check out our [event blurbs](blog.crossingscon.org/tagged-events), which we will continue posting as we approach the con. We can’t wait to [see you there]({{ site.baseurl }}/badges) cousins! It’s going to be a rollicking good time.
