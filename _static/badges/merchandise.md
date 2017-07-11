@@ -12,7 +12,9 @@ All merchandise must be ordered [with your badge](/badges) and will be available
 
 ## CrossingsCon 2017 Shirt
 
-Adorn yourself in proof that you made it to CrossingsCon 2017! (Stay tuned to this space for pictures of the shirt design.)
+Adorn yourself in proof that you made it to CrossingsCon 2017!
+
+<img alt="T-shirt design reading 'CROSSINGSCON 2017 submarine intervention group' in blue and green on a navy blue field with illustrated shark and whale" src="{{ site.baseurl }}/images/merch/shirts/tshirt.png" width="500" height="500">
 
 Our shirts come in unisex cut (sizes S&ndash;5XL, [sizing chart](http://www.mygildan.com/store/us/browse/productDetailsPage.jsp?productId=5000)) and women's cut (sizes S&ndash;3XL, [sizing chart](http://www.mygildan.com/store/us/browse/productDetailsPage.jsp?productId=5000L)). They cost $24.
 
@@ -42,3 +44,4 @@ Good things come in threes, and tea is no exception. Each of these three-packs, 
 [carl]: {{ site.baseurl }}/images/merch/tea/carl.jpg
 [peach-decaf]: {{ site.baseurl }}/images/merch/tea/peach-decaf.jpg
 [ponch-decaf]: {{ site.baseurl }}/images/merch/tea/ponch-decaf.jpg
+[tshirt]: {{ site.baseurl }}/images/merch/shirts/tshirt.png
