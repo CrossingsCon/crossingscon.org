@@ -44,4 +44,4 @@ Good things come in threes, and tea is no exception. Each of these three-packs, 
 [carl]: {{ site.baseurl }}/images/merch/tea/carl.jpg
 [peach-decaf]: {{ site.baseurl }}/images/merch/tea/peach-decaf.jpg
 [ponch-decaf]: {{ site.baseurl }}/images/merch/tea/ponch-decaf.jpg
-[tshirt]: {{ site.baseurl }}/images/merch/shirts/tshirt.png
+[tshirt]: {{ site.baseurl }}/images/merch/shirts/tshirt.png =250px
