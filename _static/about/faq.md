@@ -4,13 +4,13 @@ title: FAQ
 order: 10
 ---
 
-### When and where is CrossingsCon?
+## When and where is CrossingsCon?
 
 CrossingsCon 2017 is August 4–August 6, 2017 at the beautiful Courtyard Long Beach Downtown, 500 East First Street, Long Beach, CA 90802. Details at our [location page](/location)
 How much do badges cost?
 Adult badges (12 years and up) are $50 USD. Child badges (3-11 years old) are $30 (when purchased with an adult badge.) Badges for anyone under 3 years old are free, but you still need to register them with an adult badge. Get them [here](https://crossingscon-2017.eventbrite.com/?aff=site)!
 
-### Will there be on-site registration?
+## Will there be on-site registration?
 
 Yes, in that all of our registration is done online through [Eventbrite](https://crossingscon-2017.eventbrite.com/?aff=site), and that site will remain live throughout the weekend, so you can register on a phone or computer on-site, and check in whenever our registration desk is open. However, we strongly encourage you to register as soon as you can so that we can plan as accurately as possible.
 
