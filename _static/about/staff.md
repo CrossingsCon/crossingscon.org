@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Staff
-order: 30
+order: 40
 ---
 
 Who's minding these worldgates anyway? Look no further! Below are the people who plan and run the convention. (Interested in joining us? [Check here for details.]({{site.baseurl}}/badges/volunteering))
