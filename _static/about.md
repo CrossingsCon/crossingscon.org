@@ -6,7 +6,8 @@ category_title: About Us
 order: 40
 ---
 
-CrossingsCon is this universe's only Young Wizards convention! We are a convention celebrating the works of Diane Duane,
-along with all kinds of storytelling that causes us to think about the world in a different way.
+CrossingsCon is, first and foremost, this universe’s only convention founded on Diane Duane's Young Wizards. Year Two is taking place August 4-6, 2017 in Long Beach, California. Tickets are [still available]({{ site.baseurl }}/badges)!
 
-We held the first CrossingsCon on June 24-26, 2016 in Newark, NJ, and we're working on Year Two, so stay tuned!
+More specifically, CrossingsCon is a moment out of time, where people can come together to share their Art and have fun doing it. It’s a place where, just for a weekend, the wizardry that is usually just around the corner is instead right in front of you. Inspired by the Young Wizards series and other stories, we celebrate the power of storytelling to literally change our lives and the world around us. The Crossings is a huge melting pot of cultures, people, and ideas, and we strive to emulate it to the extent we can (although as yet we are limited to planet Earth). We look forward to greeting cousins we know and welcoming cousins we haven’t met yet, because in hearing their stories, we become family.
+
+[Read more](http://blog.crossingscon.org/post/162686937721/building-our-name-in-the-speech) about what we aim to do!
