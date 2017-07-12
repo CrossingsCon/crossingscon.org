@@ -6,7 +6,7 @@ order: 10
 
 ## When and where is CrossingsCon?
 
-CrossingsCon 2017 is August 4–August 6, 2017 at the beautiful Courtyard Long Beach Downtown, 500 East First Street, Long Beach, CA 90802. Details at our [location page](/location)
+CrossingsCon 2017 is August 4–August 6, 2017 at the beautiful Courtyard Long Beach Downtown, 500 East First Street, Long Beach, CA 90802. More details, and a link to book a hotel room, can be found [here](/location)!
 
 ## How much do badges cost?
 
