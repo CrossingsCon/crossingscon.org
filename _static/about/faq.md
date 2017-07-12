@@ -22,7 +22,7 @@ Sunday off-site activities are “add-ons” through the Eventbrite registration
 
 Our programming will begin at 10:00 Friday morning, so definitely before then! Depending on your travel options, you might want to arrive Thursday afternoon/evening to check in to the hotel and get yourself settled, but that is up to you. Convention registration/check-in will begin Friday morning at 9:00.
 
-### When should I leave?
+## When should I leave?
 
 Our closing ceremonies will be Sunday evening, mostly likely between 5:00 and 6:00pm, depending on when the off-site programming ends and we arrive back to the hotel. Our hotel block runs from August 3-7, so you are welcome to stay Sunday night if you prefer to leave on Monday, or you can head out Sunday evening.
 
