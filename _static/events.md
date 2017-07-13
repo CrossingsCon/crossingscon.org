@@ -13,4 +13,4 @@ For ease of access, here are PDFs of the schedule as it exists on the 7th of Jul
 
 [Saturday Schedule]({{ site.baseurl }}/pdfs/Schedule Template - Saturday.pdf)
 
-If you want details on any of the events, check out our [event blurbs](blog.crossingscon.org/tagged-events), which we will continue posting as we approach the con. We can’t wait to [see you there]({{ site.baseurl }}/badges) cousins! It’s going to be a rollicking good time.
+If you want details on any of the events, check out our [event blurbs](http://blog.crossingscon.org/tagged/events), which we will continue posting as we approach the con. We can’t wait to [see you there]({{ site.baseurl }}/badges) cousins! It’s going to be a rollicking good time.
