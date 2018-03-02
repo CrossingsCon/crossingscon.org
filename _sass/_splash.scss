@@ -21,20 +21,46 @@ body.splash {
     align-items: center;
     flex-direction: column;
     height: 100%;
-  }
 
-  .splash-title {
-    color: $cyan;
-    text-shadow: 0 0 $small-spacing $dark-blue;
-    font-size: modular-scale(4);
     text-align: center;
+    line-height: 1;
+    color: transparentize($cyan, 0.2);
+    text-shadow: $dark-gray 0px 0px 4vw;
+
+    .con-name {
+      text-transform: uppercase;
+      text-shadow: $dark-gray 0px 0px 3vw;
+    }
+
+    .tagline {
+      margin-top: 4vw;
+    }
+
+    .con-name { font-size: 6vw; }
+    .con-year { font-size: 21.5vw; }
+    .tagline { font-size: 3vw; }
+
+    @include media($tablet) {
+      .con-name { font-size: 10vw; }
+      .con-year { font-size: 36vw; }
+      .tagline { font-size: 6vw; }
+    }
+
+    @include media($phone) {
+      .con-name { font-size: 10vw; }
+      .con-year { font-size: 36vw; }
+      .tagline { font-size: 6vw; }
+    }
   }
 
   div.secrets {
-    color: $dark-gray;
-    opacity: 0.25;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    padding: $base-spacing;
+    
+    color: transparentize($dark-gray, 0.9);
     text-align: center;
     font-weight: 100;
-    text-shadow: 1px 1px $dark-cyan;
   }
 }
