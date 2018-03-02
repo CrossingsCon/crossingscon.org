@@ -15,6 +15,11 @@ body.splash {
   background-attachment: fixed;
   background-origin: border-box;
 
+  @include media($phone) {
+    background-size: 100vh;
+    background-position: top;
+  }
+
   .splash-content {
     display: flex;
     justify-content: center;
