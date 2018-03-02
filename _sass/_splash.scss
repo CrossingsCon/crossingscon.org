@@ -1,0 +1,40 @@
+body.splash {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+
+  padding: $base-spacing;
+
+  background-color: $dark-gray;
+  background-image: url('../images/galaxies/ngc-4038-4039-antennae.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-origin: border-box;
+
+  .splash-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+  }
+
+  .splash-title {
+    color: $cyan;
+    text-shadow: 0 0 $small-spacing $dark-blue;
+    font-size: modular-scale(4);
+    text-align: center;
+  }
+
+  div.secrets {
+    color: $dark-gray;
+    opacity: 0.25;
+    text-align: center;
+    font-weight: 100;
+    text-shadow: 1px 1px $dark-cyan;
+  }
+}
