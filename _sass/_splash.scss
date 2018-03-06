@@ -37,35 +37,32 @@ body.splash {
       text-shadow: $dark-gray 0px 0px 3vw;
     }
 
+    .stats {
+      color: transparentize(white, 0.2);
+      text-align: center;
+    }
+
     .tagline {
       margin-top: 4vw;
     }
 
     .con-name { font-size: 6vw; }
     .con-year { font-size: 21.5vw; }
+    .stats { font-size: 2vw; }
     .tagline { font-size: 3vw; }
 
     @include media($tablet) {
       .con-name { font-size: 10vw; }
       .con-year { font-size: 36vw; }
+      .stats { font-size: 4vw; }
       .tagline { font-size: 6vw; }
     }
 
     @include media($phone) {
       .con-name { font-size: 10vw; }
       .con-year { font-size: 36vw; }
+      .stats { font-size: 4vw; }
       .tagline { font-size: 6vw; }
     }
-  }
-
-  div.secrets {
-    position: fixed;
-    bottom: 0;
-    right: 0;
-    padding: $base-spacing;
-    
-    color: transparentize($dark-gray, 0.9);
-    text-align: center;
-    font-weight: 100;
   }
 }
