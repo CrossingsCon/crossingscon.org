@@ -2,7 +2,7 @@ body {
   font-family: $font-family-base;
 }
 
-#page {
+body {
   position: absolute;
   top: 0;
   bottom: 0;
@@ -10,10 +10,8 @@ body {
   right: 0;
 
   background-image: url($baseurl + '/images/galaxies/ngc-4038-4039-antennae.jpg');
+  background-origin: border-box;
   background-size: cover;
-  background-position: center;
-}
-
-main {
-  opacity: 0.9;
+  background-attachment: fixed;
+  // background-position: center;
 }

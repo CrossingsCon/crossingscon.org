@@ -18,7 +18,8 @@ $baseurl: "{{ site.baseurl }}";
   // shared components
   'site',
   'header',
-  'footer'
+  'footer',
 
   // specific to a page
+  'page'
   ;

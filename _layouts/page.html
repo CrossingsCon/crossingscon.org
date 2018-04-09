@@ -1,13 +1,20 @@
 ---
 layout: default
 ---
-<article class="post">
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-  </header>
 
-  <div class="post-content">
-    {{ content }}
-  </div>
+{% include header.html %}
 
-</article>
+<main class="container rounded page-main my-3 p-5">
+  <article class="post">
+    <header class="post-header">
+      <h1 class="post-title">{{ page.title }}</h1>
+    </header>
+
+    <div class="post-content">
+      {{ content }}
+    </div>
+
+  </article>
+</main>
+
+{% include footer.html %}

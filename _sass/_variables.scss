@@ -1,16 +1,13 @@
-// $blue: #005BAB;
-// $dark-blue: #1B344C;
+$white: white !default;
+$cc-blue: #005BAB;
+$cc-dark-blue: #1B344C;
 
-// $cyan: #2ED3E5;
-// $dark-cyan: $dark-blue;
+$cc-cyan: #2ED3E5;
+$cc-dark-cyan: $cc-dark-blue;
 
-// $green: #134C21;
-// $light-green: lighten($green, 40%);
+$cc-green: #134C21;
+$cc-light-green: lighten($cc-green, 40%);
 
-// $gold: #E58E0B;
-
-// $dark-gray: #333;
-// $medium-gray: #999;
-// $light-gray: #ddd;
+$cc-gold: #E58E0B;
 
 $font-family-base: "museo-sans", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
