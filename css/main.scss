@@ -10,9 +10,14 @@ $baseurl: "{{ site.baseurl }}";
 @import
   // setup
   'variables',
+  'theme',
+
+  // libraries
+  'bootstrap-4.0.0/bootstrap',
 
   // shared components
   'site',
+  'header',
   'footer'
 
   // specific to a page
