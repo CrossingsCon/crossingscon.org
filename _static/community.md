@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Community
-nav_title: Follow us
+nav_title: Follow us!
 order: 50
 ---
 

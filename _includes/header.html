@@ -1,10 +1,68 @@
-<header class="site-header">
-  <div class="site-logo">
-    <a href="{{ site.baseurl }}/"><img
+<header>
+  <nav class="navbar navbar-expand-xl navbar-light bg-light">
+    <a class="navbar-brand mr-auto mr-xl-3" href="/"><img
       src="{{ "/images/crossroads-lockup.svg" | prepend: site.baseurl }}"
-      alt="{{ site.title }}"
+      alt="the CrossingsCon logo"
+      height="40"
     /></a>
-  </div>
-  <div class="convention-dates">August 4&ndash;August 6, 2017</div>
-  <div class="convention-location">Long Beach, CA, Earth</div>
+
+    <div class="navbar-text mr-3 d-none d-lg-flex d-xl-none">June 21-23, 2019 in Montreal, QC</div>
+    <div class="form-inline my-2 my-lg-0 mr-lg-3 d-none d-lg-block d-xl-none">
+      <a class="btn btn-success my-2 my-sm-0" href="/register">Get your badge!</a>
+    </div>
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <div class="navbar-text mr-3 d-lg-none">June 21-23, 2019 in Montreal, QC</div>
+      <div class="form-inline my-2 my-lg-0 d-lg-none">
+        <a class="btn btn-success my-2 my-sm-0" href="/register">Get your badge!</a>
+      </div>
+      <div class="dropdown-divider"></div>
+      {% assign ordered_pages = (site.static | sort: 'order') %}
+      <ul class="navbar-nav mr-auto">
+        {% for page_depth1 in ordered_pages %}
+          {% assign parts_depth1 = page_depth1.url | split: "/" %}
+          {% assign depth = parts_depth1 | size | minus: 1 %}
+          {% if depth == 1 %}
+          <li class="nav-item dropdown">
+            <a
+              class="nav-link dropdown-toggle"
+              href="{{ page_depth1.url | prepend: site.baseurl }}"
+              id="{{ page_depth1.url | slugify }}dropdown"
+              role="button"
+              data-toggle="dropdown"
+              aria-haspopup="true"
+              aria-expanded="false"
+            >{{ page_depth1.category_title | default: page_depth1.title }}</a>
+            <div class="dropdown-menu" aria-labelledby="{{ page_depth1.url | slugify }}dropdown">
+              <!-- Repeat the top-level link with a more-focused name, always as the first link. -->
+              <a
+                class="dropdown-item {% if page.url == page_depth1.url %}active{% endif %}"
+                href="{{ page_depth1.url | prepend: site.baseurl }}"
+              >{{ page_depth1.nav_title | default: page_depth1.title }}</a>
+
+              {% for page_depth2 in ordered_pages %}
+                {% assign parts_depth2 = page_depth2.url | split: "/" %}
+                {% assign depth = parts_depth2 | size | minus: 1 %}
+                {% if parts_depth2[1] == parts_depth1[1] %}{% if depth == 2 %}{% if page_depth2.nav != 'hide' %}
+                <a
+                  class="dropdown-item {% if page.url == page_depth2.url %}active{% endif %}"
+                  href="{{ page_depth2.url | prepend: site.baseurl }}"
+                >{{ page_depth2.nav_title | default: page_depth2.title }}</a>
+                {% endif %}{% endif %}{% endif %}
+              {% endfor %}
+            </div>
+          </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+      <div class="navbar-text mr-3 d-none d-xl-flex">June 21-23, 2019 in Montreal, QC</div>
+      <div class="form-inline my-2 my-lg-0 d-none d-xl-block">
+        <a class="btn btn-success my-2 my-sm-0" href="/register">Get your badge!</a>
+      </div>
+    </div>
+  </nav>
 </header>

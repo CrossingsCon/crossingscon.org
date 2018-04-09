@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Getting Your Badge
-nav_title: Buy a Badge!
+title: Register
+nav_title: Badge Prices
 order: 10
 ---
 

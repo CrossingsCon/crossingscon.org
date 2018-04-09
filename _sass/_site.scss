@@ -1,27 +1,19 @@
-/**
- * Media queries
- * Use like:
- * @include media($phone) { phone-only css goes here }
- */
-$tiny: new-breakpoint(max-width $tiny-screen);
-$phone: new-breakpoint(max-width $medium-screen);
-$tablet: new-breakpoint(max-width $large-screen);
-$desktop: new-breakpoint(min-width $large-screen);
-
-$site-nav-background-color: $dark-blue;
-
-/**
- * Ground rules
- */
 body {
-  background: $base-background-color;
-  // TODO: do we need these text-adjustments?
-  -webkit-text-size-adjust: 100%;
-  @include prefixer(font-feature-settings, "kern" 1, webkit moz o spec);
-  font-kerning: normal;
+  font-family: $font-family-base;
 }
 
-.page-content {
-  @include outer-container;
-  padding: $base-spacing;
+#page {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+
+  background-image: url($baseurl + '/images/galaxies/ngc-4038-4039-antennae.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+main {
+  opacity: 0.9;
 }

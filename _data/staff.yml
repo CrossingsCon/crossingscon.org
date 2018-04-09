@@ -1,9 +1,9 @@
 - section: Stationmaster's Office
   staff:
     - name: Eli Morris-Heft
-      title: Stationmaster (Convention Chair)
+      title: Stationmaster (Convention Co-Chair)
     - name: MaryVail Baucom
-      title: Assistant Stationmaster (Vice Chair)
+      title: Stationmaster (Convention Co-Chair)
 
 - section: Events
   staff:
@@ -12,31 +12,36 @@
     - name: Emma Heuchert
       title: Deputy Events Coordinator
 
+- section: Finance
+  staff:
+    - name: Holland Dougherty
+      title: Head of Finance
+
 - section: Guest Relations
   staff:
     - name: Sarah Cowett
       title: Guest Liaison
 
-- section: Marketing
-  staff:
-    - name: Ronald Kelly
-      title: Head of Marketing (and Tackling)
-    - name: Kayla Forshey
-      title: Deputy Head of Marketing
-
 - section: Merchandise
   staff:
-    - name: Holland Dougherty
+    - name: Could be you!
       title: Head of Merchandise
-    - name: Hanna Kuldiner
-      title: Crocheter-in-Chief
 
-- section: Operations
+- section: Public Relations
   staff:
-    - name: Andy Rusterholz
-      title: Director of Operations
+    - name: Kayla Forshey
+      title: PR Director
+    - name: Julie Tamanini
+      title: Assistant PR Director
+    - name: Could be you!
+      title: Webmaster
 
 - section: Registration
   staff:
-    - name: Ana Britt
+    - name: Hanna Kuldiner
       title: Head of Registration
+
+- section: Venue & Location
+  staff:
+    - name: Andy Rusterholz
+      title: Venue Liaison

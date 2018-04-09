@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Getting a Hotel Room
+title: Hotel
 category_title: Location
 order: 20
 ---

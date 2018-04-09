@@ -1,4 +1,14 @@
-<footer class="site-footer">
+<footer class="container-fluid">
+  <div class="row py-2 social-list">
+    {% for sm in site.data.social_media %}
+    <div class="px-2"><a href="{{sm.site}}"><img src="{{site.baseurl}}/images/social-icons/{{sm.service}}-white.svg"/></a></div>
+    {% endfor %}
+  </div>
+  <div class="row py-2">
+    <small id="made-with-love" class="col-12 text-center">Made with <span class="heart">♥</span> on Rirhath B</small>
+  </div>
+</footer>
+<!-- <footer class="site-footer">
   <div class="footer-content">
     <div class="footer-title">
       <div class="con-name">CrossingsCon</div>
@@ -14,12 +24,8 @@
     </nav>
     <div class="footer-social">
       <div>Keep up with us:</div>
-      <ul class="social-list">
-        {% for sm in site.data.social_media %}
-        <li><a href="{{sm.site}}"><img class="inline-icon" src="{{site.baseurl}}/images/social-icons/{{sm.service}}-white.svg"/> {{ sm.service | capitalize }}</a></li>
-        {% endfor %}
-      </ul>
+
     </div>
     <aside class="made-with-love">Made with <span class="heart">♥</span> on Rirhath B</aside>
   </div>
-</footer>
+</footer> -->

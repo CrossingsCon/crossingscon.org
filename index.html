@@ -1,13 +1,14 @@
 ---
-layout: splash
+layout: default
 ---
 
-<div class="splash-content">
-  <div class="con-name">CrossingsCon</div>
-  <div class="con-year">2019</div>
-  <div class="stats">
-    <div class="date">JD 2458656.166667</div>
-    <div class="location">@ 45°30′27.1656″N 73°33′55.6488″W</div>
+{% include header.html %}
+
+<main class="container">
+  <div class="jumbotron">
+    <h1 class="display-4">Hello, worlds!</h1>
+    <p class="lead">CrossingsCon is this universe's first Young Wizards convention... for the third time!</p>
   </div>
-  <div class="tagline">Hold on to your hexes...</div>
-</div>
+</main>
+
+{% include footer.html %}
