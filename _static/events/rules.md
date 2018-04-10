@@ -23,7 +23,7 @@ Keep to these rules and we’ll be able to avoid speeding up entropy, at least i
 1. Costumes should be safe enough to accidentally bump into and not get hurt.
 1. Always check your name before doing a spell.
 1. Listen to convention staff when they ask you to do something (or stop doing something).
-{:.rules}
+
 
 Failure to observe these rules will result in appropriate action being taken by staff, up to and including revocation of your badge and ejection from convention space at the extreme. If there is a disagreement, the ruling of the convention chair is final.
 

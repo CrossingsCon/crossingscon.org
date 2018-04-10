@@ -3,6 +3,7 @@ layout: page
 title: Hotel
 category_title: Location
 order: 20
+published: false
 ---
 
 ![](http://cache.marriott.com/propertyimages/l/lgbcy/phototour/lgbcy_phototour88.jpg)

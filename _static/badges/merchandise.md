@@ -2,6 +2,7 @@
 layout: page
 title: Merchandise
 order: 40
+published: false
 ---
 
 ![merch]

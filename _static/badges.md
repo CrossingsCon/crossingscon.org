@@ -5,28 +5,35 @@ nav_title: Badge Prices
 order: 10
 ---
 
-In order to attend CrossingsCon, you'll need to [register for a badge](https://crossingscon-2017.eventbrite.com/?aff=site). If you want to go on one of our Sunday offsite activities or if you'd like to order a CrossingsCon shirt, you can do that while registering too! You can also donate a [badge scholarship]({{ site.baseurl }}/badges/scholarships).
+In order to attend CrossingsCon, you'll need to [register for a badge](#) in advance. While registering, you can also snag a ticket for our Sunday tour, pre-order merchandise, and donate a [badge scholarship]({{ site.baseurl }}/badges/scholarships) for a cousin who needs help coming to con.
 
-## Badges
+All convention badge types give you access to all the panels, activities, and games on Friday and Saturday. The only programming on Sunday is the optional Space for Life tour which requires an additional ticket &mdash; but trust us, it's worth it!
 
-All the badges for CrossingsCon give you access to all three days of onsite events.
+<table class="table">
+  <caption class="sr-only">Badge prices for CrossingsCon</caption>
+  <thead><tr>
+    <th>Badge Type</th>
+    <th>Age Range</th>
+    <th>Badge Price</th>
+    <th>Sunday Tour</th>
+  </tr></thead>
+  <tbody>
+    {% for badge in site.data.badges %}
+    <tr>
+      <td>{{ badge.type }}{% if badge.requires_adult %}*{% endif %}</td>
+      <td>{{ badge.ages }}</td>
+      <td>{{ badge.badge_price }}</td>
+      <td>{{ badge.tour_price }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="4"><small>* Requires accompanying purchase of an Adult Badge.</small></td>
+    </tr>
+  </tfoot>
+</table>
 
-|---
-| Badge Type | Age Range | Price
-|---
-| Adult Badge | 12 years or older | $50
-| Child Badge | 3 to 11 years old | $30 <br/><small>(when purchased with an Adult Badge)</small>
-| Toddler Badge | 2 years or younger | $0 <br/><small>(when purchased with an Adult Badge)</small>
-{: .prices}
-
-## Sunday Offsite Activities
-
-You can also add tickets for offsite activities on Sunday to each badge you buy &mdash; but spots are limited, so sign up soon!
-
-|---
-| Activity | Price (Adult) | Price (Child)
-| Aquarium of the Pacific | $29 | $15
-| Aquarium & Whale-Watching Trip | $69 | $25
-{: .prices}
-
-<div class="badge-cta-container"><a href="https://crossingscon-2017.eventbrite.com/?aff=site" target="_blank"><button class="primary">Register now!</button></a></div>
+<p class="text-center">
+  <a class="btn btn-lg btn-success" href="#" target="_blank">Register now!</a>
+</p>

@@ -2,6 +2,7 @@
 layout: page
 title: Badge Scholarship Fund
 order: 10
+published: false
 ---
 
 Going to a convention is a big expense, and we want to make CrossingsCon as accessible as possible for all our attendees. In the spirit of building community and reducing entropy for everyone, this year we are introducing a **badge scholarship fund**.
