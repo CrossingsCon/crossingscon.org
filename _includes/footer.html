@@ -1,4 +1,19 @@
 <footer class="container-fluid">
+  <div class="row align-items-center py-2 flipper">
+    <div class="col-12 order-2 col-md-5 text-center order-md-1 text-md-right">
+      <span class="unflipped">JD 2458656.166667</span>
+      <span class="flipped">June 21-23, 2019</span>
+    </div>
+    <div class="col-12 order-1 col-md-2 text-center order-md-2 text-md-center"><img
+      src="{{ "/images/crossroads.svg" | prepend: site.baseurl }}"
+      alt="the CrossingsCon logo"
+      height="40"
+    /></div>
+    <div id="con-info-lat-long" class="col-12 order-3 col-md-5 text-center order-md-3 text-md-left">
+      <span class="unflipped">45°30′27.1656″N<br/>73°33′55.6488″W</span>
+      <span class="flipped">Montreal, Quebec</span>
+    </div>
+  </div>
   <div class="row py-2 social-list">
     {% for sm in site.data.social_media %}
     <div class="px-2"><a href="{{sm.site}}"><img src="{{site.baseurl}}/images/social-icons/{{sm.service}}-white.svg"/></a></div>
@@ -8,24 +23,3 @@
     <small id="made-with-love" class="col-12 text-center">Made with <span class="heart">♥</span> on Rirhath B</small>
   </div>
 </footer>
-<!-- <footer class="site-footer">
-  <div class="footer-content">
-    <div class="footer-title">
-      <div class="con-name">CrossingsCon</div>
-      <div class="jd-date" title="August 4-6, 2017">JD 2457970.208333</div>
-      <div class="lat-long" title="Long Beach, CA">@ 33.767706, -118.186216</div>
-    </div>
-    <nav class="footer-nav">
-      <a class="page-link" href="{{ "/badges" | prepend: site.baseurl }}">Badges</a>
-      <a class="page-link" href="{{ "/location" | prepend: site.baseurl }}">Hotel</a>
-      <a class="page-link" href="{{ "/events" | prepend: site.baseurl }}">Schedule</a>
-      <a class="page-link" href="{{ "/events/guests" | prepend: site.baseurl }}">Guests</a>
-      <a class="page-link" href="{{ "/about/contact" | prepend: site.baseurl }}">Contact Us</a>
-    </nav>
-    <div class="footer-social">
-      <div>Keep up with us:</div>
-
-    </div>
-    <aside class="made-with-love">Made with <span class="heart">♥</span> on Rirhath B</aside>
-  </div>
-</footer> -->

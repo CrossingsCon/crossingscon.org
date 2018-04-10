@@ -13,3 +13,13 @@ footer .social-list {
     height: 1.5rem;
   }
 }
+
+footer .flipper {
+  .unflipped { display: inline; }
+  .flipped { display: none; }
+
+  &:hover {
+    .flipped { display: inline; }
+    .unflipped { display: none; }
+  }
+}
