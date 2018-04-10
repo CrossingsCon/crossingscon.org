@@ -1,47 +1,57 @@
 - section: Stationmaster's Office
   staff:
     - name: Eli Morris-Heft
-      title: Stationmaster (Convention Co-Chair)
+      title: Stationmaster
+      specialty: Enacture in non-Speech languages
     - name: MaryVail Baucom
-      title: Stationmaster (Convention Co-Chair)
+      title: Stationmaster
+      specialty: Imperative consequences
 
 - section: Events
   staff:
     - name: Sonia McCallum
       title: Events Coordinator
+      specialty: Walking the High Road
     - name: Emma Heuchert
       title: Deputy Events Coordinator
+      specialty: Translation, storytelling, and folklore
 
 - section: Finance
   staff:
     - name: Holland Dougherty
       title: Head of Finance
+      specialty: Weird science
 
 - section: Guest Relations
   staff:
     - name: Sarah Cowett
       title: Guest Liaison
+      specialty: The Speech on sevarfrith worlds
 
-- section: Merchandise
-  staff:
-    - name: Could be you!
-      title: Head of Merchandise
+#- section: Merchandise
+#  staff:
+#    - name: Could be you!
+#      title: Head of Merchandise
 
 - section: Public Relations
   staff:
     - name: Kayla Forshey
       title: PR Director
+      specialty: Writing spells
     - name: Julie Tamanini
       title: Assistant PR Director
-    - name: Could be you!
-      title: Webmaster
+      specialty: ...bees?
+#    - name: Could be you!
+#      title: Webmaster
 
 - section: Registration
   staff:
     - name: Hanna Kuldiner
       title: Head of Registration
+      specialty: Blue food
 
 - section: Venue & Location
   staff:
     - name: Andy Rusterholz
       title: Venue Liaison
+      specialty: Dysparanomasia
