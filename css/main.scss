@@ -5,32 +5,23 @@
 
 // Site-specific variables
 $baseurl: "{{ site.baseurl }}";
-$font-stack-cc: "museo-sans", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-  "bourbon/bourbon",
-  "neat/neat",
-  "base/base",
-  "icon",
+  // setup
+  'variables',
+  'theme',
 
-  "site",
-  "menu-bar",
-  "header",
-  "nav",
-  "post",
-  "footer",
+  // libraries
+  'bootstrap-4.0.0/bootstrap',
 
-  "splash",
+  // shared components
+  'site',
+  'header',
+  'footer',
 
-  "homepage",
-  "badges",
-  "rules",
-  "prices",
-  "guests",
-  "merch"
-;
-
-// Debug
-// $visual-grid: true !global;
-// $visual-grid-color: #ccee00 !global;
+  // specific to a page
+  'page',
+  'guests',
+  'splash'
+  ;

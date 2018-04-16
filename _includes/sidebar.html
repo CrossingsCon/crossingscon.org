@@ -1,6 +1,0 @@
-<aside class="sidebar">
-  {% for page in site.static %}
-    {% assign depth = page.url | split: "/" | size %}
-    <h{{depth}}><a href="{{page.url | prepend: site.baseurl}}">{{page.title}}</a></h{{depth}}>
-  {% endfor %}
-</aside>

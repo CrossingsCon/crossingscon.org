@@ -1,81 +1,25 @@
-.site-footer {
-  border-top: $base-border;
-  color: white;
-  background: url($baseurl + '/images/undersea1.jpg') bottom center / cover;
-
-  a {
-    color: $cyan;
-  }
-}
-
-.footer-content {
-  @include outer-container;
-
-  padding: $base-spacing;
-}
-
-.footer-title {
-  @include span-columns(12);
-
-  .con-name {
-    font-size: modular-scale(1);
-    font-weight: 500;
-  }
-
-  .jd-date, .lat-long {
-    display: none;
-  }
-}
-
-.footer-nav {
-  @include span-columns(6);
-
-  .page-link {
-    display: block;
-  }
-}
-
-.footer-social {
-  @include span-columns(6);
-  @include omega;
-
-  .social-list {
-    list-style: none;
-  }
-
-  .inline-icon {
-    margin-right: $small-spacing;
-  }
-}
-
-.made-with-love {
-  @include span-columns(12);
-
-  color: white;
-  margin-top: $base-spacing;
-  text-align: center;
-  font-size: modular-scale(-2);
+footer {
+  color: $white;
 
   .heart {
     color: $cyan;
   }
 }
 
-@include media($desktop) {
-  .footer-title {
-    @include span-columns(4);
+footer .social-list {
+  justify-content: center;
 
-    .jd-date, .lat-long {
-      display: block;
-    }
+  img {
+    height: 1.5rem;
   }
+}
 
-  .footer-nav {
-    @include span-columns(4);
-  }
+footer .flipper {
+  .unflipped { display: inline; }
+  .flipped { display: none; }
 
-  .footer-social {
-    @include span-columns(4);
-    @include omega;
+  &:hover {
+    .flipped { display: inline; }
+    .unflipped { display: none; }
   }
 }

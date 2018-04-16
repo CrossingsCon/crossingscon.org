@@ -1,13 +1,31 @@
 ---
 layout: page
-title: Staff
+title: CrossingsCon Staff
 order: 40
 ---
 
-Who's minding these worldgates anyway? Look no further! Below are the people who plan and run the convention. (Interested in joining us? [Check here for details.]({{site.baseurl}}/badges/volunteering))
+Who's minding these worldgates anyway? Here's who does what at CrossingsCon.
+
+{% if site.data.jobs %}
+Interested in joining us? [Click here to see our open positions.]({{site.baseurl}}/badges/volunteering)
+{: .alert .alert-info}
+{% endif %}
 
 {% for section in site.data.staff %}
-## {{section.section}}
-  {% for staff_member in section.staff %}
-- **{{ staff_member.name }}**, {{ staff_member.title }}{% endfor %}
+<div class="row mt-4">
+  <h3 class="col-12">{{ section.section }}</h3>
+</div>
+<div class="row">
+  {% for staffer in section.staff %}
+  <div class="col-12 col-md-6">
+    <div class="card">
+      <div class="card-body">
+        <h4 class="card-title">{{ staffer.name }}</h4>
+        <h5 class="card-title">{{ staffer.title }}</h5>
+        <div class="card-text text-muted">Wizardly specialty:<br/>{{ staffer.specialty }}</div>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
 {% endfor %}

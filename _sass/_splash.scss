@@ -1,24 +1,18 @@
 body.splash {
-  position: fixed;
+  position: absolute;
   top: 0;
   bottom: 0;
   left: 0;
   right: 0;
 
-  padding: $base-spacing;
+  padding: 1em;
+  font-variant-numeric: lining-nums;
 
-  background-color: $dark-gray;
+  background-color: $dark;
   background-image: url('../images/galaxies/ngc-4038-4039-antennae.jpg');
-  background-position: center;
-  background-repeat: no-repeat;
+  background-origin: border-box;
   background-size: cover;
   background-attachment: fixed;
-  background-origin: border-box;
-
-  @include media($phone) {
-    background-size: 100vh;
-    background-position: top;
-  }
 
   .splash-content {
     display: flex;
@@ -29,16 +23,16 @@ body.splash {
 
     text-align: center;
     line-height: 1;
-    color: transparentize($cyan, 0.2);
-    text-shadow: $dark-gray 0px 0px 4vw;
+    color: transparentize($cc-cyan, 0.2);
+    text-shadow: $dark 0px 0px 4vw;
 
     .con-name {
       text-transform: uppercase;
-      text-shadow: $dark-gray 0px 0px 3vw;
+      text-shadow: $dark 0px 0px 3vw;
     }
 
     .stats {
-      color: transparentize(white, 0.2);
+      color: transparentize($white, 0.2);
       text-align: center;
     }
 
@@ -51,14 +45,14 @@ body.splash {
     .stats { font-size: 2vw; }
     .tagline { font-size: 3vw; }
 
-    @include media($tablet) {
+    @media screen and (max-width: 768px) {
       .con-name { font-size: 10vw; }
       .con-year { font-size: 36vw; }
       .stats { font-size: 4vw; }
       .tagline { font-size: 6vw; }
     }
 
-    @include media($phone) {
+    @media screen and (max-width: 576px) {
       .con-name { font-size: 10vw; }
       .con-year { font-size: 36vw; }
       .stats { font-size: 4vw; }

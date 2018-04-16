@@ -2,6 +2,7 @@
 layout: page
 title: Submit an Activity
 order: 20
+published: false
 ---
 
 We're always on the lookout for cousins with good ideas! Tell us what you want to do at the con and we'll get back to you to work out the details. You can submit your activity ideas [using this form](https://docs.google.com/forms/d/e/1FAIpQLSf8lJBH8NTmf5ixCQoi8UuOdhEry3wVM_p6zT5yx5Dpze05Vw/viewform).

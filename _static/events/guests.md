@@ -2,16 +2,19 @@
 layout: page
 title: Guests of Honor
 order: 30
+published: true
 ---
 
 CrossingsCon is proud to welcome our guests of honor!
 
 {% for guest in site.data.guests %}
-<div class="guest {% cycle 'left', 'right' %}">
-  <img class="guest-photo" src="{{ site.baseurl }}/images/guests/{{ guest.image }}" alt="A picture of {{ guest.name }}" />
-  <div class="guest-bio" markdown="1">
-## {{ guest.name }}
-{{ guest.bio | markdownify }}
+<div class="row">
+  <div class="col-12 col-md-3">
+    <img src="{{ site.baseurl }}/images/guests/{{ guest.image }}" alt="A picture of {{ guest.name }}">
+  </div>
+  <div class="col-12 col-md-9">
+    <h5 class="mt-3 mt-md-0">{{ guest.name }}</h5>
+    {{ guest.bio | markdownify }}
   </div>
 </div>
 {% endfor %}
