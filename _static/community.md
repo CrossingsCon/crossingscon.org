@@ -5,6 +5,10 @@ nav_title: Follow us!
 order: 50
 ---
 
+<div class="row mb-3">
+    <div class="col"><img src="{{ site.baseurl }}/images/carousel/front-sm/dead-dog2.jpg" class="img-fluid" alt="Four cousins talking at the after-con party"></div>
+</div>
+
 The best way to stay in touch with the con and all the friends you met there is over social media! Here's how to connect
 with CrossingsCon:
 

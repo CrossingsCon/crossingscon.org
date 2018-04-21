@@ -58,7 +58,7 @@ To that end (in the service of our Art), we have already made the following prov
 - Official Con text, such as a program book, etc, will be available digitally on crossingscon.org for ease of screen-reader access.
 - For the well-being of attendees with epilepsy, flashing lights from cameras, costumes, or presentation screens will be prohibited in panels and all other Con-specific spaces.
 
-We can make these provisions if you contact us before April 30, 2017:
+We can make these provisions if you contact us before April 30, 2019:
 
 - Large print physical program books
 - Sign language interpreters
