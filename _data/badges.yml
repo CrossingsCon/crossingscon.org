@@ -1,15 +1,17 @@
-- type: Adult Badge
-  ages: 12 and older
-  badge_price: $50 USD
-  tour_price: $30 USD
-  requires_adult: false
-- type: Child Badge
-  ages: 3-11 years old
-  badge_price: $30 USD
-  tour_price: $25 USD
-  requires_adult: true
-- type: Toddler Badge
-  ages: 0-2 years old
-  badge_price: $0 USD
-  tour_price: $0 USD
-  requires_adult: true
+types:
+  - type: Adult Badge
+    ages: 12 and older
+    badge_price: $50 USD
+    tour_price: $30 USD
+    requires_adult: false
+  - type: Child Badge
+    ages: 3-11 years old
+    badge_price: $30 USD
+    tour_price: $25 USD
+    requires_adult: true
+  - type: Toddler Badge
+    ages: 0-2 years old
+    badge_price: $0 USD
+    tour_price: $0 USD
+    requires_adult: true
+url: http://crossingscon2019.eventzilla.net/
