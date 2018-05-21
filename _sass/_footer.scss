@@ -1,8 +1,14 @@
 footer {
   color: $white;
-
+  
   .heart {
     color: $cyan;
+  }
+
+  .footer-text {
+    height: 2.5em;
+    display: grid;
+    align-items: center;
   }
 }
 
