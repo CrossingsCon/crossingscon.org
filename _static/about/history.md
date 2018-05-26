@@ -20,7 +20,7 @@ We had two days of panels, games, and puns at the Courtyard Marriott in Downtown
 [Take a look at some of the highlights][facebook-album-2017].
 
 ## 2018: Summer Meetups
-After the 2017 convention, the CrossingsCon staff made the decision to hold CrossingsCon every other year in order to make the convention better and more accessible to attendees. However, two years is a long time to go without seeing your cousins, so we’re hosting meetups in Boston, Chicago, Seattle, and Albuquerque over the course of the summer!
+After the 2017 convention, the CrossingsCon staff made the decision to hold CrossingsCon every other year in order to make the convention better and more accessible to attendees. However, two years is a long time to go without seeing your cousins, so we’re hosting meetups across the continental U.S. over the course of the summer!
 Find more information [here][meetup-post].
 
 ## 2019: Montréal, Canada
