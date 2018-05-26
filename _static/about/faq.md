@@ -19,7 +19,7 @@ Yes, in that all of our registration is done online through [Eventbrite](https:/
 
 ## How do I sign up for Sunday activities?
 
-Sunday off-site activities are “add-ons” through the Eventbrite registration process. Once you’ve selected your badge(s) (but before you pay), you can choose which off-site activities you want to sign up for. (There will also be things going on at the hotel, for no extra cost, for which you do not need to sign up separately.) If you have trouble with the add-ons or need to change your sign-up for any reason, please contact <registration@crossingscon.org>.
+Sunday off-site activities are "add-ons" through the Eventbrite registration process. Once you’ve selected your badge(s) (but before you pay), you can choose which off-site activities you want to sign up for. (There will also be things going on at the hotel, for no extra cost, for which you do not need to sign up separately.) If you have trouble with the add-ons or need to change your sign-up for any reason, please contact <registration@crossingscon.org>.
 
 ## When should I arrive?
 
