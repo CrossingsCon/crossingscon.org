@@ -5,7 +5,7 @@ nav_title: Our History
 order: 30
 ---
 
-In 2013, [a fateful chain of posts](https://dispatchrabbi.tumblr.com/post/52352879845/woven-from-sapphire-fiber-robotamputee) was made on Tumblr. Determined to make the words into reality, a group of Young Wizards fans got together and planned the first CrossingsCon. We arranged an Indiegogo fund drive for start-up money and got almost twice as much as we asked for! Turns out, a lot of other cousins out there wanted to see CrossingsCon happen too. With that, we set our sights on Manhattan...
+In 2013, [a fateful chain of posts](https://dispatchrabbi.tumblr.com/post/52352879845/woven-from-sapphire-fiber-robotamputee) was made on Tumblr. Determined to make the words into reality, a group of Young Wizards fans got together and planned the first CrossingsCon. We arranged an Indiegogo fund drive for start-up money and got almost twice as much as we asked for! Turns out, a lot of other cousins out there wanted to see CrossingsCon happen too. With that, we set our sights on Manhattan…
 
 ## 2016: Newark, NJ
 We held the first CrossingsCon on June 24-26, 2016 in Newark, NJ with 125 cousins attending, 9 CrossingsCon staff minding the gates, and special guests Mark Oshiro, Seanan McGuire, and (via Skype) Diane Duane.
