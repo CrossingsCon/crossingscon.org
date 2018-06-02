@@ -21,7 +21,7 @@ Interested in joining us? [Click here to see our open positions.]({{site.baseurl
 </div>
 <div class="row">
   {% for staffer in section.staff %}
-  <div class="col-12 col-md-6">
+  <div class="col-12 col-md-6 p-3">
     <div class="card">
       <div class="card-body">
         <h4 class="card-title">{{ staffer.name }}</h4>
