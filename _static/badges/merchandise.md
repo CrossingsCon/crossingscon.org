@@ -34,7 +34,7 @@ We are excited to bring you several new blends of loose-leaf tea this year, insp
 Good things come in threes, and tea is no exception. Each of these three-packs, made with blends that compliment each other, costs only $13.50 (which saves you almost 15%!):
 - Twelvesong: Nita Callahan + Ed + S'reee
 - Seniori-tea: Carl Romeo + Ed + S'reee
-- Three Powers walk into a bar... (caffeine-free): Darryl McAllister + Ponch + Machu Picchu
+- Three Powers walk into a bar… (caffeine-free): Darryl McAllister + Ponch + Machu Picchu
 
 ### And More!
 [Click here](../tea) to see *all* the flavors we have for sale. Or check [out our Tea FAQ](../tea-faq).

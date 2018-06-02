@@ -11,7 +11,7 @@ published: true
   <div class="col-12 col-md-6 mb-3"><img src="{{site.baseurl}}/images/hyatt2.jpg"/></div>
 </div>
 
-Our hotel this year is the beautiful [Hyatt Regency Montreal](https://montreal.regency.hyatt.com/en/hotel/home.html), at 1255 Jeanne-Mance, Montreal, Quebec, Canada, H5B 1E5.
+Our hotel this year is the beautiful [Hyatt Regency Montréal](https://montreal.regency.hyatt.com/en/hotel/home.html), at 1255 Jeanne-Mance, Montréal, Québec, Canada, H5B 1E5.
 
 [We have a discounted room block for CrossingsCon attendees](https://book.passkey.com/go/CROSSINGS2019) at the Hyatt Regency from June 20-24, 2019. Rooms are $219 CAD, which is about $170 USD at current rates. The room block will be open until May 30, 2019.
 
