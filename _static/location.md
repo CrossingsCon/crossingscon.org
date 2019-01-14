@@ -13,13 +13,10 @@ published: true
 
 Our hotel this year is the beautiful [DoubleTree by Hilton Montreal](https://doubletree3.hilton.com/en/hotels/quebec/doubletree-by-hilton-montreal-YMQDTDT/index.html), at 1255 Jeanne-Mance, Montréal, Québec, Canada, H5B 1E5.
 
-<!-- [We have a discounted room block for CrossingsCon attendees](https://book.passkey.com/go/CROSSINGS2019)  -->
-We have a discounted room block for CrossingsCon attendees at DoubleTree from June 20-24, 2019. Rooms are $219 CAD, which is about $170 USD at current rates. The room block will be open until May 30, 2019.
+[We have a discounted room block for CrossingsCon attendees](http://group.doubletree.com/CrossingsCon-2019) at DoubleTree from June 20-24, 2019. Rooms are $219 CAD, which is about $170 USD at current rates. The room block will be open until May 30, 2019.
 
-Due to DoubleTree having recently been rebranded after a buyout, we are waiting on a new booking link before people can continue to book rooms under our block. We will put out an announcement when bookings are available again, as well as update this page. We apologize for the inconvenience.
+If you cannot get a room in the room block, please [let us know]({{site.baseurl}}/about/contact)! Space is limited, but we want to try to find a place for everyone who wants to attend, and we will make every effort to get you into the room block or find something nearby.
 
-<!-- If you cannot get a room in the room block, please [let us know]({{site.baseurl}}/about/contact)! Space is limited, but we want to try to find a place for everyone who wants to attend, and we will make every effort to get you into the room block or find something nearby. -->
-
-<!-- <p class="text-center">
-  <a class="btn btn-lg btn-success" href="https://book.passkey.com/go/CROSSINGS2019" target="_blank">Book your room!</a>
-</p> -->
+<p class="text-center">
+  <a class="btn btn-lg btn-success" href="http://group.doubletree.com/CrossingsCon-2019" target="_blank">Book your room!</a>
+</p>
