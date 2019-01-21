@@ -13,7 +13,7 @@
       title: Events Coordinator
       specialty: Walking the High Road
     - name: Emma Heuchert
-      title: Deputy Events Coordinator
+      title: Events Coordinator
       specialty: Translation, storytelling, and folklore
 
 - section: Finance
@@ -27,6 +27,9 @@
     - name: Sarah Cowett
       title: Guest Liaison
       specialty: The Speech on sevarfrith worlds
+    - name: Jenny Peterson
+      title: Deputy Guest Liaison
+      specialty: Curating and archiving information
 
 - section: Design
   staff:
@@ -41,15 +44,12 @@
 
 - section: Public Relations
   staff:
-    - name: Kayla Forshey
-      title: PR Director
-      specialty: Writing spells
-    - name: Julie Tamanini
-      title: Assistant PR Director
-      specialty: …bees?
     - name: Anuj Opal
-      title: Webmaster
+      title: PR director
       specialty: Gustation of zymurgic products
+    - name: Kayla Forshey
+      title: Deputy PR Director
+      specialty: Writing spells
 
 - section: Registration
   staff:
