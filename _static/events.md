@@ -6,7 +6,7 @@ order: 30
 published: true
 ---
 
-Every day at CrossingsCon will have something different happening. Read below for the outline of each day, and check back closer to the con for hourly schedules. If you're interested in suggesting an activity or helping someone run an event, email us at <events@crossingscon.org>!
+Every day at CrossingsCon will have something different happening. Read below for the outline of each day, and check back closer to the con for hourly schedules. If you're interested in suggesting an activity or helping someone run an event, let us know via [this form](https://docs.google.com/forms/d/e/1FAIpQLSf8lJBH8NTmf5ixCQoi8UuOdhEry3wVM_p6zT5yx5Dpze05Vw/viewform?fbclid=IwAR35yPjVwgPXyYXONCqP3yn5BDQXkNfYZyv_FiXOqzh0PX1THQEhhQYxh_I)! For any other questions, feel free to reach out at <events@crossingsoncon.org>.
 
 <div class="card-deck">
   <div class="card">
