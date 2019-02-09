@@ -1,18 +1,30 @@
 ---
 layout: page
 title: Getting to the Con
-published: false
+published: true
 ---
 
 Depending on how far away you're coming from, there are a bunch of different ways to get to CrossingsCon!
 
-## By air
-The closest airport to CrossingsCon is the **Long Beach Airport (LGB)**. Many airlines, including American Airlines, Southwest, Delta, and jetBlue fly to LGB. From there, it's 6 miles to the hotel. Unfortunately there is no hotel shuttle, but you can take a cab or a public bus to the hotel from the airport. Long Beach busses [are accessible](http://lbtransit.com/Guide/Accessibility.aspx) and will drop you off a half-block from the hotel.
+Since CrossingsCon isn't in the US this year, we've written several posts on our blog with information on passports, visas and Canadian laws. You can find these posts [here](http://blog.crossingscon.org/tagged/getting2crossingscon).
 
-You can also fly into **Los Angeles International Airport (LAX)**, which is 23 miles away. There is likewise no hotel shuttle, but public transportation to the hotel is available, and there are a number of private services that will shuttle you to the hotel. More information can be found under "Driving Directions from Airport" on [this page](http://www.marriott.com/hotels/fact-sheet/travel/lgbcy-courtyard-long-beach-downtown/).
+### Getting to Montréal
 
-## By road
-Take I-405 to I-710 South. After getting on I-710 South, take Exit 1C (on the left) and follow signs to Downtown Long Beach. Take the Broadway St exit via the ramp on the left. Travel east on Broadway for 1 mile, then turn right on Linden Avenue. Go one block to First Street, then turn left. The hotel will be on your right.
+<img src="{{site.baseurl}}/images/montreal.jpg"/>
 
-## By rail
-Take the [**Metro Blue Line**](https://www.metro.net/riding/paid_parking/blue-line/), which runs from 7th Street/Metro Center in downtown Los Angeles to the **Downtown Long Beach** stop. Walk east on First Street, crossing Pine Avenue, for six blocks until you reach Linden Avenue. Cross Linden Avenue and walk for another half block to arrive at the hotel entrance.
+Being a somewhat remote city, there are only a few main arteries to get to Montréal. Most travellers coming from northern or north-eastern US will find themselves routed through one of New York, Albany or Toronto. For those considering routing through Toronto, there are several coach busses and train lines that will get you there from locations like Buffalo, Rochester and Detroit.
+
+### By air
+The only international airport in Montréal is **Montréal–Pierre Elliott Trudeau International Airport (YUL)**. Montréal-Trudeau has frequent direct flights from many cities in the US and Canada, and a few direct flights from certain European cities. Many North American airlines have flights to Montréal, however Air Canada has by far the most.
+
+### By road
+Montréal is close to the Canada-US border, particularly Vermont and New York. The main thoroughfares to Montréal from the north-eastern US are I-87, 89 and 91, taking smaller Canadian highways once you cross the border. Online map software can likely give the best directions.
+
+### By coach bus
+A few coach bus companies service Montréal, notably Greyhound, TrailwaysNY, and the Canadian branch of Megabus. Both Greyhound and Trailways have similar routes, starting in New York and making stops in Albany and Plattsburgh before crossing the border. There is a Megabus route from Toronto to Montréal, however travellers from the US will need to find some way to get to Toronto first.
+
+### By rail
+There are two main train lines of interest for travelling to Montreal, the [Amtrak Adirondack route (NYC-Montréal)](https://www.amtrak.com/routes/adirondack-train.html), and the [Toronto-Montréal VIA rail route](https://www.viarail.ca/en/explore-our-destinations/trains/ontario-and-quebec/toronto-montreal). The Adirondack train runs daily and the VIA multiple times a day, however it’s worth noting that the Adirondack train is substantially slower than several coach bus options (11.5 hours versus 9).
+
+### By worldgate
+Unfortunately the closest major gating complexes are located in Toronto and New York, as Montréal doesn’t quite have the population for gates to spawn naturally. Travellers who are planning to worldgate will need to perform their own transport spell, or use one of the more mundane forms of transport after reaching Toronto or New York.
