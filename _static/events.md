@@ -10,6 +10,8 @@ Every day at CrossingsCon will have something different happening. Read below fo
 
 If you're interested in suggesting an activity or helping someone run an event, let us know via [this form](https://docs.google.com/forms/d/e/1FAIpQLSf8lJBH8NTmf5ixCQoi8UuOdhEry3wVM_p6zT5yx5Dpze05Vw/viewform?fbclid=IwAR35yPjVwgPXyYXONCqP3yn5BDQXkNfYZyv_FiXOqzh0PX1THQEhhQYxh_I)!
 
+Don't forget to register over at the [registration page]({{ site.baseurl }}/badges)!
+
 <div class="card-deck">
   <div class="card">
     <img class="card-img-top" src="{{site.baseurl}}/images/days/friday.jpg" alt="Attendees at a panel at CrossingsCon 2018">

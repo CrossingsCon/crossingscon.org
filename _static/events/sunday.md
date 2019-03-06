@@ -13,4 +13,6 @@ The Space for Life is made up of a Biodôme<sup>*</sup>, Insectarium, Botanical 
 
 The Space for Life is dedicated to guarding life and protecting growth, so we hope you can see why we chose the Space for Life for our offsite event. We look forward to seeing you there!
 
+Don't forget to register for the Sunday event over at the [register page]({{ site.baseurl }}/badges)!
+
 <sup>*Unfortunately, the Biodôme will be closed for renovation while we are there</sup>
