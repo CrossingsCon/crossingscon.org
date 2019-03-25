@@ -7,8 +7,8 @@ published: true
 ---
 
 <div class="row">
-  <div class="col-12 col-md-6 mb-3"><img src="{{site.baseurl}}/images/doubletree1.jpg"/></div>
-  <div class="col-12 col-md-6 mb-3"><img src="{{site.baseurl}}/images/doubletree2.jpg"/></div>
+  <div class="col-12 col-md-6 mb-3"><img src="{{site.baseurl}}/images/doubletree1.jpg" alt="An exterior photo of the hotel"/></div>
+  <div class="col-12 col-md-6 mb-3"><img src="{{site.baseurl}}/images/doubletree2.jpg" alt="A photo showing one of the standard two-bed hotel rooms"/></div>
 </div>
 
 Our hotel this year is the beautiful [DoubleTree by Hilton Montreal](https://doubletree3.hilton.com/en/hotels/quebec/doubletree-by-hilton-montreal-YMQDTDT/index.html), at 1255 Jeanne-Mance, Montréal, Québec, Canada, H5B 1E5.

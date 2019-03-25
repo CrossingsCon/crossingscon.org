@@ -13,5 +13,5 @@ You can make your project ahead of time and bring it to Montréal, or there will
 
 Our judges are TBD, but everyone is welcome to walk around and observe, leave comments or tokens, or ask questions of the presenter! We can’t wait to see what you all come up with! If you have any questions or comments, please email <events@crossingscon.org>.
 
-<img src="{{ site.baseurl }}/images/invitational.jpg" alt="So long as it's not real lava...">
+<img src="{{ site.baseurl }}/images/invitational.jpg" alt="A picture of the classic paper mache volcano">
 
