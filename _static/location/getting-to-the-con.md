@@ -10,7 +10,7 @@ Since CrossingsCon isn't in the US this year, we've written several posts on our
 
 ### Getting to Montréal
 
-<img src="{{site.baseurl}}/images/montreal.jpg"/>
+<img src="{{site.baseurl}}/images/montreal.jpg" alt="A shot of the Montréal skyline at dusk"/>
 
 Being a somewhat remote city, there are only a few main arteries to get to Montréal. Most travellers coming from northern or north-eastern US will find themselves routed through one of New York, Albany or Toronto. For those considering routing through Toronto, there are several coach busses and train lines that will get you there from locations like Buffalo, Rochester and Detroit.
 
