@@ -2,7 +2,7 @@
 layout: page
 title: Event Descriptions
 order: 60
-published: true
+published: false
 ---
 
 There will be a trove of events at CrossingsCon 2019, including panels, workshops, games, Q&As, and more. This page will be updated with long-form descriptions as we announce more events, so check back often so you don't miss hearing about something!

@@ -9,8 +9,6 @@ In order to attend CrossingsCon, you'll need to [register for a badge]({{ site.d
 
 All convention badge types give you access to all the panels, activities, and games on Friday and Saturday. The only programming on Sunday is the optional Space for Life tour which requires an additional ticket &mdash; but trust us, it's worth it!
 
-Con merchandise can be pre-ordered separately from your badge registration, head over to the [merch page]({{ site.baseurl }}/badges/merchandise) to see what we have available!
-
 <table class="table">
   <caption class="sr-only">Badge prices for CrossingsCon</caption>
   <thead><tr>
