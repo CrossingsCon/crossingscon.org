@@ -1,14 +1,12 @@
 ---
 layout: page
 title: Events
-nav_title: Schedule
+nav_title: Events
 order: 30
 published: true
 ---
 
-Every day at CrossingsCon will have something different happening. Read below for the outline of each day, and check the 'Events' drop-down above for the specific events we've announced so far. Check back closer to the con for hourly schedules. If you have any questions feel free to reach out at <events@crossingscon.org>.
-
-If you're interested in suggesting an activity or helping someone run an event, let us know via [this form](https://docs.google.com/forms/d/e/1FAIpQLSf8lJBH8NTmf5ixCQoi8UuOdhEry3wVM_p6zT5yx5Dpze05Vw/viewform?fbclid=IwAR35yPjVwgPXyYXONCqP3yn5BDQXkNfYZyv_FiXOqzh0PX1THQEhhQYxh_I)!
+Every day at CrossingsCon will have something different happening. Read below for the outline of each day, and check the '[Full Schedule]({{ site.baseurl }}/events/schedule)' drop-down above for the hourly schedule of events. If you have any questions feel free to reach out at <events@crossingscon.org>.
 
 Don't forget to register over at the [registration page]({{ site.baseurl }}/badges)!
 

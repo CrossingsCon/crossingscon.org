@@ -2,7 +2,7 @@
 layout: page
 title: The Invitational
 order: 60
-published: true
+published: false
 ---
 
 Games Wizards Play gave us an example of what a wizardly science fair would look like, and we’d love to see what all of you can come up with! This Invitational will be a celebration of all things science, and everyone is invited to participate! What is your favorite science thing? Are you passionate about the life cycle of a forest? Can you talk for ages and ages about interstellar space travel? Or, if you have a way to recreate one of the projects we see in Games Wizards Play, that would be great too!
@@ -13,5 +13,5 @@ You can make your project ahead of time and bring it to Montréal, or there will
 
 Our judges are TBD, but everyone is welcome to walk around and observe, leave comments or tokens, or ask questions of the presenter! We can’t wait to see what you all come up with! If you have any questions or comments, please email <events@crossingscon.org>.
 
-<img src="{{ site.baseurl }}/images/invitational.jpg" alt="A picture of the classic paper mache volcano">
+<img src="{{ site.baseurl }}/images/invitational.jpg" alt="So long as it's not real lava...">
 
