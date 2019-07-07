@@ -2,6 +2,7 @@
 layout: page
 title: Wall of Awesome Cousins
 order: 50
+published: false
 ---
 
 These are (some of) the cousins who supported us in the beginning during our official fundraiser. Hats off to you, cousins! You're the reason CrossingsCon exists!

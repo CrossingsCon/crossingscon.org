@@ -3,6 +3,7 @@ layout: page
 title: Community
 nav_title: Follow us!
 order: 50
+published: false
 ---
 
 <div class="row mb-3">
