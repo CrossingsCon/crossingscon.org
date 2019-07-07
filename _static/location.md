@@ -3,7 +3,7 @@ layout: page
 title: Our Hotel
 category_title: Location
 order: 20
-published: false
+published: true
 ---
 
 <div class="row">

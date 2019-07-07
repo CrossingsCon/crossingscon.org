@@ -2,7 +2,6 @@
 layout: page
 title: CrossingsCon Staff
 order: 40
-published: false
 ---
 
 Who's minding these worldgates anyway? Here's who does what at CrossingsCon.

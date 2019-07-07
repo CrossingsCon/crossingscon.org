@@ -2,7 +2,7 @@
 layout: page
 title: Guests of Honor
 order: 30
-published: false
+published: true
 ---
 
 CrossingsCon is proud to welcome our guests of honor for 2019!

@@ -3,7 +3,6 @@ layout: page
 title: Register
 nav_title: Badge Prices
 order: 10
-published: false
 ---
 
 In order to attend CrossingsCon, you'll need to [register for a badge]({{ site.data.badges.url }}) in advance. While registering, you can also snag a ticket for our Sunday tour, and donate a [badge scholarship]({{ site.baseurl }}/badges/scholarships) for a cousin who needs help coming to con.

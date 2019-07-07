@@ -4,7 +4,6 @@ title: What is CrossingsCon?
 nav_title: About CrossingsCon
 category_title: About
 order: 40
-published: false
 ---
 
 CrossingsCon is, first and foremost, this universe’s only convention founded on Diane Duane's Young Wizards. Year Three is taking place June 21-23, 2019 in Montréal, Québec, Canada. [Get your ticket now!]({{ site.baseurl }}/badges)

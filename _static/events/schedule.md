@@ -2,7 +2,7 @@
 layout: page
 title: Full Schedule
 order: 10
-published: false
+published: true
 ---
 
 Friday and Saturday will be jam-packed with panels, workshops, and many other fun events. Here's the hour-by-hour schedule, and see below for a description of events as well.
