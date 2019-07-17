@@ -1,26 +1,20 @@
 - section: Stationmaster's Office
   staff:
-    - name: Eli Morris-Heft
-      title: Stationmaster
-      specialty: Enacture in non-Speech languages
     - name: MaryVail Baucom
       title: Stationmaster
       specialty: Imperative consequences
 
 - section: Events
   staff:
+    - name: Emma Heuchert
+      title: Director of Events
+      specialty: Translation, storytelling, and folklore
     - name: Sonia McCallum
       title: Events Coordinator
       specialty: Walking the High Road
-    - name: Emma Heuchert
-      title: Events Coordinator
-      specialty: Translation, storytelling, and folklore
 
-- section: Finance
-  staff:
-    - name: Holland Dougherty
-      title: Head of Finance
-      specialty: Weird science
+# - section: Finance
+#   staff:
 
 - section: Guest Relations
   staff:
@@ -28,7 +22,7 @@
       title: Guest Liaison
       specialty: The Speech on sevarfrith worlds
     - name: Jenny Peterson
-      title: Deputy Guest Liaison
+      title: Guest Liaison
       specialty: Curating and archiving information
 
 - section: Design
@@ -45,20 +39,23 @@
 - section: Public Relations
   staff:
     - name: Anuj Opal
-      title: PR director
+      title: Director of PR
       specialty: Gustation of zymurgic products
     - name: Kayla Forshey
-      title: Deputy PR Director
+      title: Deputy Director of PR
       specialty: Writing spells
 
-- section: Registration
-  staff:
-    - name: Hanna Kuldiner
-      title: Head of Registration
-      specialty: Blue food
+# - section: Registration
+#   staff:
 
 - section: Venue & Location
   staff:
-    - name: Andy "Duplicitous Bastard" Rusterholz; Sneaky Monster
+    - name: Eli Morris-Heft
       title: Venue Liaison
+      specialty: Enacture in non-Speech languages
+
+- section: Operations
+  staff:
+    - name: Andy "Duplicitous Bastard" Rusterholz; Sneaky Monster
+      title: Director of Operations
       specialty: Dysparanomasia
