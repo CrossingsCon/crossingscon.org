@@ -9,12 +9,9 @@
     - name: Emma Heuchert
       title: Director of Events
       specialty: Translation, storytelling, and folklore
-    - name: Sonia McCallum
+    - name: Sonia Grace
       title: Events Coordinator
       specialty: Walking the High Road
-
-# - section: Finance
-#   staff:
 
 - section: Guest Relations
   staff:
@@ -25,37 +22,44 @@
       title: Guest Liaison
       specialty: Curating and archiving information
 
-- section: Design
-  staff:
-    - name: Lyndsay Ely
-      title: Designer
-      specialty: Procurement of rare spell ingredients
+# - section: Design
+#   staff:
+#     - name: Could be you!
+#       title: Director of Design
+#       specialty: ???
 
 #- section: Merchandise
 #  staff:
 #    - name: Could be you!
 #      title: Head of Merchandise
+#      specialty: ???
+
+- section: Operations
+  staff:
+    - name: Andy Rusterholz; Sneaky Monster
+      title: Director of Operations
+      specialty: Dysparanomasia
 
 - section: Public Relations
   staff:
+    - name: Claudia Kowalski
+      title: Directory of PR
+      specialty: Ecosystem management and conservation
     - name: Anuj Opal
-      title: Director of PR
+      title: Webmaster
       specialty: Gustation of zymurgic products
     - name: Kayla Forshey
       title: Deputy Director of PR
       specialty: Writing spells
 
-# - section: Registration
-#   staff:
+- section: Registration
+  staff:
+    - name: Eli Morris-Heft
+      title: Director of Registration
+      specialty: Simultaneous haberdashery
 
 - section: Venue & Location
   staff:
     - name: Eli Morris-Heft
       title: Venue Liaison
       specialty: Enacture in non-Speech languages
-
-- section: Operations
-  staff:
-    - name: Andy "Duplicitous Bastard" Rusterholz; Sneaky Monster
-      title: Director of Operations
-      specialty: Dysparanomasia
