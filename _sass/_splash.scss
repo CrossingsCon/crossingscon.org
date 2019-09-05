@@ -51,7 +51,7 @@ body.splash {
     .con-name img {
       height: 4vw;
       text-transform: uppercase;
-      text-shadow: $dark 0px 0px 3vw;
+      filter: drop-shadow( 4px 4px 6px $dark );
     }
 
     .stats {
