@@ -1,3 +1,8 @@
+html{
+  height:100%;
+  min-height:100%;
+}
+
 body.splash {
   position: absolute;
   top: 0;
@@ -5,13 +10,16 @@ body.splash {
   left: 0;
   right: 0;
 
-  padding: 1em;
-
   background-color: $dark;
-  background-image: url('../images/galaxies/ngc-4038-4039-antennae.jpg');
+  background-image: url('../images/backgrounds/hills-final.jpg');
   background-origin: border-box;
+  background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
+
+  a {
+    color: $cc-logo-blue;
+  }
 
   .splash-content {
     display: flex;
@@ -19,13 +27,18 @@ body.splash {
     align-items: center;
     flex-direction: column;
     height: 100%;
+    width: 100%;
+    background-color: transparentize(#666666, 0.6666);
+
+    font-family: 'Source Sans Pro', 'freight-sans-pro';
 
     text-align: center;
     line-height: 1;
-    color: transparentize($cc-cyan, 0.2);
-    text-shadow: $dark 0px 0px 4vw;
+    color: $white;
+    text-shadow: black 4px 4px 20px;
 
-    .con-name {
+    .con-name img {
+      height: 4vw;
       text-transform: uppercase;
       text-shadow: $dark 0px 0px 3vw;
     }
@@ -35,27 +48,38 @@ body.splash {
       text-align: center;
     }
 
-    .tagline {
-      margin-top: 4vw;
+    .con-year {
+      font-weight: bold;
+      margin-top: 3vw;
     }
 
-    .con-name { font-size: 6vw; }
-    .con-year { font-size: 21.5vw; }
+    .tagline {
+      font-style: italic;
+      margin-top: 3vw;
+    }
+
+    footer {
+      margin-top: 4.5vw;
+    }
+
+    .con-name img { height: 5vw; }
+    .con-year { font-size: 7vw; }
     .stats { font-size: 2vw; }
     .tagline { font-size: 3vw; }
 
-    @media screen and (max-width: 768px) {
-      .con-name { font-size: 10vw; }
-      .con-year { font-size: 36vw; }
+    @media screen and (max-width: 1080px) {
+      .con-name img { height: 8.57vw; }
+      .con-year { font-size: 12vw; }
       .stats { font-size: 4vw; }
-      .tagline { font-size: 6vw; }
+      .tagline { font-size: 5.2vw; }
+      footer { font-size: 3vw; }
     }
 
     @media screen and (max-width: 576px) {
-      .con-name { font-size: 10vw; }
-      .con-year { font-size: 36vw; }
+      .con-name img { height: 10vw; }
+      .con-year { font-size: 14vw; }
       .stats { font-size: 4vw; }
-      .tagline { font-size: 6vw; }
+      .tagline { font-size: 4vw; }
     }
 
   }
