@@ -17,10 +17,6 @@ body.splash {
   background-size: cover;
   background-attachment: fixed;
 
-  a {
-    color: $cc-logo-blue;
-  }
-
   .splash-content {
     display: flex;
     justify-content: center;
@@ -36,6 +32,21 @@ body.splash {
     line-height: 1;
     color: $white;
     text-shadow: black 4px 4px 20px;
+
+    a {
+      color: $white;
+      text-shadow: black 2px 2px 9px;
+
+      i {
+        font-family: 'FontAwesome'!important;
+        font-style: normal!important;
+      }
+    }
+
+    a:hover {
+      color: $cc-cyan;
+      text-decoration: none;
+    }
 
     .con-name img {
       height: 4vw;
@@ -66,20 +77,22 @@ body.splash {
     .con-year { font-size: 7vw; }
     .stats { font-size: 2vw; }
     .tagline { font-size: 3vw; }
+    footer i { font-size: 1.5vw; } 
 
     @media screen and (max-width: 1080px) {
       .con-name img { height: 8.57vw; }
       .con-year { font-size: 12vw; }
       .stats { font-size: 4vw; }
       .tagline { font-size: 5.2vw; }
-      footer { font-size: 3vw; }
+      footer { font-size: 3vw; i { font-size: 4vw; } }
     }
 
     @media screen and (max-width: 576px) {
       .con-name img { height: 10vw; }
       .con-year { font-size: 14vw; }
       .stats { font-size: 4vw; }
-      .tagline { font-size: 4vw; }
+      .tagline { font-size: 6vw; }
+      footer { font-size: 3vw; i { font-size: 4vw; } }
     }
 
   }
