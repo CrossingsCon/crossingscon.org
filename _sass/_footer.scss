@@ -2,7 +2,7 @@ footer {
   color: $white;
   
   .heart {
-    color: $cyan;
+    color: $cc-gold;
   }
 
   .footer-text {
@@ -16,8 +16,12 @@ footer .social-list {
   justify-content: center;
 
   img {
-    height: 1.5rem;
+    height: 2.5rem;
   }
+}
+
+footer .social-icon {
+  height: 2rem;
 }
 
 footer .flipper {
@@ -28,4 +32,8 @@ footer .flipper {
     .flipped { display: inline; }
     .unflipped { display: none; }
   }
+}
+
+footer .pattern {
+  width: 100%
 }

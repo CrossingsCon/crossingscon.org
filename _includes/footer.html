@@ -1,15 +1,31 @@
-<footer class="container-fluid">
+<footer class="container-fluid py-4">
   <div class="row align-items-center py-2 flipper">
-    <div class="col-12 order-2 col-md-5 text-center order-md-1 text-md-right">
+    <div class="col order-2 text-center order-md-1 text-md-right">
       <span class="unflipped">JD 2458656.166667</span>
-      <span class="flipped">June 21-23, 2019</span>
+      <span class="flipped">Junetember 37-2, 62179</span>
     </div>
-    <div class="col-12 order-1 col-md-2 text-center order-md-2 text-md-center"><img
-      src="{{ "/images/crossroads.svg" | prepend: site.baseurl }}"
-      alt="The CrossingsCon logo"
-      height="40"
-    /></div>
-    <div id="con-info-lat-long" class="footer-text col-12 order-3 col-md-5  text-center order-md-3 text-md-left">
+    <div class="order-1 col-md-auto text-center text-md-right py-2">
+      <a href="https://blog.crossingscon.org">
+        <img class="social-icon px-1 py-1" src="{{site.baseurl}}/images/social-icons/tumblr-gold.png" alt="tumbrl logo"/>
+      </a>
+      <a href="https://facebook.com/crossingscon">
+        <img class="social-icon px-1 py-1" src="{{site.baseurl}}/images/social-icons/facebook-gold.png" alt="facebook logo"/>
+      </a>
+      <a href="{{site.baseurl}}" class="px-4">
+        <img
+          src="{{ "/images/crossroads.svg" | prepend: site.baseurl }}"
+          alt="The CrossingsCon logo"
+          height="40"
+        />
+      </a>
+      <a href="https://twitter.com/crossingscon">
+        <img class="social-icon px-1 py-1" src="{{site.baseurl}}/images/social-icons/twitter-gold.png" alt="twitter logo"/>
+      </a>
+      <a href="http://youngwizards-slackin.herokuapp.com/">
+        <img class="social-icon px-1 py-1" src="{{site.baseurl}}/images/social-icons/slack-gold.png" alt="slack logo"/>
+      </a>
+    </div>
+    <div id="con-info-lat-long" class="footer-text col order-3 text-center order-md-4 text-md-left">
       <span class="unflipped">
         45°30′27.1656″N<br/>
         73°33′55.6488″W
@@ -17,12 +33,15 @@
       <span class="flipped">Montréal, Québec</span>
     </div>
   </div>
-  <div class="row py-2 social-list">
+  <!-- <div class="row py-1 social-list">
     {% for sm in site.data.social_media %}
-    <div class="px-2"><a href="{{sm.site}}"><img src="{{site.baseurl}}/images/social-icons/{{sm.service}}-white.svg" alt="{{sm.service}} logo"/></a></div>
+    <div class="px-2"><a href="{{sm.site}}"><img src="{{site.baseurl}}/images/social-icons/{{sm.service}}-gold.png" alt="{{sm.service}} logo"/></a></div>
     {% endfor %}
-  </div>
-  <div class="row py-2">
+  </div> -->
+  <!-- <div class="row py-1">
     <small id="made-with-love" class="col-12 text-center">Made with <span class="heart">♥</span> on Rirhath B</small>
+  </div> -->
+  <div class="row py-1 align-items-center">
+    <img src="{{site.baseurl}}/images/2021-assets/pattern.png" alt="" class="pattern">
   </div>
 </footer>
