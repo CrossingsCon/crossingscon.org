@@ -10,9 +10,18 @@ body {
   left: 0;
   right: 0;
 
-  background-image: url($baseurl + '/images/2021-assets/background.jpg');
+  background-color: transparentize(#666666, 0.6666);
+
+  background-image: linear-gradient(
+    transparentize(#000000, 0.75), 
+    transparentize(#000000, 0.75)
+  ), url($baseurl + '/images/backgrounds/agate.jpg');
   background-origin: border-box;
   background-size: cover;
   background-attachment: fixed;
   background-position: center top;
+
+  @media (max-width: 768px) {
+    background-size: auto 100vh;
+  }
 }

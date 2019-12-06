@@ -13,7 +13,7 @@ published: true
 
 Our hotel this year is the beautiful [DoubleTree by Hilton Montreal](https://doubletree3.hilton.com/en/hotels/quebec/doubletree-by-hilton-montreal-YMQDTDT/index.html), at 1255 Jeanne-Mance, Montréal, Québec, Canada, H5B 1E5.
 
-[We have a discounted room block for CrossingsCon attendees](http://group.doubletree.com/CrossingsCon-2019) at DoubleTree from June 20-24, 2019. Rooms are $219 CAD, which is about $170 USD at current rates. The room block will be open until May 30, 2019.
+[We have a discounted room block for CrossingsCon attendees](http://group.doubletree.com/CrossingsCon-2019) at DoubleTree from ???? ??-??, 2021. Rooms are $??? CAD, which is about $??? USD at current rates. The room block will be open until ??? ??, 2019.
 
 If you cannot get a room in the room block, please [let us know]({{site.baseurl}}/about/contact)! Space is limited, but we want to try to find a place for everyone who wants to attend, and we will make every effort to get you into the room block or find something nearby.
 

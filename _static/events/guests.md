@@ -5,7 +5,7 @@ order: 30
 published: true
 ---
 
-CrossingsCon is proud to welcome our guests of honor for 2019!
+CrossingsCon is proud to welcome our guests of honor for 2021!
 
 {% for guest in site.data.guests %}
 <div class="row py-3">

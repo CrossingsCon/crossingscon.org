@@ -1,28 +1,28 @@
 <footer class="container-fluid py-4">
   <div class="row align-items-center py-2 flipper">
     <div class="col order-2 text-center order-md-1 text-md-right">
-      <span class="unflipped">JD 2458656.166667</span>
-      <span class="flipped">Junetember 37-2, 62179</span>
+      <span class="unflipped">JD ???????.?????</span>
+      <span class="flipped">?????? ??-??, 2021</span>
     </div>
     <div class="order-1 col-md-auto text-center text-md-right py-2">
       <a href="https://blog.crossingscon.org">
-        <img class="social-icon px-1 py-1" src="{{site.baseurl}}/images/social-icons/tumblr-gold.png" alt="tumbrl logo"/>
+        <img class="social-icon px-1 py-1" src="{{site.baseurl}}/images/social-icons/tumblr-gold.svg" alt="Tumblr logo"/>
       </a>
       <a href="https://facebook.com/crossingscon">
-        <img class="social-icon px-1 py-1" src="{{site.baseurl}}/images/social-icons/facebook-gold.png" alt="facebook logo"/>
+        <img class="social-icon px-1 py-1" src="{{site.baseurl}}/images/social-icons/facebook-gold.svg" alt="Facebook logo"/>
       </a>
       <a href="{{site.baseurl}}" class="px-4">
         <img
-          src="{{ "/images/crossroads.svg" | prepend: site.baseurl }}"
+          src="{{ "/images/gold/logo-hexonly.svg" | prepend: site.baseurl }}"
           alt="The CrossingsCon logo"
           height="40"
         />
       </a>
       <a href="https://twitter.com/crossingscon">
-        <img class="social-icon px-1 py-1" src="{{site.baseurl}}/images/social-icons/twitter-gold.png" alt="twitter logo"/>
+        <img class="social-icon px-1 py-1" src="{{site.baseurl}}/images/social-icons/twitter-gold.svg" alt="Twitter logo"/>
       </a>
       <a href="http://youngwizards-slackin.herokuapp.com/">
-        <img class="social-icon px-1 py-1" src="{{site.baseurl}}/images/social-icons/slack-gold.png" alt="slack logo"/>
+        <img class="social-icon px-1 py-1" src="{{site.baseurl}}/images/social-icons/slack-gold.svg" alt="Slack logo"/>
       </a>
     </div>
     <div id="con-info-lat-long" class="footer-text col order-3 text-center order-md-4 text-md-left">
@@ -38,10 +38,20 @@
     <div class="px-2"><a href="{{sm.site}}"><img src="{{site.baseurl}}/images/social-icons/{{sm.service}}-gold.png" alt="{{sm.service}} logo"/></a></div>
     {% endfor %}
   </div> -->
-  <!-- <div class="row py-1">
+  <div class="row py-1">
     <small id="made-with-love" class="col-12 text-center">Made with <span class="heart">♥</span> on Rirhath B</small>
-  </div> -->
+  </div>
   <div class="row py-1 align-items-center">
-    <img src="{{site.baseurl}}/images/2021-assets/pattern.png" alt="" class="pattern">
+    <picture class="pattern px-3">
+        <source 
+        media="(min-width: 1024px)"
+        srcset="{{site.baseurl}}/images/gold/pattern-large.svg"
+      >
+      <source 
+        media="(max-width: 1023px)"
+        srcset="{{site.baseurl}}/images/gold/pattern-small-knot.svg"
+      >
+      <img src="{{site.baseurl}}/images/gold/pattern-large.svg" alt="">
+    </picture>
   </div>
 </footer>

@@ -6,7 +6,7 @@ order: 30
 published: true
 ---
 
-Every day at CrossingsCon will have something different happening. Read below for the outline of each day, and check the '[Full Schedule]({{ site.baseurl }}/events/schedule)' drop-down above for the hourly schedule of events. If you have any questions feel free to reach out at <events@crossingscon.org>.
+Every day at CrossingsCon will have something different happening. Read below for the outline of each day, and check back closer to the con for hourly schedules. If you have any questions feel free to reach out at <events@crossingscon.org>.
 
 Don't forget to register over at the [registration page]({{ site.baseurl }}/badges)!
 
@@ -30,8 +30,8 @@ Don't forget to register over at the [registration page]({{ site.baseurl }}/badg
     <img class="card-img-top" src="{{site.baseurl}}/images/days/sunday.jpg" alt="Four cousins ready to go whale-watching on a boat">
     <div class="card-body">
       <h5 class="card-title">Sunday</h5>
-      <p class="card-text">Day three has us leaving the hotel and striking out into Montréal's gorgeous Space For Life. You'll have the option of joining a group or going off on your own as we tour the planetarium and insectarium. We'll also go on a guided tour through the amazing botanical gardens.</p>
-      <p class="card-text">After we've explored the Space for Life thoroughly, we'll ring out CrossingsCon 2019 with closing ceremonies, and we'll finish with our post-con party (a.k.a. dead dog) somewhere nearby.</p>
+      <p class="card-text">Day three has us leaving the hotel and striking out into Montréal's ???????? ????? ??? ????. You'll have the option of joining a group or going off on your own as we tour the planetarium and insectarium. We'll also go on a guided tour through the amazing botanical gardens.</p>
+      <p class="card-text">After we've explored the Space for Life thoroughly, we'll ring out CrossingsCon 2021 with closing ceremonies, and we'll finish with our post-con party (a.k.a. dead dog) somewhere nearby.</p>
     </div>
     <div class="card-footer"><small class="text-muted">The Sunday trip is not covered by the basic con badge and requires purchase of an extra ticket.</small></div>
   </div>

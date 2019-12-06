@@ -2,7 +2,7 @@
 layout: page
 title: The Sunday Event
 order: 70
-published: true
+published: false
 ---
 
 As former CrossingsCon goers will know, every con we have two days of panels and talks, and one day of an offsite event related to the books! This offsite event is on Sunday, and this year we have a great place to visit with you: the Space For Life.

@@ -22,11 +22,11 @@
       title: Guest Liaison
       specialty: Curating and archiving information
 
-# - section: Design
-#   staff:
-#     - name: Could be you!
-#       title: Director of Design
-#       specialty: ???
+- section: Design
+  staff:
+    - name: Amy Bachhuber
+      title: Director of Design & Merchandise
+      specialty: ???
 
 #- section: Merchandise
 #  staff:
@@ -47,7 +47,7 @@
       specialty: Ecosystem management and conservation
     - name: Anuj Opal
       title: Webmaster
-      specialty: Gustation of zymurgic products
+      specialty: Principles of spell design
     - name: Kayla Forshey
       title: Deputy Director of PR
       specialty: Writing spells

@@ -5,13 +5,13 @@ order: 40
 ---
 
 The main focus of CrossingsCon is to hang out and have fun! But there is also a code of conduct we expect our attendees, staff, and guests to adhere to so that the convention stays fun for everyone.
-
+ 
 - [Convention Rules](#convention-rules)
 - [Anti-harassment Policy](#anti-harassment-policy)
 - [Spoiler Policy](#spoiler-policy)
 - [Accessibility](#accessibility)
 
-## Convention Rules {#convention-rules}
+## Convention Rules
 
 Keep to these rules and we’ll be able to avoid speeding up entropy, at least in our corner of the universe:
 
@@ -29,7 +29,7 @@ Failure to observe these rules will result in appropriate action being taken by 
 
 If you have any questions about our rules and policies, [contact us]({{site.baseurl}}/about/contact)! We'd hate to have misunderstanding that could have been avoided.
 
-## Anti-harassment Policy {#anti-harassment-policy}
+## Anti-harassment Policy
 
 In order to make sure that everyone is on the same page about what is and isn’t harassment, how to report harassment, and what will happen if someone reports harassment, here is CrossingCon’s anti-harassment policy:
 
@@ -43,10 +43,10 @@ If you feel harassed, you are welcome to ask your harasser to stop, if you feel 
 
 This policy applies without exception to everyone at the convention, including attendees, special guests, convention staff, and venue staff.
 
-## Spoiler Policy {#spoiler-policy}
+## Spoiler Policy
 Can't tell you this yet. Spoilers!
 
-## Accessibility {#accessibility}
+## Accessibility
 
 We at CrossingsCon are committed to making the convention experience as accessible and enjoyable as possible to all cousins, regardless of the nature or intensity of their disabilities.
 
@@ -58,7 +58,7 @@ To that end (in the service of our Art), we have already made the following prov
 - Official Con text, such as a program book, etc, will be available digitally on crossingscon.org for ease of screen-reader access.
 - For the well-being of attendees with epilepsy, flashing lights from cameras, costumes, or presentation screens will be prohibited in panels and all other Con-specific spaces.
 
-We can make these provisions if you contact us before April 30, 2019:
+We can make these provisions if you contact us before ???? ??, 2021:
 
 - Large print physical program books
 - Sign language interpreters
