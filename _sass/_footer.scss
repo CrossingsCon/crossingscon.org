@@ -1,5 +1,8 @@
 footer {
   color: $cc-gold;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
   
   .heart {
     color: $cc-silver;
@@ -10,6 +13,10 @@ footer {
     display: grid;
     align-items: center;
   }
+}
+
+footer .container-wrapper {
+  margin-top: auto;
 }
 
 footer .social-list {
