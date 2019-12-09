@@ -10,5 +10,5 @@ Going to a convention is a big expense, and we want to make CrossingsCon as acce
 ## How do I donate?
 When you [buy your badge]({{ site.baseurl }}/badges), you will have the option to donate money to the assistance fund. (You can also come back and donate later.) Your donated money will be used to help pay for badges and tickets for people who would have financial trouble coming to the con otherwise. We will also use the fund to donate some badges to [Con or Bust](http://con-or-bust.org/).
 
-## How can I get a Lifeboat?
-As the con is coming up very soon we have closed applications for new Lifeboat recipients. However, we are still accepting donations to aid the people to whom we have already awarded Lifeboats.
+## How can I apply for assistance?
+As the con is coming up very soon we have closed applications for assistance through the fund. However, we are still accepting donations to aid the people to whom we have already awarded assistance.
