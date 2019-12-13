@@ -1,7 +1,14 @@
 .page-main {
-  background-color: map-get($map: $grays, $key: "300");
+  background-color: $cc-cream;
+  margin-top: 5em!important;
 }
 
 .page-main img {
   max-width: 100%;
+}
+
+#page > header {
+  position: absolute;
+  width: 100%;
+  z-index: 20;
 }

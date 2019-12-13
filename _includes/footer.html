@@ -2,8 +2,8 @@
   <div class="container-wrapper">
   <div class="row align-items-center py-2 flipper">
     <div class="col order-2 text-center order-md-1 text-md-right">
-      <span class="unflipped">JD ???????.?????</span>
-      <span class="flipped">?????? ??-??, 2021</span>
+      <span class="unflipped">JD {{ site.data.date.julian }}</span>
+      <span class="flipped">{{ site.data.date.full }}</span>
     </div>
     <div class="order-1 col-md-auto text-center text-md-right py-2">
       <a href="https://blog.crossingscon.org">
@@ -12,7 +12,7 @@
       <a href="https://facebook.com/crossingscon">
         <img class="social-icon px-1 py-1" src="{{site.baseurl}}/images/social-icons/facebook-gold-flat.svg" alt="Facebook logo"/>
       </a>
-      <a href="{{site.baseurl}}" class="px-4">
+      <a href="/" class="px-4">
         <img
           src="{{ "/images/gold/logo-hexonly.svg" | prepend: site.baseurl }}"
           alt="The CrossingsCon logo"

@@ -36,5 +36,10 @@ All convention badge types give you access to all the panels, activities, and ga
 </table>
 
 <p class="text-center">
-  <a class="btn btn-lg btn-success" href="{{ site.data.badges.url }}" target="_blank">Register now!</a>
+  <a class="btn btn-lg btn-badge" href="{{ site.data.badges.url }}" target="_blank">Register now!</a>
 </p>
+
+<div class="row d-none d-lg-flex py-3">
+  <div class="col"><img src="{{ site.baseurl }}/images/2019new/panel2-crop2.jpg" class="img-fluid" alt="Attendees on their walk to the aquarium"></div>
+  <div class="col"><img src="{{ site.baseurl }}/images/2019new/signings-crop.jpg" class="img-fluid" alt="Sonia takes a picture with a camera"></div>
+</div>

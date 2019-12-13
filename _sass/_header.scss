@@ -17,3 +17,15 @@
 .header-link {
   max-width: 60%;
 }
+
+.btn-badge {
+  background-color: $cc-gold;
+  border-color: $cc-gold;
+  color: $black;
+}
+
+.btn-badge:hover {
+  background-color: darken($cc-gold, 10%);
+  border-color: darken($cc-gold, 10%);
+  color: $white;
+}
