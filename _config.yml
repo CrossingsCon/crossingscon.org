@@ -12,6 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   This universe's first Young Wizards convention!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.crossingscon.org" # the base hostname & protocol for your site
+port: 8000
 
 # Build settings
 markdown: kramdown

@@ -30,9 +30,9 @@ Don't forget to register over at the [registration page]({{ site.baseurl }}/badg
     <img class="card-img-top" src="{{site.baseurl}}/images/2019new/sunday-bridge-square.jpg" alt="Four cousins ready to go whale-watching on a boat">
     <div class="card-body">
       <h5 class="card-title">Sunday</h5>
-      <p class="card-text">Day three has us leaving the hotel and striking out into Montréal's ???????? ????? ??? ????. You'll have the option of joining a group or going off on your own as we tour the planetarium and insectarium. We'll also go on a guided tour through the amazing botanical gardens.</p>
-      <p class="card-text">After we've explored the Space for Life thoroughly, we'll ring out CrossingsCon 2021 with closing ceremonies, and we'll finish with our post-con party (a.k.a. dead dog) somewhere nearby.</p>
+      <p class="card-text">Even though it's the last day of the con, day three doesn't have us slowing down. We'll have even more discussions and panels, with an extra day this year we'll be able to cover even more than we have at past CrossingsCons.</p>
+      <!-- Day three has us  leaving the hotel and striking out into Montréal's ???????? ????? ??? ????. You'll have the option of joining a group or going off on your own as we tour the planetarium and insectarium. We'll also go on a guided tour through the amazing botanical gardens. -->
+      <p class="card-text">At the end of the day we'll ring out CrossingsCon 2021 with closing ceremonies, and we'll finish with our post-con party (a.k.a. dead dog) somewhere nearby.</p>
     </div>
-    <div class="card-footer"><small class="text-muted">The Sunday trip is not covered by the basic con badge and requires purchase of an extra ticket.</small></div>
   </div>
 </div>

@@ -6,9 +6,9 @@ order: 10
 published: true
 ---
 
-In order to attend CrossingsCon, you'll need to [register for a badge]({{ site.data.badges.url }}) in advance. While registering, you can also snag a ticket for our Sunday tour, and donate to [Lifeboats]({{ site.baseurl }}/badges/lifeboats), our fund for cousins who need help coming to con.
+In order to attend CrossingsCon, you'll need to [register for a badge]({{ site.data.badges.url }}) in advance. While registering, you can also donate to [Lifeboats]({{ site.baseurl }}/badges/lifeboats), our fund for cousins who need help coming to con.
 
-All convention badge types give you access to all the panels, activities, and games on Friday and Saturday. The only programming on Sunday is the optional Space for Life tour which requires an additional ticket &mdash; but trust us, it's worth it!
+<!-- All convention badge types give you access to all the panels, activities, and games on Friday and Saturday. The only programming on Sunday is the optional Space for Life tour which requires an additional ticket &mdash; but trust us, it's worth it! -->
 
 <table class="table">
   <caption class="sr-only">Badge prices for CrossingsCon</caption>
@@ -40,6 +40,6 @@ All convention badge types give you access to all the panels, activities, and ga
 </p>
 
 <div class="row d-none d-lg-flex py-3">
-  <div class="col"><img src="{{ site.baseurl }}/images/2019new/panel2-crop2.jpg" class="img-fluid" alt="Attendees on their walk to the aquarium"></div>
-  <div class="col"><img src="{{ site.baseurl }}/images/2019new/signings-crop.jpg" class="img-fluid" alt="Sonia takes a picture with a camera"></div>
+  <div class="col"><img src="{{ site.baseurl }}/images/2019new/panel2-crop.jpg" class="img-fluid" alt="Sarah, Mark and Diane in conversation during a panel"></div>
+  <div class="col"><img src="{{ site.baseurl }}/images/2019new/signings-crop.jpg" class="img-fluid" alt="Diane and Mark signing books for attendees"></div>
 </div>
