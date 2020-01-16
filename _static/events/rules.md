@@ -54,7 +54,7 @@ To that end (in the service of our Art), we have already made the following prov
 
 - All common spaces are wheelchair-accessible, and wheelchair-accessible bedrooms are available.
 - Public bathrooms are wheelchair accessible.
-- Priority seating will be available in panels to guests who are hard-of-hearing and/or have low vision.
+- Priority seating will be available in panels to attendees who are hard-of-hearing and/or have low vision.
 - Official Con text, such as a program book, etc, will be available digitally on crossingscon.org for ease of screen-reader access.
 - For the well-being of attendees with epilepsy, flashing lights from cameras, costumes, or presentation screens will be prohibited in panels and all other Con-specific spaces.
 
@@ -69,8 +69,5 @@ With specific respect to our offsite programming, we will soon have the followin
 
 - Walking distance required
 - Elevator/escalator/ramp presence at various locations
-- Availability of audio/visual supports at tour locations
-
-We also encourage you to look at the websites for our offsite programming locations.
 
 If there is anything else we missed or about which you have concerns, please do not hesitate to contact us.

@@ -33,7 +33,7 @@ Find more information [here][meetup-post]. -->
 
 <img src="{{ site.baseurl }}/images/2019new/baron1-wide.jpg" class="img-fluid" alt="Attendees on their walk to the aquarium">
 
-The CrossingsCon staff made the decision to hold CrossingsCon every other year after the 2017 convention. After a long wait, CrossingsCon 2019 was held in beautiful Montréal, Canada on June 21-23, with ??? attendees, 12 CrossingsCon Staff, as well as special guests Mark Oshiro, Kate Howells, and Diane Duane (in person!)! 2019 was an action-packed weekend of panels, stories and much fun. On sunday we took a tour of Montréal's biodome, visiting Filif's extended cousins as well as seeing a show at the planetarium.
+The CrossingsCon staff made the decision to hold CrossingsCon every other year after the 2017 convention. After a long wait, CrossingsCon 2019 was held in beautiful Montréal, Canada on June 21-23, with more than 100 attendees, 12 CrossingsCon Staff, as well as special guests Mark Oshiro, Kate Howells, and Diane Duane (in person!)! 2019 was an action-packed weekend of panels, stories and much fun. On sunday we took a tour of Montréal's biodome, visiting Filif's extended cousins as well as seeing a show at the planetarium.
 
 [wizcon-post]: {{ site.baseurl }}/images/the-original-post.png
 [youtube-playlist-2016]: https://www.youtube.com/playlist?list=PL5nkrJ3R5UQxlANmJm7ErjBxrDxGdYwwT

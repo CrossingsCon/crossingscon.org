@@ -8,9 +8,16 @@ $cc-cyan: #2ED3E5;
 $cc-dark-cyan: $cc-dark-blue;
 
 $cc-green: #134C21;
+$cc-medium-green: lighten($cc-green, 15%);
 $cc-light-green: lighten($cc-green, 40%);
+
+$cc-green-new: rgb(50, 82, 61);
 
 $cc-gold-old: #E58E0B;
 $cc-gold: #E3B861; // lighten(#E3B861, 5%);
 $cc-silver: #B1B4B9;
 $cc-cream: #FFFEF2;
+
+$theme-colors: (
+  "primary": $cc-medium-green
+);

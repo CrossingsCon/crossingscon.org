@@ -24,12 +24,19 @@ footer .social-list {
 
   img {
     height: 2.5rem;
+    @media (max-width: 768px) {
+      height: 1.5rem;
+    }
   }
 }
 
 footer .social-icon {
   height: 2.25rem;
   width: 2.5rem;
+  @media (max-width: 768px) {
+    height: 1.8rem;
+    width: 2rem;
+  }
 }
 
 footer .flipper {

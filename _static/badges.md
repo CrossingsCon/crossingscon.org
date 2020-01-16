@@ -8,7 +8,7 @@ published: true
 
 In order to attend CrossingsCon, you'll need to [register for a badge]({{ site.data.badges.url }}) in advance. While registering, you can also donate to [Lifeboats]({{ site.baseurl }}/badges/lifeboats), our fund for cousins who need help coming to con.
 
-<!-- All convention badge types give you access to all the panels, activities, and games on Friday and Saturday. The only programming on Sunday is the optional Space for Life tour which requires an additional ticket &mdash; but trust us, it's worth it! -->
+If you're only able to make it to CrossingsCon for certain days you can purchase a badge for each day(s) individually in any combination, or else get a 3-day badge at a slight discount.
 
 <table class="table">
   <caption class="sr-only">Badge prices for CrossingsCon</caption>
@@ -16,21 +16,22 @@ In order to attend CrossingsCon, you'll need to [register for a badge]({{ site.d
     <th>Badge Type</th>
     <th>Age Range</th>
     <th>Badge Price</th>
-    <th>Sunday Tour</th>
   </tr></thead>
   <tbody>
     {% for badge in site.data.badges.types %}
     <tr>
       <td>{{ badge.type }}{% if badge.requires_adult %}*{% endif %}</td>
       <td>{{ badge.ages }}</td>
-      <td>{{ badge.badge_price }}</td>
-      <td>{{ badge.tour_price }}</td>
+      <td>{{ badge.price }}</td>
     </tr>
     {% endfor %}
   </tbody>
   <tfoot>
     <tr>
-      <td colspan="4"><small>* Requires accompanying purchase of an Adult Badge.</small></td>
+      <td colspan="3"><small>* Requires accompanying purchase of an Adult Badge.</small></td>
+    </tr>
+    <tr>
+      <td colspan="3"><small><sup>†</sup> Early-bird pricing available through the end of February 2020. The latter price will be used starting March 1st 2020.</small></td>
     </tr>
   </tfoot>
 </table>
