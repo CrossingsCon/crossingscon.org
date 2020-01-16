@@ -16,7 +16,7 @@ with CrossingsCon:
 - [Tumblr](https://blog.crossingscon.org)
 - [Twitter](https://twitter.com/crossingscon)
 
-And the best way to keep talking with your newfound cousins is on the Young Wizards Slack team:
+And the best way to keep talking with your newfound cousins is on The Crossings on Slack:
 
 - [Sign up for an account today!](http://youngwizards-slackin.herokuapp.com)
 

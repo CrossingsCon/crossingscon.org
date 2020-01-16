@@ -64,7 +64,7 @@ This page layout actually causes that page to redirect to a specified external U
 
 ```markdown
 ---
-title: Young Wizards Slack
+title: The Crossings Slack
 layout: redirect
 redirect_url: http://youngwizards-slackin.herokuapp.com/
 ---

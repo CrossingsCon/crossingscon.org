@@ -44,7 +44,22 @@ If you feel harassed, you are welcome to ask your harasser to stop, if you feel 
 This policy applies without exception to everyone at the convention, including attendees, special guests, convention staff, and venue staff.
 
 ## Spoiler Policy
-Can't tell you this yet. Spoilers!
+Please be aware that other attendees at the convention may not be as up-to-date as you are with books, movies, fanfiction, and other media. You should be more careful about recently released books, movies, comics, etc. Use your judgment for what counts as “recent”; in general, the longer something takes to consume (books > movies > TV episodes, for example), the longer you want to assume most people aren’t caught up.
+
+Please be especially mindful of your cousins who haven’t read the Young Wizards series as far as you, both the main series and other works such as <em>Interim Erranty</em> or the <em>Feline Wizards</em> series, and stop before spoiling something for them! Remember the wonder you felt when you first read Young Wizards, and let them experience that too.
+
+We will have some events where spoilers are explicitly allowed, but for the rest of the convention please avoid spoilers entirely if possible. If you want to discuss spoilers about a book, movie, or other piece of media, please do so in a private conversation away from any other attendees who may overhear and be accidently spoiled, and especially avoid spoilers during panels and discussions when many attendees can hear you. If you accidentally spoil someone, apologize and move the remainder of your discussion to another location. If you are unsure whether everyone in a certain conversation has seen or read the thing that you would like to discuss, then ask!
+
+Spoilers aren’t limited to revealing future plot points. Consider this [comprehensive guide](http://markreads.net/reviews/about/) by the folks over at Mark Reads for examples of more subtle kinds of spoilers: 
+<ul>
+    <li>Stating something that happens in the future. <em>“That character dies in book two!”</em></li>
+    <li>Hinting that something happens in the future. <em>“I just love what happens when that door finally opens!”</em></li>
+    <li>Saying that a specific moment is important. <em>“You’ll want to remember that line of dialogue for later.”</em></li>
+    <li>Defending a character because they are redeemed in the future. <em>“That character totally has a reason to be super mean right now!”</em></li>
+    <li>Telling someone that the “answer” is in a book they’ve read. <em>“Go back to book 3 and it’ll all make sense.”</em></li>
+    <li>Saying, hinting at, discussing, referring to, or ambiguously clueing someone into something they haven’t read yet. <em>“Have you figured out the thing with the birds yet?”</em></li>
+    <li>Telling someone they interpreted a scene wrong or that their prediction is proven wrong later. <em>“It only seems that way because you haven’t read Book 6.”</em></li>
+</ul>
 
 ## Accessibility
 
