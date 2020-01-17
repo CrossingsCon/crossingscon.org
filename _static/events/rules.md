@@ -17,12 +17,12 @@ Keep to these rules and we’ll be able to avoid speeding up entropy, at least i
 
 1. Respect your cousins.
 1. Don’t harass anyone.
-1. Don’t spoil anyone on anything - especially Mark Oshiro!
-1. What is illegal outside the convention is illegal inside the convention.
-1. Children 12 and under should be accompanied by an adult 18 or over.
-1. Costumes should be safe enough to accidentally bump into and not get hurt.
-1. Always check your name before doing a spell.
-1. Listen to convention staff when they ask you to do something (or stop doing something).
+2. Don’t spoil anyone on anything!
+3. What is illegal outside the convention is illegal inside the convention.
+4. Children 12 and under should be accompanied by an adult 18 or over.
+5. Costumes should be safe enough to accidentally bump into and not get hurt.
+6. Always check your name before doing a spell.
+7. Listen to convention staff when they ask you to do something (or stop doing something).
 
 
 Failure to observe these rules will result in appropriate action being taken by staff, up to and including revocation of your badge and ejection from convention space at the extreme. If there is a disagreement, the ruling of the convention chair is final.
