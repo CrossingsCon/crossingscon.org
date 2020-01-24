@@ -73,16 +73,16 @@ To that end (in the service of our Art), we have already made the following prov
 - Official Con text, such as a program book, etc, will be available digitally on crossingscon.org for ease of screen-reader access.
 - For the well-being of attendees with epilepsy, flashing lights from cameras, costumes, or presentation screens will be prohibited in panels and all other Con-specific spaces.
 
-We can make these provisions if you contact us before ???? ??, 2021:
+We can make these provisions if you contact us before May 30th, 2021:
 
 - Large print physical program books
 - Sign language interpreters
 
 If you have a serious environmental allergy, please let us know, but we cannot guarantee that the space will be free of all allergens.
 
-With specific respect to our offsite programming, we will soon have the following information:
+<!-- With specific respect to our offsite programming, we will soon have the following information:
 
 - Walking distance required
-- Elevator/escalator/ramp presence at various locations
+- Elevator/escalator/ramp presence at various locations -->
 
 If there is anything else we missed or about which you have concerns, please do not hesitate to contact us.

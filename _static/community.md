@@ -20,4 +20,4 @@ And the best way to keep talking with your newfound cousins is on The Crossings 
 
 - [Sign up for an account today!](http://youngwizards-slackin.herokuapp.com)
 
-For behind-the-scenes updates or if you'd like to support us and help us continue to make CrossingsCon fact instead of fiction, visit our [Patreon](https://patreon.com/emfozzing).
+For behind-the-scenes updates or if you'd like to support us and help us continue to make CrossingsCon fact instead of fiction, [visit our Patreon](https://patreon.com/emfozzing).
