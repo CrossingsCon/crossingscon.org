@@ -8,6 +8,9 @@ order: 30
 In 2013, [a fateful chain of posts](https://dispatchrabbi.tumblr.com/post/52352879845/woven-from-sapphire-fiber-robotamputee) was made on Tumblr. Determined to make the words into reality, a group of Young Wizards fans got together and planned the first CrossingsCon. We arranged an Indiegogo fund drive for start-up money and got almost twice as much as we asked for! Turns out, a lot of other cousins out there wanted to see CrossingsCon happen too. With that, we set our sights on Manhattan…
 
 ## 2016: Newark, NJ
+
+<img src="{{ site.baseurl }}/images/carousel/2016-audience.jpg" class="img-fluid" alt="Attendees laughing during a panel">
+
 We held the first CrossingsCon on June 24-26, 2016 in Newark, NJ with 125 cousins attending, 9 CrossingsCon staff minding the gates, and special guests Mark Oshiro, Seanan McGuire, and (via Skype) Diane Duane.
 
 We spent the first two days telling stories, getting to know each other, and playing games at the Courtyard Marriott in Newark. On Sunday, 90 of us ventured into Manhattan to tour the city and see landmarks from _So You Want To Be A Wizard_. We visited Rockefeller Plaza, side-eyed the CBS building, had a scavenger hunt in Grand Central Terminal, explored the New York Public Library, and checked every bathroom in the American Museum of Natural History for wormholes to other planets.
@@ -15,16 +18,22 @@ We spent the first two days telling stories, getting to know each other, and pla
 [Take a look at some of the highlights][facebook-album-2016], or [watch some of our 2016 panels][youtube-playlist-2016].
 
 ## 2017: Long Beach, CA
+
+<img src="{{ site.baseurl }}/images/carousel/hanging-with-mark-and-emily.jpg" class="img-fluid" alt="Several attendees chatting with Mark Oshiro and Emily Skrutskie">
+
 After having such a great first year in 2016, we couldn’t wait to see all our cousins again! We held a submarine intervention on August 4-6, 2017 in Long Beach, CA with special guests Mark Oshiro and Emily Skrutskie, 11 CrossingsCon Staff, and 55 cousins!
 We had two days of panels, games, and puns at the Courtyard Marriott in Downtown Long Beach. Then, on Sunday, we walked to the Aquarium of the Pacific to spend the day conversing with our aquatic cousins! 40 of us also took an afternoon cruise and got to exchange spelling tips with the local whale and dolphin wizards!
 [Take a look at some of the highlights][facebook-album-2017].
 
-## 2018: Summer Meetups
+<!-- ## 2018: Summer Meetups
 After the 2017 convention, the CrossingsCon staff made the decision to hold CrossingsCon every other year in order to make the convention better and more accessible to attendees. However, two years is a long time to go without seeing your cousins, so we’re hosting meetups across the continental U.S. over the course of the summer!
-Find more information [here][meetup-post].
+Find more information [here][meetup-post]. -->
 
 ## 2019: Montréal, Canada
-We’re hosting our third convention on June 21-23, 2019 in Montréal, Canada with special guests Mark Oshiro, Kate Howells, and Diane Duane (in person!)! [Get your badge today!]({{site.baseurl}}/badges)
+
+<img src="{{ site.baseurl }}/images/2019new/baron1-wide.jpg" class="img-fluid" alt="Attendees on their walk to the aquarium">
+
+The CrossingsCon staff made the decision to hold CrossingsCon every other year after the 2017 convention. After a long wait, CrossingsCon 2019 was held in beautiful Montréal, Canada on June 21-23, with more than 100 attendees, 12 CrossingsCon Staff, as well as special guests Mark Oshiro, Kate Howells, and Diane Duane (in person!)! 2019 was an action-packed weekend of panels, stories and much fun. On sunday we took a tour of Montréal's biodome, visiting Filif's extended cousins as well as seeing a show at the planetarium.
 
 [wizcon-post]: {{ site.baseurl }}/images/the-original-post.png
 [youtube-playlist-2016]: https://www.youtube.com/playlist?list=PL5nkrJ3R5UQxlANmJm7ErjBxrDxGdYwwT

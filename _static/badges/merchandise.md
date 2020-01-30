@@ -2,7 +2,7 @@
 layout: page
 title: Merchandise
 order: 40
-published: true
+published: false
 ---
 
 <script src="{{ site.baseurl | prepend: site.url }}/js/buybutton.js"></script>

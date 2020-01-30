@@ -1,8 +1,11 @@
 footer {
-  color: $white;
+  color: $cc-gold;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
   
   .heart {
-    color: $cyan;
+    color: $cc-silver;
   }
 
   .footer-text {
@@ -12,11 +15,27 @@ footer {
   }
 }
 
+footer .container-wrapper {
+  margin-top: auto;
+}
+
 footer .social-list {
   justify-content: center;
 
   img {
-    height: 1.5rem;
+    height: 2.5rem;
+    @media (max-width: 768px) {
+      height: 1.5rem;
+    }
+  }
+}
+
+footer .social-icon {
+  height: 2.25rem;
+  width: 2.5rem;
+  @media (max-width: 768px) {
+    height: 1.8rem;
+    width: 2rem;
   }
 }
 
@@ -28,4 +47,8 @@ footer .flipper {
     .flipped { display: inline; }
     .unflipped { display: none; }
   }
+}
+
+footer .pattern {
+  width: 100%
 }

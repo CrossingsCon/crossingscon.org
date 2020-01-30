@@ -1,3 +1,31 @@
 #page > header > nav {
-  background-color: transparentize($color: $dark, $amount: 0.3);
+  background-color: darken($color: $dark, $amount: 5%);
+}
+
+.nav-link {
+  color: $cc-gold!important;
+}
+
+.dropdown-toggle::after {
+  color: $cc-silver!important;
+}
+
+.header-logo {
+  width: 100%;
+}
+
+.header-link {
+  max-width: 60%;
+}
+
+.btn-badge {
+  background-color: $cc-gold;
+  border-color: $cc-gold;
+  color: $black;
+}
+
+.btn-badge:hover {
+  background-color: darken($cc-gold, 10%);
+  border-color: darken($cc-gold, 10%);
+  color: $white;
 }
