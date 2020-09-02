@@ -66,7 +66,7 @@ This page layout actually causes that page to redirect to a specified external U
 ---
 title: The Crossings Slack
 layout: redirect
-redirect_url: http://youngwizards-slackin.herokuapp.com/
+redirect_url: http://slackin.emfozzingenterprises.org/
 ---
 ```
 
