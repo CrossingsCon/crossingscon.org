@@ -5,4 +5,4 @@
 - service: twitter
   site: https://twitter.com/crossingscon
 - service: slack
-  site: http://youngwizards-slackin.herokuapp.com/
+  site: http://slackin.emfozzingenterprises.org/
