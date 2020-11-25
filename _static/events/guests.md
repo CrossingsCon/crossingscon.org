@@ -7,6 +7,8 @@ published: true
 
 CrossingsCon is proud to welcome our guests of honor for 2021!
 
+ asdf <a href="{{ site.baseurl }}/pdfs/where_to_start_guests.pdf">here</a>
+
 {% for guest in site.data.guests %}
 <div class="row py-3">
   <div class="col-12 col-md-3">
