@@ -1,7 +1,11 @@
 types:
+  - type: Premium Badge
+    ages: 12 and older
+    price: $130 USD<sup>†</sup>
+    requires_adult: false
   - type: Adult Badge (Full weekend)
     ages: 12 and older
-    price: $50 USD<sup>†</sup>/$65 USD
+    price: $65 USD
     requires_adult: false
   - type: Adult Badge (Friday)
     ages: 12 and older

@@ -31,7 +31,7 @@ If you're only able to make it to CrossingsCon for certain days you can purchase
       <td colspan="3"><small>* Requires accompanying purchase of an Adult Badge.</small></td>
     </tr>
     <tr>
-      <td colspan="3"><small><sup>†</sup> Early-bird pricing available through the end of February 2020. The latter price will be used starting March 1st 2020.</small></td>
+      <td colspan="3"><small><sup>†</sup> Only 6 available in total. Includes access to CrossingsCon for the full weekend, an exclusive badge design, a CrossingsCon 2021 t-shirt, a pass that lets you go first in the autograph line, and access to an exclusive hangout with Diane, Mark, and Ursula</small></td>
     </tr>
   </tfoot>
 </table>
