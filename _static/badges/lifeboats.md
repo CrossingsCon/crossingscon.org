@@ -2,7 +2,7 @@
 layout: page
 title: Lifeboats Assistance Fund
 order: 10
-published: true
+published: false
 ---
 
 Going to a convention is a big expense, and we want to make CrossingsCon as accessible as possible for all our attendees. In the spirit of building community and reducing entropy for everyone, this year we are introducing **Lifeboats: The CrossingsCon Assistance Fund**.

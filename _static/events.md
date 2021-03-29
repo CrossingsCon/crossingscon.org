@@ -6,9 +6,11 @@ order: 30
 published: true
 ---
 
-Every day at CrossingsCon will have something different happening. Read below for the outline of each day, and check back closer to the con for hourly schedules. If you have any questions feel free to reach out at <events@crossingscon.org>.
+Every day at CrossingsCon will have something different happening, check back closer to the con for hourly schedules. If you have any questions feel free to reach out at <events@crossingscon.org>.
 
-Don't forget to register over at the [registration page]({{ site.baseurl }}/badges)!
+This page is a little bare for now as we start planning events in earnest for Slipping Sideways, but stay tuned for more details!
+
+<!-- Don't forget to register over at the [registration page]({{ site.baseurl }}/badges)!
 
 <div class="card-deck">
   <div class="card">
@@ -34,4 +36,4 @@ Don't forget to register over at the [registration page]({{ site.baseurl }}/badg
       <p class="card-text">At the end of the day we'll ring out CrossingsCon 2021 with closing ceremonies, and we'll finish with our post-con party (a.k.a. dead dog) somewhere nearby.</p>
     </div>
   </div>
-</div>
+</div> -->
