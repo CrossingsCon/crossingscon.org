@@ -3,7 +3,7 @@ layout: page
 title: Register
 nav_title: Badge Prices
 order: 10
-published: true
+published: false
 ---
 
 In order to attend CrossingsCon, you'll need to [register for a badge]({{ site.data.badges.url }}) in advance. While registering, you can also donate to [Lifeboats]({{ site.baseurl }}/badges/lifeboats), our fund for cousins who need help coming to con.
@@ -38,7 +38,7 @@ If you're only able to make it to CrossingsCon for certain days you can purchase
 
 <p class="text-center">
   <a class="btn btn-lg btn-badge" href="{{ site.data.badges.url }}" target="_blank">Register now!</a>
-</p>
+</p> -->
 
 <div class="row d-none d-lg-flex py-3">
   <div class="col"><img src="{{ site.baseurl }}/images/2019new/panel2-crop.jpg" class="img-fluid" alt="Sarah, Mark and Diane in conversation during a panel"></div>
