@@ -16,7 +16,7 @@ published: true
 
 #### Q: How much does Slipping Sideways cost?
 
-**A**: Nothing! We know it's a tough time for everyone so we're making the convention completely free. If you're willing and able to help make the con happen, we have a [donation portal open](https://ko-fi.com/crossingscon).
+**A**: Nothing! We know it's a tough time for everyone so we're making the convention completely free. If you're willing and able to help make the con happen, we have a [donation portal open](https://ko-fi.com/emfozzing).
 
 #### Q: Will I still be able to socialize with other people at the con, or will it just be a livestream?
 
