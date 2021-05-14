@@ -1,14 +1,17 @@
 .page-main {
-  background-color: $cc-cream;
-  margin-top: 5em!important;
+  background-color: white;
+}
+
+.homepage {
+  margin-top: 0!important;
+  margin-bottom: 0!important;
+  background-color: white;
+}
+
+.homepage > article {
+  max-width: 120vh;
 }
 
 .page-main img {
   max-width: 100%;
-}
-
-#page > header {
-  position: absolute;
-  width: 100%;
-  z-index: 20;
 }

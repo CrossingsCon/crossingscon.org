@@ -62,3 +62,14 @@ body {
     margin-bottom: 1em;
   }
 }
+
+.bg-image {
+  background-image: linear-gradient(
+    transparentize(#000000, 0.75),
+    transparentize(#000000, 0.75)
+  ), url($baseurl + '/images/backgrounds/slipping-sideways.jpg');
+  background-origin: border-box;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center top;
+}

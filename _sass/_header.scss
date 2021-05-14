@@ -1,5 +1,20 @@
-#page > header > nav {
+header {
+  width: 100%;
+  z-index: 20;
+}
+
+header > nav {
   background-color: darken($color: $dark, $amount: 5%);
+}
+
+.header-fixed {
+  position: fixed;
+  width: 100%;
+  z-index: 20;
+}
+
+.header-abs {
+  position: absolute;
 }
 
 .nav-link {
@@ -12,6 +27,7 @@
 
 .header-logo {
   width: 100%;
+  max-height: 10em;
 }
 
 .header-link {
