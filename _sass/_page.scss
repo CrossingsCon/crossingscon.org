@@ -6,12 +6,63 @@
   margin-top: 0!important;
   margin-bottom: 0!important;
   background-color: white;
+  font-size: 1.25rem;
+  text-align: center;
 }
 
-.homepage > article {
-  max-width: 120vh;
+.homepage > * h1 {
+  font-size: 4rem!important;
+  // text-align: center;
+  padding-top: 4rem;
+  padding-bottom: 2rem;
+}
+
+.homepage > * h2 {
+  // text-align: center;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.homepage > * p, .homepage > * ul {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0;
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-bottom: 2rem;
+  max-width: 100vh;
+}
+
+ul {
+  text-align: left;
+}
+
+.post-content > div:nth-of-type(odd) {
+  background-color: white;
+}
+
+.post-content > div:nth-of-type(even) {
+  background-color: transparentize($cc-gold, 0.7);
+}
+
+.guest-bio {
+  display: flex;
+  flex-direction: row;
+}
+
+.guest-bio:nth-child(even) {
+  flex-direction: row-reverse;
 }
 
 .page-main img {
   max-width: 100%;
+}
+
+#live-schedule {
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+#live-schedule > * .alert {
+  border: none;
 }
