@@ -2,7 +2,7 @@
 layout: page
 title: Rules and Policies
 order: 40
-published: true
+published: false
 ---
 
 The main focus of CrossingsCon is to hang out and have fun! But there is also a code of conduct we expect our attendees, staff, and guests to adhere to so that the convention stays fun for everyone.
@@ -21,22 +21,14 @@ Keep to these rules and we’ll be able to avoid speeding up entropy, at least i
 2. Don’t spoil anyone on anything!
 3. What is illegal outside the convention is illegal inside the convention.
 4. Children 12 and under should be accompanied by an adult 18 or over.
-5. Always check your name before doing a spell.
-6. Listen to convention staff when they ask you to do something (or stop doing something).
+5. Costumes should be safe enough to accidentally bump into and not get hurt.
+6. Always check your name before doing a spell.
+7. Listen to convention staff when they ask you to do something (or stop doing something).
 
-Failure to observe these rules will result in appropriate action being taken by staff, up to and including a ban from the virtual convention space at the extreme. If there is a disagreement, the ruling of the convention chair is final.
+
+Failure to observe these rules will result in appropriate action being taken by staff, up to and including revocation of your badge and ejection from convention space at the extreme. If there is a disagreement, the ruling of the convention chair is final.
 
 If you have any questions about our rules and policies, [contact us]({{site.baseurl}}/about/contact)! We'd hate to have misunderstanding that could have been avoided.
-
-## Virtual Convention Rules
-Since 2021 is the first virtual CrossingsCon, there are several rules that are unique to this year and the virtual convention space.
-
-The public spaces in the virtual convention space will be considered all-ages
-
-The following topics and activities must be contained to a GatherTown private space containing only other con-goers that are comfortable with engaging with the activity or topic. Private spaces are special areas where only the people in the private space can hear and see each other, and not any passers-by.
-- On-screen consumption of controlled substances such as alcohol or tobacco, regardless of the legal age of consumption in the person's country of residence.
-- Discussion of 18+ topics such as sex, kink, alcohol or cannabis use, etc. Note that this does not include discussions of sexuality or one's experience with gender, which are allowed and welcomed in all-ages spaces.
-- Use of swear words, particularly frequent usage or usage of stronger words.
 
 ## Anti-harassment Policy
 
@@ -46,13 +38,11 @@ In order to make sure that everyone is on the same page about what is and isn’
 
 CrossingsCon does not tolerate harassment of any kind, including (but not limited to) behaviors such as: stalking, hate speech, bathroom policing, inappropriate or unasked-for contact, or taking pictures without permission. The aforementioned hate speech could be in reference to: race or ethnicity, color, national origin, religion, age, marital or relationship status, pregnancy, gender presentation or identity, sexual or romantic orientation, appearance or body type, or disability. This is not an exhaustive list.
 
-Watch what you say, how you say it, and how people react to it. Remember that cosplay is not consent: the way someone dresses doesn’t give you license to take pictures of them without asking first. **If you ask and they say no, respect that.**
+Keep your hands to yourself. Ask before hugging. Watch what you say, how you say it, and how people react to it. Remember that cosplay is not consent: the way someone dresses doesn’t give you license to touch them (or their costume) or take pictures of them without asking first. **If you ask and they say no, respect that.**
 
-If you feel harassed, you are welcome to ask your harasser to stop, if you feel comfortable doing so. Otherwise, find a CrossingsCon staff member and report the harassment. Once notified, the staff member will do what is necessary in their judgement to stop the harassing behavior, up to and including banning the harasser from convention space. We will also, if you like, take steps to help you feel safe again, like escorting you to a place you feel safe or calling your friends or family for you.
+If you feel harassed, you are welcome to ask your harasser to stop, if you feel comfortable doing so. Otherwise, find a CrossingsCon staff member and report the harassment. Once notified, the staff member will do what is necessary in their judgement to stop the harassing behavior, up to and including revocation of the harasser’s badge and ejection from convention space. We will also, if you like, take steps to help you feel safe again, like escorting you to a place you feel safe or calling your friends or family for you.
 
 This policy applies without exception to everyone at the convention, including attendees, special guests, convention staff, and venue staff.
-
-GatherTown, the platform we will be using for the virtual convention, allows a user to block the audio and video of other individuals in the space, and we recommend using this feature to completely stop a harasser from contacting you in the convention space if the need should arise.
 
 ## Spoiler Policy
 Please be aware that other attendees at the convention may not be as up-to-date as you are with books, movies, fanfiction, and other media. You should be more careful about recently released books, movies, comics, etc. Use your judgment for what counts as “recent”; in general, the longer something takes to consume (books > movies > TV episodes, for example), the longer you want to assume most people aren’t caught up.
@@ -84,12 +74,12 @@ To that end (in the service of our Art), we have already made the following prov
 - Official Con text, such as a program book, etc, will be available digitally on crossingscon.org for ease of screen-reader access.
 - For the well-being of attendees with epilepsy, flashing lights from cameras, costumes, or presentation screens will be prohibited in panels and all other Con-specific spaces.
 
-<!-- We can make these provisions if you contact us before May 30th, 2021:
+We can make these provisions if you contact us before May 30th, 2021:
 
 - Large print physical program books
 - Sign language interpreters
 
-If you have a serious environmental allergy, please let us know, but we cannot guarantee that the space will be free of all allergens. -->
+If you have a serious environmental allergy, please let us know, but we cannot guarantee that the space will be free of all allergens.
 
 <!-- With specific respect to our offsite programming, we will soon have the following information:
 

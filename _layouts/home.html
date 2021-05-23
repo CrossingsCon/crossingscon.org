@@ -6,28 +6,20 @@ layout: default
   {% include header.html %}
 </div>
 
-<div class="header-absolute">
-  {% include header.html %}
-</div>
+<div class="page-container">
+  <div id="alert-container"></div>
 
-<div style="position: static; overflow-y: scroll; width: 100%; top:0; bottom:0;">
+  {% include live_schedule.html %}
 
-<div id="alert-container"></div>
+  <main class="homepage page-main   my-sm-3 mb-0">
+    <article class="post">
+      <div class="post-content">
+        {{ content }}
+      </div>
+    </article>
+  </main>
 
-{% include live_schedule.html %}
-
-{% include logo.html %}
-
-<main class="homepage page-main my-sm-3 mb-0">
-  <article class="post">
-     <div class="post-content">
-      {{ content }}
-    </div>
-  </article>
-</main>
-
-<div class="bg-image">
-  {% include footer.html %}
-</div>
-
+  <div class="bg-image">
+    {% include footer.html %}
+  </div>
 </div>
