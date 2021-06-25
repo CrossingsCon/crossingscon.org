@@ -1,0 +1,47 @@
+<!-- constants -->
+{% assign next_up_threshold = 86400 %}
+{% assign con_start = "1627833600" %}
+
+<!-- variables -->
+{% assign events_by_start_time = site.data.schedule | sort: "startTime" %}
+{% assign current_time = 'now' | date: "%s" %}
+
+<!-- https://gather.town/app/xhy5moqiHSzhPAop/testspace1 -->
+<div id="live-schedule" class="">
+{% if con_start < current_time %}
+  <div class="alert alert-success">
+    <h1>CrossingsCon 2021 is live!</h3>
+    <p>
+      Join the convention now on <a href="https://gather.town/app/xhy5moqiHSzhPAop/testspace1">GatherTown</a>
+    </p>
+
+    <div class="container-fluid">
+      <div class="row">
+        {% for event in events_by_start_time %}
+          {% assign delta_t = event.startTime | date: "%s" | minus: current_time %}
+          {% assign end_delta_t = event.endTime | date: "%s" | minus: current_time %}
+
+          {% if delta_t <= 0 and end_delta_t > 0 %}
+            <div class="col">
+              <h4>Live now in {{ event.location }} for the next {{ end_delta_t | divided_by: 60 }} minutes:</h3>
+              <p>
+                {{ event.name }} with {{ event.panelists | join: " and " }}<br>
+                {{ event.description }}
+              </p>
+            </div>
+          {% elsif delta_t <= next_up_threshold and delta_t > 0 %}
+            <div class="col">
+              <h4>Starting in about {{ delta_t | divided_by: 60 }} minutes in {{ event.location }}:</h3>
+              <p>
+                {{ event.name }} with {{ event.panelists | join: " and " }}<br>
+                {{ event.description }}
+              </p>
+            </div>
+            {% break %}
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+{% endif %}
+</div>

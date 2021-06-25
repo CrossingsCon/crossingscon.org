@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div class="header-fixed">
+  {% include header.html %}
+</div>
+
+<div class="page-container">
+  <div id="alert-container"></div>
+
+  {% include live_schedule.html %}
+
+  <main class="homepage page-main   my-sm-3 mb-0">
+    <article class="post">
+      <div class="post-content">
+        {{ content }}
+      </div>
+    </article>
+  </main>
+
+  <div class="bg-image">
+    {% include footer.html %}
+  </div>
+</div>
