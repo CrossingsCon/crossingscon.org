@@ -2,11 +2,11 @@
 layout: home
 ---
 
-<div markdown="1" class="welcome bg-image">
+<div markdown="1" class="welcome bg-image" >
 # Dai stihó, cousin!
-Welcome to CrossingsCon 2021: Slipping Sideways, a convention about all the universes that we visit when we read, where people can come together to share what they love and have fun doing it.
+**Welcome to CrossingsCon 2021: Slipping Sideways, a convention about all the universes that we visit when we read, where people can come together to share what they love and have fun doing it**
 
-CrossingsCon 2021 is **free to attend!**
+**CrossingsCon 2021 is free to attend!**
 </div>
 
 <div markdown="1">
@@ -64,7 +64,7 @@ Gather Town recommends the using their platform on Google Chrome or Firefox on a
 </div>
 
 <div markdown="1">
-## How to get updates & contact
+## How to get updates & contact us
 
 The best place to get updates are via our [Tumblr blog](https://blog.crossingscon.org/), [Twitter](https://twitter.com/crossingscon), [Facebook](https://www.facebook.com/CrossingsCon/), or [Instagram](https://instagram.com/crossingscon). If you'd prefer to get updates via email rather than social media, you can subscribe to [our email newsletter](http://eepurl.com/hzfNmf).
 

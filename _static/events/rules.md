@@ -72,7 +72,7 @@ Spoilers aren’t limited to revealing future plot points. Consider this [compre
     <li>Telling someone they interpreted a scene wrong or that their prediction is proven wrong later. <em>“It only seems that way because you haven’t read Book 6.”</em></li>
 </ul>
 
-## Accessibility
+<!-- ## Accessibility
 
 We at CrossingsCon are committed to making the convention experience as accessible and enjoyable as possible to all cousins, regardless of the nature or intensity of their disabilities.
 
@@ -82,7 +82,7 @@ To that end (in the service of our Art), we have already made the following prov
 - Public bathrooms are wheelchair accessible.
 - Priority seating will be available in panels to attendees who are hard-of-hearing and/or have low vision.
 - Official Con text, such as a program book, etc, will be available digitally on crossingscon.org for ease of screen-reader access.
-- For the well-being of attendees with epilepsy, flashing lights from cameras, costumes, or presentation screens will be prohibited in panels and all other Con-specific spaces.
+- For the well-being of attendees with epilepsy, flashing lights from cameras, costumes, or presentation screens will be prohibited in panels and all other Con-specific spaces. -->
 
 <!-- We can make these provisions if you contact us before May 30th, 2021:
 
