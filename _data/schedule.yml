@@ -1,24 +1,345 @@
-- name: "Test Event2"
+# sunday the 1st
+- name: "Opening Ceremonies"
   location: "Main Hall"
-  startTime: "2021-05-16T17:30:00-04:00"
-  endTime: "2021-05-16T18:00:00-04:00"
-  description: It's an event about other stuff
+  startTime: "2020-08-01T12:00:00-04:00"
+  endTime: "2021-08-01T13:00:00-04:00"
+  description: Welcome to the convention!
+  desc_long: The grand opening of CrossingsCon 2021!
   panelists:
-  - Foo Bar
-  - John Doe
-- name: "Test Event"
-  location: "Breakout room 1"
-  startTime: "2021-05-16T16:00:00-04:00"
-  endTime: "2021-05-16T18:00:00-04:00"
-  description: It's an event about stuff
-  panelists:
-  - Foo Bar
-  - John Doe
-- name: "Test Event3"
+  - Diane Duane
+  - Ursula Vernon
+  - Jessica Day George
+  - Cat Valente
+- name: "Guest of Honor Game Stream"
   location: "Main Hall"
-  startTime: "2021-05-16T18:00:00-04:00"
-  endTime: "2021-05-16T19:00:00-04:00"
-  description: It's an event about other stuff
+  startTime: "2021-08-01T13:00:00-04:00"
+  endTime: "2021-08-01T14:30:00-04:00"
+  description: Watch our guests duke it out in party games such as Jackbox!
+  desc_long: Watch CB Lee, Ursula Vernon, Diane Duane, Jessica Day George, Cat Valente, Masha, [and a few attendees] duke it out in party games such as Jackbox and Among Us!
   panelists:
-  - Foo Bar
-  - John Doe
+  - Diane Duane
+  - Ursula Vernon
+  - Jessica Day George
+  - Cat Valente
+  - C.B. Lee
+- name: "Visualizing Alternate Worlds"
+  location: "Main Hall"
+  startTime: "2021-08-01T15:30:00-04:00"
+  endTime: "2021-08-01T16:30:00-04:00"
+  description: A discussion of ways of illustrating alternate worlds in various mediums both written and visual
+  desc_long: What does another world’s sky look like? Or buildings, people, or clothes? Join Diane, Ursula, Cat, and Megan as they discuss ways of illustrating alternate worlds in various mediums both written and visual
+  panelists:
+  - Diane Duane
+  - Ursula Vernon
+  - Megan Whalen Turner
+  - Cat Valente
+- name: "Travel Stories"
+  location: "Main Hall"
+  startTime: "2021-08-01T17:00:00-04:00"
+  endTime: "2021-08-01T18:00:00-04:00"
+  description: Travel Stories
+  panelists:
+  - Diane Duane
+  - Ursula Vernon
+- name: "Games & Mixer"
+  location: "Library"
+  startTime: "2021-08-01T15:00:00-04:00"
+  endTime: "2021-08-01T18:30:00-04:00"
+  description: Play board games & meet new friends!
+
+# monday the 2nd
+- name: "Food in Fantasy"
+  location: "Main Hall"
+  startTime: "2021-08-02T17:00:00-04:00"
+  endTime: "2021-08-02T18:00:00-04:00"
+  description: The guests talk about food
+  panelists:
+  - Diane Duane
+  - Ursula Vernon
+  - Jessica Day George
+  - Megan Whalen Turner
+- name: "Mars!!"
+  location: "Breakout Room 1"
+  startTime: "2021-08-02T18:30:00-04:00"
+  endTime: "2021-08-02T19:30:00-04:00"
+  description: Alex talks SPAAAAAAAACE and specifically Mars
+  desc_long: Alex talks SPAAAAAAAACE and specifically Mars
+  panelists:
+  - Alex Innanen
+- name: "Book Talk"
+  location: "Main Hall"
+  startTime: "2021-08-02T20:00:00-04:00"
+  endTime: "2021-08-02T21:00:00-04:00"
+  description: Informal fan-led, spoiler-friendly chat about the books we love
+  desc_long: Informal fan-led, spoiler-friendly chat about the books we love.
+  panelists:
+  - CrossingsCon Staff
+- name: "Meet the author - Jessica"
+  location: "Breakout Room 1"
+  startTime: "2021-08-02T20:00:00-04:00"
+  endTime: "2021-08-02T21:00:00-04:00"
+  description: Submit your name to a lottery for ten minutes with Jessica, to ask your burning questions, take a screenshot “selfie,” or just tell her how much you love her books!
+  desc_long: Submit your name to a lottery for ten minutes with Jessica, to ask your burning questions, take a screenshot “selfie,” or just tell her how much you love her books!
+  panelists:
+  - Jessica Day George
+
+# tuesday the 3rd
+- name: "Parents & Mentors"
+  location: "Main Hall"
+  startTime: "2021-08-03T12:00:00-04:00"
+  endTime: "2021-08-03T13:00:00-04:00"
+  description: need to get this from events
+  panelists:
+  - Diane Duane
+  - C.B. Lee
+  - Jessica Day George
+- name: "Race & Sexuality in Time Travel"
+  location: "Main Hall"
+  startTime: "2021-08-03T17:00:00-04:00"
+  endTime: "2021-08-03T18:00:00-04:00"
+  description: Isabel Sepúlveda talks about race and sexuality in time travel fiction
+  desc_long: Isabel Sepúlveda talks about race and sexuality in time travel fiction
+  panelists:
+  - Isabel Sepúlveda
+- name: "Meet the author - Diane"
+  location: "Breakout Room 1"
+  startTime: "2021-08-03T17:00:00-04:00"
+  endTime: "2021-08-03T18:00:00-04:00"
+  description: Submit your name to a lottery for ten minutes with Diane, to ask your burning questions, take a screenshot “selfie,” or just tell her how much you love her books!
+  desc_long: Submit your name to a lottery for ten minutes with Diane, to ask your burning questions, take a screenshot “selfie,” or just tell her how much you love her books!
+  panelists:
+  - Diane Duane
+- name: "Meet the author - C.B."
+  location: "Breakout Room 1"
+  startTime: "2021-08-03T18:00:00-04:00"
+  endTime: "2021-08-03T19:00:00-04:00"
+  description: Submit your name to a lottery for ten minutes with C.B., to ask your burning questions, take a screenshot “selfie,” or just tell her how much you love her books!
+  desc_long: Submit your name to a lottery for ten minutes with C.B., to ask your burning questions, take a screenshot “selfie,” or just tell her how much you love her books!
+  panelists:
+  - C.B. Lee
+- name: "LxAD Live Show"
+  location: "Main Hall"
+  startTime: "2021-08-03T19:00:00-04:00"
+  endTime: "2021-08-03T21:00:00-04:00"
+  description: Submit questions your burning language questions, and Sarah and Eli will answer them for you
+  desc_long: "Modern usage got you tense? Can’t start up your conjugator? Or maybe you’d just like to make like a schwa and destress. Submit questions to the Linguistics After Dark live show with your burning language questions, and Sarah and Eli will answer them for you. Just one catch: they can’t do any research before answering. If your language is making a funny noise, they’ll get to the bottom of it, with some rowdy discussion, bad nerdy jokes, and a lot of linguistics along the way"
+  panelists:
+  - Eli Morris-Heft
+  - Sarah Cowett
+
+# Wednesday the 4th
+- name: "Game Design"
+  location: "Main Hall"
+  startTime: "2021-08-03T18:00:00-04:00"
+  endTime: "2021-08-03T19:00:00-04:00"
+  description: need to get this from events
+  panelists:
+  - James Mendez Hodes
+- name: "Writing Workshop"
+  location: "Breakout Room 1"
+  startTime: "2021-08-03T18:00:00-04:00"
+  endTime: "2021-08-03T20:00:00-04:00"
+  description: A two part writing workshop which includes an opportunity to write a short piece based on a prompt, followed by an in-depth Q&A session
+  desc_long: CB, Cat, and Jessica lead a two part writing workshop which includes an opportunity to write a short piece based on a prompt, followed by an in-depth Q&A session
+  panelists:
+  - C.B. Lee
+  - Jessica Day George
+  - Cat Valente
+- name: "Linguistics Puzzles/Quiz Bowl"
+  location: "Breakout Room 1"
+  startTime: "2021-08-03T20:00:00-04:00"
+  endTime: "2021-08-03T21:30:00-04:00"
+  description: Test your linguistics knowledge in a specially designed game of no-pub pub trivia!
+  desc_long: Whether you’re an expert linguist or a burgeoning word nerd, test your knowledge in a specially designed game of no-pub pub trivia!
+  panelists:
+  - CrossingsCon Staff
+
+# Thursday the 5th
+- name: "Unconvention Slots"
+  location: "Library"
+  startTime: "2021-08-05T16:00:00-04:00"
+  endTime: "2021-08-05T20:30:00-04:00"
+  description: need to get this from events
+  panelists:
+  - Various
+- name: "Meet the author - Ursula"
+  location: "Breakout Room 1"
+  startTime: "2021-08-05T17:00:00-04:00"
+  endTime: "2021-08-05T18:00:00-04:00"
+  description: Submit your name to a lottery for ten minutes with Ursula, to ask your burning questions, take a screenshot “selfie,” or just tell her how much you love her books!
+  desc_long: Submit your name to a lottery for ten minutes with Ursula, to ask your burning questions, take a screenshot “selfie,” or just tell her how much you love her books!
+  panelists:
+  - Ursula Vernon
+- name: "Superheroes"
+  location: "Main Hall"
+  startTime: "2021-08-05T18:00:00-04:00"
+  endTime: "2021-08-05T19:00:00-04:00"
+  description: need to get this from events
+  panelists:
+  - C.B. Lee
+- name: "Mult-Author Q&A"
+  location: "Main Hall"
+  startTime: "2021-08-05T19:00:00-04:00"
+  endTime: "2021-08-05T20:00:00-04:00"
+  description: need to get this from events
+  panelists:
+  - Ursula Vernon
+  - C.B. Lee
+  - Jessica Day George
+  - Megan Whalen Turner (?)
+- name: "Meet the author - Cat"
+  location: "Breakout Room 1"
+  startTime: "2021-08-05T20:00:00-04:00"
+  endTime: "2021-08-05T21:00:00-04:00"
+  description: Submit your name to a lottery for ten minutes with Cat, to ask your burning questions, take a screenshot “selfie,” or just tell her how much you love her books!
+  desc_long: Submit your name to a lottery for ten minutes with Cat, to ask your burning questions, take a screenshot “selfie,” or just tell her how much you love her books!
+  panelists:
+  - Cat Valente
+- name: "Fanfiction Discussion"
+  location: "Main Hall"
+  startTime: "2021-08-05T20:30:00-04:00"
+  endTime: "2021-08-05T21:30:00-04:00"
+  description: Informal fan-led chat about fanfic - writing, reading, appreciating, and critiquing
+  desc_long: Informal fan-led chat about fanfic - writing, reading, appreciating, and critiquing
+  panelists:
+  - CrossingsCon Staff
+
+# Friday the 6th
+- name: "Portal Fantasy"
+  location: "Breakout Room 1"
+  startTime: "2021-08-06T12:00:00-04:00"
+  endTime: "2021-08-06T13:00:00-04:00"
+  description: Megan Whalen Turner` discusses portal fantasies and the book "Rhetorics of Fantasy" by Farah Mendlesohn
+  desc_long: Megan Whalen Turner discusses portal fantasies and the book *Rhetorics of Fantasy* by Farah Mendlesohn
+  panelists:
+  - Megan Whalen Turner
+- name: "Unconvention Slots"
+  location: "Library"
+  startTime: "2021-08-06T16:00:00-04:00"
+  endTime: "2021-08-06T20:30:00-04:00"
+  description: need to get this from events
+  panelists:
+  - Various
+- name: "Baron Munchausen"
+  location: "Main Hall"
+  startTime: "2021-08-06T18:00:00-04:00"
+  endTime: "2021-08-06T19:30:00-04:00"
+  description: A game of collaborative storytelling that will leave you in stitches!
+  desc_long: Watch Ursula Vernon, Cat Valente, CB Lee, and Eli play a game of collaborative storytelling that will leave you in stitches!
+  panelists:
+  - Ursula Vernon
+  - C.B. Lee
+  - Cat Valente
+  - Eli Morris-Heft
+- name: "Conlangs"
+  location: "Main Hall"
+  startTime: "2021-08-06T20:00:00-04:00"
+  endTime: "2021-08-06T21:00:00-04:00"
+  description: Ever wonder what it takes to create a language? Join Sarah and Cat as they walk you through their process from conception to completed conlang
+  desc_long: Ever wonder what it takes to create a language? Join Sarah and Cat as they walk you through their process from conception to completed conlang
+  panelists:
+  - Cat Valente
+  - Sarah Cowett
+- name: "Watch Party: The Angry Red Planet"
+  location: "Breakout Room 1"
+  startTime: "2021-08-06T21:00:00-04:00"
+  endTime: "2021-08-06T23:00:00-04:00"
+  description: Join us in a virtual watch party of the 1959 film The Angry Red Planet (as referenced in A Wizard of Mars). Don’t forget the popcorn!
+  desc_long: Join us in a virtual watch party of the 1959 film The Angry Red Planet (as referenced in A Wizard of Mars). Don’t forget the popcorn!
+
+# Saturday the 7th
+- name: "Multi-Author Event"
+  location: "Main Hall"
+  startTime: "2021-08-07T12:00:00-04:00"
+  endTime: "2021-08-07T13:00:00-04:00"
+  description: need to get this from events
+  panelists:
+  - Diane Duane
+  - Cat Valente
+  - C.B. Lee
+  - Ursula Vernon
+  - Jessica Day George
+  - Megan Whalen Turner
+- name: "Exoplanets in Sci-Fi"
+  location: "Main Hall"
+  startTime: "2021-08-07T13:30:00-04:00"
+  endTime: "2021-08-07T14:30:00-04:00"
+  description: Mars expert Alex, Sci-fi exoplanet geek Emma, and creators of many exoplanets Diane and Cat talk about exoplanets in science fiction
+  panelists:
+  - Diane Duane
+  - Cat Valente
+  - Emma Puranen
+  - Alex Innanen
+- name: "Folklore Inspirations"
+  location: "Main Hall"
+  startTime: "2021-08-07T15:00:00-04:00"
+  endTime: "2021-08-07T16:15:00-04:00"
+  description: A discussion of myths, folklore, and fairy tales that inspire authors as well as finding new ways to tell old stories
+  desc_long: Ursula, Megan, Jessica, and Cat discuss the m`yths, folklore, and fairy tales that inspire them as well as finding new ways to tell old stories
+  panelists:
+  - Cat Valente
+  - Ursula Vernon
+  - Jessica Day George
+  - Megan Whalen Turner
+- name: "Baron Munchausen"
+  location: "Main Hall"
+  startTime: "2021-08-07T16:30:00-04:00"
+  endTime: "2021-08-07T18:00:00-04:00"
+  description: A game of collaborative storytelling that will leave you in stitches!
+  desc_long: Watch Diane Duane, Jessica Day George, Megan Whalen Turner, and Megan play a game of collaborative storytelling that will leave you in stitches!
+  panelists:
+  - Diane Duane
+  - Jessica Day George
+  - Megan Whalen Turner
+  - Megan Wegenke
+- name: "Unconvention Slots"
+  location: "Library"
+  startTime: "2021-08-07T16:00:00-04:00"
+  endTime: "2021-08-07T20:30:00-04:00"
+  description: need to get this from events
+  panelists:
+  - Various
+- name: "Heaven's Vault"
+  location: "Main Hall"
+  startTime: "2021-08-07T19:00:00-04:00"
+  endTime: "2021-08-07T20:00:00-04:00"
+  description: Resident archaeology-and-linguistics nerds Eli, Dash, and Sarah analyze aspects of the exo-archaelogy video game Heaven's Vault
+  desc_long: Resident archaeology-and-linguistics nerds Eli, Dash, and Sarah analyze aspects of the exo-archaelogy video game Heaven's Vault. How did they decode the Ancient language? Why is that language the way that it is? Why is the protagonist the only person in her world who believes in history? They'll do their best to answer these questions and more--be ready for spoilers!
+  panelists:
+  - Sarah Cowett
+  - Eli Morris-Heft
+  - Dash
+- name: "CrossingsJam"
+  location: "Main Hall"
+  startTime: "2021-08-07T21:00:00-04:00"
+  endTime: "2021-08-07T22:00:00-04:00"
+  description: Open mic night!! Bring your best tunes/standup routine/slam poetry/performance art and enjoy the multitude of talent in this community!
+  desc_long: Open mic night!! Bring your best tunes/standup routine/slam poetry/performance art and enjoy the multitude of talent in this community!
+  panelists:
+  - everyone!
+
+# Sunday the 8th
+- name: "Games, Unconvention, Meetups, Etc."
+  location: "All Rooms"
+  startTime: "2021-08-08T12:30:00-04:00"
+  endTime: "2021-08-08T16:30:00-04:00"
+  description: need to get this from events
+  panelists:
+  - everyone
+- name: "Closing Ceremonies"
+  location: "Main Hall"
+  startTime: "2021-08-08T17:00:00-04:00"
+  endTime: "2021-08-08T18:00:00-04:00"
+  description: need to get this from events
+  panelists:
+  - Diane Duane
+  - Cat Valente
+  - Ursula Vernon
+  - Jessica Day George
+- name: "Dead Dog (after-party)"
+  location: "Social Rooms"
+  startTime: "2021-08-08T20:00:00-04:00"
+  endTime: "2021-08-08T22:00:00-04:00"
+  description: need to get this from events
+  panelists:
+  - CrossingsCon Staff

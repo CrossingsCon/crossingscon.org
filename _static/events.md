@@ -6,11 +6,23 @@ order: 30
 published: true
 ---
 
-CrossingsCon 2021 will feature a mix of panels, workshops, Q&As, lectures and more. At past conventions we've had guests of honor give exclusive readings from their upcoming works, had experts do serious academic analysis of people's favourite books, musical jam sessions, live gameplay of table-top games such as The Adventures of Baron Munchausen, and more.
+CrossingsCon 2021 will feature a mix of panels, workshops, Q&As, lectures and more. At past conventions we've had guests of honor give exclusive readings from their upcoming works, had experts do serious academic analysis of people's favourite books, musical jam sessions, live gameplay of table-top games such as The Adventures of Baron Munchausen, and more. Many of these will be run by convention staff and feature our wonderful [guests of honor]({{ site.baseurl }}#guests-of-honor).
 
-Many of these will be run by convention staff and feature our wonderful [guests of honor]({{ site.baseurl }}#guests-of-honor), but if you have an idea for an event you'd like to see or run at the convention you can [let us know via this form](https://docs.google.com/forms/d/e/1FAIpQLScJwJI5oi26cstao73CqrvL77ItQJfeTZoxsKhN64IViuPzIg/viewform), and our events team will work with you to make your idea possible.
+See below for detailed descriptions of all the different things happening at CrossingsCon 2021, or check the [schedule]({{ site.baseurl }}/events/schedule) to see when they're happening.
 
-Every day at CrossingsCon will have something different happening, check back closer to the con for hourly schedules. If you have any questions feel free to reach out at <events@crossingscon.org>.
+{% for event in site.data.schedule %}
+<div class="row">
+  <div class="col-12 col-md-9">
+    <h5 class="mt-3 mt-md-0">{{ event.name }}</h5>
+    <i>{{ event.startTime | date: "%A %B %e at %I:%M %p" }} in {{ event.location }}</i><br>
+    {{ event.desc_long | markdownify }}
+  </div>
+</div>
+{% endfor %}
+
+<!-- but if you have an idea for an event you'd like to see or run at the convention you can [let us know via this form](https://docs.google.com/forms/d/e/1FAIpQLScJwJI5oi26cstao73CqrvL77ItQJfeTZoxsKhN64IViuPzIg/viewform), and our events team will work with you to make your idea possible.
+
+Every day at CrossingsCon will have something different happening, check back closer to the con for hourly schedules. If you have any questions feel free to reach out at <events@crossingscon.org>. -->
 
 <!-- Don't forget to register over at the [registration page]({{ site.baseurl }}/badges)!
 

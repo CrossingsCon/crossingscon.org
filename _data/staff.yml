@@ -12,6 +12,9 @@
     - name: Sonia Grace
       title: Events Coordinator
       specialty: Walking the High Road
+    - name: Claudia Kowalski
+      title: Events Coordinator
+      specialty: Ecosystem management and conservation
 
 - section: Guest Relations
   staff:
@@ -24,7 +27,7 @@
 
 - section: Design & Merch
   staff:
-    - name: Amy Bachhuber
+    - name: Amy Hall
       title: Director of Design & Merchandise
       specialty: Interactive storytelling and spell calligraphy
 
@@ -42,9 +45,6 @@
 
 - section: Public Relations
   staff:
-    - name: Claudia Kowalski
-      title: Directory of PR
-      specialty: Ecosystem management and conservation
     - name: Anuj Opal
       title: Webmaster
       specialty: Principles of spell design
