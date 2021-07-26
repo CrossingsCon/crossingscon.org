@@ -16,7 +16,39 @@ Click on the headings below to show summaries of all the important information y
     </div>
     <div id="gather" class="panel-collapse collapse">
       <div class="panel-body">
-        #TODO
+        Since many attendees are likely unfamiliar with Gather we want to make sure everyone is able to become comfortable with the platform. There are also some tutorials on their <a href="https://support.gather.town/help/movement-and-basics">info centre</a> that go over the basics.
+        <img src="/images/gather/overview-markup.jpg">
+        <div>
+          <br>
+          Gather gives you a virtual avatar to move around a virtual 2-dimensional space. You can move your avatar with either the arrow keys or the WASD keys on your keyboard. You will automatically join voice calls with other people as you approach them within a certain radius. You can press X on your keyboard to interact with various things in the space such as embedded websites or videos.
+          <br><br>
+          When you load into Gather you will see a screen such as this, with several different menu options on the sides of the screen, which will be explained below.
+        </div>
+        <div>
+          <ol>
+            <li><b>Home Button</b>: </li>
+            <li><b>Settings</b>: </li>
+            <li><b>Build Tool</b>: Allows one to edit the Gather space. This will be disabled during the convention.</li>
+            <li><b>Calendar</b>: </li>
+            <li><b>Chat</b>: This tab allows one to send text chat. <br><img src="/images/gather/chat.png" style="height: 500px"></li>
+            <li><b>User Directory</b>: Lists all the people in the Gather space. <br><img src="/images/gather/directory.png" style="height: 500px"></li>
+          </ol>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" href="#accessibility">Accessibility</a>
+      </h4>
+    </div>
+    <div id="accessibility" class="panel-collapse collapse">
+      <div class="panel-body">
+        Here are some tools that are recommended to make the online convention fit your needs.<br><br>
+        If you require captions for auditory events, Google Chrome has a built-in live captioning feature which you can enable <a href="https://support.google.com/chrome/answer/10538231?hl=en">by following the guide here</a>. The CrossingsCon staff have tested that this works well in Gather. In addition, all of the social spaces in the virtual convention space will have sections that are explicitly intended and labelled for text-only conversations.<br><br>
+        If you've got a form of colorblindness and are finding that parts of the virtual convention space are confusing because of this, we recommend browser extensions such as <a href="https://addons.mozilla.org/en-CA/firefox/addon/let-s-get-color-blind/">this one</a> for Firefox or <a href="">this one</a> for Chrome, or operating-system programs such as <a href="https://apps.apple.com/us/app/sim-daltonism/id693112260?mt=12">Sim Daltonism</a> for MacOS or Windows 10's <a href="https://support.microsoft.com/en-us/windows/use-color-filters-in-windows-10-43893e44-b8b3-2e27-1a29-b0c15ef0e5ce">color filters</a> to adjust colors to suit your needs.
       </div>
     </div>
   </div>
