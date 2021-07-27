@@ -5,11 +5,14 @@ order: 10
 published: true
 ---
 
-CrossingsCon 2021 will be a busy week! See the embedded schedule below, or add the con schedule to your [Google Calendar](https://calendar.google.com/calendar/embed?src=crossingscon.org_4tejsp4u06ns5etvt5lbm243f8%40group.calendar.google.com&ctz=America%2FToronto) or [your calendar app of choice](https://calendar.google.com/calendar/ical/crossingscon.org_4tejsp4u06ns5etvt5lbm243f8%40group.calendar.google.com/public/basic.ics).
+CrossingsCon 2021 will be a busy week! See the embedded schedule below, or add the con schedule to your [Google Calendar](https://calendar.google.com/calendar/u/2?cid=Y19pbG8ybTRncmZhYXJlMzJ1aDhkaWY2bnZvZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) or [your calendar app of choice](https://calendar.google.com/calendar/ical/c_ilo2m4grfaare32uh8dif6nvog%40group.calendar.google.com/public/basic.ics).
 
 The full schedule will also be available inside the virtual convention space in Gather.
 
-<iframe src="https://calendar.google.com/calendar/embed?src=crossingscon.org_4tejsp4u06ns5etvt5lbm243f8%40group.calendar.google.com&ctz=America%2FToronto&dates=20210801%2F20210808&mode=AGENDA" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTpRnbik5BME0TFBAk8LX7vEPYBsA6329vFcfXP0LKqJ3p-o0EjGIW3DbJYtUJH63Wsa2SG7hlOqm6C/pubhtml?gid=219803243" target="_blank">View schedule in new tab</a>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTpRnbik5BME0TFBAk8LX7vEPYBsA6329vFcfXP0LKqJ3p-o0EjGIW3DbJYtUJH63Wsa2SG7hlOqm6C/pubhtml?gid=219803243&amp;single=true&amp;widget=true&amp;headers=false" style="border: 0" width="100%" height="1000px" frameborder="0" scrolling="no"></iframe>
+
+<!-- <iframe src="https://calendar.google.com/calendar/embed?src=crossingscon.org_4tejsp4u06ns5etvt5lbm243f8%40group.calendar.google.com&ctz=America%2FToronto&dates=20210801%2F20210808&mode=AGENDA" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe> -->
 
 <!-- Friday and Saturday will be jam-packed with panels, workshops, and many other fun events. Here's the hour-by-hour schedule, and see below for a description of events as well.
 

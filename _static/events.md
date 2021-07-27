@@ -12,9 +12,16 @@ See below for detailed descriptions of all the different things happening at Cro
 
 {% for event in site.data.schedule %}
 <div class="row">
-  <div class="col-12 col-md-9">
-    <h5 class="mt-3 mt-md-0">{{ event.name }}</h5>
-    <i>{{ event.startTime | date: "%A %B %e at %I:%M %p" }} in {{ event.location }}</i><br>
+  <div class="col">
+    <!-- <h5 class="mt-3 mt-md-0">{{ event.name }}</h5>
+    <i>{{ event.startTime | date: "%A %B %e at %I:%M %p" }} in {{ event.location }}</i><br> -->
+    <h4 class="mt-3 mt-md-0">{{ event.name }} | {{ event.startTime | date: "%A %B %e at %I:%M %p" }} in {{ event.location }}</h4>
+    {% assign events_len = event.panelists | size | minus: 1 %}
+    {% if event.panelists.size > 1 %}
+      <i>Featuring {{ event.panelists | sort | slice: 0, events_len | join: ", "  }} and {{ event.panelists | sort | last }}</i><br>
+    {% elsif event.panelists.size == 1 %}
+      <i>Featuring {{ event.panelists[0] }}</i><br>
+    {% endif %}
     {{ event.desc_long | markdownify }}
   </div>
 </div>
