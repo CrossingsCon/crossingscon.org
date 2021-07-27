@@ -8,11 +8,18 @@
 
 <!-- https://gather.town/app/xhy5moqiHSzhPAop/testspace1 -->
 <div id="live-schedule" class="">
-{% if con_start < current_time %}
+{% if con_start > current_time %}
+<div class="alert alert-success">
+  <h1>CrossingsCon 2021 will be live soon!</h3>
+  <p>
+    Check back at 12 PM eastern on August 1st to join the convention on <a href="https://digital.crossingscon.org">Gather</a>
+  </p>
+</div>
+{% else %}
   <div class="alert alert-success">
     <h1>CrossingsCon 2021 is live!</h3>
     <p>
-      Join the convention now on <a href="https://gather.town/app/xhy5moqiHSzhPAop/testspace1">GatherTown</a>
+      Join the convention now on <a href="https://digital.crossingscon.org">Gather</a>
     </p>
 
     <div class="container-fluid">
@@ -23,9 +30,17 @@
 
           {% if delta_t <= 0 and end_delta_t > 0 %}
             <div class="col">
-              <h4>Live now in {{ event.location }} for the next {{ end_delta_t | divided_by: 60 }} minutes:</h3>
+              <h4>Live now in the {{ event.location }} for the next {{ end_delta_t | divided_by: 60 }} minutes:</h3>
               <p>
-                {{ event.name }} with {{ event.panelists | join: " and " }}<br>
+                {% assign events_len = event.panelists | size | minus: 1 %}
+                {% if event.panelists.size > 1 %}
+                  {{ event.name }} with {{ event.panelists | sort | slice: 0, events_len | join: ", "  }} and {{ event.panelists | sort | last }}
+                {% elsif event.panelists.size == 1 %}
+                  {{ event.name }} with {{ event.panelists[0] }}
+                {% else %}
+                  {{ event.name }}
+                {% endif %}
+                <br>
                 {{ event.description }}
               </p>
             </div>
@@ -33,7 +48,15 @@
             <div class="col">
               <h4>Starting in about {{ delta_t | divided_by: 60 }} minutes in {{ event.location }}:</h3>
               <p>
-                {{ event.name }} with {{ event.panelists | join: " and " }}<br>
+                {% assign events_len = event.panelists | size | minus: 1 %}
+                {% if event.panelists.size > 1 %}
+                  {{ event.name }} with {{ event.panelists | sort | slice: 0, events_len | join: ", "  }} and {{ event.panelists | sort | last }}
+                {% elsif event.panelists.size == 1 %}
+                  {{ event.name }} with {{ event.panelists[0] }}
+                {% else %}
+                  {{ event.name }}
+                {% endif %}
+                <br>
                 {{ event.description }}
               </p>
             </div>

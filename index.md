@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<div markdown="1" class="welcome bg-image" >
+<div markdown="1" class="welcome no-background" >
 # Dai stihó, cousin!
 **Welcome to CrossingsCon 2021: Slipping Sideways, a convention about all the universes that we visit when we read, where people can come together to share what they love and have fun doing it**
 
@@ -32,9 +32,7 @@ We're extremely excited to welcome our talented and distinguished guests of hono
 <div markdown="1">
 ## Schedule
 
-CrossingsCon 2021 is taking place **August 1st through 8th, 2021**. Events will be spread out over the 8 days of the convention, with roughly 1-3 hours of scheduled events taking place each day. Event times will vary day-to-day during the convention to accomodate for different work schedules and time zones. See below for what kinds of [events]({{ site.baseurl }}#events) we'll be hosting at CrossingsCon.
-
-We're still deciding on the exact schedule of events for the convention, check back later for an hourly schedule for the convention.
+CrossingsCon 2021 is taking place **August 1st through 8th, 2021**. See the [schedule page]({{ site.baseurl }}/events/schedule/) for an hour-by-hour view of when events are taking place.
 </div>
 
 <div markdown="1">
@@ -52,7 +50,7 @@ If you want to learn more about Gather you can try out their [live walkthrough](
 
 CrossingsCon 2021 will feature a mix of panels, workshops, Q&As, lectures and more. At past conventions we've had guests of honor give exclusive readings from their upcoming works, had experts do serious academic analysis of people's favourite books, musical jam sessions, live gameplay of table-top games such as The Adventures of Baron Munchausen, and more.
 
-Many of these will be run by convention staff and feature our wonderful [guests of honor]({{ site.baseurl }}#guests-of-honor), but if you have an idea for an event you'd like to see or run at the convention you can [let us know via this form](https://docs.google.com/forms/d/e/1FAIpQLScJwJI5oi26cstao73CqrvL77ItQJfeTZoxsKhN64IViuPzIg/viewform), and our events team will work with you to make your idea possible.
+You can read descriptions of all events taking place at CrossingsCon 2021 [here]({{ site.baseurl }}/events), and check [the schedule]({{ site.baseurl }}/events/schedule/) for an hour-by-hour view of when events are taking place.
 </div>
 
 <div markdown="1">

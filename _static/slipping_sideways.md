@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Slipping Sideways FAQ
-nav_title: Slipping Sideways FAQ
+title: Slipping Sideways
+nav_title: FAQ
 order: 10
 published: true
 ---

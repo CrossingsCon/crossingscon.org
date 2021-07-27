@@ -35,8 +35,7 @@ The public spaces in the virtual convention space will be considered all-ages
 
 The following topics and activities must be contained to a GatherTown private space containing only other con-goers that are comfortable with engaging with the activity or topic. Private spaces are special areas where only the people in the private space can hear and see each other, and not any passers-by.
 - On-screen consumption of controlled substances such as alcohol or tobacco, regardless of the legal age of consumption in the person's country of residence.
-- Discussion of 18+ topics such as sex, kink, alcohol or cannabis use, etc. Note that this does not include discussions of sexuality or one's experience with gender, which are allowed and welcomed in all-ages spaces.
-- Use of swear words, particularly frequent usage or usage of stronger words.
+- Discussion of 18+ topics such as sex, kink, alcohol or cannabis use, etc. Note that this does not include discussions of sexuality or one's experience with gender, which are actively welcomed in all-ages spaces.
 
 ## Anti-harassment Policy
 

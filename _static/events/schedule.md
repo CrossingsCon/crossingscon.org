@@ -1,11 +1,20 @@
 ---
 layout: page
-title: Full Schedule
+title: Schedule of Events
 order: 10
-published: false
+published: true
 ---
 
-Friday and Saturday will be jam-packed with panels, workshops, and many other fun events. Here's the hour-by-hour schedule, and see below for a description of events as well.
+CrossingsCon 2021 will be a busy week! See the embedded schedule below, or add the con schedule to your [Google Calendar](https://calendar.google.com/calendar/u/2?cid=Y19pbG8ybTRncmZhYXJlMzJ1aDhkaWY2bnZvZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) or [your calendar app of choice](https://calendar.google.com/calendar/ical/c_ilo2m4grfaare32uh8dif6nvog%40group.calendar.google.com/public/basic.ics).
+
+The full schedule will also be available inside the virtual convention space in Gather.
+
+<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTpRnbik5BME0TFBAk8LX7vEPYBsA6329vFcfXP0LKqJ3p-o0EjGIW3DbJYtUJH63Wsa2SG7hlOqm6C/pubhtml?gid=219803243" target="_blank">View schedule in new tab</a>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTpRnbik5BME0TFBAk8LX7vEPYBsA6329vFcfXP0LKqJ3p-o0EjGIW3DbJYtUJH63Wsa2SG7hlOqm6C/pubhtml?gid=219803243&amp;single=true&amp;widget=true&amp;headers=false" style="border: 0" width="100%" height="1000px" frameborder="0" scrolling="no"></iframe>
+
+<!-- <iframe src="https://calendar.google.com/calendar/embed?src=crossingscon.org_4tejsp4u06ns5etvt5lbm243f8%40group.calendar.google.com&ctz=America%2FToronto&dates=20210801%2F20210808&mode=AGENDA" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe> -->
+
+<!-- Friday and Saturday will be jam-packed with panels, workshops, and many other fun events. Here's the hour-by-hour schedule, and see below for a description of events as well.
 
 <img src="{{ site.baseurl }}/images/full-schedule.png" alt="The full schedule of events.">
 ◆ *Questions for these panels will be solicited before and during the event via cards, and chosen during the panel by the moderator.*
@@ -33,7 +42,7 @@ Mark Oshiro leads this session on editing and having your work edited, which wil
 #### Neurodiversity in YW
 *Friday, 1:30pm*
 
-Discussion circle about neurodiversity in the YW series, in the fandom, and in ourselves. Open to anyone who identifies as neurodivergent, however you choose to define it. Participation in the discussion is wholly optional, you’re welcome to engage or not however you choose. #notyoudd 
+Discussion circle about neurodiversity in the YW series, in the fandom, and in ourselves. Open to anyone who identifies as neurodivergent, however you choose to define it. Participation in the discussion is wholly optional, you’re welcome to engage or not however you choose. #notyoudd
 
 #### Diane Reads/Mark Reads
 *Various times, check the schedule above*
@@ -78,7 +87,7 @@ Explore the universe from the comfort of your seat, as Alex and Sky take you thr
 #### Science in Sci-Fi ◆
 *Saturday, 1:45pm*
 
-Diane and Mark in conversation on how science and sci-fi interact across different mediums, with questions from Kate Howells. 
+Diane and Mark in conversation on how science and sci-fi interact across different mediums, with questions from Kate Howells.
 
 #### Linguistics: So You Want to Be Carmela
 Sarah talks about how sounds make up spoken language, including looking at sounds that are common and uncommon cross-linguistically. *Saturday, 3:00pm*
@@ -99,4 +108,4 @@ Diane and author Lyndsay Ely tell their best/worst stories from the publishing w
 Open mic night returns! Featuring some YW-inspired music and other favorites, as well as poetry and sing-a-longs, come be a part of this musical event.
 
 #### Quiet Hangout Space
-Available throughout the con for quiet hangout time. We’ll have some puzzles, crafting supplies, and other quiet activities available.
+Available throughout the con for quiet hangout time. We’ll have some puzzles, crafting supplies, and other quiet activities available. -->
