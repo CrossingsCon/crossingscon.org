@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<div markdown="1" class="welcome bg-image" >
+<div markdown="1" class="welcome no-background" >
 # Dai stihó, cousin!
 **Welcome to CrossingsCon 2021: Slipping Sideways, a convention about all the universes that we visit when we read, where people can come together to share what they love and have fun doing it**
 
