@@ -132,16 +132,16 @@
 # Wednesday the 4th
 - name: "Interactive Worldbuilding: Game Design and Cultural Consulting"
   location: "Main Hall"
-  startTime: "2021-08-03T18:00:00-04:00"
-  endTime: "2021-08-03T19:00:00-04:00"
+  startTime: "2021-08-04T18:00:00-04:00"
+  endTime: "2021-08-04T19:00:00-04:00"
   description: How are RPGs designed and constructed? How do we respectfully create culturally diverse and varied fictional worlds?
   desc_long: How are RPGs designed and constructed? How do we respectfully create culturally diverse and varied fictional worlds? What goes into creative and cultural consulting? James Mendez Hodes shares his expertise from the world of game design and cultural consulting to answer these questions and more!
   panelists:
   - James Mendez Hodes
 - name: "Writing Workshop"
   location: "Breakout Room 1"
-  startTime: "2021-08-03T18:00:00-04:00"
-  endTime: "2021-08-03T20:00:00-04:00"
+  startTime: "2021-08-04T18:00:00-04:00"
+  endTime: "2021-08-04T20:00:00-04:00"
   description: A two part writing workshop which includes an opportunity to write a short piece based on a prompt, followed by an in-depth Q&A session
   desc_long: CB and Jessica lead a two part writing workshop which includes an opportunity to write a short piece based on a prompt, followed by an in-depth Q&A session.
   panelists:
@@ -149,8 +149,8 @@
   - Jessica Day George
 - name: "Pub Trivia"
   location: "Library"
-  startTime: "2021-08-03T20:00:00-04:00"
-  endTime: "2021-08-03T21:30:00-04:00"
+  startTime: "2021-08-04T20:00:00-04:00"
+  endTime: "2021-08-04T21:30:00-04:00"
   description: Form a team and test your knowledge in a game of pub trivia!
   desc_long: Form a team and test your knowledge in a game of pub trivia!
 
