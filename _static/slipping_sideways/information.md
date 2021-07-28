@@ -101,7 +101,7 @@ Click on the headings below to show summaries of all the important information y
         {% for event in site.data.schedule %}
         <div class="row pb-3">
           <div class="col">
-            <h4 class="mt-3 mt-md-0">{{ event.name }} | {{ event.startTime | date: "%A %B %e at %I:%M %p" }} in {{ event.location }}</h4>
+            <h4 class="mt-3 mt-md-0">{{ event.name }} | {{ event.startTime | date: "%A %B %e at %l:%M %p" }} in {{ event.location }}</h4>
             {% assign events_len = event.panelists | size | minus: 1 %}
             {% if event.panelists.size > 1 %}
               <i>Featuring {{ event.panelists | sort | slice: 0, events_len | join: ", "  }} and {{ event.panelists | sort | last }}</i><br>

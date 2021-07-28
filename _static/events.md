@@ -10,12 +10,14 @@ CrossingsCon 2021 will feature a mix of panels, workshops, Q&As, lectures and mo
 
 See below for detailed descriptions of all the different things happening at CrossingsCon 2021, or check the [schedule]({{ site.baseurl }}/events/schedule) to see when they're happening.
 
+All times are in EDT (UTC-4)
+
 {% for event in site.data.schedule %}
 <div class="row">
   <div class="col">
     <!-- <h5 class="mt-3 mt-md-0">{{ event.name }}</h5>
     <i>{{ event.startTime | date: "%A %B %e at %I:%M %p" }} in {{ event.location }}</i><br> -->
-    <h4 class="mt-3 mt-md-0">{{ event.name }} | {{ event.startTime | date: "%A %B %e at %I:%M %p" }} in {{ event.location }}</h4>
+    <h4 class="mt-3 mt-md-0">{{ event.name }} | {{ event.startTime | date: "%A %B %e at %l:%M %p" }} in {{ event.location }}</h4>
     {% assign events_len = event.panelists | size | minus: 1 %}
     {% if event.panelists.size > 1 %}
       <i>Featuring {{ event.panelists | sort | slice: 0, events_len | join: ", "  }} and {{ event.panelists | sort | last }}</i><br>
