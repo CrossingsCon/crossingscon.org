@@ -151,8 +151,8 @@
   location: "Library"
   startTime: "2021-08-03T20:00:00-04:00"
   endTime: "2021-08-03T21:30:00-04:00"
-  description: Test your linguistics knowledge in a specially designed game of no-pub pub trivia!
-  desc_long: Whether you’re an expert linguist or a burgeoning word nerd, test your knowledge in a specially designed game of no-pub pub trivia!
+  description: Form a team and test your knowledge in a game of pub trivia!
+  desc_long: Form a team and test your knowledge in a game of pub trivia!
 
 # Thursday the 5th
 - name: "Unconvention Slots"
