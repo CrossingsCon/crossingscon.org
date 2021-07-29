@@ -1,40 +1,34 @@
 # sunday the 1st
 - name: "Opening Ceremonies"
-  location: "Main Hall"
+  location: "Tír na nÓg"
   startTime: "2021-08-01T12:00:00-04:00"
   endTime: "2021-08-01T13:00:00-04:00"
   description: "Welcome to CrossingsCon: Slipping Sideways!"
   desc_long: The grand opening of CrossingsCon 2021!
-  # panelists:
-  # - Diane Duane
-  # - Ursula Vernon
-  # - Jessica Day George
-  # - Cat Valente
 - name: "Guest of Honor Game Stream"
-  location: "Main Hall"
+  location: "Tír na nÓg"
   startTime: "2021-08-01T13:00:00-04:00"
   endTime: "2021-08-01T14:30:00-04:00"
-  description: Watch our guests duke it out in party games such as Jackbox!
+  description: Watch our guests duke it out in party games such as Jackbox and Bring Your Own Book!
   desc_long: Watch CB Lee, Ursula Vernon, Diane Duane, Jessica Day George, and Stationmaster Masha duke it out in party games such as Jackbox and Bring Your Own Book!
   panelists:
   - Diane Duane
   - Ursula Vernon
   - Jessica Day George
-  - Cat Valente
   - C.B. Lee
 - name: "Visualizing Alternate Worlds"
-  location: "Main Hall"
+  location: "Tír na nÓg"
   startTime: "2021-08-01T15:30:00-04:00"
   endTime: "2021-08-01T16:30:00-04:00"
   description: A discussion of ways of illustrating alternate worlds in various mediums both written and visual
-  desc_long: What does another world’s sky look like? Or buildings, people, or clothes? Join Diane, Ursula, and Megan as they discuss ways of illustrating alternate worlds in various mediums both written and visual.
+  desc_long: What does another world’s sky look like? Or buildings, people, or clothes? Join Diane, Ursula, Cat, and Megan as they discuss ways of illustrating alternate worlds in various mediums both written and visual
   panelists:
   - Diane Duane
   - Ursula Vernon
   - Megan Whalen Turner
   - Cat Valente
 - name: "Travel Stories"
-  location: "Main Hall"
+  location: "Tír na nÓg"
   startTime: "2021-08-01T17:00:00-04:00"
   endTime: "2021-08-01T18:00:00-04:00"
   description: Come hear all kinds of exciting travel tales from Diane and Ursula, as well as how their travel experiences have influenced their writing
@@ -51,7 +45,7 @@
 
 # monday the 2nd
 - name: "Food in Fiction"
-  location: "Main Hall"
+  location: "Tír na nÓg"
   startTime: "2021-08-02T17:00:00-04:00"
   endTime: "2021-08-02T18:00:00-04:00"
   description: Join our authors as they discuss the foods they love (and some they despise) and the place that food has in their writing
@@ -62,7 +56,7 @@
   - Jessica Day George
   - Megan Whalen Turner
 - name: "Roving Mars: Exploration Through the Ages"
-  location: "Breakout Room 1"
+  location: "Wonderland"
   startTime: "2021-08-02T18:30:00-04:00"
   endTime: "2021-08-02T19:30:00-04:00"
   description: Join wizard of Mars Alex for an overview of Mars exploration through the ages
@@ -70,13 +64,13 @@
   panelists:
   - Alex Innanen
 - name: "Book Talk"
-  location: "Breakout room 2"
+  location: "Avalon"
   startTime: "2021-08-02T20:00:00-04:00"
   endTime: "2021-08-02T21:00:00-04:00"
   description: An opportunity to share the favorite new books you’ve read, meet up to talk about all the wonderful works of our guests, and speculate about what might be coming next...
   desc_long: An opportunity to share the favorite new books you’ve read, meet up to talk about all the wonderful works of our guests, and speculate about what might be coming next...
 - name: "Meet the author - Jessica"
-  location: "Breakout Room 1"
+  location: "Wonderland"
   startTime: "2021-08-02T20:00:00-04:00"
   endTime: "2021-08-02T21:00:00-04:00"
   description: Sign up for a five minutes conversation with Jessica, to ask your burning questions, take a screenshot “selfie,” or just tell her how much you love her books!
@@ -86,7 +80,7 @@
 
 # tuesday the 3rd
 - name: "Parent and Mentor Figures in Young Adult Fiction"
-  location: "Main Hall"
+  location: "Tír na nÓg"
   startTime: "2021-08-03T12:00:00-04:00"
   endTime: "2021-08-03T13:00:00-04:00"
   description: Where do the grown-ups fit in in children's books?
@@ -95,32 +89,32 @@
   - Diane Duane
   - C.B. Lee
   - Jessica Day George
-- name: "Exploring Race in Time Travel Fiction"
-  location: "Main Hall"
-  startTime: "2021-08-03T17:30:00-04:00"
-  endTime: "2021-08-03T18:30:00-04:00"
-  description: A closer look at how time travel stories, especially those that explore the trauma of collective atrocity, have the power not only to reclaim and reinterpret the past, but also show us how we might build a better future
-  desc_long: Join Isabel Sepúlveda in taking a closer look at how time travel stories, especially those that explore the trauma of collective atrocity, have the power not only to reclaim and reinterpret the past, but also show us how we might build a better future. In particular, this talk will examine Kindred by Octavia Butler to explore how Butler makes use of the time travel genre to comment on America's brutal history of chattel slavery, Black-white racial relations, and the political landscape in which she was writing
-  panelists:
-  - Isabel Sepúlveda
 - name: "Meet the author - Diane"
-  location: "Breakout Room 1"
+  location: "Wonderland"
   startTime: "2021-08-03T17:00:00-04:00"
   endTime: "2021-08-03T18:00:00-04:00"
   description: Sign up for a five minutes conversation with Diane, to ask your burning questions, take a screenshot “selfie,” or just tell her how much you love her books!
   desc_long: Sign up for a five minutes conversation with Diane, to ask your burning questions, take a screenshot “selfie,” or just tell her how much you love her books! *Slots will be chosen raffle-style*
   panelists:
   - Diane Duane
+- name: "Exploring Race in Time Travel Fiction"
+  location: "Tír na nÓg"
+  startTime: "2021-08-03T17:30:00-04:00"
+  endTime: "2021-08-03T18:30:00-04:00"
+  description: A closer look at how time travel stories, especially those that explore the trauma of collective atrocity, have the power not only to reclaim and reinterpret the past, but also show us how we might build a better future
+  desc_long: Join Isabel Sepúlveda in taking a closer look at how time travel stories, especially those that explore the trauma of collective atrocity, have the power not only to reclaim and reinterpret the past, but also show us how we might build a better future. In particular, this talk will examine Kindred by Octavia Butler to explore how Butler makes use of the time travel genre to comment on America's brutal history of chattel slavery, Black-white racial relations, and the political landscape in which she was writing
+  panelists:
+  - Isabel Sepúlveda
 - name: "Meet the author - C.B."
-  location: "Breakout Room 2"
+  location: "Avalon"
   startTime: "2021-08-03T18:00:00-04:00"
   endTime: "2021-08-03T19:00:00-04:00"
   description: Sign up for a five minutes conversation with CB, to ask your burning questions, take a screenshot “selfie,” or just tell her how much you love her books!
   desc_long: Sign up for a five minutes conversation with CB, to ask your burning questions, take a screenshot “selfie,” or just tell her how much you love her books! *Slots will be chosen raffle-style*
   panelists:
   - C.B. Lee
-- name: "LxAD Live Show"
-  location: "Main Hall"
+- name: "Linguistics after Dark liveshow"
+  location: "Tír na nÓg"
   startTime: "2021-08-03T19:00:00-04:00"
   endTime: "2021-08-03T21:00:00-04:00"
   description: Submit questions your burning language questions, and Sarah and Eli will answer them for you
@@ -131,7 +125,7 @@
 
 # Wednesday the 4th
 - name: "Interactive Worldbuilding: Game Design and Cultural Consulting"
-  location: "Main Hall"
+  location: "Tír na nÓg"
   startTime: "2021-08-04T18:00:00-04:00"
   endTime: "2021-08-04T19:00:00-04:00"
   description: How are RPGs designed and constructed? How do we respectfully create culturally diverse and varied fictional worlds?
@@ -139,11 +133,11 @@
   panelists:
   - James Mendez Hodes
 - name: "Writing Workshop"
-  location: "Breakout Room 1"
+  location: "Wonderland"
   startTime: "2021-08-04T18:00:00-04:00"
   endTime: "2021-08-04T20:00:00-04:00"
   description: A two part writing workshop which includes an opportunity to write a short piece based on a prompt, followed by an in-depth Q&A session
-  desc_long: CB and Jessica lead a two part writing workshop which includes an opportunity to write a short piece based on a prompt, followed by an in-depth Q&A session.
+  desc_long: CB and Jessica lead a two part writing workshop which includes an opportunity to write a short piece based on a prompt, followed by an in-depth Q&A session
   panelists:
   - C.B. Lee
   - Jessica Day George
@@ -156,29 +150,29 @@
 
 # Thursday the 5th
 - name: "Unconvention Slots"
-  location: "Breakout room 2"
+  location: "Avalon"
   startTime: "2021-08-05T16:00:00-04:00"
   endTime: "2021-08-05T20:30:00-04:00"
   description: Sign up for a time slot and talk about anything you like!
   desc_long: Sign up for a time slot and talk about anything you like! If you have an area of expertise that you think people might be interested in, share it here! If you want to meet up with others that share your interests or passions, book a slot! From poetry slams to animal sustainability to kite flying, anything and everything is welcome
 - name: "Meet the author - Ursula"
-  location: "Breakout Room 1"
+  location: "Wonderland"
   startTime: "2021-08-05T17:00:00-04:00"
   endTime: "2021-08-05T18:00:00-04:00"
   description: Sign up for a five minute conversation with Ursula, to ask your burning questions, take a screenshot “selfie,” or just tell her how much you love her books!
   desc_long: Sign up for a five minute conversation with Ursula, to ask your burning questions, take a screenshot “selfie,” or just tell her how much you love her books! *Slots will be chosen raffle-style*
   panelists:
   - Ursula Vernon
-- name: "Superheroes"
-  location: "Main Hall"
+- name: "BAM! POW! Superhero Stories"
+  location: "Tír na nÓg"
   startTime: "2021-08-05T18:00:00-04:00"
   endTime: "2021-08-05T19:00:00-04:00"
   description: In an age where superheroes are all the rage, how do you create a superpowered story that feels fresh and unique?
-  desc_long: In an age where superheroes are all the rage, how do you create a superpowered story that feels fresh and unique? CB Lee discusses her writing process and story inspirations, what superpower she’d most like to have, and the unique pleasures and challenges of writing in a genre that’s captured the imagination of our culture.
+  desc_long: In an age where superheroes are all the rage, how do you create a superpowered story that feels fresh and unique? CB Lee discusses her writing process and story inspirations, what superpower she’d most like to have, and the unique pleasures and challenges of writing in a genre that’s captured the imagination of our culture
   panelists:
   - C.B. Lee
 - name: "Authors in Conversation"
-  location: "Main Hall"
+  location: "Tír na nÓg"
   startTime: "2021-08-05T19:00:00-04:00"
   endTime: "2021-08-05T20:00:00-04:00"
   description: Hear our guests talk about their recent and upcoming writing projects, share some fun stories, and answer questions submitted by you, the attendees!
@@ -190,7 +184,7 @@
   - Megan Whalen Turner
   - Cat Valente
 # - name: "Meet the author - Cat"
-#   location: "Breakout Room 1"
+#   location: "Wonderland"
 #   startTime: "2021-08-05T20:00:00-04:00"
 #   endTime: "2021-08-05T21:00:00-04:00"
 #   description: Submit your name to a lottery for ten minutes with Cat, to ask your burning questions, take a screenshot “selfie,” or just tell her how much you love her books!
@@ -198,7 +192,7 @@
 #   panelists:
 #   - Cat Valente
 - name: "Fanfiction Discussion"
-  location: "Breakout room 2"
+  location: "Avalon"
   startTime: "2021-08-05T20:30:00-04:00"
   endTime: "2021-08-05T21:30:00-04:00"
   description: A space to share all your fanfic thoughts
@@ -208,21 +202,21 @@
 
 # Friday the 6th
 - name: "Portal Fantasy"
-  location: "Breakout Room 1"
+  location: "Wonderland"
   startTime: "2021-08-06T12:00:00-04:00"
   endTime: "2021-08-06T13:00:00-04:00"
   description: Megan Whalen Turner discusses portal and quest fantasies, the ways in which authors construct their fantastical worlds, and the relationship of protagonists to those worlds
-  desc_long: Join Megan Whalen Turner as she discusses portal and quest fantasies, the ways in which authors construct their fantastical worlds, and the relationship of protagonists to those worlds, using the seminal work *Rhetorics of Fantasy* by Farah Mendlesohn as a touchstone of her analysis.
+  desc_long: Join Megan Whalen Turner as she discusses portal and quest fantasies, the ways in which authors construct their fantastical worlds, and the relationship of protagonists to those worlds, using the seminal work *Rhetorics of Fantasy* by Farah Mendlesohn as a touchstone of her analysis
   panelists:
   - Megan Whalen Turner
 - name: "Unconvention Slots"
-  location: "Breakout room 2"
+  location: "Avalon"
   startTime: "2021-08-06T16:00:00-04:00"
   endTime: "2021-08-06T21:00:00-04:00"
   description: Sign up for a time slot and talk about anything you like!
   desc_long: Sign up for a time slot and talk about anything you like! If you have an area of expertise that you think people might be interested in, share it here! If you want to meet up with others that share your interests or passions, book a slot! From poetry slams to animal sustainability to kite flying, anything and everything is welcome
 - name: "Meet the author - Megan"
-  location: "Breakout Room 1"
+  location: "Wonderland"
   startTime: "2021-08-06T17:00:00-04:00"
   endTime: "2021-08-06T18:00:00-04:00"
   description: Sign up for a five minutes conversation with Megan, to ask your burning questions, take a screenshot “selfie,” or just tell her how much you love her books!
@@ -230,7 +224,7 @@
   panelists:
   - Megan Whalen Turner
 - name: "Baron Munchausen"
-  location: "Main Hall"
+  location: "Tír na nÓg"
   startTime: "2021-08-06T18:00:00-04:00"
   endTime: "2021-08-06T19:30:00-04:00"
   description: A game of collaborative storytelling that will leave you in stitches!
@@ -241,18 +235,18 @@
   - Cat Valente
   - Eli Morris-Heft
 - name: "Conlang Panel"
-  location: "Main Hall"
+  location: "Tír na nÓg"
   startTime: "2021-08-06T20:00:00-04:00"
   endTime: "2021-08-06T21:00:00-04:00"
   description: Ever wonder what it takes to create a language? Join Sarah and our panelists to discuss the construction and use of conlangs in different fictional and nonfictional settings
-  desc_long: Ever wonder what it takes to create a language? Join Sarah and our panelists to discuss the construction and use of conlangs in different fictional and nonfictional settings, and how readers/consumers interact with them.
+  desc_long: Ever wonder what it takes to create a language? Join Sarah and our panelists to discuss the construction and use of conlangs in different fictional and nonfictional settings, and how readers/consumers interact with them
   panelists:
   - Sarah
   - Eljay
   - Marcus
   - Jenny
-- name: "Watch Party: The Angry Red Planet"
-  location: "Main Hall"
+- name: "Watch Party! *The Angry Red Planet*"
+  location: "Tír na nÓg"
   startTime: "2021-08-06T21:00:00-04:00"
   endTime: "2021-08-06T23:00:00-04:00"
   description: Join us in a virtual watch party of the 1959 film The Angry Red Planet (as referenced in A Wizard of Mars). Don’t forget the popcorn!
@@ -260,7 +254,7 @@
 
 # Saturday the 7th
 - name: "Authors in Conversation"
-  location: "Main Hall"
+  location: "Tír na nÓg"
   startTime: "2021-08-07T12:00:00-04:00"
   endTime: "2021-08-07T13:00:00-04:00"
   description: Hear our guests talk about their recent and upcoming writing projects, share some fun stories, and answer questions submitted by you, the attendees!
@@ -272,7 +266,7 @@
   - Jessica Day George
   - Megan Whalen Turner
 - name: "Planets in Science Fiction"
-  location: "Main Hall"
+  location: "Tír na nÓg"
   startTime: "2021-08-07T13:30:00-04:00"
   endTime: "2021-08-07T14:30:00-04:00"
   description: Mars expert Alex, Sci-fi exoplanet geek Emma, and creators of many exoplanets Diane and Cat talk about exoplanets in science fiction
@@ -283,9 +277,9 @@
   - Emma Puranen
   - Alex Innanen
 - name: "Folklore Inspirations"
-  location: "Main Hall"
+  location: "Tír na nÓg"
   startTime: "2021-08-07T15:00:00-04:00"
-  endTime: "2021-08-07T16:15:00-04:00"
+  endTime: "2021-08-07T16:00:00-04:00"
   description: A discussion of myths, folklore, and fairy tales that inspire authors as well as finding new ways to tell old stories
   desc_long: Ursula, Megan, and Jessica discuss the myths, folklore, and fairy tales that inspire them as well as finding new ways to tell old stories
   panelists:
@@ -293,7 +287,7 @@
   - Jessica Day George
   - Megan Whalen Turner
 - name: "Baron Munchausen"
-  location: "Main Hall"
+  location: "Tír na nÓg"
   startTime: "2021-08-07T16:30:00-04:00"
   endTime: "2021-08-07T18:00:00-04:00"
   description: A game of collaborative storytelling that will leave you in stitches!
@@ -304,13 +298,13 @@
   - Megan Whalen Turner
   - Megan Wegenke
 - name: "Unconvention Slots"
-  location: "Breakout room 2"
+  location: "Avalon"
   startTime: "2021-08-07T16:00:00-04:00"
   endTime: "2021-08-07T21:00:00-04:00"
   description: Sign up for a time slot and talk about anything you like!
   desc_long: Sign up for a time slot and talk about anything you like! If you have an area of expertise that you think people might be interested in, share it here! If you want to meet up with others that share your interests or passions, book a slot! From poetry slams to animal sustainability to kite flying, anything and everything is welcome
 - name: "Heaven's Vault"
-  location: "Main Hall"
+  location: "Tír na nÓg"
   startTime: "2021-08-07T19:00:00-04:00"
   endTime: "2021-08-07T20:00:00-04:00"
   description: Resident archaeology-and-linguistics nerds Eli, Dash, and Sarah analyze aspects of the exo-archaelogy video game Heaven's Vault
@@ -330,7 +324,7 @@
 
 # Sunday the 8th
 - name: "Unconvention Slots"
-  location: "Breakout room 1"
+  location: "Wonderland"
   startTime: "2021-08-08T12:00:00-04:00"
   endTime: "2021-08-08T16:30:00-04:00"
   description: Sign up for a time slot and talk about anything you like!
@@ -342,7 +336,7 @@
   description: One more chance to play games, chat, and mingle with all your con friends
   desc_long: One more chance to play games, chat, and mingle with all your con friends
 - name: "Closing Ceremonies"
-  location: "Main Hall"
+  location: "Tír na nÓg"
   startTime: "2021-08-08T17:00:00-04:00"
   endTime: "2021-08-08T18:00:00-04:00"
   description: A fond farewell to the wonderful week we’ve had, and hopefully a see-you-soon as well!
