@@ -17,7 +17,7 @@ Click on the headings below to show summaries of all the important information y
     <div id="gather" class="panel-collapse collapse">
       <div class="panel-body">
         Since many attendees are likely unfamiliar with Gather we want to make sure everyone is able to become comfortable with the platform. There are also some tutorials on their <a href="https://support.gather.town/help/movement-and-basics">info centre</a> that go over the basics.
-        <img src="/images/gather/overview-markup.jpg">
+        <img src="/images/gather/overview-markup.jpg" style="max-height: 100%">
         <div>
           <br>
           Gather gives you a virtual avatar to move around a virtual 2-dimensional space. You can move your avatar with either the arrow keys or the WASD keys on your keyboard. You will automatically join voice calls with other people as you approach them within a certain radius. You can press X on your keyboard to interact with various things in the space such as embedded websites or videos.
@@ -27,22 +27,22 @@ Click on the headings below to show summaries of all the important information y
         <div>
           <ol>
             <li><b>Home Button</b>: Shows several links, including the Gather homepage.</li>
-            <li><b>Settings</b>: Control your personal settings, such as audio and video inputs.<br><img src="/images/gather/settings.png" style="height: 500px"></li>
+            <li><b>Settings</b>: Control your personal settings, such as audio and video inputs.<br><img src="/images/gather/settings.png"></li>
             <li><b>Build Tool</b>: Allows one to edit the Gather space. This will be disabled during the convention.</li>
-            <li><b>Calendar</b>: Shows the day's upcoming events. Also shows one how to get to the room an event is taking place in, or else teleport there directly.<br><img src="/images/gather/calendar.png" style="height: 500px"></li>
-            <li><b>Chat</b>: Allows one to send text chat. Text chat can be done to a variety of different targets: individual users, your nearby area, everyone in the room, etc. Please use the different options appropriately.<br><img src="/images/gather/chat.png" style="height: 500px"></li>
-            <li><b>User Directory</b>: Lists all the people in the Gather space. You can direct-message people, use the follow feature to have your avatar automatically follow theirs, and more. Note the ability to block a user, which prevents you from joining voice and video calls with them.<br><img src="/images/gather/directory.png" style="height: 500px"></li>
+            <li><b>Calendar</b>: Shows the day's upcoming events. Also shows one how to get to the room an event is taking place in, or else teleport there directly.<br><img src="/images/gather/calendar.png" ></li>
+            <li><b>Chat</b>: Allows one to send text chat. Text chat can be done to a variety of different targets: individual users, your nearby area, everyone in the room, etc. Please use the different options appropriately.<br><img src="/images/gather/chat.png" ></li>
+            <li><b>User Directory</b>: Lists all the people in the Gather space. You can direct-message people, use the follow feature to have your avatar automatically follow theirs, and more. Note the ability to block a user, which prevents you from joining voice and video calls with them.<br><img src="/images/gather/directory.png" ></li>
             <li><b>Avatar Options</b>: Allows you to change your name and your avatar.</li>
-            <li><b>Quick Settings</b>: Shows some quick settings you can change such as a status or setting yourself as away.<br><img src="/images/gather/quick-settings.png" style="height: 500px"></li>
-            <li><b>Minimap</b>: Shows a minimap view of the room you're currently in.<br><img src="/images/gather/minimap.png" style="height: 500px"></li>
-            <li><b>Reactions</b>: Shows buttons to make your avatar perform reactions, such as raising your hand.<br><img src="/images/gather/reactions.png" style="height: 300px"></li>
+            <li><b>Quick Settings</b>: Shows some quick settings you can change such as a status or setting yourself as away.<br><img src="/images/gather/quick-settings.png" ></li>
+            <li><b>Minimap</b>: Shows a minimap view of the room you're currently in.<br><img src="/images/gather/minimap.png" ></li>
+            <li><b>Reactions</b>: Shows buttons to make your avatar perform reactions, such as raising your hand.<br><img src="/images/gather/reactions.png" ></li>
           </ol>
         </div>
         <div>
           There are also some special types of tiles:
           <ol>
-            <li><b>Spotlights</b>: When someone steps on a spotlight tile their audio and video is broadcast to the entire room. You should never step on these tiles unless directed to by a CrossingsCon staff member.<br><img src="/images/gather/spotlight.png" style="height: 200px"></li>
-            <li><b>Private areas</b>: Areas with darkened floors allow people within them to have a private conversation without any passers-by listening in.<br><img src="/images/gather/private.png" style="height: 500px"></li>
+            <li><b>Spotlights</b>: When someone steps on a spotlight tile their audio and video is broadcast to the entire room. You should never step on these tiles unless directed to by a CrossingsCon staff member.<br><img src="/images/gather/spotlight.png" ></li>
+            <li><b>Private areas</b>: Areas with darkened floors allow people within them to have a private conversation without any passers-by listening in.<br><img src="/images/gather/private.png" ></li>
           </ol>
         </div>
       </div>
