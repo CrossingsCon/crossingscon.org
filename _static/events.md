@@ -12,12 +12,17 @@ See below for detailed descriptions of all the different things happening at Cro
 
 All times are in EDT (UTC-4)
 
+{% assign previous_day = "foo" %}
+
 {% for event in site.data.schedule %}
+{% assign current_day = event.startTime | date: "%A %B %e" %}
+{% if current_day != previous_day %}
+{% assign previous_day = current_day %}
+<h2>{{ current_day }}</h2>
+{% endif %}
 <div class="row">
   <div class="col">
-    <!-- <h5 class="mt-3 mt-md-0">{{ event.name }}</h5>
-    <i>{{ event.startTime | date: "%A %B %e at %I:%M %p" }} in {{ event.location }}</i><br> -->
-    <h4 class="mt-3 mt-md-0">{{ event.name }} | {{ event.startTime | date: "%A %B %e at %l:%M %p" }} in {{ event.location }}</h4>
+    <h4 class="mt-3 mt-md-0">{{ event.name }} | {{ event.startTime | date: "%l:%M %p" }} in {{ event.location }}</h4>
     {% assign events_len = event.panelists | size | minus: 1 %}
     {% if event.panelists.size > 1 %}
       <i>Featuring {{ event.panelists | sort | slice: 0, events_len | join: ", "  }} and {{ event.panelists | sort | last }}</i><br>

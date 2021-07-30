@@ -98,10 +98,17 @@ Click on the headings below to show summaries of all the important information y
     </div>
     <div id="events" class="panel-collapse collapse">
       <div class="panel-body">
+        All times are in EDT (UTC-4)
+        {% assign previous_day = "foo" %}
         {% for event in site.data.schedule %}
+        {% assign current_day = event.startTime | date: "%A %B %e" %}
+        {% if current_day != previous_day %}
+        {% assign previous_day = current_day %}
+        <h2>{{ current_day }}</h2>
+        {% endif %}
         <div class="row pb-3">
           <div class="col">
-            <h4 class="mt-3 mt-md-0">{{ event.name }} | {{ event.startTime | date: "%A %B %e at %l:%M %p" }} in {{ event.location }}</h4>
+            <h4 class="mt-3 mt-md-0">{{ event.name }} | {{ event.startTime | date: "%l:%M %p" }} in {{ event.location }}</h4>
             {% assign events_len = event.panelists | size | minus: 1 %}
             {% if event.panelists.size > 1 %}
               <i>Featuring {{ event.panelists | sort | slice: 0, events_len | join: ", "  }} and {{ event.panelists | sort | last }}</i><br>
