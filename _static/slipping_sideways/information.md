@@ -45,6 +45,14 @@ Click on the headings below to show summaries of all the important information y
             <li><b>Private areas</b>: Areas with darkened floors allow people within them to have a private conversation without any passers-by listening in.<br><img src="/images/gather/private.png" ></li>
           </ol>
         </div>
+        <div>
+          And some other controls that may be useful to know:
+          <ol>
+            <li><b>Bubbles</b>: Double-clicking on another user will start a "bubble", quieting people around you for a quick conversation. Other people can still hear you (albeit faintly), and can double-click on you to join the bubble</li>
+            <li><b>Ghost mode</b>: Normally you cannot move through a space where another person is standing, but holding the G key on your keyboard will allow you to move through people, to prevent you from getting stuck.</li>
+            <li><b>Dancing</b>: Just for fun, repeatedly pressing the Z key will make your avatar dance!</li>
+          </ol>
+        </div>
       </div>
     </div>
   </div>
