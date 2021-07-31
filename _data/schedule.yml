@@ -68,7 +68,7 @@
   endTime: "2021-08-02T21:00:00-04:00"
   description: An opportunity to share the favorite new books you’ve read, meet up to talk about all the wonderful works of our guests, and speculate about what might be coming next...
   desc_long: An opportunity to share the favorite new books you’ve read, meet up to talk about all the wonderful works of our guests, and speculate about what might be coming next...
-- name: "Meet the author - Jessica"
+- name: "Meet the Author - Jessica"
   location: "Wonderland"
   startTime: "2021-08-02T20:00:00-04:00"
   endTime: "2021-08-02T21:00:00-04:00"
@@ -88,7 +88,7 @@
   - Diane Duane
   - C.B. Lee
   - Jessica Day George
-- name: "Meet the author - Diane"
+- name: "Meet the Author - Diane"
   location: "Wonderland"
   startTime: "2021-08-03T17:00:00-04:00"
   endTime: "2021-08-03T18:00:00-04:00"
@@ -104,7 +104,7 @@
   desc_long: Join Isabel Sepúlveda in taking a closer look at how time travel stories, especially those that explore the trauma of collective atrocity, have the power not only to reclaim and reinterpret the past, but also show us how we might build a better future. In particular, this talk will examine Kindred by Octavia Butler to explore how Butler makes use of the time travel genre to comment on America's brutal history of chattel slavery, Black-white racial relations, and the political landscape in which she was writing
   panelists:
   - Isabel Sepúlveda
-- name: "Meet the author - C.B."
+- name: "Meet the Author - C.B."
   location: "Avalon"
   startTime: "2021-08-03T18:00:00-04:00"
   endTime: "2021-08-03T19:00:00-04:00"
@@ -154,7 +154,7 @@
   endTime: "2021-08-05T20:30:00-04:00"
   description: Sign up for a time slot and talk about anything you like!
   desc_long: Sign up for a time slot and talk about anything you like! If you have an area of expertise that you think people might be interested in, share it here! If you want to meet up with others that share your interests or passions, book a slot! From poetry slams to animal sustainability to kite flying, anything and everything is welcome
-- name: "Meet the author - Ursula"
+- name: "Meet the Author - Ursula"
   location: "Wonderland"
   startTime: "2021-08-05T17:00:00-04:00"
   endTime: "2021-08-05T18:00:00-04:00"
@@ -181,7 +181,7 @@
   - C.B. Lee
   - Jessica Day George
   - Megan Whalen Turner
-- name: "Meet the author - Cat"
+- name: "Meet the Author - Cat"
   location: "Wonderland"
   startTime: "2021-08-05T20:00:00-04:00"
   endTime: "2021-08-05T21:00:00-04:00"
@@ -213,7 +213,7 @@
   endTime: "2021-08-06T21:00:00-04:00"
   description: Sign up for a time slot and talk about anything you like!
   desc_long: Sign up for a time slot and talk about anything you like! If you have an area of expertise that you think people might be interested in, share it here! If you want to meet up with others that share your interests or passions, book a slot! From poetry slams to animal sustainability to kite flying, anything and everything is welcome
-- name: "Meet the author - Megan"
+- name: "Meet the Author - Megan"
   location: "Wonderland"
   startTime: "2021-08-06T17:00:00-04:00"
   endTime: "2021-08-06T18:00:00-04:00"
