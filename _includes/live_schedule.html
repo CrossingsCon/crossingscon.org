@@ -30,7 +30,7 @@
 
           {% if delta_t <= 0 and end_delta_t > 0 %}
             <div class="col">
-              <h4>Live now in the {{ event.location }} for the next {{ end_delta_t | divided_by: 60 }} minutes:</h3>
+              <h4>Live now in {{ event.location }} for the next {{ end_delta_t | divided_by: 60 }} minutes:</h3>
               <p>
                 {% assign events_len = event.panelists | size | minus: 1 %}
                 {% if event.panelists.size > 1 %}
