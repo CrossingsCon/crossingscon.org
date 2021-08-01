@@ -8,6 +8,8 @@ published: true
 
 CrossingsCon 2021 will feature a mix of panels, workshops, Q&As, lectures and more. At past conventions we've had guests of honor give exclusive readings from their upcoming works, had experts do serious academic analysis of people's favourite books, musical jam sessions, live gameplay of table-top games such as The Adventures of Baron Munchausen, and more. Many of these will be run by convention staff and feature our wonderful [guests of honor]({{ site.baseurl }}#guests-of-honor).
 
+Some of our events will be done panel or Q&A style. You can submit questions [using this form](https://forms.gle/5sUH2814vHV2AnKY6). Most events will not be taking questions live.
+
 See below for detailed descriptions of all the different things happening at CrossingsCon 2021, or check the [schedule]({{ site.baseurl }}/events/schedule) to see when they're happening.
 
 All times are in EDT (UTC-4)
