@@ -1,0 +1,5 @@
+---
+layout: page
+---
+
+<a href="https://store.crossingscon.org" target="_blank">Click here to be redirected to the CrossingsCon Merch store</a>
