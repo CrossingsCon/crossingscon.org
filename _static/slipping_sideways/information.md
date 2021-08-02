@@ -145,6 +145,19 @@ Click on the headings below to show summaries of all the important information y
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
+        <a data-toggle="collapse" href="#community">CrossingsCon community</a>
+      </h4>
+    </div>
+    <div id="community" class="panel-collapse collapse">
+      <div class="panel-body">
+        CrossingsCon isn't the only time and place you can hang out with the wonderful community! The convention has closest ties with <a href="http://slackin.emfozzingenterprises.org/">The Crossings Slack</a>, but there's also the <a href="https://discord.gg/pfhxRdszD9">Out of Ambit Discord Server</a>, <a href="https://www.reddit.com/r/errantry/">/r/errantry on Reddit</a> and the <a href="https://www.facebook.com/groups/YoungWizards/">Young Wizards Facebook Group</a>.
+      </div>
+    </div>
+  </div>
+
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
         <a data-toggle="collapse" href="#support">Support the convention</a>
       </h4>
     </div>
