@@ -4,9 +4,11 @@ layout: home
 
 <div markdown="1" class="welcome no-background" >
 # Dai stihó, cousin!
-**Welcome to CrossingsCon 2021: Slipping Sideways, a convention about all the universes that we visit when we read, where people can come together to share what they love and have fun doing it**
+<!-- **Welcome to CrossingsCon 2021: Slipping Sideways, a convention about all the universes that we visit when we read, where people can come together to share what they love and have fun doing it** -->
 
-**CrossingsCon 2021 is free to attend!**
+**We hope everyone enjoyed CrossingsCon 2021: Slipping Sideways! We had a blast putting it on, and we hope to see all of you in Montreal next year at CrossingsCon 2022!**
+
+**Registration for next year's con is [already open](https://register.crossingscon.org), and you can still [order bookplates](https://store.crossingscon.org) from the 2021 con's merch collection**
 </div>
 
 <div markdown="1">

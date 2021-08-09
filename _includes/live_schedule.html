@@ -7,7 +7,7 @@
 {% assign current_time = 'now' | date: "%s" %}
 
 <!-- https://gather.town/app/xhy5moqiHSzhPAop/testspace1 -->
-<div id="live-schedule" class="">
+<!-- <div id="live-schedule" class="">
 {% if con_start > current_time %}
 <div class="alert alert-success">
   <h1>CrossingsCon 2021 will be live soon!</h3>
@@ -22,7 +22,7 @@
       Join the convention now on <a href="https://digital.crossingscon.org">Gather</a>
     </p>
 
-    <!-- <div class="container-fluid">
+    <div class="container-fluid">
       <div class="row">
         {% for event in events_by_start_time %}
           {% assign delta_t = event.startTime | date: "%s" | minus: current_time %}
@@ -64,7 +64,7 @@
           {% endif %}
         {% endfor %}
       </div>
-    </div> -->
+    </div>
   </div>
 {% endif %}
-</div>
+</div> -->

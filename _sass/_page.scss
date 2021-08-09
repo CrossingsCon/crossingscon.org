@@ -28,6 +28,9 @@
   font-size: 1.75rem;
   text-shadow: 0px 0px 5px black;
   -webkit-text-stroke: 1px black;
+  a {
+    color: $cc-gold;
+  }
 }
 
 .homepage > * h1 {
