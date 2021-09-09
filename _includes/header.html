@@ -21,7 +21,7 @@
         <a class="btn btn-badge my-2 my-sm-0" href="{{ site.data.badges.url }}">Get your badge!</a>
       </div> -->
       <div class="dropdown-divider"></div>
-      {% assign ordered_pages = (site.static | sort: 'order') %}
+      {% assign ordered_pages = (site.static | concat: site.generated | sort: 'order') %}
       <ul class="navbar-nav mr-auto">
           <li>
             <a href="/" class="nav-link">Home</a>

@@ -21,3 +21,6 @@ collections:
   static:
     output: true
     permalink: /:path/
+  generated:
+    output: true
+    permalink: /:path/
