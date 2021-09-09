@@ -62,7 +62,7 @@ def main
     page_body = build_page_for(page)
 
     fname = ""
-    if page["parent"] != ""
+    if !page["parent"].nil? && !page["parent"].empty?
       `mkdir -p _generated/#{page["parent"]}`
       fname = "_generated/#{page["parent"]}/#{page["key"]}.md"
     else
@@ -70,6 +70,7 @@ def main
     end
 
     File.write(fname, page_body)
+    puts "#{fname} written"
   end
 end
 

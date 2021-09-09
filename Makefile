@@ -26,5 +26,13 @@ clean:
 
 rebuild: clean build
 
+gdrive-pages:
+	@echo "\033[1;34m-----> \033[1;39mFetching webpages from Google Drive...\033[0m"
+	@bundle exec bin/fetch_pages.rb
+
+deploy-app-script:
+	@echo "\033[1;34m-----> \033[1;39mDeploying Google App script...\033[0m"
+	@clasp push
+
 test:
 	@echo "\033[1;34m-----> \033[1;39mNo tests yet!\033[0m"
