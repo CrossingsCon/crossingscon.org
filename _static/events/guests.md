@@ -5,7 +5,7 @@ order: 30
 published: true
 ---
 
-CrossingsCon is proud to welcome our guests of honor for 2021!
+CrossingsCon is proud to welcome our guests of honor for 2022!
 
 If you're not familiar with the works of some of our guests, our staff put together a guide on where to start with each of their respective bibliographies, including some reviews. Take a look at it <a href="{{ site.baseurl }}/pdfs/where_to_start_guests.pdf">here!</a>
 
