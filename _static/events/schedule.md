@@ -3,6 +3,7 @@ layout: page
 title: Schedule of Events
 order: 10
 published: true
+parent: Events
 ---
 
 CrossingsCon 2021 will be a busy week! See the embedded schedule below, or add the con schedule to your [Google Calendar](https://calendar.google.com/calendar/u/2?cid=Y19pbG8ybTRncmZhYXJlMzJ1aDhkaWY2bnZvZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) or [your calendar app of choice](https://calendar.google.com/calendar/ical/c_ilo2m4grfaare32uh8dif6nvog%40group.calendar.google.com/public/basic.ics).

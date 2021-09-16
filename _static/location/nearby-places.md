@@ -2,6 +2,7 @@
 layout: page
 title: Nearby Restaurants and Shops
 published: false
+parent: Location
 ---
 
 ## Restaurants

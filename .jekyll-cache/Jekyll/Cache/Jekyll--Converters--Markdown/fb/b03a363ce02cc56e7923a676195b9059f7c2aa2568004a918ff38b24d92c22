@@ -1,0 +1,18 @@
+I"ç<p>If you need to ask us a question or get a hold of us for any reason, the best way to do so is through email at <a href="mailto:info@crossingscon.org">info@crossingscon.org</a>, or submit the form below.</p>
+
+<div id="contact-form" class="contact-form">
+    <input id="name" type="text" name="name" placeholder="Name" />
+    <input id="email" type="email" name="email" placeholder="Email" />
+    <textarea id="message" placeholder="Message"></textarea>
+    <button type="button" class="btn btn-badge" id="send-message">Send</button>
+</div>
+
+<p>You can also follow us on social media to keep up with all the latest updates:</p>
+
+<ul>
+  <li><a href="https://blog.crossingscon.org">Tumblr</a></li>
+  <li><a href="https://facebook.com/crossingscon">Facebook</a></li>
+  <li><a href="https://twitter.com/crossingscon">Twitter</a></li>
+  <li><a href="http://slackin.emfozzingenterprises.org/">Slack</a></li>
+</ul>
+:ET

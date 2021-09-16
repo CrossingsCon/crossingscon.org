@@ -1,9 +1,10 @@
 ---
 layout: page
-title: What is CrossingsCon?
+title: About
 nav_title: About CrossingsCon
 category_title: About
-order: 40
+nav_order: 99
+has_children: true
 ---
 
 <img src="{{ site.baseurl }}/images/carousel/2016-sunday.jpg" class="img-fluid" alt="Group photo on the 2016 sunday tour">

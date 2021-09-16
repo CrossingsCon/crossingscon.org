@@ -2,8 +2,9 @@
 layout: page
 title: Events
 nav_title: Events
-order: 30
+nav_order: 20
 published: true
+has_children: true
 ---
 
 CrossingsCon 2021 will feature a mix of panels, workshops, Q&As, lectures and more. At past conventions we've had guests of honor give exclusive readings from their upcoming works, had experts do serious academic analysis of people's favourite books, musical jam sessions, live gameplay of table-top games such as The Adventures of Baron Munchausen, and more. Many of these will be run by convention staff and feature our wonderful [guests of honor]({{ site.baseurl }}#guests-of-honor).
@@ -24,7 +25,7 @@ All times are in EDT (UTC-4)
 {% endif %}
 <div class="row">
   <div class="col">
-    <h4 class="mt-3 mt-md-0">{{ event.name }} | {{ event.startTime | date: "%l:%M %p" }} in {{ event.location }}</h4>
+    <h3 class="mt-3 mt-md-0">{{ event.name }} | {{ event.startTime | date: "%l:%M %p" }} in {{ event.location }}</h3>
     {% assign events_len = event.panelists | size | minus: 1 %}
     {% if event.panelists.size > 1 %}
       <i>Featuring {{ event.panelists | sort | slice: 0, events_len | join: ", "  }} and {{ event.panelists | sort | last }}</i><br>

@@ -3,6 +3,7 @@ layout: page
 title: Digital Program Book
 order: 50
 published: true
+parent: Events
 ---
 
 Even though the convention isn't in-person this year, we thought it would still be fun to have a program book for people to add to their collection of convention artifacts.

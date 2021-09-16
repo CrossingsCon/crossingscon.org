@@ -3,6 +3,7 @@ layout: page
 title: Rules and Policies
 order: 40
 published: true
+parent: Events
 ---
 
 The main focus of CrossingsCon is to hang out and have fun! But there is also a code of conduct we expect our attendees, staff, and guests to adhere to so that the convention stays fun for everyone.

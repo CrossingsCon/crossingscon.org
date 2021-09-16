@@ -2,25 +2,6 @@
 layout: default
 ---
 
-<div class="header-fixed">
-  {% include header.html %}
-</div>
+<h1>{{ page.title }}</h1>
 
-<div class="page-container">
-  <div id="alert-container"></div>
-
-  <main class="container page-main rounded my-sm-3 p-5">
-    <article class="post">
-      <header class="post-header">
-        <h1 class="post-title">{{ page.title }}</h1>
-      </header>
-
-      <div class="">
-        {{ content }}
-      </div>
-
-    </article>
-  </main>
-
-  {% include footer.html %}
-</div>
+{{ content }}

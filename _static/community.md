@@ -2,7 +2,8 @@
 layout: page
 title: Community
 nav_title: Follow us!
-order: 50
+nav_order: 50
+has_children: true
 ---
 
 <div class="row mb-3">

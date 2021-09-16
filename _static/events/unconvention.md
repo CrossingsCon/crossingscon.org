@@ -3,6 +3,7 @@ layout: page
 title: Unconvention
 order: 40
 published: true
+parent: Events
 ---
 
 An unconvention is an event at a con where attendees present to their fellow attendees, talking about whatever they want: from poetry slams to animal sustainability to kite flying, anything and everything is welcome.

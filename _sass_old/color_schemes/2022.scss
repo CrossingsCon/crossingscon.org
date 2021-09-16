@@ -1,0 +1,53 @@
+// Define colours
+$cc-blue: #005BAB;
+$cc-dark-blue: #1B344C;
+
+$cc-logo-blue: #00AEEF;
+
+$cc-cyan: #2ED3E5;
+$cc-dark-cyan: $cc-dark-blue;
+
+$cc-green: #134C21;
+$cc-medium-green: lighten($cc-green, 15%);
+$cc-light-green: lighten($cc-green, 40%);
+$cc-medium-green-des: desaturate($cc-medium-green, 20%);
+$cc-light-green-des: desaturate($cc-light-green, 20%);
+
+$cc-green-new: rgb(50, 82, 61);
+
+$cc-gold-old: #E58E0B;
+$cc-gold: #E3B861; // lighten(#E3B861, 5%);
+$cc-silver: #B1B4B9; //
+$cc-cream: #FFFEF2;
+
+// Customize colours
+$body-background-color: $cc-cream;
+$sidebar-color: $cc-medium-green-des;
+$search-background-color: $cc-cream;
+$table-background-color: $cc-cream;
+$code-background-color: $grey-lt-000;
+$feedback-color: darken($sidebar-color, 3%);
+
+$body-text-color: $grey-dk-100;
+$body-heading-color: $grey-dk-300;
+$search-result-preview-color: $grey-dk-000;
+$nav-child-link-color: $cc-silver;
+$link-color: $cc-gold;
+$btn-primary-color: $cc-green;
+$base-button-color: #f7f7f7;
+
+// Customize layout
+$nav-width: 320px;
+$nav-width-md: 320px;
+$content-width: 900px;
+$search-results-width: $content-width;
+
+$gutter-spacing: $sp-6;
+
+$media-queries: (
+  xs: 320px,
+  sm: 500px,
+  md: $content-width,
+  lg: $content-width + $nav-width,
+  xl: 1400px,
+) ;

@@ -3,6 +3,7 @@ layout: page
 title: Information
 nav_title: Information Hub
 published: true
+parent: Slipping Sideways
 ---
 
 Click on the headings below to show summaries of all the important information you need for CrossingsCon 2021.
@@ -10,9 +11,9 @@ Click on the headings below to show summaries of all the important information y
 <div class="panel-group">
   <div class="panel panel-default">
     <div class="panel-heading">
-      <h4 class="panel-title">
+      <h3 class="panel-title">
         <a data-toggle="collapse" href="#gather">How to use Gather</a>
-      </h4>
+      </h3>
     </div>
     <div id="gather" class="panel-collapse collapse">
       <div class="panel-body">
@@ -59,9 +60,9 @@ Click on the headings below to show summaries of all the important information y
 
   <div class="panel panel-default">
     <div class="panel-heading">
-      <h4 class="panel-title">
+      <h3 class="panel-title">
         <a data-toggle="collapse" href="#accessibility">Accessibility</a>
-      </h4>
+      </h3>
     </div>
     <div id="accessibility" class="panel-collapse collapse">
       <div class="panel-body">
@@ -74,9 +75,9 @@ Click on the headings below to show summaries of all the important information y
 
   <div class="panel panel-default">
     <div class="panel-heading">
-      <h4 class="panel-title">
+      <h3 class="panel-title">
         <a data-toggle="collapse" href="#rules">Convention Rules</a>
-      </h4>
+      </h3>
     </div>
     <div id="rules" class="panel-collapse collapse">
       <div class="panel-body">
@@ -95,9 +96,9 @@ Click on the headings below to show summaries of all the important information y
 
   <div class="panel panel-default">
     <div class="panel-heading">
-      <h4 class="panel-title">
+      <h3 class="panel-title">
         <a data-toggle="collapse" href="#schedule">Convention Schedule</a>
-      </h4>
+      </h3>
     </div>
     <div id="schedule" class="panel-collapse collapse">
       <div class="panel-body">
@@ -111,9 +112,9 @@ Click on the headings below to show summaries of all the important information y
 
   <div class="panel panel-default">
     <div class="panel-heading">
-      <h4 class="panel-title">
+      <h3 class="panel-title">
         <a data-toggle="collapse" href="#events">Event Descriptions</a>
-      </h4>
+      </h3>
     </div>
     <div id="events" class="panel-collapse collapse">
       <div class="panel-body">
@@ -127,7 +128,7 @@ Click on the headings below to show summaries of all the important information y
         {% endif %}
         <div class="row pb-3">
           <div class="col">
-            <h4 class="mt-3 mt-md-0">{{ event.name }} | {{ event.startTime | date: "%l:%M %p" }} in {{ event.location }}</h4>
+            <h3 class="mt-3 mt-md-0">{{ event.name }} | {{ event.startTime | date: "%l:%M %p" }} in {{ event.location }}</h3>
             {% assign events_len = event.panelists | size | minus: 1 %}
             {% if event.panelists.size > 1 %}
               <i>Featuring {{ event.panelists | sort | slice: 0, events_len | join: ", "  }} and {{ event.panelists | sort | last }}</i><br>
@@ -144,9 +145,9 @@ Click on the headings below to show summaries of all the important information y
 
   <div class="panel panel-default">
     <div class="panel-heading">
-      <h4 class="panel-title">
+      <h3 class="panel-title">
         <a data-toggle="collapse" href="#community">CrossingsCon community</a>
-      </h4>
+      </h3>
     </div>
     <div id="community" class="panel-collapse collapse">
       <div class="panel-body">
@@ -157,9 +158,9 @@ Click on the headings below to show summaries of all the important information y
 
   <div class="panel panel-default">
     <div class="panel-heading">
-      <h4 class="panel-title">
+      <h3 class="panel-title">
         <a data-toggle="collapse" href="#support">Support the convention</a>
-      </h4>
+      </h3>
     </div>
     <div id="support" class="panel-collapse collapse">
       <div class="panel-body">
@@ -170,9 +171,9 @@ Click on the headings below to show summaries of all the important information y
 
   <div class="panel panel-default">
     <div class="panel-heading">
-      <h4 class="panel-title">
+      <h3 class="panel-title">
         <a data-toggle="collapse" href="#cc22">CrossingsCon 2022</a>
-      </h4>
+      </h3>
     </div>
     <div id="cc22" class="panel-collapse collapse">
       <div class="panel-body">

@@ -3,6 +3,7 @@ layout: page
 title: Guests of Honor
 order: 30
 published: true
+parent: Events
 ---
 
 CrossingsCon is proud to welcome our guests of honor for 2021!

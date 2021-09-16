@@ -3,6 +3,7 @@ layout: page
 title: The History of CrossingsCon
 nav_title: Our History
 order: 30
+parent: About
 ---
 
 In 2013, [a fateful chain of posts](https://dispatchrabbi.tumblr.com/post/52352879845/woven-from-sapphire-fiber-robotamputee) was made on Tumblr. Determined to make the words into reality, a group of Young Wizards fans got together and planned the first CrossingsCon. We arranged an Indiegogo fund drive for start-up money and got almost twice as much as we asked for! Turns out, a lot of other cousins out there wanted to see CrossingsCon happen too. With that, we set our sights on Manhattan…
