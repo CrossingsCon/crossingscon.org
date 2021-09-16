@@ -3,6 +3,7 @@ layout: page
 title: Full Schedule
 order: 10
 published: false
+parent: Events
 ---
 
 Friday and Saturday will be jam-packed with panels, workshops, and many other fun events. Here's the hour-by-hour schedule, and see below for a description of events as well.
@@ -33,7 +34,7 @@ Mark Oshiro leads this session on editing and having your work edited, which wil
 #### Neurodiversity in YW
 *Friday, 1:30pm*
 
-Discussion circle about neurodiversity in the YW series, in the fandom, and in ourselves. Open to anyone who identifies as neurodivergent, however you choose to define it. Participation in the discussion is wholly optional, you’re welcome to engage or not however you choose. #notyoudd 
+Discussion circle about neurodiversity in the YW series, in the fandom, and in ourselves. Open to anyone who identifies as neurodivergent, however you choose to define it. Participation in the discussion is wholly optional, you’re welcome to engage or not however you choose. #notyoudd
 
 #### Diane Reads/Mark Reads
 *Various times, check the schedule above*
@@ -78,7 +79,7 @@ Explore the universe from the comfort of your seat, as Alex and Sky take you thr
 #### Science in Sci-Fi ◆
 *Saturday, 1:45pm*
 
-Diane and Mark in conversation on how science and sci-fi interact across different mediums, with questions from Kate Howells. 
+Diane and Mark in conversation on how science and sci-fi interact across different mediums, with questions from Kate Howells.
 
 #### Linguistics: So You Want to Be Carmela
 Sarah talks about how sounds make up spoken language, including looking at sounds that are common and uncommon cross-linguistically. *Saturday, 3:00pm*

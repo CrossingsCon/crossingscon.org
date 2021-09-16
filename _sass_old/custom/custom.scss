@@ -1,0 +1,10 @@
+.side-bar {
+  background-image: linear-gradient(
+    transparentize(#000000, 0.5),
+    transparentize(#000000, 0.5)
+  ), url('../../images/backgrounds/agate.jpg');
+}
+
+.page-main img {
+  max-width: 100%;
+}

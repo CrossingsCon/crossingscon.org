@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Our Hotel
+title: Location
 category_title: Location
 order: 20
 published: true
+has_children: true
 ---
 
 <div class="row">

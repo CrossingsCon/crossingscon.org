@@ -2,6 +2,7 @@
 layout: page
 title: CrossingsCon Staff
 order: 40
+parent: About
 ---
 
 Who's minding these worldgates anyway? Here's who does what at CrossingsCon.
@@ -24,7 +25,7 @@ Interested in joining us? [Click here to see our open positions.]({{site.baseurl
   <div class="col-12 col-md-6 p-3">
     <div class="card">
       <div class="card-body">
-        <h4 class="card-title">{{ staffer.name }}</h4>
+        <h3 class="card-title">{{ staffer.name }}</h3>
         <h5 class="card-title">{{ staffer.title }}</h5>
         <div class="card-text text-muted">Wizardly specialty:<br/>{{ staffer.specialty }}</div>
       </div>

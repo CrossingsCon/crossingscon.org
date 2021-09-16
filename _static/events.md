@@ -2,8 +2,9 @@
 layout: page
 title: Events
 nav_title: Events
-order: 30
+nav_order: 20
 published: true
+has_children: true
 ---
 
 Every day at CrossingsCon will have something different happening. Read below for the outline of each day, and check back closer to the con for hourly schedules. If you have any questions feel free to reach out at <events@crossingscon.org>.
