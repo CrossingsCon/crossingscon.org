@@ -5,7 +5,7 @@ order: 40
 ---
 
 The main focus of CrossingsCon is to hang out and have fun! But there is also a code of conduct we expect our attendees, staff, and guests to adhere to so that the convention stays fun for everyone.
- 
+
 - [Convention Rules](#convention-rules)
 - [Anti-harassment Policy](#anti-harassment-policy)
 - [Spoiler Policy](#spoiler-policy)
@@ -50,7 +50,7 @@ Please be especially mindful of your cousins who haven’t read the Young Wizard
 
 We will have some events where spoilers are explicitly allowed, but for the rest of the convention please avoid spoilers entirely if possible. If you want to discuss spoilers about a book, movie, or other piece of media, please do so in a private conversation away from any other attendees who may overhear and be accidently spoiled, and especially avoid spoilers during panels and discussions when many attendees can hear you. If you accidentally spoil someone, apologize and move the remainder of your discussion to another location. If you are unsure whether everyone in a certain conversation has seen or read the thing that you would like to discuss, then ask!
 
-Spoilers aren’t limited to revealing future plot points. Consider this [comprehensive guide](http://markreads.net/reviews/about/) by the folks over at Mark Reads for examples of more subtle kinds of spoilers: 
+Spoilers aren’t limited to revealing future plot points. Consider this [comprehensive guide](http://markreads.net/reviews/about/) by the folks over at Mark Reads for examples of more subtle kinds of spoilers:
 <ul>
     <li>Stating something that happens in the future. <em>“That character dies in book two!”</em></li>
     <li>Hinting that something happens in the future. <em>“I just love what happens when that door finally opens!”</em></li>
@@ -73,7 +73,7 @@ To that end (in the service of our Art), we have already made the following prov
 - Official Con text, such as a program book, etc, will be available digitally on crossingscon.org for ease of screen-reader access.
 - For the well-being of attendees with epilepsy, flashing lights from cameras, costumes, or presentation screens will be prohibited in panels and all other Con-specific spaces.
 
-We can make these provisions if you contact us before May 30th, 2021:
+We can make these provisions if you contact us before May 30th, 2022:
 
 - Large print physical program books
 - Sign language interpreters

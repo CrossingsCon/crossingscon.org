@@ -3,28 +3,16 @@ types:
     ages: 12 and older
     price: $130 USD<sup>†</sup>
     requires_adult: false
-  - type: Adult Badge (Full weekend)
+  - type: Adult Badge
     ages: 12 and older
     price: $65 USD
     requires_adult: false
-  - type: Adult Badge (Friday)
-    ages: 12 and older
-    price: $25 USD
-    requires_adult: false
-  - type: Adult Badge (Saturday)
-    ages: 12 and older
-    price: $25 USD
-    requires_adult: false
-  - type: Adult Badge (Sunday)
-    ages: 12 and older
-    price: $20 USD
-    requires_adult: false
-  - type: Child Badge (Full weekend)
+  - type: Child Badge
     ages: 3-11 years old
     price: $32.50 USD
     requires_adult: true
-  - type: Toddler Badge (Full weekend)
+  - type: Toddler Badge
     ages: 0-2 years old
     price: $0 USD
     requires_adult: true
-url: https://www.universe.com/events/crossingscon-2021-tickets-1J8X5T?ref=website
+url: https://www.universe.com/events/crossingscon-2022-tickets-BS62LX?ref=website
