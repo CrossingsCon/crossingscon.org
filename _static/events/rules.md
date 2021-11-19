@@ -10,6 +10,7 @@ The main focus of CrossingsCon is to hang out and have fun! But there is also a 
 - [Anti-harassment Policy](#anti-harassment-policy)
 - [Spoiler Policy](#spoiler-policy)
 - [Accessibility](#accessibility)
+- [COVID-19 Vaccination and Masking Policy](#covid-19-vaccination-and-masking-policy    )
 
 ## Convention Rules
 
@@ -86,3 +87,29 @@ If you have a serious environmental allergy, please let us know, but we cannot g
 - Elevator/escalator/ramp presence at various locations -->
 
 If there is anything else we missed or about which you have concerns, please do not hesitate to contact us.
+
+## COVID-19 Vaccination and Masking Policy
+
+In order to make attending CrossingsCon as safe as possible for everyone involved, we are instituting a number of additional policies for the 2022 convention. We will update this policy if guidance from health authorities changes. Additionally, CrossingsCon will comply with any national, provincial, and local requirements regarding vaccination and masking, and we expect our attendees to do the same.
+
+While the policies below are written for attendees, they apply to CrossingsCon staff and guests of honor as well. Attempting to circumvent these policies will result in appropriate action being taken by staff, up to and including badge revocation and/or removal from convention space.
+
+### Vaccination
+**All CrossingsCon attendees are required to be fully vaccinated on or before July 20, 2022 and must show proof of vaccination at Registration in order to receive their badge, unless granted a medical exemption ahead of time by the Head of Registration.** Additionally, we strongly encourage all attendees who are eligible for booster shots to get them in advance of the convention.
+
+In order to get a medical exemption, please email [registration@crossingscon.org](mailto:registration@crossingscon.org) by July 1, 2022 with a signed note from your doctor that mentions your name, explains why a COVID vaccine is contraindicated, and includes the doctor’s practice’s address and phone number. If granted a medical exemption, you will be required to show a negative molecular COVID test from no earlier than August 3, 2022 in order to receive your badge.
+
+Whether a doctor’s note, proof of vaccination, or other relevant information, we will hold the information and documents you share with us in the strictest confidence, use them only for the purposes of determining vaccination status or medical exemption, and delete them after the convention.
+
+### Valid proof of vaccination status
+In order to prove vaccination status, attendees will be required to show a QR code, paper card, or official PDF that affirms that they have been fully vaccinated with a vaccine approved by the Canadian government. **We will not accept a photo or screenshot.**
+
+While we want to afford maximum discretion for people whose names do not match their legal names, we also need to prioritize the health of our attendees. If the name on your registration does not match the name on your proof of vaccination, please email us ahead of time at [registration@crossingscon.org](mailto:registration@crossingscon.org) with an explanation, or bring a written explanation with you to pick up your badge. In the absence of either of those, we may request a verbal explanation of the discrepancy at Registration.
+
+### Masking
+**CrossingsCon strongly encourages all attendees to wear masks while in convention spaces, though we do not require it.** Masks, if worn, should cover both the nose and the mouth. The hotel may require masks under certain circumstances; in those cases, attendees must comply with the hotel’s masking guidelines.
+
+Any harassment of people for choosing to mask or not to mask will be dealt with under our anti-harassment policy. But honestly, just be cool with each other, okay?
+
+### If you exhibit symptoms
+**Any attendee who exhibits flu-like symptoms or other symptoms of COVID-19 (such as cough, shortness of breath, nausea, vomiting, diarrhea, or fever) will not be allowed in convention spaces** unless they are able to show a negative viral COVID test from within the prior 48 hours. You may be asked to affirm that you do not have these symptoms upon entering the convention space.
