@@ -23,7 +23,7 @@ Don't forget to register over at the [registration page]({{ site.baseurl }}/badg
     <img class="card-img-top" src="{{site.baseurl}}/images/2019new/invitational-judging-square.jpg" alt="Emily Skrutskie and Mark Oshiro answer questions">
     <div class="card-body">
       <h5 class="card-title">Saturday</h5>
-      <p class="card-text">On Saturday, we kick it up a notch. We'll have stories, discussions, panels, and the highly-requested return of lightning talks. And there's a secret conwide event we have planned that you're going to want to come prepared for. On Saturday night, we'll play games (<i>Cards Against Errantry</i>, anyone?) and hang out until the hotel kicks us back to our rooms.</p>
+      <p class="card-text">On Saturday, we kick it up a notch. We'll have stories, discussions, panels, and the highly-requested return of lightning talks. On Saturday night, we'll play games (<i>Cards Against Errantry</i>, anyone?) and hang out until the hotel kicks us back to our rooms.</p>
     </div>
   </div>
   <div class="card">
