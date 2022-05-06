@@ -10,7 +10,11 @@ The main focus of CrossingsCon is to hang out and have fun! But there is also a 
 - [Anti-harassment Policy](#anti-harassment-policy)
 - [Spoiler Policy](#spoiler-policy)
 - [Accessibility](#accessibility)
-- [COVID-19 Vaccination and Masking Policy](#covid-19-vaccination-and-masking-policy    )
+- [COVID-19 Vaccination and Masking Policy](#covid-19-vaccination-and-masking-policy)
+  - [Vaccination](#vaccination)
+  - [Valid proof of vaccination status](#valid-proof-of-vaccination-status)
+  - [Masking](#masking)
+  - [If you exhibit symptoms](#if-you-exhibit-symptoms)
 
 ## Convention Rules
 
@@ -107,9 +111,7 @@ In order to prove vaccination status, attendees will be required to show a QR co
 While we want to afford maximum discretion for people whose names do not match their legal names, we also need to prioritize the health of our attendees. If the name on your registration does not match the name on your proof of vaccination, please email us ahead of time at [registration@crossingscon.org](mailto:registration@crossingscon.org) with an explanation, or bring a written explanation with you to pick up your badge. In the absence of either of those, we may request a verbal explanation of the discrepancy at Registration.
 
 ### Masking
-**CrossingsCon strongly encourages all attendees to wear masks while in convention spaces, though we do not require it.** Masks, if worn, should cover both the nose and the mouth. The hotel may require masks under certain circumstances; in those cases, attendees must comply with the hotel’s masking guidelines.
-
-Any harassment of people for choosing to mask or not to mask will be dealt with under our anti-harassment policy. But honestly, just be cool with each other, okay?
+**Face masks will be required for all attendees while in convention spaces,** exempting only active presenters during their events, for accessibility reasons. Additionally, masks should cover both the nose and the mouth. The hotel may require masks under certain circumstances; in those cases, attendees must comply with the hotel’s masking guidelines as well.
 
 ### If you exhibit symptoms
 **Any attendee who exhibits flu-like symptoms or other symptoms of COVID-19 (such as cough, shortness of breath, nausea, vomiting, diarrhea, or fever) will not be allowed in convention spaces** unless they are able to show a negative viral COVID test from within the prior 48 hours. You may be asked to affirm that you do not have these symptoms upon entering the convention space.
