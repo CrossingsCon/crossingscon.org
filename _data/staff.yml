@@ -1,8 +1,14 @@
 - section: Stationmaster's Office
   staff:
-    - name: Masha Baucom
+    # - name: Masha Baucom
+    #   title: Stationmaster
+    #   specialty: Imperative consequences
+    - name: Sarah Cowett
       title: Stationmaster
-      specialty: Imperative consequences
+      specialty: The Speech on sevarfrith worlds
+    - name: Eli Morris-Heft
+      title: Stationmaster
+      specialty: Simultaneous haberdashery
 
 - section: Events
   staff:
@@ -12,9 +18,9 @@
     - name: Sonia Grace
       title: Events Coordinator
       specialty: Walking the High Road
-    - name: Claudia Kowalski
-      title: Events Coordinator
-      specialty: Ecosystem management and conservation
+    # - name: Claudia Kowalski
+    #   title: Events Coordinator
+    #   specialty: Ecosystem management and conservation
 
 - section: Guest Relations
   staff:
