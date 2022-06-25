@@ -8,8 +8,6 @@ published: true
 
 In order to attend CrossingsCon, you'll need to [register for a badge]({{ site.data.badges.url }}) in advance. While registering, you can also donate to [Lifeboats]({{ site.baseurl }}/badges/lifeboats), our fund for cousins who need help coming to con.
 
-If you're only able to make it to CrossingsCon for certain days you can purchase a badge for each day(s) individually in any combination, or else get a 3-day badge at a slight discount.
-
 <table class="table">
   <caption class="sr-only">Badge prices for CrossingsCon</caption>
   <thead><tr>
@@ -31,7 +29,7 @@ If you're only able to make it to CrossingsCon for certain days you can purchase
       <td colspan="3"><small>* Requires accompanying purchase of an Adult Badge.</small></td>
     </tr>
     <tr>
-      <td colspan="3"><small><sup>†</sup> Only 6 available in total. Includes access to CrossingsCon for the full weekend, an exclusive badge design, a CrossingsCon 2021 t-shirt, a pass that lets you go first in the autograph line, and access to an exclusive hangout with Diane, Mark, and Ursula</small></td>
+      <td colspan="3"><small><sup>†</sup> Only 6 available in total. Includes access to CrossingsCon for the full weekend, an exclusive badge design, a CrossingsCon 2021 t-shirt, a pass that lets you go first in the autograph line, and access to an exclusive hangout with Diane, Megan, and Ursula</small></td>
     </tr>
   </tfoot>
 </table>
