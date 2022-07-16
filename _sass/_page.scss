@@ -12,3 +12,21 @@
   width: 100%;
   z-index: 20;
 }
+
+.desktop-schedule {
+  // display: none;
+}
+
+.mobile-schedule {
+  display: none;
+}
+
+@media (max-width: 1200px) {
+  .desktop-schedule {
+    display: none;
+  }
+  
+  .mobile-schedule {
+    display: block;
+  }
+}
