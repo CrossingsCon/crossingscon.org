@@ -1,5 +1,6 @@
 ---
 layout: page
+nav_title: Schedule
 title: Schedule of Events
 order: 10
 published: true
@@ -8,13 +9,13 @@ published: true
 The con weekend will be jam-packed with panels, workshops, and many other fun events. Here's the hour-by-hour schedule, and see below for a description of events as well.
 
 <div class="desktop-schedule">
-    <img src="{{ site.baseurl }}/images/2022/schedule-full.jpg" alt="The full schedule of events.">
+    <img src="{{ site.baseurl }}/images/2022/CC22-Schedule-Digital-ALL.png" alt="The full schedule of events.">
 </div>
 
 <div class="mobile-schedule">
-    <img src="{{ site.baseurl }}/images/2022/schedule-fri.jpg" alt="The schedule of events for Friday.">
-    <img src="{{ site.baseurl }}/images/2022/schedule-sat.jpg" alt="The schedule of events for Saturday.">
-    <img src="{{ site.baseurl }}/images/2022/schedule-sun.jpg" alt="The schedule of events for Sunday.">
+    <img src="{{ site.baseurl }}/images/2022/CC22-Schedule-Digital-FRI.png" alt="The schedule of events for Friday.">
+    <img src="{{ site.baseurl }}/images/2022/CC22-Schedule-Digital-SAT.png" alt="The schedule of events for Saturday.">
+    <img src="{{ site.baseurl }}/images/2022/CC22-Schedule-Digital-SUN.png" alt="The schedule of events for Sunday.">
 </div>
 
 
