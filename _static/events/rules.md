@@ -115,3 +115,5 @@ While we want to afford maximum discretion for people whose names do not match t
 
 ### If you exhibit symptoms
 **Any attendee who exhibits flu-like symptoms or other symptoms of COVID-19 (such as cough, shortness of breath, nausea, vomiting, diarrhea, or fever) will not be allowed in convention spaces** unless they are able to show a negative viral COVID test from within the prior 48 hours. You may be asked to affirm that you do not have these symptoms upon entering the convention space.
+
+If you are showing symptoms of COVID or test positive please stay in your room and email [covid@crossingscon.org](mailto:covid@crossingscon.org) or call/text [(978) 344-2043](tel:978-344-2043). We can help get you whatever you need to stay comfortable.
