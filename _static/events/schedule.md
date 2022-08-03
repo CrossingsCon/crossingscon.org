@@ -9,13 +9,13 @@ published: true
 The con weekend will be jam-packed with panels, workshops, and many other fun events. Here's the hour-by-hour schedule, and see below for a description of events as well.
 
 <div class="desktop-schedule">
-    <img src="{{ site.baseurl }}/images/2022/CC22-Schedule-Digital-ALL.png" alt="The full schedule of events.">
+    <img src="{{ site.baseurl }}/images/2022/CC22-Schedule-Digital-UPDATE-FULL.png" alt="The full schedule of events.">
 </div>
 
 <div class="mobile-schedule">
-    <img src="{{ site.baseurl }}/images/2022/CC22-Schedule-Digital-FRI.png" alt="The schedule of events for Friday.">
-    <img src="{{ site.baseurl }}/images/2022/CC22-Schedule-Digital-SAT.png" alt="The schedule of events for Saturday.">
-    <img src="{{ site.baseurl }}/images/2022/CC22-Schedule-Digital-SUN.png" alt="The schedule of events for Sunday.">
+    <img src="{{ site.baseurl }}/images/2022/CC22-Schedule-Digital-UPDATE-FRI.png" alt="The schedule of events for Friday.">
+    <img src="{{ site.baseurl }}/images/2022/CC22-Schedule-Digital-UPDATE-SAT.png" alt="The schedule of events for Saturday.">
+    <img src="{{ site.baseurl }}/images/2022/CC22-Schedule-Digital-UPDATE-SUN.png" alt="The schedule of events for Sunday.">
 </div>
 
 
@@ -36,107 +36,117 @@ Ursula and Diane talk about what it’s like to write in many genres, under mult
 
 Sufficiently advanced technology is indistinguishable from magic - or is it that sufficiently advanced magic is indistinguishable from science? The panel will discuss the Young Wizards magic system and how it uses scientific concepts to create wizardry.
 
+#### Long Timelines
+**Friday, 2pm-3pm, Symphonie 3**<br>
+*Featuring Megan and Diane*
+
+Both Diane and Megan are still writing stories in universes they created decades ago. They’ll talk about how that affects their storytelling, fan communities, and approach to new installments. Please submit your questions ahead of time using the index cards at the registration table.
+
+#### Autographs
+**Friday, 3pm-3:30pm, Symphonie 4**<br>
+*Featuring Megan*
+
+Get your books (or other things!) signed by Megan Whalen Turner.
+
 #### Papermaking Workshop
-**Friday, 2pm-3:45pm, Symphonie 4**<br>
+**Friday, 3:30pm-5:30pm, Symphonie 4**<br>
 *Crafting Workshop*
 
 Learn the art of papermaking in this workship with Pej and Bex! Participants will get a hands-on lesson in papermaking and take home their creations.
 
-#### Self-Publishing vs. Traditional Publishing
+#### So You Want to Run a Convention
+**Friday, 3:30pm-4:30pm, Symphonie 3**<br>
+*Featuring CrossingsCon staff*
+
+The con staff talk about their experiences and share stories from many years of running conventions
+
+<!-- #### Self-Publishing vs. Traditional Publishing
 **Friday, 2:15-3:15pm, Symphonie 3**<br>
 *Featuring Megan and Ursula*
 
-In this session, Megan (traditionally published) and Ursula (both traditionally and self-published) will discuss their experiences across the publishing spectrum, with comments geared toward both authors and readers. Please submit your questions ahead of time using the index cards at the registration table.
+In this session, Megan (traditionally published) and Ursula (both traditionally and self-published) will discuss their experiences across the publishing spectrum, with comments geared toward both authors and readers. Please submit your questions ahead of time using the index cards at the registration table. -->
 
-#### Autographs
-**Friday, 3:45pm-5pm, Symphonie 4**<br>
-*Featuring Ursula and Megan*
-
-Get your books (or other things!) signed by Megan Whalen Turner and Ursula Vernon.
 
 #### Linguistics Lectures V: The Em-PIE-er Strikes Back
-**Friday, 4:15pm-5:15pm, Symphonie 3**<br>
+**Friday, 4:30pm-5:30pm, Symphonie 3**<br>
 *Staff-run: Sarah*
 
 What are we speaking and how did we get here? A crash course in language evolution, writing systems, and historical linguistics.
 
 #### Baron Munchausen
-**Friday, 6:45pm-8:15pm, Symphonie 3**<br>
+**Friday, 7pm-8:30pm, Symphonie 3**<br>
 *Featuring Guests of Honor, Megan, and Eli*
 
-Watch Ursula, Megan, Megan, and Eli play a game of tall tales and collaborative storytelling that will leave you in stitches!
+Watch  Megan, Megan, and Eli play a game of tall tales and collaborative storytelling that will leave you in stitches!
+
+#### Linguistics After Dark
+**Friday, 9pm-?????, Symphonie 3**<br>
+*Staff-run, Sarah and Eli*
+
+Eli and Sarah get drunk and answer your random questions about language. That’s it. That’s the panel.
 
 ## Saturday
 
 #### GoH Q&A
 **Saturday, 10:45am-11:45am, Symphonie 3**<br>
-*Featuring All GoH*
+*Featuring All Guests of Honour*
 
 Exactly what it says on tin: all our guests are here to answer your questions! Please submit your questions ahead of time using the index cards at the registration table.
 
-#### Writing Workshop
-**Saturday, 1pm-3pm, Symphonie 3**<br>
-*Featuring Megan*
-
-Megan will lead this two-hour writing workshop. Writers of all skill levels are welcome to participate.
-
-#### Cordage Workshop
-**Saturday, 2:15pm-3:45pm, Symphonie 4**<br>
-*Attendee-led: Pej, crafting workshop*
-
-Learn how to make yarn and rope from string at this workshop run by Pej! Manual dexterity will be required in order to participate.
-
-#### Spaaaaaaaaaace! with Alex
-**Saturday, 3:45pm-4:45pm, Symphonie 3**<br>
-*Attendee-led: Alex*
-
-August 6th marks the 10th anniversary of the Curiosity rover’s landing on Mars, and we have a real live member of the Curiosity ops team here to talk about it!
-
-
-#### Taskmaster
-**Saturday, 6:30pm-8pm, Symphonie 3**<br>
-*Featuring Megan, Ursula, and a couple volunteers*
-
-Come watch Megan, Ursula, and some lucky volunteers compete to finish silly tasks on a tight timeline! Who will win the Taskmaster trophy?
-
-#### Pub Trivia
-**Saturday, 8pm-9:15pm, Symphonie 3**<br>
-*Staff-run, Sarah and Eli*
-
-Gather your friends and test your knowledge in a game of pub trivia! (If you don’t have a team, come anyway and we’ll set you up.)
-
-#### Linguistics After Dark
-**Saturday, 9:30pm-?????, Symphonie 3**<br>
-*Staff-run, Sarah and Eli*
-
-Eli and Sarah get drunk and answer your random questions about language. That’s it. That’s the panel.
-
-
-## Sunday
-
-#### Long Timelines
-**Sunday, 10:45am-11:45am, Symphonie 3**<br>
-*Featuring Megan and Diane*
-
-Both Diane and Megan are still writing stories in universes they created decades ago. They’ll talk about how that affects their storytelling, fan communities, and approach to new installments. Please submit your questions ahead of time using the index cards at the registration table.
-
 #### Myth-building
-**Sunday, 1:15pm-2:15pm, Symphonie 3**<br>
+**Saturday, 1pm-2pm, Symphonie 3**<br>
 *Featuring Megan and Ursula*
 
 Ursula and Megan talk about how they created entire mythologies for their stories. From the pantheon of Eddis to the Temple of the White Rat, hear about the process and importance of creating whole belief systems from scratch. Please submit your questions ahead of time using the index cards at the registration table.
 
 #### Lightning Talks
-**Sunday, slots from 1:45pm-3:45pm, Symphonie 4**<br>
+**Saturday, slots from 1:30pm-3:30pm, Symphonie 4**<br>
 *Featuring Whoever Signs Up*
 
 Sign up for a time slot and talk about anything you like! If you have an area of expertise that you think people might be interested in, share it here! If you want to meet up with others that share your interests or passions, book a slot! From poetry slams to animal sustainability to kite flying, anything and everything is welcome.
+
+#### Spaaaaaaaaaace! with Alex
+**Saturday, 2pm-3pm, Symphonie 3**<br>
+*Attendee-led: Alex*
+
+August 6th marks the 10th anniversary of the Curiosity rover’s landing on Mars, and we have a real live member of the Curiosity ops team here to talk about it!
+
+#### Writing Workshop
+**Saturday, 3:15pm-5:15pm, Symphonie 3**<br>
+*Featuring Megan*
+
+Megan will lead this two-hour writing workshop. Writers of all skill levels are welcome to participate.
+
+#### Cordage Workshop
+**Saturday, 3:45pm-5:15pm, Symphonie 4**<br>
+*Attendee-led: Pej, crafting workshop*
+
+Learn how to make yarn and rope from string at this workshop run by Pej! Manual dexterity will be required in order to participate.
+
+
+#### Taskmaster
+**Saturday, 7pm-8:30pm, Symphonie 3**<br>
+*Featuring Megan, Ursula, and a couple volunteers*
+
+Come watch Megan, Ursula, and some lucky volunteers compete to finish silly tasks on a tight timeline! Who will win the Taskmaster trophy?
+
+<!-- #### Pub Trivia
+**Saturday, 8pm-9:15pm, Symphonie 3**<br>
+*Staff-run, Sarah and Eli*
+
+Gather your friends and test your knowledge in a game of pub trivia! (If you don’t have a team, come anyway and we’ll set you up.) -->
+
+
+<!-- ## Sunday
+
+
+
 
 #### Ursula Reads a Thing
 **Sunday, 2:45-3:45pm, Symphonie 3**<br>
 *Featuring Ursula*
 
-Ursula will read an unpublished piece.
+Ursula will read an unpublished piece. -->
 
 
 
