@@ -4,7 +4,7 @@
     #   title: Stationmaster
     #   specialty: Imperative consequences
     - name: Sarah Cowett
-      title: Stationmaster
+      title: Stationmaster, Chauffeur
       specialty: The Speech on sevarfrith worlds
     - name: Eli Morris-Heft
       title: Stationmaster
@@ -45,6 +45,12 @@
     - name: Andy Rusterholz; Sneaky Monster
       title: Director of Operations
       specialty: Dysparanomasia
+    - Name: Pej Lyles
+      title: Gopher, Stablemaster, Human Swiss Army Knife
+      specialty: Hostler
+    - name: Bex Fortin
+      title: Gopher, Armorer
+      specialty: Timeline maintenance
 
 - section: Public Relations
   staff:

@@ -7,7 +7,7 @@ order: 40
 Who's minding these worldgates anyway? Here's who does what at CrossingsCon.
 
 <div class="row mb-3">
-  <div class="col"><img src="{{ site.baseurl }}/images/from2019/staff-photo.jpg" class="img-fluid" alt="The CrossingsCon 2019 staff at Closing Ceremonies"></div>
+  <div class="col"><img src="{{ site.baseurl }}/images/2022/staff.jpg" class="img-fluid" alt="The CrossingsCon 2022 staff at Closing Ceremonies"></div>
 </div>
 
 {% if site.data.jobs %}
