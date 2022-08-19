@@ -3,7 +3,7 @@ layout: page
 nav_title: Schedule
 title: Schedule of Events
 order: 10
-published: true
+published: false
 ---
 
 The con weekend will be jam-packed with panels, workshops, and many other fun events. Here's the hour-by-hour schedule, and see below for a description of events as well.
