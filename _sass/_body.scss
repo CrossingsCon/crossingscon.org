@@ -1,0 +1,25 @@
+.gradient {
+    background-image: linear-gradient(to right, $white, $cc-sky-blue);
+}
+
+.bg-blue {
+    background-color: $cc-24-blue;
+} 
+
+.bg-green {
+    background-color: $cc-24-green; 
+}
+
+.text-white {
+    color: white;
+}
+
+.testimonal-quote {
+    font-family: arial;
+    font-size: 144px;
+}
+
+.testimonial-body {
+    vertical-align: middle;
+    font-size: 24px;
+}

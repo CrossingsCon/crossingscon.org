@@ -1,14 +1,15 @@
 #page > header > nav {
-  background-color: darken($color: $dark, $amount: 5%);
+  background-color: white;
+  color: black;
 }
 
 .nav-link {
-  color: $cc-gold!important;
+  color: $cc-24-green!important;
 }
 
-.dropdown-toggle::after {
-  color: $cc-silver!important;
-}
+// .dropdown-toggle::after {
+//   color: $cc-silver!important;
+// }
 
 .header-logo {
   width: 100%;

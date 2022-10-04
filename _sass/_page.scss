@@ -1,5 +1,5 @@
 .page-main {
-  background-color: $cc-cream;
+  // background-color: white;
   margin-top: 5em!important;
 }
 
@@ -29,4 +29,13 @@
   .mobile-schedule {
     display: block;
   }
+}
+
+.main-container > * {
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
+.post-content {
+  padding: 5rem;
 }

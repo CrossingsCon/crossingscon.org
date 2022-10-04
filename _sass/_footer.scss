@@ -1,8 +1,10 @@
 footer {
-  color: $cc-gold;
+  color: white;
+  background-color: $cc-24-blue;
+  color: black;
   display: flex;
   flex-direction: column;
-  flex: 1;
+  flex: 1; 
   
   .heart {
     color: $cc-silver;
