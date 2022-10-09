@@ -1,6 +1,10 @@
 #page > header > nav {
   background-color: white;
   color: black;
+  button {
+    padding: 0;
+    font-size: 36px;
+  }
 }
 
 .nav-link {
@@ -16,17 +20,23 @@
 }
 
 .header-link {
-  max-width: 50%;
+  max-width: 30%;
 }
 
 .btn-badge {
-  background-color: $cc-gold;
-  border-color: $cc-gold;
+  background-color: $cc-24-green;
+  border-color: $cc-24-green;
   color: $black;
 }
 
 .btn-badge:hover {
-  background-color: darken($cc-gold, 10%);
-  border-color: darken($cc-gold, 10%);
+  background-color: darken($cc-24-green, 10%);
+  border-color: darken($cc-24-green, 10%);
   color: $white;
+}
+
+.navbar-toggler-icon {
+  color: $cc-24-green;
+  height: 1.5em;
+  line-height: 1.5em;
 }

@@ -1,6 +1,6 @@
 .page-main {
   // background-color: white;
-  margin-top: 5em!important;
+  // margin-top: 5em!important;
 }
 
 .page-main img {
@@ -8,7 +8,7 @@
 }
 
 #page > header {
-  position: absolute;
+  background-color: lightgray;
   width: 100%;
   z-index: 20;
 }
@@ -36,6 +36,14 @@
   padding-right: 3rem;
 }
 
-.post-content {
-  padding: 5rem;
+.post {
+  padding-left: 10rem;
+  padding-right: 10rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  @media (max-width: 1200px) {
+    padding-top: 0rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
 }
