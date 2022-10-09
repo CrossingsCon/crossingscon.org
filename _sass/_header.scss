@@ -17,10 +17,15 @@
 
 .header-logo {
   width: 100%;
+  
 }
 
 .header-link {
+  padding: 0;
   max-width: 30%;
+  @media (max-width: 1200px) {
+    max-width: 50%;
+  }
 }
 
 .btn-badge {
