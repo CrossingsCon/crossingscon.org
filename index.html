@@ -5,7 +5,8 @@ layout: home
 <div class="slideshow-container">
   {% for image in site.data.slideshow %}
     <div class="mySlides fade-in">
-      <img src="{{ site.baseurl }}{{ image.path }}" style="width:100%">
+      <img class="carousel-desktop" src="{{ site.baseurl }}{{ image.desktop }}" style="width:100%">
+      <img class="carousel-mobile" src="{{ site.baseurl }}{{ image.mobile }}" style="width:100%">
     </div>
   {% endfor %}
 
