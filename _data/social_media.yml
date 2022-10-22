@@ -1,8 +1,6 @@
-- service: tumblr
-  site: https://blog.crossingscon.org
-- service: facebook
-  site: https://facebook.com/crossingscon
-- service: twitter
-  site: https://twitter.com/crossingscon
-- service: slack
-  site: https://join.slack.com/t/the-crossings/shared_invite/zt-1ido12bn6-f2ewbp4yx1g_lIIGGDDzYA
+tumblr: https://blog.crossingscon.org
+facebook: https://facebook.com/crossingscon
+twitter: https://twitter.com/crossingscon
+# If you change this, don't forget to update the Slack redirect page, since we can't use variables in frontmatter
+slack: https://join.slack.com/t/the-crossings/shared_invite/zt-1ido12bn6-f2ewbp4yx1g_lIIGGDDzYA
+patreon: https://www.patreon.com/emfozzing

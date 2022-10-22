@@ -64,9 +64,9 @@ This page layout actually causes that page to redirect to a specified external U
 
 ```markdown
 ---
-title: The Crossings Slack
+title: Go somewhere else
 layout: redirect
-redirect_url: http://slackin.emfozzingenterprises.org/
+redirect_url: http://example.com/
 ---
 ```
 
