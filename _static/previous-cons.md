@@ -6,35 +6,36 @@ order: 40
 published: true
 ---
 
-Every day at CrossingsCon will have something different happening. Read below for the outline of each day, and the guests of honour we've invited in the past.
+Every day at CrossingsCon has its own format. Read below for the typical outline of what has happened each day for our in-person cons, and the guests of honor we’ve invited in the past.
 
 <div class="card-deck">
   <div class="card">
     <img class="card-img-top" src="{{site.baseurl}}/images/2019new/panel-audience-square.jpg" alt="Attendees at a panel at CrossingsCon 2018">
     <div class="card-body">
       <h5 class="card-title">Friday</h5>
-      <p class="card-text">Friday is built around saying hi to old cousins and meeting new ones! We'll introduce our Guests of Honor at opening ceremonies, play games with each other, and have a variety of panels, activities, and book signings.</p>
-      <p class="card-text">We've got a lot of cool stuff on the schedule for Friday (which we'll be revealing as the year goes on) — and make sure you're well rested, because we'll be going long into the night!</p>
+      <p class="card-text">"Friday is built around saying hi to old cousins and meeting new ones! We introduce our Guests of Honor at opening ceremonies, play games with each other, and have a variety of panels, activities, and book signings. Activities typically go long into the night on the first day of the con!</p>
     </div>
   </div>
   <div class="card">
     <img class="card-img-top" src="{{site.baseurl}}/images/2019new/invitational-judging-square.jpg" alt="Emily Skrutskie and Mark Oshiro answer questions">
     <div class="card-body">
       <h5 class="card-title">Saturday</h5>
-      <p class="card-text">On Saturday, we kick it up a notch. We'll have stories, discussions, panels, and the highly-requested return of lightning talks. On Saturday night, we'll play games (<i>Cards Against Errantry</i>, anyone?) and hang out until the hotel kicks us back to our rooms.</p>
+      <p class="card-text">On Saturday, we kick it up a notch. We have stories, discussions, panels, and highly-requested attendee-led lightning talks. On Saturday night, we play tabletop games and hang out until the hotel kicks us back to our rooms.</p>
     </div>
   </div>
   <div class="card">
     <img class="card-img-top" src="{{site.baseurl}}/images/2019new/sunday-bridge-square.jpg" alt="Four cousins ready to go whale-watching on a boat">
     <div class="card-body">
       <h5 class="card-title">Sunday</h5>
-      <p class="card-text">Even though it's the last day of the con, day three doesn't have us slowing down. We'll have even more discussions and panels, with an extra day this year we'll be able to cover even more than we have at past CrossingsCons.</p>
-      <p class="card-text">At the end of the day we'll ring out CrossingsCon 2022 with closing ceremonies, and we'll finish with our post-con party (a.k.a. dead dog) somewhere nearby.</p>
+      <p class="card-text">Even though it's the last day of the con, day three doesn't have us slowing down. We usually have a group excursion on Sunday, which gives us one last chance to hang out and build amazing memories together before we head home! So far, we have explored Manhattan, the Aquarium of the Pacific, and the Montréal Space for Life.</p>
+      <p class="card-text">At the end of the day we have closing ceremonies, and we finish out the con with our (unofficial) post-con party somewhere nearby.</p>
     </div>
   </div>
 </div>
 
 <br>
+We always have exclusive CrossingsCon Merch available for sale during the con, and have had booksellers join us onsite in 2019 and 2022.
+
 
 ## Previous Guests
 
@@ -84,15 +85,17 @@ Find more information [here][meetup-post]. -->
 
 <img src="{{ site.baseurl }}/images/2019new/baron1-wide.jpg" class="img-fluid" alt="Attendees on their walk to the aquarium">
 
-The CrossingsCon staff made the decision to hold CrossingsCon every other year after the 2017 convention. After a long wait, CrossingsCon 2019 was held in beautiful Montréal, Canada on June 21-23, with more than 100 attendees, 12 CrossingsCon Staff, as well as special guests Mark Oshiro, Kate Howells, and Diane Duane (in person!)! 2019 was an action-packed weekend of panels, stories and much fun. On sunday we took a tour of Montréal's biodome, visiting Filif's extended cousins as well as seeing a show at the planetarium.
+The CrossingsCon staff made the decision to hold CrossingsCon every other year after the 2017 convention. After a long wait, CrossingsCon 2019 was held in beautiful Montréal, Canada on June 21-23, with more than 100 attendees, 12 CrossingsCon Staff, as well as special guests Mark Oshiro, Kate Howells, and Diane Duane (in person!)! 2019 was an action-packed weekend of panels, stories and much fun. On Sunday we took a tour of Montréal’s Space for Life botanical gardens, visiting Filif’s extended cousins, as well as seeing a show at the planetarium.
 
 ### 2021: Slipping Sideways
 
-[Todo: blurb]
+Due to the pandemic, we decided to postpone our in-person convention to 2022 and held a virtual Slipping Sideways convention on gather.town. We spread out the con over a week, and were able to host 6 Guests of Honor virtually! Diane Duane, Ursula Vernon, Megan Whalen Turner, C.B. Lee, Cat Valente, and Jessica Day George were all able to join us, as well as 70 attendees and 12 staff and volunteer moderators. Our Gather space had several panel rooms as well as a library with functional games, teleportation, and hidden easter eggs such as a duck pond livestream in the park.
 
 ### 2022: Montréal, Canada
 
-[Todo: blurb]
+<img src="{{ site.baseurl }}/images/2022/GiveLinguistsSwords-Edited.jpg" class="img-fluid" alt="The Linguistics After Dark team with their new swords #GiveLinguistsSwords">
+
+After having been postponed, we were able to finally have our convention in-person again! CrossingsCon 2022 was held in Montréal, Canada once more on August 5-7, with more than 70 attendees, 11 CrossingsCon Staff, as well as Guests of Honor Megan Whalen Turner, Ursula Vernon, and Diane Duane. On Sunday we explored Montréal’s Biodôme, which mostly entailed hiding in the penquin exhibit to beat the heat.
 
 [wizcon-post]: {{ site.baseurl }}/images/the-original-post.png
 [youtube-playlist-2016]: https://www.youtube.com/playlist?list=PL5nkrJ3R5UQxlANmJm7ErjBxrDxGdYwwT

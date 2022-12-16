@@ -1,38 +1,34 @@
 - section: Stationmaster's Office
   staff:
-    # - name: Masha Baucom
-    #   title: Stationmaster
-    #   specialty: Imperative consequences
     - name: Sarah Cowett
-      title: Stationmaster, Chauffeur
+      title: Stationmaster, Con Chair, Chauffeur
       specialty: The Speech on sevarfrith worlds
-    - name: Eli Morris-Heft
-      title: Stationmaster
-      specialty: Simultaneous haberdashery
+    - name: Jenny Peterson
+      title: Vice Stationmaster, Assistant Con Chair
+      specialty: Curating and archiving information
 
-- section: Events
-  staff:
-    - name: Emma Heuchert
-      title: Director of Events
-      specialty: Translation, storytelling, and folklore
-    - name: Sonia Grace
-      title: Events Coordinator
-      specialty: Walking the High Road
+    # - name: Eli Morris-Heft
+    #   title: Stationmaster
+    #   specialty: Simultaneous haberdashery
+
+# - section: Events
+#   staff:
+#     - name: Emma Heuchert
+#       title: Director of Events
+#       specialty: Translation, storytelling, and folklore
+#     - name: Sonia Grace
+#       title: Events Coordinator
+#       specialty: Walking the High Road
     # - name: Claudia Kowalski
     #   title: Events Coordinator
     #   specialty: Ecosystem management and conservation
 
-- section: Guest Relations
+- section: Guest Relations & Events
   staff:
-    - name: Jenny Peterson
-      title: Guest Liaison
-      specialty: Curating and archiving information
-
-- section: Design & Merch
-  staff:
-    - name: Amy Hall
-      title: Director of Design & Merchandise
-      specialty: Interactive storytelling and spell calligraphy
+    - name: Emma Heuchert
+      title: Director of Guests & Events
+      specialty: Translation, storytelling, and folklore
+    
 
 #- section: Merchandise
 #  staff:
@@ -52,14 +48,17 @@
       title: Gopher, Armorer
       specialty: Timeline maintenance
 
-- section: Public Relations
+- section: Marketing & Communications
   staff:
+    - name: Amy Hall
+      title: Director of Marketing & Communications
+      specialty: Interactive storytelling and spell calligraphy
+    - name: Kayla Forshey
+      title: Director of Public Relations
+      specialty: Writing spells
     - name: Anuj Opal
       title: Webmaster
       specialty: Principles of spell design
-    - name: Kayla Forshey
-      title: Deputy Director of PR
-      specialty: Writing spells
 
 - section: Registration
   staff:
