@@ -10,16 +10,17 @@ body {
   left: 0;
   right: 0;
 
-  background-color: transparentize(#666666, 0.6666);
+  // background-color: transparentize(#666666, 0.6666);
 
-  background-image: linear-gradient(
-    transparentize(#000000, 0.75), 
-    transparentize(#000000, 0.75)
-  ), url($baseurl + '/images/backgrounds/agate.jpg');
-  background-origin: border-box;
-  background-size: cover;
-  background-attachment: fixed;
-  background-position: center top;
+  // background-image: linear-gradient(
+  //   transparentize(#000000, 0.75), 
+  //   transparentize(#000000, 0.75)
+  // ), url($baseurl + '/images/backgrounds/agate.jpg');
+  // background-origin: border-box;
+  // background-size: cover;
+  // background-attachment: fixed;
+  // background-position: center top;
+  background-color: white;
 
   @media (max-width: 768px) {
     background-size: auto 100vh;
@@ -49,7 +50,7 @@ body {
     width: 100%;
     padding: 10px;
     border-radius: 4px;
-    border: 1px solid $cc-gold;
+    border: 1px solid $cc-24-green;
     margin-bottom: 10px;
   }
 

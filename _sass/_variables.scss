@@ -13,11 +13,17 @@ $cc-light-green: lighten($cc-green, 40%);
 
 $cc-green-new: rgb(50, 82, 61);
 
+// 2021/2022 colours
 $cc-gold-old: #E58E0B;
 $cc-gold: #E3B861; // lighten(#E3B861, 5%);
 $cc-silver: #B1B4B9; //
 $cc-cream: #FFFEF2;
 
+// 2024 colours
+$cc-sky-blue: #99dbf8;
+$cc-24-green: #00A550;
+$cc-24-blue: #0066AA;
+
 $theme-colors: (
-  "primary": $cc-medium-green
+  "primary": $cc-24-green
 );

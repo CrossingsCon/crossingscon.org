@@ -1,13 +1,93 @@
 ---
-layout: page
+layout: home
 ---
 
-<h1>Dai stihó, cousin!</h1>
+<div class="slideshow-container">
+  {% for image in site.data.slideshow %}
+    <div class="mySlides fade-in">
+      <img class="carousel-desktop" src="{{ site.baseurl }}{{ image.desktop }}" style="width:100%">
+      <img class="carousel-mobile" src="{{ site.baseurl }}{{ image.mobile }}" style="width:100%">
+    </div>
+  {% endfor %}
+
+  <div class="carousel-nav">
+    {% for image in site.data.slideshow %}
+      <span class="dot" onclick="currentSlide({{ forloop.index }})"></span>
+    {% endfor %}
+  </div>
+</div>
+
+<div class="welcome gradient">
+  <div class="p-5">
+    <h1>Dai stihó, cousin!</h1>
+    <p class="lead">
+      Welcome to CrossingsCon, a convention about all the universes that we visit when we read, where people can come
+      together to share what they love and have fun doing it.
+    </p>
+    <p class="lead">
+      Our most recent convention was in August of 2022. We are currently in between con cycles, but check back later and follow us on social media for more updates!
+    </p>
+  </div>
+</div>
+<!-- <div class="testimonials bg-green text-white">
+  <div class="row">
+    <div class="col-2 px-0 testimonal-quote text-right">
+      <img src="{{ site.baseurl }}/images/quotemark.svg">
+    </div>
+    <div class="col testimonial-body my-auto">
+      Lorem ipsum dolor si amet <i class="fa-solid fa-bars"></i>
+    </div>
+  </div>
+</div> -->
+
+
+
+
+
+<script>
+  let slideIndex = 1;
+  let timeout = -1;
+  const nextSlideDelay = 8000;
+  showSlides(slideIndex);
+
+  // Next/previous controls
+  function plusSlides(n) {
+    showSlides(slideIndex += n);
+  }
+
+  // Thumbnail image controls
+  function currentSlide(n) {
+    showSlides(slideIndex = n);
+  }
+
+  function showSlides(n) {
+    let i;
+    let slides = document.getElementsByClassName("mySlides");
+    let dots = document.getElementsByClassName("dot");
+    if (n > slides.length) {slideIndex = 1}
+    if (n < 1) {slideIndex = slides.length}
+    for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+    }
+    for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+    }
+    slides[slideIndex-1].style.display = "block";
+    dots[slideIndex-1].className += " active";
+
+    clearTimeout(timeout)
+    timeout = setTimeout(currentSlide, nextSlideDelay, slideIndex + 1); // Change image every 2 seconds
+  }
+
+  currentSlide(1)
+</script>
+
+
+<!-- <h1>Dai stihó, cousin!</h1>
 <p class="lead">Welcome to CrossingsCon, a convention about all the universes that we visit when we read, where people can come together to share what they love and have fun doing it.
 </p>
 <p class="lead">Join us in 2022 as we explore literature, geekdom, and Montréal in a fun-filled three-day extravaganza with special guests, a little wizardry, and many new cousins to meet!</p>
 <div class="row d-flex d-lg-none mb-3">
-    <!-- <div class="col"><img src="{{ site.baseurl }}/images/carousel/hanging-with-mark-and-emily.jpg" class="img-fluid" alt="Several attendees chatting with Mark Oshiro and Emily Skrutskie"></div> -->
     <div class="col"><img src="{{ site.baseurl }}/images/2019new/staff-and-diane-crop.jpg" class="img-fluid" alt="The CrossingsCon 2019 staff with Diane"></div>
 </div>
 
@@ -21,4 +101,4 @@ layout: page
   <div class="col"><img src="{{ site.baseurl }}/images/2019new/filif-cosplay-landscape.jpg" class="img-fluid" alt="An attendee proudly display's their Filif cosplay"></div>
   <div class="col"><img src="{{ site.baseurl }}/images/2019new/signings-group.jpg" class="img-fluid" alt="Attendees posing while waiting in the signings line"></div>
   <div class="col"><img src="{{ site.baseurl }}/images/2019new/diane-mark.jpg" class="img-fluid" alt="Diane and Mark Oshiro talking during a panel"></div>
-</div>
+</div> -->
