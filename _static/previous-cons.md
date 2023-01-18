@@ -95,7 +95,7 @@ Due to the pandemic, we decided to postpone our in-person convention to 2022 and
 
 <img src="{{ site.baseurl }}/images/2022/GiveLinguistsSwords-Edited.jpg" class="img-fluid" alt="The Linguistics After Dark team with their new swords #GiveLinguistsSwords">
 
-After having been postponed, we were able to finally have our convention in-person again! CrossingsCon 2022 was held in Montréal, Canada once more on August 5-7, with more than 70 attendees, 11 CrossingsCon Staff, as well as Guests of Honor Megan Whalen Turner, Ursula Vernon, and Diane Duane. On Sunday we explored Montréal’s Biodôme, which mostly entailed hiding in the penquin exhibit to beat the heat.
+After having been postponed, we were able to finally have our convention in-person again! CrossingsCon 2022 was held in Montréal, Canada once more on August 5-7, with more than 70 attendees, 11 CrossingsCon Staff, as well as Guests of Honor Megan Whalen Turner, Ursula Vernon, and Diane Duane. On Sunday we explored Montréal’s Biodôme, which mostly entailed hiding in the penguin exhibit to beat the heat.
 
 [wizcon-post]: {{ site.baseurl }}/images/the-original-post.png
 [youtube-playlist-2016]: https://www.youtube.com/playlist?list=PL5nkrJ3R5UQxlANmJm7ErjBxrDxGdYwwT
