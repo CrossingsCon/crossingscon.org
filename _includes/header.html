@@ -31,7 +31,7 @@
         {% for page_depth1 in ordered_pages %}
           {% assign parts_depth1 = page_depth1.url | split: "/" %}
           {% assign depth = parts_depth1 | size | minus: 1 %}
-          {% if depth == 1 %}{% unless page_depth1.hide == true %}
+          {% if depth == 1 %}{% unless page_depth1.hide == true %}{% unless page_depth1.no_children == true %}
           <li class="nav-item dropdown">
             <a
               class="nav-link dropdown-toggle"
@@ -61,6 +61,17 @@
               {% endfor %}
             </div>
           </li>
+          {% endunless %}
+          {% if page_depth1.no_children == true %}
+          <li class="nav-item">
+            <a
+              class="nav-link"
+              href="{{ page_depth1.url | prepend: site.baseurl }}"
+              id="{{ page_depth1.url | slugify }}dropdown"
+            >{{ page_depth1.category_title | default: page_depth1.title }}</a>
+          </li>
+          {% endif %}
+          
           {% endunless %}{% endif %}
         {% endfor %}
       </ul>

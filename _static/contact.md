@@ -3,6 +3,7 @@ layout: page
 title: Contact Us
 category_title: Contact
 order: 60
+no_children: true
 ---
 
 If you need to ask us a question or get a hold of us for any reason, the best way to do so is through email at [info@crossingscon.org](mailto:info@crossingscon.org), or submit the form below.
