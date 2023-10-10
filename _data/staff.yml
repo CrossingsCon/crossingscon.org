@@ -28,6 +28,15 @@
     - name: Emma Heuchert
       title: Director of Guests & Events
       specialty: Translation, storytelling, and folklore
+    - name: Alliah Krahn
+      title: Guest Liaison
+      speciality: Cortisotopology
+    - name: Kali Larsen
+      title: Guevents Team
+      speciality: Energy transformation
+    - name: Sky Callahan
+      title: Guevents team
+      speciality: Energy combination and amplification
     
 
 #- section: Merchandise
@@ -38,12 +47,12 @@
 
 - section: Operations
   staff:
-    - name: Andy Rusterholz; Sneaky Monster
+    - name: Andy Rusterholz, Sneaky Monster
       title: Director of Operations
       specialty: Dysparanomasia
     - name: Pej Lyles
-      title: Gopher, Stablemaster, Human Swiss Army Knife
-      specialty: Hostler
+      title: Stablemaster, Hostler, Gopher
+      specialty: Human swiss army knife
     - name: Bex Fortin
       title: Gopher, Armorer
       specialty: Timeline maintenance
@@ -53,9 +62,21 @@
     - name: Amy Hall
       title: Director of Marketing & Communications
       specialty: Interactive storytelling and spell calligraphy
+    - name: Chris Y
+      title: Design assisstant
+      speciality: Repair and design
     - name: Kayla Forshey
       title: Director of Public Relations
       specialty: Writing spells
+    - name: Eva Lindquist
+      title: Social Media Team
+      speciality: Member of the Rubber Duck Squad
+    - name: Megan Wegenke
+      title: Social Media Team
+      speciality: Enthusiasm incorporator
+    - name: Rosemary
+      title: Social Media Team
+      speciality: Worldgate string maintenance
     - name: Anuj Opal
       title: Webmaster
       specialty: Principles of spell design
