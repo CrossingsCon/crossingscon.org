@@ -49,6 +49,7 @@ cousins! You're the reason CrossingsCon exists!
       <li>Jessica Ng</li>
       <li>Jules and Liz Coleman</li>
       <li>Katerina</li>
+      <li>Karesket</li>
       <li>Kay</li>
       <li>Kayla</li>
       <li>Kayla Rudbek</li>
