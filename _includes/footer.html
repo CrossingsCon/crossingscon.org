@@ -1,38 +1,13 @@
-<footer class="container-fluid py-4">
+<footer class="container-fluid py-3">
   <div class="container-wrapper">
-  <div class="row align-items-center py-2 flipper">
-    <!-- <div class="col order-2 text-center order-md-1 text-md-right">
-      <span class="unflipped">JD {{ site.data.date.julian }}</span>
-      <span class="flipped">{{ site.data.date.full }}</span>
-    </div> -->
-    <!-- <div class="order-1 col-md-auto text-center text-md-right py-2"> -->
-    <div class="col order-1 text-center py-2">
-      <a href="{{ site.data.social_media.tumblr }}">
-        <img class="social-icon px-1 py-1" src="{{site.baseurl}}/images/social-icons/Icon_Website_tumblr-white.svg" alt="Tumblr logo"/>
-      </a>
-      <a href="{{ site.data.social_media.facebook }}">
-        <img class="social-icon px-1 py-1" src="{{site.baseurl}}/images/social-icons/Icon_Website_facebook-white.svg" alt="Facebook logo"/>
-      </a>
-      <a href="{{ site.data.social_media.twitter }}">
-        <img class="social-icon px-1 py-1" src="{{site.baseurl}}/images/social-icons/Icon_Website_twitter-white.svg" alt="Twitter logo"/>
-      </a>
-      <a href="/" class="px-3">
-        <img
-          src="{{ "/images/hex-white.svg" | prepend: site.baseurl }}"
-          alt="The CrossingsCon logo"
-          height="40"
-        />
-      </a>
-      <a href="{{ site.data.social_media.slack }}">
-        <img class="social-icon px-1 py-1" src="{{site.baseurl}}/images/social-icons/Icon_Website_slack-white.svg" alt="Slack logo"/>
-      </a>
-      <a href="{{ site.data.social_media.patreon }}">
-        <img class="social-icon px-1 py-1" src="{{site.baseurl}}/images/social-icons/Icon_Website_patreon-white.svg" alt="Patreon logo"/>
-      </a>
-      <a href="https://emfozzingenterprises.org/">
-        <img class="social-icon px-1 py-1" src="{{site.baseurl}}/images/social-icons/Icon_Website_EE-white.svg" alt="EmfozzingEnterprises logo"/>
-      </a>
-    </div>
+    <div class="row align-items-center py-2">
+      <div class="col order-1 text-center">
+        {% for social in site.data.social_media %}
+        <a href="{{ social.link }}">
+          <img class="social-icon px-1 py-1" src="{{site.baseurl}}{{social.icon}}" alt="{{social.name | Capitalize}} Icon"/>
+        </a>
+        {% endfor %}
+      </div>
     <!-- <div id="con-info-lat-long" class="footer-text col order-3 text-center order-md-4 text-md-left">
       <span class="unflipped">
         45°30′27.1656″N<br/>
@@ -41,14 +16,28 @@
       <span class="flipped">Montréal, Québec</span>
     </div> -->
   </div>
+  <div class="row align-items-center py-2 flipper">
+    <!-- <div class="col order-2 text-center order-md-1 text-md-right">
+      <span class="unflipped">JD {{ site.data.date.julian }}</span>
+      <span class="flipped">{{ site.data.date.full }}</span>
+    </div> -->
+    <!-- <div class="order-1 col-md-auto text-center text-md-right py-2"> -->
+    <div class="col order-1 text-center">
+      <!-- <a href="/" class="px-2">
+        <img
+          src="{{ "/images/hex-white.svg" | prepend: site.baseurl }}"
+          alt="The CrossingsCon logo"
+          height="40"
+        />
+      </a> -->
+      <span id="made-with-love" class="col-12 text-center">Made with ♥ on Rirhath B</span>
+    </div>
+  </div>
   <!-- <div class="row py-1 social-list">
     {% for sm in site.data.social_media %}
     <div class="px-2"><a href="{{sm.site}}"><img src="{{site.baseurl}}/images/social-icons/{{sm.service}}-gold.png" alt="{{sm.service}} logo"/></a></div>
     {% endfor %}
   </div> -->
-  <div class="row py-1">
-    <small id="made-with-love" class="col-12 text-center">Made with ♥ on Rirhath B</small>
-  </div>
   <!-- <div class="row py-1 align-items-center">
     <picture class="pattern px-3">
         <source

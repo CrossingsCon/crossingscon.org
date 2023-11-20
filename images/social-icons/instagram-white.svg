@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Content" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 46.2 46.19">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 1.9px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 1.94px;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="m45.25,12.26v21.67c0,6.24-5.06,11.31-11.31,11.31H12.26c-6.25,0-11.31-5.07-11.31-11.31V12.26C.95,6.01,6.01.95,12.26.95h21.68c6.25,0,11.31,5.06,11.31,11.31Z"/>
+  <ellipse class="cls-2" cx="23.1" cy="23.1" rx="11.02" ry="10.75"/>
+  <circle class="cls-3" cx="37.18" cy="9.02" r=".68"/>
+</svg>
