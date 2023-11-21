@@ -15,6 +15,4 @@ If you need to ask us a question or get a hold of us for any reason, the best wa
     <button type="button" class="btn btn-badge" id="send-message">Send</button>
 </div>
 
-You can also follow us on social media to keep up with all the latest updates:
-{% for sm in site.data.social_media %}
-- [{{sm[0] | capitalize}}]({{sm[1]}}){% endfor %}
+You can also follow us on social media to keep up with all the latest updates by clicking on one of the icons below.

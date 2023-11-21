@@ -12,13 +12,13 @@ order: 50
 The best way to stay in touch with the con and all the friends you met there is over social media! Here's how to connect
 with CrossingsCon:
 
-- [Facebook]({{ site.data.social_media.facebook }})
-- [Tumblr]({{ site.data.social_media.tumblr }})
-- [Twitter]({{ site.data.social_media.twitter }})
+- [Facebook]({{ site.data.social_media.facebook.link }})
+- [Tumblr]({{ site.data.social_media.tumblr.link }})
+- [Twitter]({{ site.data.social_media.twitter.link }})
 
-And the best way to keep talking with your newfound cousins is on The Crossings on Slack.  [Sign up for an account today!]({{ site.data.social_media.slack }})
+And the best way to keep talking with your newfound cousins is on The Crossings on Slack.  [Sign up for an account today!]({{ site.data.social_media.slack.link }})
 
-For behind-the-scenes updates or if you'd like to support us and help us continue to make CrossingsCon fact instead of fiction, [visit our Patreon](https://patreon.com/emfozzing).
+For behind-the-scenes updates or if you'd like to support us and help us continue to make CrossingsCon fact instead of fiction, [visit our Patreon]({{ site.data.social_media.patreon.link }}).
 
 If you'd like to get periodic (max 3-4 per year) updates on what's happening at CrossingsCon delivered to your inbox, you can also sign up for our mailing list below.
 

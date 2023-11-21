@@ -1,10 +1,20 @@
 <header>
   <nav class="navbar navbar-expand-xl">
-    <a class="navbar-brand col mr-auto mr-xl-3 header-link" href="/"><img
+    <a class="navbar-brand col mr-auto mr-xl-3 header-link" href="/">
+      <picture>
+        <source media="(max-width:768px)" srcset="{{ "/images/crossroads.svg" | prepend: site.baseurl }}">
+        <img 
+          src="{{ "/images/crossroads-lockup.svg" | prepend: site.baseurl }}"
+          alt="The CrossingsCon logo"
+          class="header-logo"
+        />
+      </picture>
+      <!-- <img
       src="{{ "/images/crossroads-lockup.svg" | prepend: site.baseurl }}"
       alt="The CrossingsCon logo"
       class="header-logo"
-    /></a>
+      /> -->
+    </a>
 
     <!-- <div class="navbar-text mr-3 d-none d-lg-flex d-xl-none">{{ site.data.date.full }} in Montréal, QC</div> -->
     <!-- <div class="form-inline my-2 my-lg-0 mr-lg-3 d-none d-lg-block d-xl-none">

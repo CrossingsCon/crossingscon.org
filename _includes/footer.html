@@ -3,8 +3,8 @@
     <div class="row align-items-center py-2">
       <div class="col order-1 text-center">
         {% for social in site.data.social_media %}
-        <a href="{{ social.link }}">
-          <img class="social-icon px-1 py-1" src="{{site.baseurl}}{{social.icon}}" alt="{{social.name | Capitalize}} Icon"/>
+        <a href="{{ social[1].link }}">
+          <img class="social-icon px-1 py-1" src="{{site.baseurl}}{{social[1].icon}}" alt="{{social[1].name | default: social[0] | capitalize}} icon"/>
         </a>
         {% endfor %}
       </div>
