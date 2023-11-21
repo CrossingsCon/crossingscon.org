@@ -3,18 +3,13 @@ layout: home
 ---
 
 <div class="slideshow-container">
-  {% for image in site.data.slideshow %}
-    <div class="mySlides fade-in">
+  {% assign reversed_slideshow = site.data.slideshow | reverse %}
+  {% for image in reversed_slideshow %}
+    <div class="carousel-image" id="pic{{ forloop.index }}">
       <img class="carousel-desktop" src="{{ site.baseurl }}{{ image.desktop }}" style="width:100%">
       <img class="carousel-mobile" src="{{ site.baseurl }}{{ image.mobile }}" style="width:100%">
     </div>
   {% endfor %}
-
-  <div class="carousel-nav">
-    {% for image in site.data.slideshow %}
-      <span class="dot" onclick="currentSlide({{ forloop.index }})"></span>
-    {% endfor %}
-  </div>
 </div>
 
 <div class="welcome gradient">
@@ -38,48 +33,6 @@ layout: home
     </div>
   </div>
 </div> -->
-
-
-
-
-
-<script>
-  let slideIndex = 1;
-  let timeout = -1;
-  const nextSlideDelay = 8000;
-  showSlides(slideIndex);
-
-  // Next/previous controls
-  function plusSlides(n) {
-    showSlides(slideIndex += n);
-  }
-
-  // Thumbnail image controls
-  function currentSlide(n) {
-    showSlides(slideIndex = n);
-  }
-
-  function showSlides(n) {
-    let i;
-    let slides = document.getElementsByClassName("mySlides");
-    let dots = document.getElementsByClassName("dot");
-    if (n > slides.length) {slideIndex = 1}
-    if (n < 1) {slideIndex = slides.length}
-    for (i = 0; i < slides.length; i++) {
-      slides[i].style.display = "none";
-    }
-    for (i = 0; i < dots.length; i++) {
-      dots[i].className = dots[i].className.replace(" active", "");
-    }
-    slides[slideIndex-1].style.display = "block";
-    dots[slideIndex-1].className += " active";
-
-    clearTimeout(timeout)
-    timeout = setTimeout(currentSlide, nextSlideDelay, slideIndex + 1); // Change image every 2 seconds
-  }
-
-  currentSlide(1)
-</script>
 
 
 <!-- <h1>Dai stihó, cousin!</h1>
