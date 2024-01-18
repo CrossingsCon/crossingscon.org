@@ -13,7 +13,7 @@ Every day at CrossingsCon has its own format. Read below for the typical outline
     <img class="card-img-top" src="{{site.baseurl}}/images/2019new/panel-audience-square.jpg" alt="Attendees at a panel at CrossingsCon 2018">
     <div class="card-body">
       <h5 class="card-title">Friday</h5>
-      <p class="card-text">"Friday is built around saying hi to old cousins and meeting new ones! We introduce our Guests of Honor at opening ceremonies, play games with each other, and have a variety of panels, activities, and book signings. Activities typically go long into the night on the first day of the con!</p>
+      <p class="card-text">Friday is built around saying hi to old cousins and meeting new ones! We introduce our Guests of Honor at opening ceremonies, play games with each other, and have a variety of panels, activities, and book signings. Activities typically go long into the night on the first day of the con!</p>
     </div>
   </div>
   <div class="card">

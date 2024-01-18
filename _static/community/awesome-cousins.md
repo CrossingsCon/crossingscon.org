@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wall of Awesome Cousins
-order: 50
+order: 20
 ---
 
 These are (some of) the cousins who supported us in the beginning during our official fundraiser. Hats off to you,
