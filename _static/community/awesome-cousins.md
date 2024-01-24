@@ -92,6 +92,7 @@ cousins! You're the reason CrossingsCon exists!
       <li>Sarbear</li>
       <li>Shannon</li>
       <li>Shmaylor</li>
+      <li>Susan M.</li>
       <li>soulsuckingisaacnewton</li>
       <li>Tango</li>
       <li>Virginia & Susan Mellinger</li>
