@@ -22,6 +22,9 @@ slack:
 patreon:
   link: https://www.patreon.com/emfozzing
   icon: /images/social-icons/Icon_Website_patreon-white.svg
+kofi:
+  link: https://ko-fi.com/emfozzing
+  icon: /images/social-icons/kofi-white.svg
 ee:
   name: Emfozzing Enterprises
   link: https://emfozzingenterprises.org/
