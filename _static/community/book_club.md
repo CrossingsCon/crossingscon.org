@@ -6,7 +6,7 @@ published: true
 ---
 CrossingsCon runs a semi-frequent book club that aims to get the community together and share our mutual love of stories in the time between conventions. The book club takes place on Gather, the same platform we used for the 2021 virtual convention, and you can join the room for the book club [here](https://app.gather.town/app/UTJowCQNBVZCyla3/CrossingsCon%20Bookclub).
 
-The next book club meeting is January 20th, 2024 at 7pm EST, where we'll be discussing *The Thief* by Megan Whalen Turner. 
+The next book club meeting is February 24th, 2024 at 8pm EST, where we'll be discussing *The Queen of Attolia* by Megan Whalen Turner. 
 
 ### Support the book Club
 
