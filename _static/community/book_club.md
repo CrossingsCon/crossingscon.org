@@ -24,6 +24,8 @@ So far the book club has read:
 
 - *The Thief* by Megan Whalen Turner
 - *The Queen of Attolia* by Megan Whalen Turner
+- *This Is How You Lose the Time War* by Amal El-Mohtar and Max Gladstone
+- *The King of Attolia* by Megan Whalen Turner
 
 ### Gather space rules
 
