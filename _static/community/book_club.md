@@ -26,6 +26,7 @@ So far the book club has read:
 - *The Queen of Attolia* by Megan Whalen Turner
 - *This Is How You Lose the Time War* by Amal El-Mohtar and Max Gladstone
 - *The King of Attolia* by Megan Whalen Turner
+- *The Long Way to a Small, Angry Planet* by Becky Chambers
 
 ### Gather space rules
 
