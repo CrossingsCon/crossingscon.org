@@ -12,7 +12,7 @@ no_children: true
   <div class="col-12 col-md-6 mb-3"><img src="{{site.baseurl}}/images/2025/sonesta-3.jpg" alt="A photo showing one of the standard two-bed hotel rooms"/></div>
 </div>
 
-Our hotel this year is the beautiful [Sonesta Philadelphia Rittenhouse Square](https://www.sonesta.com/sonesta-hotels-resorts/pa/philadelphia/sonesta-philadelphia-rittenhouse-square), at 1800 Market Street, Philadelphia, PA 191035.
+Our hotel this year is the beautiful [Sonesta Philadelphia Rittenhouse Square](https://www.sonesta.com/sonesta-hotels-resorts/pa/philadelphia/sonesta-philadelphia-rittenhouse-square), at 1800 Market Street, Philadelphia, PA 19103.
 
 We will have a discounted room block for CrossingsCon attendees opening shortly, please check back and watch our social media for when that is available.
 
