@@ -20,7 +20,9 @@ body {
   // background-size: cover;
   // background-attachment: fixed;
   // background-position: center top;
-  background-color: white;
+  // background-color: white;
+  background-color: $cc-orange-1;
+  color: $cc-navy;
 
   @media (max-width: 768px) {
     background-size: auto 100vh;
@@ -50,7 +52,7 @@ body {
     width: 100%;
     padding: 10px;
     border-radius: 4px;
-    border: 1px solid $cc-24-green;
+    border: 1px solid $cc-purple-4;
     margin-bottom: 10px;
   }
 
@@ -62,4 +64,9 @@ body {
   button {
     margin-bottom: 1em;
   }
+}
+
+
+#mc_embed_signup {
+  // backg
 }

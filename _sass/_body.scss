@@ -2,6 +2,14 @@
     background-image: linear-gradient(to right, $white, $cc-sky-blue);
 }
 
+.gradient-orange {
+    background-image: linear-gradient(to right, $cc-orange-1, $cc-orange-4);
+}
+
+.gradient-purple {
+    background-image: linear-gradient(to right, $cc-purple-4, $cc-navy);
+}
+
 .bg-blue {
     background-color: $cc-24-blue;
 } 
@@ -24,4 +32,17 @@
 .testimonial-body {
     vertical-align: middle;
     font-size: 24px;
+}
+
+a {
+    color: $cc-purple-4;
+    text-decoration: underline;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: $cc-purple-1;
 }

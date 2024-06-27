@@ -1,4 +1,4 @@
-<footer class="container-fluid py-3">
+<footer class="container-fluid py-3 gradient-purple">
   <div class="container-wrapper">
     <div class="row align-items-center py-2">
       <div class="col order-1 text-center">
@@ -17,12 +17,23 @@
     </div> -->
   </div>
   <div class="row align-items-center py-2 flipper">
-    <!-- <div class="col order-2 text-center order-md-1 text-md-right">
-      <span class="unflipped">JD {{ site.data.date.julian }}</span>
-      <span class="flipped">{{ site.data.date.full }}</span>
-    </div> -->
+    <div class="col order-1 text-center order-md-1">
+      <div class="row">
+        <div class="col">
+          <span class="unflipped">JD {{ site.data.date.julian }}</span>
+          <span class="flipped">{{ site.data.date.full }}</span>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col">
+          <span class="unflipped">{{ site.data.date.latlong }}</span>
+          <span class="flipped">{{ site.data.date.address }}</span>
+        </div>
+      </div>     
+    </div>
     <!-- <div class="order-1 col-md-auto text-center text-md-right py-2"> -->
-    <div class="col order-1 text-center">
+  </div>
+  <div class="col order-1 text-center">
       <!-- <a href="/" class="px-2">
         <img
           src="{{ "/images/hex-white.svg" | prepend: site.baseurl }}"
@@ -32,7 +43,6 @@
       </a> -->
       <span id="made-with-love" class="col-12 text-center">Made with ♥ on Rirhath B</span>
     </div>
-  </div>
   <!-- <div class="row py-1 social-list">
     {% for sm in site.data.social_media %}
     <div class="px-2"><a href="{{sm.site}}"><img src="{{site.baseurl}}/images/social-icons/{{sm.service}}-gold.png" alt="{{sm.service}} logo"/></a></div>
