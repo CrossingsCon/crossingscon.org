@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Getting to the Con
-published: true
+published: false
 ---
 
 Depending on how far away you're coming from, there are a bunch of different ways to get to CrossingsCon!

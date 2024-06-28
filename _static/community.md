@@ -6,7 +6,9 @@ order: 50
 ---
 
 <div class="row mb-3">
-    <div class="col"><img src="{{ site.baseurl }}/images/carousel/dead-dog2.jpg" class="img-fluid" alt="Four cousins talking at the after-con party"></div>
+    <div class="col">
+    <img src="{{ site.baseurl }}/images/carousel/dead-dog2.jpg" class="img-fluid" alt="Four cousins talking at the after-con party">
+    </div>
 </div>
 
 The best way to stay in touch with the con and all the friends you met there is over social media! Here's how to connect
@@ -25,7 +27,7 @@ If you'd like to get periodic (max 3-4 per year) updates on what's happening at 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; max-width: 600px}
+	#mc_embed_signup{clear:left; max-width: 600px}
     #mc_embed_signup form { margin: 0;}
 </style>
 <div id="mc_embed_signup">

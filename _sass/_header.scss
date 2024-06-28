@@ -1,9 +1,10 @@
 #page > header > nav {
-  background-color: white;
+  background-color: $cc-orange-1;
+  // background-color: white;
   // background-color: rgba($color: #aaa, $alpha: 0.5);
   // position: fixed;
   width: 100%;
-  color: black;
+  color: $cc-navy;
   button {
     padding: 0;
     font-size: 36px;
@@ -11,7 +12,7 @@
 }
 
 .nav-link {
-  color: $cc-24-green!important;
+  color: $cc-purple-4!important;
 }
 
 // .dropdown-toggle::after {
@@ -35,19 +36,23 @@
 }
 
 .btn-badge {
-  background-color: $cc-24-green;
-  border-color: $cc-24-green;
-  color: $black;
+  background-color: $cc-purple-4;
+  border-color: $cc-purple-4;
+  color: $white;
 }
 
 .btn-badge:hover {
-  background-color: darken($cc-24-green, 10%);
-  border-color: darken($cc-24-green, 10%);
+  background-color: $cc-purple-1;
+  border-color: $cc-purple-1;
   color: $white;
 }
 
 .navbar-toggler-icon {
-  color: $cc-24-green;
+  color: $cc-purple-4;
   height: 1.5em;
   line-height: 1.5em;
+}
+
+.dropdown-menu {
+  background-color: $cc-orange-1;
 }

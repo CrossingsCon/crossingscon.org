@@ -3,7 +3,7 @@ layout: page
 title: Previous Cons
 nav_title: Previous Cons
 order: 40
-published: false
+published: true
 ---
 
 Every day at CrossingsCon has its own format. Read below for the typical outline of what has happened each day for our in-person cons, and the guests of honor we’ve invited in the past.

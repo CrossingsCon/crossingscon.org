@@ -24,6 +24,19 @@ $cc-sky-blue: #99dbf8;
 $cc-24-green: #00A550;
 $cc-24-blue: #0066AA;
 
+// 2025 colours
+$cc-orange-1: #FEE5C8;
+$cc-orange-2: #FED09D;
+$cc-orange-3: #FAB27A;
+$cc-orange-4: #D97D63;
+$cc-purple-1: #976978;
+$cc-purple-2: #895F72;
+$cc-purple-3: #6F566A;
+$cc-purple-4: #5F445B;
+$cc-navy: #002A40;
+
 $theme-colors: (
-  "primary": $cc-24-green
+  "primary": $cc-purple-4
 );
+
+$dropdown-divider-bg: $cc-navy;
