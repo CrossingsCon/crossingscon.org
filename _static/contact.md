@@ -12,8 +12,7 @@ If you need to ask us a question or get a hold of us for any reason, the best wa
     <input id="name" type="text" name="name" placeholder="Name" >
     <input id="email" type="email" name="email" placeholder="Email" >
     <textarea id="message" placeholder="Message" ></textarea>
-    <button disabled type="button" class="btn btn-badge" id="send-message">Send</button>
-    <span>Sorry, this form does not work, please <a href="mailto:info@crossingscon.org">email us</a>.</span>
+    <button type="button" class="btn btn-badge" id="send-message">Send</button>
 </div>
 
 You can also follow us on social media to keep up with all the latest updates by clicking on one of the icons below.
