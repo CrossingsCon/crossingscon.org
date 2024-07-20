@@ -54,7 +54,7 @@
       title: Stablemaster, Hostler, Gopher
       specialty: Human swiss army knife
     - name: Bex Fortin
-      title: Gopher, Armorer, Venue Liaison
+      title: Gopher, Armorer
       specialty: Timeline maintenance
 
 - section: Marketing & Communications
@@ -89,6 +89,9 @@
 
 - section: Venue & Location
   staff:
-    - name: Eli Morris-Heft
+    - name: Bex Fortin
       title: Venue Liaison
-      specialty: Enacture in non-Speech languages
+      specialty: Timeline maintenance
+    # - name: Eli Morris-Heft
+    #   title: Venue Liaison
+    #   specialty: Enacture in non-Speech languages

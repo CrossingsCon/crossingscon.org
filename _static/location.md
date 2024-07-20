@@ -20,7 +20,7 @@ Our hotel this year is the beautiful [Sonesta Philadelphia Rittenhouse Square](h
 
 If you want to arrive sooner or leave later than those dates, please book within those dates and then contact Sonesta directly [(1-(215)-561-7500)](tel:215.561.7500) to extend the reservation.
 
-If you cannot get a room in the room block within those dates, please [let us know]({{site.baseurl}}/about/contact)! Space is limited, but we want to try to find a place for everyone who wants to attend, and we will make every effort to get you into the room block or find something nearby.
+If you cannot get a room in the room block within those dates, please [let us know]({{site.baseurl}}/contact)! Space is limited, but we want to try to find a place for everyone who wants to attend, and we will make every effort to get you into the room block or find something nearby.
 
 <p class="text-center">
   <a class="btn btn-lg btn-badge" href="https://book.passkey.com/e/50833340" target="_blank">Book your room!</a>

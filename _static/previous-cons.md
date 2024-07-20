@@ -8,6 +8,15 @@ published: false
 
 Every day at CrossingsCon has its own format. Read below for the typical outline of what has happened each day for our in-person cons, and the guests of honor we’ve invited in the past.
 
+##### Table of Contents
+- [Previous Guests](#previous-guests)
+- [History of the Con](#history-of-the-con)
+- [2016: Newark](#2016-newark-nj)
+- [2017: Long Beach](#2017-long-beach-ca)
+- [2019: Montréal](#2019-montréal-canada)
+- [2021: Slipping Sideways](#2021-slipping-sideways)
+- [2022: Montréal](#2022-montréal-canada)
+
 <div class="card-deck">
   <div class="card">
     <img class="card-img-top" src="{{site.baseurl}}/images/2019new/panel-audience-square.jpg" alt="Attendees at a panel at CrossingsCon 2018">

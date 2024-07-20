@@ -17,6 +17,9 @@ with CrossingsCon:
 - [Facebook]({{ site.data.social_media.facebook.link }})
 - [Tumblr]({{ site.data.social_media.tumblr.link }})
 - [Twitter]({{ site.data.social_media.twitter.link }})
+- [Instagram]({{ site.data.social_media.instagram.link }})
+- [Bluesky]({{ site.data.social_media.bluesky.link }})
+- [TikTok]({{ site.data.social_media.tiktok.link }})
 
 And the best way to keep talking with your newfound cousins is on The Crossings on Slack.  [Sign up for an account today!]({{ site.data.social_media.slack.link }})
 

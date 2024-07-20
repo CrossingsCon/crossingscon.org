@@ -4,8 +4,9 @@ title: Rules and Policies
 order: 80
 ---
 
-The main focus of CrossingsCon is to hang out and have fun! But there is also a code of conduct we expect our attendees, staff, and guests to adhere to so that the convention stays fun for everyone.
+The main focus of CrossingsCon is to hang out and have fun! But there is also a code of conduct we expect our attendees, staff, and guests to adhere to so that the convention stays fun for everyone. The rules below will be in effect for the 2025 convention, and attendees should be familiar with them before arriving at the convention.
 
+##### Table of Contents
 - [Convention Rules](#convention-rules)
 - [Anti-harassment Policy](#anti-harassment-policy)
 - [Spoiler Policy](#spoiler-policy)
@@ -32,7 +33,7 @@ Keep to these rules and we’ll be able to avoid speeding up entropy, at least i
 
 Failure to observe these rules will result in appropriate action being taken by staff, up to and including revocation of your badge and ejection from convention space at the extreme. If there is a disagreement, the ruling of the convention chair is final.
 
-If you have any questions about our rules and policies, [contact us]({{site.baseurl}}/about/contact)! We'd hate to have misunderstanding that could have been avoided.
+If you have any questions about our rules and policies, [contact us]({{site.baseurl}}/contact)! We'd hate to have misunderstanding that could have been avoided.
 
 ## Anti-harassment Policy
 
@@ -68,7 +69,9 @@ Spoilers aren’t limited to revealing future plot points. Consider this [compre
 
 ## Accessibility
 
-We at CrossingsCon are committed to making the convention experience as accessible and enjoyable as possible to all cousins, regardless of the nature or intensity of their disabilities.
+Accessibility information for our 2025 convention is coming soon!
+
+<!-- We at CrossingsCon are committed to making the convention experience as accessible and enjoyable as possible to all cousins, regardless of the nature or intensity of their disabilities.
 
 To that end (in the service of our Art), we have already made the following provisions:
 
@@ -83,35 +86,39 @@ We can make these provisions if you contact us before May 30th, 2022:
 - Large print physical program books
 - Sign language interpreters
 
-If you have a serious environmental allergy, please let us know, but we cannot guarantee that the space will be free of all allergens.
+If you have a serious environmental allergy, please let us know, but we cannot guarantee that the space will be free of all allergens. -->
 
 <!-- With specific respect to our offsite programming, we will soon have the following information:
 
 - Walking distance required
 - Elevator/escalator/ramp presence at various locations -->
 
-If there is anything else we missed or about which you have concerns, please do not hesitate to contact us.
+<!-- If there is anything else we missed or about which you have concerns, please do not hesitate to contact us. -->
 
 ## COVID-19 Vaccination and Masking Policy
 
-In order to make attending CrossingsCon as safe as possible for everyone involved, we are instituting a number of additional policies for the 2022 convention. We will update this policy if guidance from health authorities changes. Additionally, CrossingsCon will comply with any national, provincial, and local requirements regarding vaccination and masking, and we expect our attendees to do the same.
+In order to make attending CrossingsCon as safe as possible for everyone involved, we are instituting a number of additional policies for the 2025 convention. We will update this policy if guidance from health authorities changes. Additionally, CrossingsCon will comply with any national, state, and local requirements regarding vaccination and masking, and we expect our attendees to do the same.
 
 While the policies below are written for attendees, they apply to CrossingsCon staff and guests of honor as well. Attempting to circumvent these policies will result in appropriate action being taken by staff, up to and including badge revocation and/or removal from convention space.
 
 ### Vaccination
-**All CrossingsCon attendees are required to be fully vaccinated on or before July 20, 2022 and must show proof of vaccination at Registration in order to receive their badge, unless granted a medical exemption ahead of time by the Head of Registration.** Additionally, we strongly encourage all attendees who are eligible for booster shots to get them in advance of the convention.
+
+All attendees are strongly encouraged to get vaccinated against covid-19 prior to attending the convention.
+<!-- **All CrossingsCon attendees are required to be fully vaccinated on or before July 20, 2022 and must show proof of vaccination at Registration in order to receive their badge, unless granted a medical exemption ahead of time by the Head of Registration.** Additionally, we strongly encourage all attendees who are eligible for booster shots to get them in advance of the convention.
 
 In order to get a medical exemption, please email [registration@crossingscon.org](mailto:registration@crossingscon.org) by July 1, 2022 with a signed note from your doctor that mentions your name, explains why a COVID vaccine is contraindicated, and includes the doctor’s practice’s address and phone number. If granted a medical exemption, you will be required to show a negative molecular COVID test from no earlier than August 3, 2022 in order to receive your badge.
 
-Whether a doctor’s note, proof of vaccination, or other relevant information, we will hold the information and documents you share with us in the strictest confidence, use them only for the purposes of determining vaccination status or medical exemption, and delete them after the convention.
+Whether a doctor’s note, proof of vaccination, or other relevant information, we will hold the information and documents you share with us in the strictest confidence, use them only for the purposes of determining vaccination status or medical exemption, and delete them after the convention. -->
 
-### Valid proof of vaccination status
+<!-- ### Valid proof of vaccination status
 In order to prove vaccination status, attendees will be required to show a QR code, paper card, or official PDF that affirms that they have been fully vaccinated with a vaccine approved by the Canadian government. **We will not accept a photo or screenshot.**
 
-While we want to afford maximum discretion for people whose names do not match their legal names, we also need to prioritize the health of our attendees. If the name on your registration does not match the name on your proof of vaccination, please email us ahead of time at [registration@crossingscon.org](mailto:registration@crossingscon.org) with an explanation, or bring a written explanation with you to pick up your badge. In the absence of either of those, we may request a verbal explanation of the discrepancy at Registration.
+While we want to afford maximum discretion for people whose names do not match their legal names, we also need to prioritize the health of our attendees. If the name on your registration does not match the name on your proof of vaccination, please email us ahead of time at [registration@crossingscon.org](mailto:registration@crossingscon.org) with an explanation, or bring a written explanation with you to pick up your badge. In the absence of either of those, we may request a verbal explanation of the discrepancy at Registration. -->
 
 ### Masking
 **Face masks will be required for all attendees while in convention spaces,** exempting only active presenters during their events, for accessibility reasons. Additionally, masks should cover both the nose and the mouth. The hotel may require masks under certain circumstances; in those cases, attendees must comply with the hotel’s masking guidelines as well.
+
+The convention will have N95 available to attendees who need one, but attendees are highly encouraged to bring their own masks as well.
 
 ### If you exhibit symptoms
 **Any attendee who exhibits flu-like symptoms or other symptoms of COVID-19 (such as cough, shortness of breath, nausea, vomiting, diarrhea, or fever) will not be allowed in convention spaces** unless they are able to show a negative viral COVID test from within the prior 48 hours. You may be asked to affirm that you do not have these symptoms upon entering the convention space.
