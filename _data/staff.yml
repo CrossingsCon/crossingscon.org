@@ -53,9 +53,6 @@
     - name: Pej Lyles
       title: Stablemaster, Hostler, Gopher
       specialty: Human swiss army knife
-    - name: Bex Fortin
-      title: Gopher, Armorer
-      specialty: Timeline maintenance
 
 - section: Marketing & Communications
   staff:
@@ -74,23 +71,23 @@
     - name: Megan Wegenke
       title: Social Media Team
       specialty: Enthusiasm incorporator
-    - name: Rosemary
-      title: Social Media Team
-      specialty: Worldgate string maintenance
+    # - name: Rosemary
+    #   title: Social Media Team
+    #   specialty: Worldgate string maintenance
     - name: Opal
       title: Webmaster
       specialty: Principles of spell design
 
 - section: Registration
   staff:
-    - name: Eli Morris-Heft
+    - name: Jenny Peterson
       title: Director of Registration
-      specialty: Simultaneous haberdashery
+      specialty: Curating and archiving information
 
 - section: Venue & Location
   staff:
     - name: Bex Fortin
-      title: Venue Liaison
+      title: Venue Liaison, Armorer
       specialty: Timeline maintenance
     # - name: Eli Morris-Heft
     #   title: Venue Liaison
