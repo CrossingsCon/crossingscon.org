@@ -14,9 +14,9 @@ no_children: true
 
 Our hotel this year is the beautiful [Sonesta Philadelphia Rittenhouse Square](https://www.sonesta.com/sonesta-hotels-resorts/pa/philadelphia/sonesta-philadelphia-rittenhouse-square), at 1800 Market Street, Philadelphia, PA 19103.
 
-<!-- [We have a discounted room block for CrossingsCon attendees](https://book.passkey.com/e/50833340l) at Sonesta from {{ site.data.date.full }}. Rooms are $169 USD per night. -->
+<!-- [We have a discounted room block for CrossingsCon attendees](https://book.passkey.com/e/50833340) at Sonesta from {{ site.data.date.full }}. Rooms are $169 USD per night. -->
 
-[We have a discounted room block for CrossingsCon attendees](https://book.passkey.com/e/50833340l) at Sonesta from August 14-18. Rooms are $169 USD per night.
+[We have a discounted room block for CrossingsCon attendees](https://book.passkey.com/e/50833340) at Sonesta from August 14-18. Rooms are $169 USD per night.
 
 If you want to arrive sooner or leave later than those dates, please book within those dates and then contact Sonesta directly [(1-(215)-561-7500)](tel:215.561.7500) to extend the reservation.
 
