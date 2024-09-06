@@ -13,7 +13,6 @@ The main focus of CrossingsCon is to hang out and have fun! But there is also a 
 - [Accessibility](#accessibility)
 - [COVID-19 Vaccination and Masking Policy](#covid-19-vaccination-and-masking-policy)
   - [Vaccination](#vaccination)
-  - [Valid proof of vaccination status](#valid-proof-of-vaccination-status)
   - [Masking](#masking)
   - [If you exhibit symptoms](#if-you-exhibit-symptoms)
 
@@ -104,6 +103,7 @@ While the policies below are written for attendees, they apply to CrossingsCon s
 ### Vaccination
 
 All attendees are strongly encouraged to get vaccinated against covid-19 prior to attending the convention.
+
 <!-- **All CrossingsCon attendees are required to be fully vaccinated on or before July 20, 2022 and must show proof of vaccination at Registration in order to receive their badge, unless granted a medical exemption ahead of time by the Head of Registration.** Additionally, we strongly encourage all attendees who are eligible for booster shots to get them in advance of the convention.
 
 In order to get a medical exemption, please email [registration@crossingscon.org](mailto:registration@crossingscon.org) by July 1, 2022 with a signed note from your doctor that mentions your name, explains why a COVID vaccine is contraindicated, and includes the doctor’s practice’s address and phone number. If granted a medical exemption, you will be required to show a negative molecular COVID test from no earlier than August 3, 2022 in order to receive your badge.
