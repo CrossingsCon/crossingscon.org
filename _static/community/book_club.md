@@ -54,3 +54,4 @@ So far the book club has read:
 - *The Long Way to a Small, Angry Planet* by Becky Chambers
 - *A Conspiracy of Kings* by Megan Whalen Turner
 - *Omnitopia Dawn* by Diane Duane
+- *Thick as Thieves* by Megan Whalen Turner

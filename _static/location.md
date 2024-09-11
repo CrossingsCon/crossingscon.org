@@ -25,3 +25,20 @@ If you cannot get a room in the room block within those dates, please [let us kn
 <p class="text-center">
   <a class="btn btn-lg btn-badge" href="https://book.passkey.com/e/50833340" target="_blank">Book your room!</a>
 </p>
+
+Some of our staff visited the hotel in advance of the con this past July, see below for a preview of what the space looks like. We're pleased (or regretful, if you prefer) to inform you that there will be no clowns in the elevators at CrossingsCon 2025.
+
+<div id="site-visit">
+  <img src="{{site.baseurl}}/images/2025-site-visit/liberty-bell.jpg" alt="">
+  <img src="{{site.baseurl}}/images/2025-site-visit/love.jpg" alt="">
+  <img src="{{site.baseurl}}/images/2025-site-visit/elevator.jpeg" alt="">
+  <img src="{{site.baseurl}}/images/2025-site-visit/gritty-plush.jpeg" alt="">
+  <img src="{{site.baseurl}}/images/2025-site-visit/lobby1.jpeg" alt="">
+  <img src="{{site.baseurl}}/images/2025-site-visit/lobby2.jpeg" alt="">
+  <img src="{{site.baseurl}}/images/2025-site-visit/event-room1.jpeg" alt="">
+  <img src="{{site.baseurl}}/images/2025-site-visit/event-room2.jpeg" alt="">
+  <img src="{{site.baseurl}}/images/2025-site-visit/event-room3.jpeg" alt="">
+  <img src="{{site.baseurl}}/images/2025-site-visit/hallway2.jpeg" alt="">
+  <img src="{{site.baseurl}}/images/2025-site-visit/lobby3.jpeg" alt="">
+  <img src="{{site.baseurl}}/images/2025-site-visit/hallway1.jpeg" alt="">
+</div>
