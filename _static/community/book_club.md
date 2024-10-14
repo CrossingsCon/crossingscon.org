@@ -11,11 +11,11 @@ See the calendar below for dates of upcoming book club meetings.
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FToronto&bgcolor=%23ffffff&showPrint=0&mode=AGENDA&src=Y182OTE5NmFiZGRmNDI3Njg3NWVmYzgyMmNiZDNiYzU3ODg4ZWExMGNiOWY4NjhkOGYyOWE5MjAzMGIzNjJiZmVkQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%234285F4" style="border-width:0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
 
 ##### Table of Contents
-- [Support the book Club](#support-the-book-club)
-- [Gather is full error](#gather-space-is-full-error)
+- [Support the Book Club](#support-the-book-club)
+- ["Gather space is full" error](#gather-space-is-full-error)
 - [Gather space rules](#gather-space-rules)
 - [Using the Gather space](#using-the-gather-space)
-- [Past Books](#past-books)
+- [Past books](#past-books)
 
 ### Support the Book Club
 
@@ -55,3 +55,4 @@ So far the book club has read:
 - *A Conspiracy of Kings* by Megan Whalen Turner
 - *Omnitopia Dawn* by Diane Duane
 - *Thick as Thieves* by Megan Whalen Turner
+- *The Westing Game* by Ellen Raskin
