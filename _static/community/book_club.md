@@ -56,3 +56,5 @@ So far the book club has read:
 - *Omnitopia Dawn* by Diane Duane
 - *Thick as Thieves* by Megan Whalen Turner
 - *The Westing Game* by Ellen Raskin
+- *The Return of the Thief* by Megan Whalen Turner
+- *Stealing the Elf-King's Roses* by Diane Duane

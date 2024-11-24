@@ -2,8 +2,8 @@
 layout: page
 title: Events
 nav_title: Events
-order: 30
-published: false
+order: 20
+published: true
 ---
 
 Every day at CrossingsCon will have something different happening. Read below for the outline of each day, and check back closer to the con for hourly schedules. If you have any questions feel free to reach out at <events@crossingscon.org>.
@@ -31,7 +31,7 @@ Don't forget to register over at the [registration page]({{ site.baseurl }}/badg
     <div class="card-body">
       <h5 class="card-title">Sunday</h5>
       <p class="card-text">Even though it's the last day of the con, day three doesn't have us slowing down. We'll have even more discussions and panels, with an extra day this year we'll be able to cover even more than we have at past CrossingsCons.</p>
-      <p class="card-text">At the end of the day we'll ring out CrossingsCon 2022 with closing ceremonies, and we'll finish with our post-con party (a.k.a. dead dog) somewhere nearby.</p>
+      <p class="card-text">At the end of the day we'll ring out CrossingsCon 2025 with closing ceremonies, and we'll finish with our post-con party (a.k.a. dead dog) somewhere nearby.</p>
     </div>
   </div>
 </div>
