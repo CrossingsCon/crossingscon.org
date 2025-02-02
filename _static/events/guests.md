@@ -12,7 +12,7 @@ CrossingsCon is proud to welcome our guests of honor for 2025!
 {% for guest in site.data.guests %}
 <div class="row py-3">
   <div class="col-12 col-md-3">
-    {% if guest.image != "" or guest.image != nil %}
+    {% if guest.image != "" and guest.image != nil %}
     <img src="{{ site.baseurl }}/images/guests/{{ guest.image }}" alt="A picture of {{ guest.name }}">
     {% endif %}
   </div>
