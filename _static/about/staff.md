@@ -26,7 +26,7 @@ Interested in joining us? [Click here to see our open positions.]({{site.baseurl
       <div class="card-body">
         <h4 class="card-title">{{ staffer.name }}</h4>
         <h5 class="card-title">{{ staffer.title }}</h5>
-        <div class="card-text text-muted">Wizardly specialty:<br/>{{ staffer.specialty }}</div>
+        <div class="card-text text-muted">Wizardly specialty: {{ staffer.specialty }}</div>
       </div>
     </div>
   </div>

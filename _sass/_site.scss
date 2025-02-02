@@ -75,3 +75,18 @@ body {
   background-color: $cc-orange-1;
   border: 1px solid gray;
 }
+
+#site-visit {
+  display: flex;
+  flex-wrap: wrap;
+  img {
+    max-width: 30%;
+    max-height: 30%;
+    object-fit: cover;
+    margin: 1%;
+    @media (max-width: 768px) {
+      max-width: 45%;
+      max-height: 45%;
+    }
+  }
+}

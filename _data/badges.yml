@@ -1,18 +1,18 @@
 types:
   - type: Premium Badge
     ages: 13 and older
-    price: $130 USD<sup>†</sup>
+    price: $140 USD<sup>†</sup>
     requires_adult: false
   - type: Adult Badge
     ages: 13 and older
-    price: $65 USD
+    price: $70 USD
     requires_adult: false
   - type: Child Badge
     ages: 4-12 years old
-    price: $32.50 USD
+    price: $35 USD
     requires_adult: true
   - type: Toddler Badge
     ages: 0-3 years old
     price: $0 USD
     requires_adult: true
-url: https://www.universe.com/events/crossingscon-2022-tickets-BS62LX?ref=website
+url: https://www.universe.com/events/crossingscon-2025-tickets-HZNPJQ?ref=CCsite

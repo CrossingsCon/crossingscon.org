@@ -14,12 +14,31 @@ no_children: true
 
 Our hotel this year is the beautiful [Sonesta Philadelphia Rittenhouse Square](https://www.sonesta.com/sonesta-hotels-resorts/pa/philadelphia/sonesta-philadelphia-rittenhouse-square), at 1800 Market Street, Philadelphia, PA 19103.
 
-We will have a discounted room block for CrossingsCon attendees opening shortly, please check back and watch our social media for when that is available.
+<!-- [We have a discounted room block for CrossingsCon attendees](https://book.passkey.com/e/50833340) at Sonesta from {{ site.data.date.full }}. Rooms are $169 USD per night. -->
 
-<!-- [We have a discounted room block for CrossingsCon attendees](https://tinyurl.com/cc22hotel) at DoubleTree from {{ site.data.date.full }}. Rooms are $239 CAD per night, which is about $185 USD at current rates.
+[We have a discounted room block for CrossingsCon attendees](https://book.passkey.com/e/50833340) at Sonesta from August 14-18. Rooms are $169 USD per night.
 
-If you cannot get a room in the room block, please [let us know]({{site.baseurl}}/about/contact)! Space is limited, but we want to try to find a place for everyone who wants to attend, and we will make every effort to get you into the room block or find something nearby. -->
+If you want to arrive sooner or leave later than those dates, please book within those dates and then contact Sonesta directly [(1-(215)-561-7500)](tel:215.561.7500) to extend the reservation.
 
-<!-- <p class="text-center">
-  <a class="btn btn-lg btn-badge" href="https://tinyurl.com/cc22hotel" target="_blank">Book your room!</a>
-</p> -->
+If you cannot get a room in the room block within those dates, please [let us know]({{site.baseurl}}/contact)! Space is limited, but we want to try to find a place for everyone who wants to attend, and we will make every effort to get you into the room block or find something nearby.
+
+<p class="text-center">
+  <a class="btn btn-lg btn-badge" href="https://book.passkey.com/e/50833340" target="_blank">Book your room!</a>
+</p>
+
+Some of our staff visited the hotel in advance of the con this past July, see below for a preview of what the space looks like. We're pleased (or regretful, if you prefer) to inform you that there will be no clowns in the elevators at CrossingsCon 2025.
+
+<div id="site-visit">
+  <img src="{{site.baseurl}}/images/2025-site-visit/liberty-bell.jpg" alt="">
+  <img src="{{site.baseurl}}/images/2025-site-visit/love.jpg" alt="">
+  <img src="{{site.baseurl}}/images/2025-site-visit/elevator.jpeg" alt="">
+  <img src="{{site.baseurl}}/images/2025-site-visit/gritty-plush.jpeg" alt="">
+  <img src="{{site.baseurl}}/images/2025-site-visit/lobby1.jpeg" alt="">
+  <img src="{{site.baseurl}}/images/2025-site-visit/lobby2.jpeg" alt="">
+  <img src="{{site.baseurl}}/images/2025-site-visit/event-room1.jpeg" alt="">
+  <img src="{{site.baseurl}}/images/2025-site-visit/event-room2.jpeg" alt="">
+  <img src="{{site.baseurl}}/images/2025-site-visit/event-room3.jpeg" alt="">
+  <img src="{{site.baseurl}}/images/2025-site-visit/hallway2.jpeg" alt="">
+  <img src="{{site.baseurl}}/images/2025-site-visit/lobby3.jpeg" alt="">
+  <img src="{{site.baseurl}}/images/2025-site-visit/hallway1.jpeg" alt="">
+</div>
