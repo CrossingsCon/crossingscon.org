@@ -58,3 +58,5 @@ So far the book club has read:
 - *The Westing Game* by Ellen Raskin
 - *The Return of the Thief* by Megan Whalen Turner
 - *Stealing the Elf-King's Roses* by Diane Duane
+- *Moira's Pen* by Megan Whalen Turner
+- *Stars, Hide Your Fires* by Jessica Mary Best
