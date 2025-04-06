@@ -56,7 +56,9 @@ So far the book club has read:
 - *Omnitopia Dawn* by Diane Duane
 - *Thick as Thieves* by Megan Whalen Turner
 - *The Westing Game* by Ellen Raskin
-- *The Return of the Thief* by Megan Whalen Turner
+- *Return of the Thief* by Megan Whalen Turner
 - *Stealing the Elf-King's Roses* by Diane Duane
 - *Moira's Pen* by Megan Whalen Turner
-- *Stars, Hide Your Fires* by Jessica Mary Best
+- *Stars hide your fires* by Jessica Mary Best
+- *Dragon Slippers* by Jessica Day George
+- *Dragon Flight* by Jessica Day George

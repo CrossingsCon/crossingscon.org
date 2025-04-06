@@ -15,6 +15,8 @@ Merchandise can be pre-ordered below or [on our online store](https://store.cros
 
 You can pre-order merch separate from buying your badge. You can even order merch without buying a badge at all, though you'll have to make your own arrangements to have someone pick it up for you. Be aware that while some merchandise will be available for purchase at the convention, not all will be. Pre-ordering is the only way you guarantee you get the merch you want.
 
+Pre-orders for CrossingsCon 2025 merch will close at the end of the day on May 31st! Make sure to get your orders in before then.
+
 If you have any questions reach out to <info@crossingscon.org> or <merch@crossingscon.org>.
 
 
