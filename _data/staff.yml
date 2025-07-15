@@ -28,15 +28,18 @@
     - name: Emma Heuchert
       title: Director of Guests & Events
       specialty: Translation, storytelling, and folklore
-    - name: Alliah Krahn
+    # - name: Alliah Krahn
+    #   title: Guest Liaison
+    #   specialty: Cortisotopology
+    - name: Sky Callahan
       title: Guest Liaison
-      specialty: Cortisotopology
+      specialty: Energy combination and amplification
+    - name: Sus Mellinger
+      title: Publishing Liaison
+      specialty: 
     - name: Kali Larsen
       title: Guevents Team
       specialty: Energy transformation
-    - name: Sky Callahan
-      title: Guevents team
-      specialty: Energy combination and amplification
     
 
 #- section: Merchandise
@@ -53,6 +56,9 @@
     - name: Pej Lyles
       title: Stablemaster, Hostler, Gopher
       specialty: Human swiss army knife
+    - name: Ashani Opal
+      title: Webmaster
+      specialty: Principles of spell design
 
 - section: Marketing & Communications
   staff:
@@ -65,18 +71,16 @@
     - name: Kayla Forshey
       title: Director of Public Relations
       specialty: Writing spells
-    - name: Eva Lindquist
-      title: Social Media Team
-      specialty: Member of the Rubber Duck Squad
+    # - name: Eva Lindquist
+    #   title: Social Media Team
+    #   specialty: Member of the Rubber Duck Squad
     - name: Megan Wegenke
       title: Social Media Team
       specialty: Enthusiasm incorporator
     # - name: Rosemary
     #   title: Social Media Team
     #   specialty: Worldgate string maintenance
-    - name: Opal
-      title: Webmaster
-      specialty: Principles of spell design
+
 
 - section: Registration
   staff:
