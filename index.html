@@ -2,16 +2,6 @@
 layout: home
 ---
 
-<div class="slideshow-container">
-  {% assign reversed_slideshow = site.data.slideshow | reverse %}
-  {% for image in reversed_slideshow %}
-    <div class="carousel-image" id="pic{{ forloop.index }}">
-      <img class="carousel-desktop" src="{{ site.baseurl }}{{ image.desktop }}" style="width:100%">
-      <img class="carousel-mobile" src="{{ site.baseurl }}{{ image.mobile }}" style="width:100%">
-    </div>
-  {% endfor %}
-</div>
-
 <div class="welcome">
   <div class="py-5">
     <h1>Dai stihó, cousin!</h1>
@@ -23,6 +13,17 @@ layout: home
     </p>
   </div>
 </div>
+
+<div class="slideshow-container">
+  {% assign reversed_slideshow = site.data.slideshow | reverse %}
+  {% for image in reversed_slideshow %}
+    <div class="carousel-image" id="pic{{ forloop.index }}">
+      <img class="carousel-desktop" src="{{ site.baseurl }}{{ image.desktop }}" style="width:100%">
+      <img class="carousel-mobile" src="{{ site.baseurl }}{{ image.mobile }}" style="width:100%">
+    </div>
+  {% endfor %}
+</div>
+
 <!-- <div class="testimonials bg-green text-white">
   <div class="row">
     <div class="col-2 px-0 testimonal-quote text-right">
