@@ -36,6 +36,38 @@ layout: home
   </div>
 </div>
 
+<div class="guests-front-page">
+
+  <div style="padding: 1rem 0 2rem 0 !important" class="py-5">
+    <p class="lead py-3" style="text-align: center; font-size: 1.5rem;">
+      We're so lucky to have several wonderful writers and creatives joining us as guests of honour this year!
+    </p>
+    <div class="bios">
+      {% for guest in site.data.guests %}
+      <!--  -->
+        <div class="goh-quick-bio">
+          <a href="{{ site.baseurl }}/events/guests">
+          <div class="headshot">
+            {% if guest.image != "" and guest.image != nil %}
+            <img src="{{ site.baseurl }}/images/guests/{{ guest.image }}" alt="A picture of {{ guest.name }}">
+            {% endif %}
+          </div>
+          <div class="works">
+            <p class="lead" style="font-weight: bold;">
+              {{ guest.name }}
+            </p>
+            <p class="lead">
+              {{ guest.works | markdownify }}
+            </p>
+          </div>
+          </a>
+        </div>
+      <!-- </a> -->
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
 <div class="slideshow-container">
   {% assign reversed_slideshow = site.data.slideshow | reverse %}
   {% for image in reversed_slideshow %}

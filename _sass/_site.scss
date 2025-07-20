@@ -90,3 +90,60 @@ body {
     }
   }
 }
+
+.guests-front-page {
+  background-color: $cc-purple-4;
+  color: white;
+  display: flex; 
+  flex-direction: row; 
+  flex-wrap: wrap; 
+  justify-content: space-evenly; 
+  align-items: center;
+
+  a {
+    color: white;
+    text-decoration: none;
+
+    :hover {
+      color: white;
+    }
+  }
+
+  .bios {
+    display: flex; 
+    flex-direction: row; 
+    flex-wrap: wrap; 
+    justify-content: space-evenly; 
+    align-items: center;
+    gap: 2rem;
+  }
+
+  .goh-quick-bio {
+    display: block;
+    flex-basis: 35%;
+    color: white!important;
+    :hover {
+      color: white!important;
+    }
+
+    .headshot {
+      border-radius: 8px;
+      min-width: 200px;
+      aspect-ratio: 1;
+      background: #FEE5C8;
+      background: linear-gradient(120deg, rgba(254, 229, 200, 1) 0%, rgba(217, 125, 99, 1) 100%);
+      img {
+        aspect-ratio: 1 / 1;
+        object-fit: cover;
+        object-position: top;
+        border-radius: 8px;
+      }
+    }
+
+    .works {
+      text-align: center;
+      padding-top: 5%;
+      height: 8rem;
+    }
+  }
+}
