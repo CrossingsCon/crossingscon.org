@@ -116,6 +116,15 @@ published: true
       <li>
         Get off at the 15th St. stop. (This is the first stop after 30th St.)
       </li>
+      <svg width="400" height="45" viewBox="0 0 400 45" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <line x1="30" y1="16" x2="370" y2="16" stroke="#0097D6" stroke-width="3" />
+        
+        <circle  cx="30" cy="16" r="10" fill="#0097D6" />
+        <circle cx="370" cy="16" r="10" fill="#0097D6" />
+        
+        <text  x="30" y="42" style="font-family: sans-serif" text-anchor="middle">30th St.</text>
+        <text x="370" y="42" style="font-family: sans-serif" text-anchor="middle">15th St.</text>
+      </svg>
       <li>
         Walk to the convention hotel, the Sonesta Philadelphia Rittenhouse
         Square!
@@ -156,6 +165,17 @@ published: true
         Get off at the 19th St. station. (This is the second stop after 30th
         St.)
       </li>
+      <svg width="400" height="45" viewBox="0 0 400 45" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <line x1="30" y1="16" x2="370" y2="16" stroke="#5A960A" stroke-width="3" />
+        
+        <circle  cx="30"   cy="16" r="10" fill="#5A960A" />
+        <circle cx="193.5" cy="16" r="10" fill="#5A960A" />
+        <circle cx="370"   cy="16" r="10" fill="#5A960A" />
+        
+        <text  x="30"   y="42" style="font-family: sans-serif" text-anchor="middle">30th St.</text>
+        <text x="193.5" y="42" style="font-family: sans-serif" text-anchor="middle">22nd St.</text>
+        <text x="370"   y="42" style="font-family: sans-serif" text-anchor="middle">19th St.</text>
+      </svg>
       <li>
         Walk to the convention hotel, the Sonesta Philadelphia Rittenhouse
         Square!
