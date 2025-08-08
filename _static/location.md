@@ -91,11 +91,11 @@ published: true
   <div class="instructions mfl">
     <h4>
       Amtrak to con via SEPTA Metro 
-      <svg width="51" height="51" viewBox="0 0 51 51" fill="none" xmlns="http://www.w3.org/2000/svg" aria-labelledby="mfl-title">
+      <svg width="51" height="51" viewBox="0 0 51 51" xmlns="http://www.w3.org/2000/svg" aria-labelledby="mfl-title">
         <title id="mfl-title">L line</title>
-        <path d="M50.3 0H0V50.3H50.3V0Z" fill="#0097D6"></path>
-        <path d="M44.83 5.47V44.84H5.47V5.47H44.84M46.66 3.65H3.64V46.66H46.65V3.64L46.66 3.65Z" fill="white"></path>
-        <path d="M22.74 32.11H31.84V35.55H18.45V14.75H22.74V32.11Z" fill="white"></path>
+        <path d="M50.3 0H0V50.3H50.3V0Z" fill="#0097D6" />
+        <path d="M44.83 5.47V44.84H5.47V5.47H44.84M46.66 3.65H3.64V46.66H46.65V3.64L46.66 3.65Z" fill="white" />
+        <path d="M22.74 32.11H31.84V35.55H18.45V14.75H22.74V32.11Z" fill="white" />
       </svg>
     </h4>
     <ol>
@@ -114,7 +114,7 @@ published: true
         (as of early August 2025) is $2.50.
       </li>
       <li>
-        Get off at the 15th St. stop (this is the first stop after 30th St.).
+        Get off at the 15th St. stop. (This is the first stop after 30th St.)
       </li>
       <li>
         Walk to the convention hotel, the Sonesta Philadelphia Rittenhouse
@@ -130,11 +130,11 @@ published: true
   <div class="instructions sst">
     <h4>
       Amtrak to con via SEPTA
-      <svg width="51" height="52" viewBox="0 0 51 52" fill="none" xmlns="http://www.w3.org/2000/svg" aria-labelledby="sst-title">
+      <svg width="51" height="52" viewBox="0 0 51 52" xmlns="http://www.w3.org/2000/svg" aria-labelledby="sst-title">
         <title id="sst-title">T</title>
-        <path d="M50.3 0.880005H0V51.18H50.3V0.880005Z" fill="#5A960A"></path>
-        <path d="M44.83 6.35001V45.72H5.47V6.35001H44.84M46.66 4.53H3.64V47.54H46.65V4.53H46.66Z" fill="white"></path>
-        <path d="M33.62 19.1H27.25V36.43H22.96V19.1H16.67V15.63H33.62V19.1Z" fill="white"></path>
+        <path d="M50.3 0.880005H0V51.18H50.3V0.880005Z" fill="#5A960A" />
+        <path d="M44.83 6.35001V45.72H5.47V6.35001H44.84M46.66 4.53H3.64V47.54H46.65V4.53H46.66Z" fill="white" />
+        <path d="M33.62 19.1H27.25V36.43H22.96V19.1H16.67V15.63H33.62V19.1Z" fill="white" />
       </svg> Trolley
     </h4>
     <ol>
@@ -153,8 +153,8 @@ published: true
         (as of early August 2025) is $2.50.
       </li>
       <li>
-        Get off at the 19th St. station (this is the second stop after 30th
-        St.).
+        Get off at the 19th St. station. (This is the second stop after 30th
+        St.)
       </li>
       <li>
         Walk to the convention hotel, the Sonesta Philadelphia Rittenhouse
