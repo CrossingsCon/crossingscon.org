@@ -7,50 +7,167 @@ order: 20
 published: true
 ---
 
-# Getting to the convention
+## Getting to the convention
 
-### I'm flying to Philadelphia International Airport (PHL)
+<div class="to-con-route">
+  <div class="head">
+    <h3>I'm flying to Philadelphia International Airport (PHL)</h3>
+  </div>
+  <div class="instructions primary">
+    <ol>
+      <li>
+        As you exit security, look for the signs to "Center City Train" as you
+        cross the bridge toward baggage claim.
+      </li>
+      <li>
+        Go down to the platform level. Here you can buy a ticket and wait for
+        the train. (Buy a ticket to Center City stations; it'll be $7.50.)
+      </li>
+      <li>
+        Get off the train at Suburban station and proceed up the mezzanine
+        level.
+      </li>
+      <li>Swipe out through the kiosks and head for the street-level exits.</li>
+      <li>
+        The 18th St. exit is the closest to the hotel; the 17th St. exit is the
+        closest elevator.
+      </li>
+      <li>
+        Head about a block from the exit and the convention hotel, the Sonesta
+        Philadelphia Rittenhouse Square, is right there!
+      </li>
+    </ol>
+    <p class="text-center">
+      <a class="btn btn-lg btn-badge" href="https://maps.app.goo.gl/VtZXAsT2xLVih1zn7" target="_blank">
+        Google Maps directions
+      </a>
+    </p>
+  </div>
+  <div class="youtube">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/WrD2bjgHPcQ" title="How to get to CrossingsCon 2025 from Philadelphia International Airport" frameborder="0" loading="lazy" referrerpolicy="no-referrer" allow="encrypted-media; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" credentialless allowfullscreen></iframe>
+  </div>
+</div>
 
-1. As you exit security, look for the signs to "Center City Train" as you cross the bridge toward baggage claim.
-2. Go down to the platform level. Here you can buy a ticket and wait for the train. (Buy a ticket to Center City stations; it'll be $7.50.)
-3. Get off the train at Suburban station and proceed up the mezzanine level.
-4. Swipe out through the kiosks and head for the street-level exits.
-5. The 18th St. exit is the closest to the hotel; the 17th St. exit is the closest elevator.
-6. Head about a block from the exit and the convention hotel, the Sonesta Philadelphia Rittenhouse Square, is right there!
-
-Google Maps directions: https://maps.app.goo.gl/VtZXAsT2xLVih1zn7
-
-YewChube: https://youtu.be/WrD2bjgHPcQ
-
-### I'm taking Amtrak to 30th St. Station
-
-#### Amtrak to con via bus
-
-1. You'll get off your train at the lower platform level of the William H Gray III 30th St. Amtrak station; proceed up to the main hall.
-2. Follow signs to the Market St. buses.
-3. When you're outside the station, go to the corner of JFK Blvd. and 30th St. and look for a bus sign that says "##th–Market". These buses operate down Market Street.
-4. Get on any of those buses – lines 44, 62, 124, or 125.
-5. Pay with cash, tap-to-pay, the SEPTA Key Card, or on the SEPTA app. Fare (as of early August 2025) is $2.50.
-6. Get off at the "Market St. & 18th St." stop.
-7. The convention hotel, the Sonesta Philadelphia Rittenhouse Square, is right there!
-
-Google Maps directions: https://maps.app.goo.gl/9LFkQaT2a2nLtbMp6
-
-YewChube: https://youtu.be/ZAaUvPBBles
-
-#### Amtrak to con via Metro <span style="color: #419ad8">🅻</span>/<span style="color: #7aa236">🆃</span> Trolley
-
-1. You'll get off your train at the lower platform level of the William H Gray III 30th St. Amtrak station; proceed up to the main hall.
-2. Follow signs to the Metro <span style="color: #419ad8">🅻</span> line (this is also called the Market-Frankford Line) or <span style="color: #7aa236">🆃</span> Trolley lines (these are also called Subway-Surface Trolleys). This involves going outside and walking half a block.
-4. Get on any <span style="color: #419ad8">🅻</span> train headed to Frankford Transit Center or a <span style="color: #7aa236">🆃</span> trolley headed to City Hall.
-5. Pay with cash, tap-to-pay, the SEPTA Key Card, or on the SEPTA app. Fare (as of early August 2025) is $2.50.
-6. If you took the <span style="color: #419ad8">🅻</span> train, get off at the 15th St. stop (this is the first stop after 30th St.). If you took the <span style="color: #7aa236">🆃</span> trolley, get off at the 19th St. station (this is the second stop after 30th St.).
-7. Walk to the convention hotel, the Sonesta Philadelphia Rittenhouse Square!
-
-Google Maps directions (Metro <span style="color: #419ad8">🅻</span>): https://maps.app.goo.gl/xJ1Y5XbdkYMgbef59  
-Google Maps directions (<span style="color: #7aa236">🆃</span> Trolley): https://maps.app.goo.gl/oyAivhU21P8f1b1Q9
-
-YewChube: (this space intentionally left blank)
+<div class="to-con-route">
+  <div class="head">
+    <h3>I'm taking Amtrak to 30th St. Station</h3>
+  </div>
+  <div class="instructions primary">
+    <h4>Amtrak to con via SEPTA bus</h4>
+    <ol>
+      <li>
+        You'll get off your train at the lower platform level of the William H
+        Gray III 30th St. Amtrak station; proceed up to the main hall.
+      </li>
+      <li>Follow signs to the Market St. buses.</li>
+      <li>
+        When you're outside the station, go to the corner of JFK Blvd. and 30th
+        St. and look for a bus sign that says "##th–Market". These buses operate
+        down Market Street.
+      </li>
+      <li>
+        Get on any of those buses – lines <b>44</b>, <b>62</b>, <b>124</b>, or
+        <b>125</b>.
+      </li>
+      <li>
+        Pay with cash, tap-to-pay, the SEPTA Key Card, or on the SEPTA app. Fare
+        (as of early August 2025) is $2.50.
+      </li>
+      <li>Get off at the "Market St. & 18th St." stop.</li>
+      <li>
+        The convention hotel, the Sonesta Philadelphia Rittenhouse Square, is
+        right there!
+      </li>
+    </ol>
+    <p class="text-center">
+      <a class="btn btn-lg btn-badge" href="https://maps.app.goo.gl/9LFkQaT2a2nLtbMp6" target="_blank">
+        Google Maps directions
+      </a>
+    </p>
+  </div>
+  <div class="youtube">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/ZAaUvPBBles" title="How to get to CrossingsCon 2025 from Philadelphia's 30th St. Amtrak Station by SEPTA bus" frameborder="0" loading="lazy" referrerpolicy="no-referrer" allow="encrypted-media; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" credentialless allowfullscreen></iframe>
+  </div>
+  <div class="instructions mfl">
+    <h4>
+      Amtrak to con via SEPTA Metro 
+      <svg width="51" height="51" viewBox="0 0 51 51" fill="none" xmlns="http://www.w3.org/2000/svg" aria-labelledby="mfl-title">
+        <title id="mfl-title">L line</title>
+        <path d="M50.3 0H0V50.3H50.3V0Z" fill="#0097D6"></path>
+        <path d="M44.83 5.47V44.84H5.47V5.47H44.84M46.66 3.65H3.64V46.66H46.65V3.64L46.66 3.65Z" fill="white"></path>
+        <path d="M22.74 32.11H31.84V35.55H18.45V14.75H22.74V32.11Z" fill="white"></path>
+      </svg>
+    </h4>
+    <ol>
+      <li>
+        You'll get off your train at the lower platform level of the William H
+        Gray III 30th St. Amtrak station; proceed up to the main hall.
+      </li>
+      <li>
+        Follow signs to the Metro L line (this is also called the
+        Market-Frankford Line). This involves going outside and walking half a
+        block.
+      </li>
+      <li>Get on any L train headed to Frankford Transit Center.</li>
+      <li>
+        Pay with cash, tap-to-pay, the SEPTA Key Card, or on the SEPTA app. Fare
+        (as of early August 2025) is $2.50.
+      </li>
+      <li>
+        Get off at the 15th St. stop (this is the first stop after 30th St.).
+      </li>
+      <li>
+        Walk to the convention hotel, the Sonesta Philadelphia Rittenhouse
+        Square!
+      </li>
+    </ol>
+    <p class="text-center">
+      <a class="btn btn-lg btn-badge" href="https://maps.app.goo.gl/xJ1Y5XbdkYMgbef59 " target="_blank">
+        Google Maps directions (Metro L)
+      </a>
+    </p>
+  </div>
+  <div class="instructions sst">
+    <h4>
+      Amtrak to con via SEPTA
+      <svg width="51" height="52" viewBox="0 0 51 52" fill="none" xmlns="http://www.w3.org/2000/svg" aria-labelledby="sst-title">
+        <title id="sst-title">T</title>
+        <path d="M50.3 0.880005H0V51.18H50.3V0.880005Z" fill="#5A960A"></path>
+        <path d="M44.83 6.35001V45.72H5.47V6.35001H44.84M46.66 4.53H3.64V47.54H46.65V4.53H46.66Z" fill="white"></path>
+        <path d="M33.62 19.1H27.25V36.43H22.96V19.1H16.67V15.63H33.62V19.1Z" fill="white"></path>
+      </svg> Trolley
+    </h4>
+    <ol>
+      <li>
+        You'll get off your train at the lower platform level of the William H
+        Gray III 30th St. Amtrak station; proceed up to the main hall.
+      </li>
+      <li>
+        Follow signs to the Metro T Trolley lines (these are also called
+        Subway-Surface Trolleys). This involves going outside and walking half a
+        block.
+      </li>
+      <li>Get on any T trolley headed to City Hall.</li>
+      <li>
+        Pay with cash, tap-to-pay, the SEPTA Key Card, or on the SEPTA app. Fare
+        (as of early August 2025) is $2.50.
+      </li>
+      <li>
+        Get off at the 19th St. station (this is the second stop after 30th
+        St.).
+      </li>
+      <li>
+        Walk to the convention hotel, the Sonesta Philadelphia Rittenhouse
+        Square!
+      </li>
+    </ol>
+    <p class="text-center">
+      <a class="btn btn-lg btn-badge" href="https://maps.app.goo.gl/oyAivhU21P8f1b1Q9" target="_blank">
+        Google Maps directions (T Trolley)
+      </a>
+    </p>
+  </div>
+</div>
 
 ---
 

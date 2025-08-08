@@ -187,3 +187,51 @@ footer a {
 a:hover {
     color: $cc-purple-1;
 }
+
+.to-con-route {
+  display: grid;
+  grid-template: 
+    "header header" auto
+    "instrs youtube" auto
+    "mfl sst" auto / 1fr 1fr;
+  gap: 1rem;
+  grid-column-gap: 1rem;
+  
+  .head {
+    grid-area: header;
+    
+    background: #d97d63;
+    
+    padding: .667rem .667rem 0 .667rem;
+  }
+  
+  .instructions {
+    &.primary {
+      grid-area: instrs;
+    }
+    
+    &.mfl {
+      grid-area: mfl;
+    }
+    
+    &.sst {
+      grid-area: sst;
+    }
+    
+    h4 {
+      background: #d97d63;
+      
+      padding: .333rem;
+      
+      svg {
+        width: 1.7rem;
+        height: 1.7rem;
+        margin-bottom: -5px;
+      }
+    }
+  }
+  
+  .youtube {
+    grid-area: youtube;
+  }
+}
