@@ -5,7 +5,6 @@ const zoomables = document.querySelectorAll("img.zoomable");
  * 
  * <div class="mapbox">
  *   <img src="target source" />
- *   <figcaption>target's caption</figcaption>
  * </div>
  */
 const buildMapbox = (target) => {
@@ -14,13 +13,9 @@ const buildMapbox = (target) => {
   const image = document.createElement("img");
   image.setAttribute("src", target.src);
   
-  const caption = document.createElement("figcaption");
-  caption.textContent = parent.querySelector("figcaption").textContent;
-  
   const mapbox = document.createElement("div");
   mapbox.setAttribute("class", "mapbox");
   mapbox.appendChild(image);
-  mapbox.appendChild(caption);
   
   return mapbox;
 };
@@ -39,7 +34,6 @@ const onMapClick = event => {
      <button autofocus="true">❌</button>
      <div class="mapbox">
        <img src="target source" />
-       <figcaption>target's caption</figcaption>
      </div>
    </dialog>
   */
