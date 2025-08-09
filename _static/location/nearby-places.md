@@ -5,221 +5,425 @@ published: true
 order: 21
 ---
 
-## Quick Reference: Around the Hotel
+<article>
+  <h2>Quick Reference: Around the Hotel</h2>
 
-<div class="city-guide">
+  <div class="city-guide">
+    <div class="frame">
+      <iframe loading="lazy"
+              src="https://www.canva.com/design/DAGtNpUeBls/Xn5kmRw3HRQC-lpCARetHA/view?embed"
+              title="Map of Philadelphia around the Sonesta Rittenhouse Square hotel, with points of interest marked"
+      ></iframe>
+    </div>
+    <!--<div class="frame">
+      <iframe loading="lazy" 
+              style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+              src="https://www.canva.com/design/DAGtNpUeBls/JlYKM1zZZMEdXVsS2WkAWw/view?ui=eyJEIjp7IlQiOnsiQSI6IlBCbW0wMEowWG1QWnd6emIifX19?embed"
+              frameborder="0"
+              referrerpolicy="no-referrer"
+              allow="encrypted-media; picture-in-picture; web-share"
+              referrerpolicy="strict-origin-when-cross-origin"
+              credentialless
+              allowfullscreen
+              title="Map of Philadelphia around the Sonesta Rittenhouse Square hotel, with points of interest marked"
+      ></iframe>
+    </div>-->
+    <div class="map-reference">
+      <ol>
+        <li value="8" class="letter">Sonesta Philadelphia Hotel</li>
+          <li value="1">
+            Wawa
+            <br />
+            <span class="note">convenience store with snacks</span>
+          </li>
+          <li>Rita’s Water Ice</li>
+          <li>
+            Dunkin' Donuts
+            <br />
+            <span class="note">2 locations</span>
+          </li>
+          <li>Target</li>
+          <li>Trader Joe's</li>
+          <li>Giant Grocery Store</li>
+          <li>
+            <a href="https://www.shopsatliberty.com/directory">
+              The Shops At Liberty Place
+            </a>
+          </li>
+        <li>
+          Real Food Eatery
+          <br />
+          <span class="note">gluten-free</span>
+        </li>
+      </ol>
+      <ol>
+        <li value="9">
+          Bluestone Lane
+          <br />
+          <span class="note">Allergy Conscious — 3 locations</span>
+          <br />
+        	<span class="note">
+        	  <img src="/images/2025/sunburst.png" height="14px">
+        	  Rittenhouse square location opens at 7am
+        	</span>
+        </li>
+        <li>
+          P.S. And Co
+          <br />
+          <span class="note">gluten-free</span>
+        </li>
+        <li>
+          Sushi
+          <br />
+          <span class="note">3 locations</span>
+        </li>
+        <li>
+          HipCityVeg
+          <br />
+          <span class="note">Vegan</span>
+        </li>
+        <li>
+          20th Street Pizza
+          <br />
+          <span class="note">Vegan</span>
+        </li>
+      </ol>
+      <ol>
+        <li value="14">
+          <a href="https://www.rideindego.com/">Indego Bike Share</a>
+        </li>
+        <li>
+          El Cafe
+          <br />
+          <span class="note">
+            <img src="/images/2025/sunburst.png" height="14px">
+            Open before 9AM
+          </span>
+        </li>
+        <li>
+          Square 1682
+          <br />
+          <span class="note">
+            <img src="/images/2025/sunburst.png" height="14px">
+            Open before 9AM
+          </span>
+        </li>
+        <li>
+          Foods On First Diner
+          <br />
+          <span class="note">
+            <img src="/images/2025/sunburst.png" height="14px">
+            Open before 9AM
+          </span>
+        </li>
+        <li>
+          Capriccio Cafe
+          <br />
+          <span class="note">
+            <img src="/images/2025/sunburst.png" height="14px">
+            Open before 9AM
+          </span>
+        </li>
+        <li>
+          Five Below
+          <br />
+          <span class="note">Dollar Store kind of place</span>
+        </li>
+      </ol>
+    </div>
+  </div>
+<article>
+
+<article>
+  <h2>Quick Reference: Philadelphia City Guide</h2>
+
   <div class="frame">
     <iframe loading="lazy"
-            src="https://www.canva.com/design/DAGtNpUeBls/Xn5kmRw3HRQC-lpCARetHA/view?embed"
-            title="Map of Philadelphia around the Sonesta Rittenhouse Square hotel, with points of interest marked"
+            src="https://www.canva.com/design/DAGtNpUeBls/JlYKM1zZZMEdXVsS2WkAWw/view?ui=eyJEIjp7IlQiOnsiQSI6IlBCbWRnWWtTM1E0UFl6cnEifX19"
+            allowfullscreen="allowfullscreen"
+            allow="fullscreen"
+            title="Map of Philadlephia between UPenn and I-95, between Grand Ave and Carpenter, with points of interest marked"
     ></iframe>
   </div>
-  <!--<div class="frame">
-    <iframe loading="lazy" 
-            style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-            src="https://www.canva.com/design/DAGtNpUeBls/JlYKM1zZZMEdXVsS2WkAWw/view?ui=eyJEIjp7IlQiOnsiQSI6IlBCbW0wMEowWG1QWnd6emIifX19?embed"
-            frameborder="0"
-            referrerpolicy="no-referrer"
-            allow="encrypted-media; picture-in-picture; web-share"
-            referrerpolicy="strict-origin-when-cross-origin"
-            credentialless
-            allowfullscreen
-            title="Map of Philadelphia around the Sonesta Rittenhouse Square hotel, with points of interest marked"
-    ></iframe>
-  </div>-->
-  <div class="map-reference">
-    <ol>
-      <li value="8" class="letter">Sonesta Philadelphia Hotel</li>
-        <li value="1">
-          Wawa
-          <br />
-          <span class="note">convenience store with snacks</span>
-        </li>
-        <li>Rita’s Water Ice</li>
-        <li>
-          Dunkin' Donuts
-          <br />
-          <span class="note">2 locations</span>
-        </li>
-        <li>Target</li>
-        <li>Trader Joe's</li>
-        <li>Giant Grocery Store</li>
-        <li>
-          <a href="https://www.shopsatliberty.com/directory">
-            The Shops At Liberty Place
-          </a>
-        </li>
-      <li>
-        Real Food Eatery
-        <br />
-        <span class="note">gluten-free</span>
-      </li>
-    </ol>
-    <ol>
-      <li value="9">
-        Bluestone Lane
-        <br />
-        <span class="note">Allergy Conscious — 3 locations</span>
-        <br />
-      	<span class="note">
-      	  <img src="/images/2025/sunburst.png" width="14px" height="14px">
-      	  Rittenhouse square location open at 7am
-      	</span>
-      </li>
-      <li>
-        P.S. And Co
-        <br />
-        <span class="note">gluten-free</span>
-      </li>
-      <li>
-        Sushi
-        <br />
-        <span class="note">3 locations</span>
-      </li>
-      <li>
-        HipCityVeg
-        <br />
-        <span class="note">Vegan</span>
-      </li>
-      <li>
-        20th Street Pizza
-        <br />
-        <span class="note">Vegan</span>
-      </li>
-    </ol>
-    <ol>
-      <li value="14">
-        <a href="https://www.rideindego.com/">Indego Bike Share</a>
-      </li>
-      <li>
-        El Cafe
-        <br />
-        <span class="note">
-          <img src="/images/2025/sunburst.png" width="14px" height="14px">
-          Open before 9AM
-        </span>
-      </li>
-      <li>
-        Square 1682
-        <br />
-        <span class="note">
-          <img src="/images/2025/sunburst.png" width="14px" height="14px">
-          Open before 9AM
-        </span>
-      </li>
-      <li>
-        Foods On First Diner
-        <br />
-        <span class="note">
-          <img src="/images/2025/sunburst.png" width="14px" height="14px">
-          Open before 9AM
-        </span>
-      </li>
-      <li>
-        Capriccio Cafe
-        <br />
-        <span class="note">
-          <img src="/images/2025/sunburst.png" width="14px" height="14px">
-          Open before 9AM
-        </span>
-      </li>
-      <li>
-        Five Below
-        <br />
-        <span class="note">Dollar Store kind of place</span>
-      </li>
-    </ol>
-  </div>
-</div>
+</article>
 
-## Quick Reference: Philadelphia City Guide
+<article>
+  <h3>
+    Blue Hex <img src="/images/2025/blue_hex.png" height="30px" /> — The Hotel
+  </h3>
+  <ol>
+    <li value="8" class="letter">
+      <a href="https://www.sonesta.com/sonesta-hotels-resorts/pa/philadelphia/sonesta-philadelphia-rittenhouse-square">
+        Sonesta Philadelphia Rittenhouse Square
+      </a>
+    </li>
+  </ol>
+</article>
 
-<div class="frame">
-  <iframe loading="lazy"
-          src="https://www.canva.com/design/DAGtNpUeBls/JlYKM1zZZMEdXVsS2WkAWw/view?ui=eyJEIjp7IlQiOnsiQSI6IlBCbWRnWWtTM1E0UFl6cnEifX19"
-          allowfullscreen="allowfullscreen"
-          allow="fullscreen"
-          title="Map of Philadlephia between UPenn and I-95, between Grand Ave and Carpenter, with points of interest marked"
-  ></iframe>
-</div>
+<article>
+  <h3>
+    Red Triangle
+    <img src="/images/2025/red_chriego.png" height="30px" /> — Transit
+  </h3>
+  <ol>
+    <li>30<sup>th</sup> Street Station for SEPTA and Amtrak</li>
+    <li>Suburban Station</li>
+    <li>Jefferson Station</li>
+    <p>
+      <a href="https://wwww.septa.org/fares/">SEPTA Fare Information</a> - Note:
+      <a href="https://wwww.septa.org/fares/ways-to-pay/">Amtrak tickets for the
+      same date of travel</a> and presented for inspection will be accepted as
+      fare to ride on Regional Rail trains between William H. Gray III
+      30<sup>th</sup> Street Station, Suburban Station and Jefferson
+      Station.
+      <br />
+      One Day Anywhere FleX Pass is a cheaper ticket option if you expect to
+      take 3-10 rides in one day.
+    </p>
+  </ol>
+</article>
 
-<p>* Locations that will be closed on Sunday</p>
+<article>
+  <h3>
+    Orange Plus 
+    <img src="/images/2025/not_violating_the_geneva_convention.png" height="30px" />
+    — In Case of Emergency
+  </h3>
+  <ul>
+    <li class="nodot">
+      <a href="https://www.jeffersonhealth.org/locations/emergency-department-thomas-jefferson-university-hospital-main-building">
+        Emergency Room
+      </a>
+    </li>
+    <li class="nodot">
+      <a href="https://www.jeffersonhealth.org/locations/rittenhouse-urgent-care">
+        Urgent Care
+      </a>
+    </li>
+  </ul>
+</article>
 
-### Blue Hex [Hex] - The Hotel
+<article>
+  <h3>
+    Cyan Star <img src="/images/2025/blue_sdr.png" height="30px" /> — Old City
+  </h3>
+  <ol>
+    <li>
+      <a href="https://www.nps.gov/inde/planyourvisit/independencehall.htm">
+        Independence Hall
+      </a> and 
+      <a href="https://www.nps.gov/inde/learn/historyculture/stories-libertybell.htm">
+        The Liberty Bell
+      </a>
+    </li>
+    <li>
+      <a href="https://historicphiladelphia.org/betsy-ross-house/">
+        Betsy Ross’s House
+      </a>
+    </li>
+    <li><a href="https://www.nps.gov/edal/index.htm">Poe’s House</a></li>
+    <li>
+      <a href="https://www.aampmuseum.org/">African American Museum</a>
+      <br />
+      <span class="note">
+        Tickets $14/adult&nbsp;
+      </span>
+    </li>
+    <li>
+      <a href="https://constitutioncenter.org/">The National Constitution Center</a>
+      <br />
+      <span class="note">
+        Tickets $19/adult
+      </span>
+    </li>
+    <p>And More</p>
+  </ol>
+</article>
 
-<li value="8" class="letter">
-  <a href="https://www.sonesta.com/sonesta-hotels-resorts/pa/philadelphia/sonesta-philadelphia-rittenhouse-square">
-    Sonesta Philadelphia Rittenhouse Square
-  </a>
-</li>
+<article>
+  <h3>
+    Purple Heart
+    <img src="/images/2025/purple_hrt.png" height="30px" /> — Bookstores
+  </h3>
+  <ol>
+    <li>Book Corner</li>
+    <li value="4">
+      <a href="https://www.queerbooks.com/">
+        Giovanni’s Room Queer Used Book Store
+      </a>
+    </li>
+  </ol>
+</article>
 
-## Red Triangle [Triangle] - Transit  
+<article>
+  <h3>
+    Green Circle
+    <img src="/images/2025/green_srko.png" height="30px" /> — Science and Arts
+  </h3>
+  <ol>
+    <li>
+      <a href="https://fi.edu/en">Franklin Institute</a>
+      <br />
+      <span class="note">
+        Tickets $25/adult
+      </span>
+    </li>
+    <li>
+      <a href="https://ansp.org/">Academy Of Natural Sciences</a>
+      <br />
+      <span class="note">
+        Tickets $24/adult
+      </span>
+    </li>
+    <li>
+      <a href="https://muttermuseum.org/">Mütter Museum</a>
+      <br />
+      <span class="note">
+        Tickets $20/adult
+      </span>
+    </li>
+    <li>
+      <a href="https://philamuseum.org/">Philadelphia Museum Of Art</a>
+      <br />
+      <span class="note">
+        $30/adult
+      </span>
+    </li>
+    <li>
+      <a href="https://rodinmuseum.org/">Rodin Museum</a>
+      <br />
+      <span class="note">
+        Tickets $15/adult
+      </span>
+    </li>
+    <li>
+      <a href="https://www.philadelphiazoo.org/">Philadelphia Zoo</a>
+      <br />
+      <span class="note">
+        Tickets $27/adult
+      </span>
+    </li>
+  </ol>
+</article>
 
-1. 30th Street Station for SEPTA and Amtrak
-2. Suburban Station
-3. Jefferson Station
-[Septa Fare Information](https://wwww.septa.org/fares/) - Note: (Amtrak tickets for the same date of travel)[https://wwww.septa.org/fares/ways-to-pay/] and presented for inspection will be accepted as a fare to ride on Regional Rail trains between William H. Gray III 30th Street Station, Suburban Station and Jefferson Station.
-One Day Anywhere FleX Pass is a cheaper ticket option if you expect to take 3-10 rides in one day.
+<article>
+  <h3>
+    Blue Square <img src="/images/2025/blue_sgr.png" height="30px" /> — Misc
+  </h3>
+  <ol>
+    <li>
+      <a href="https://libwww.freelibrary.org/locations/parkway-central-library">
+        Free Library of Philadelphia
+      </a>
+      <br />
+      <span class="note">
+        Closed on Sunday
+      </span>
+    </li>
+    <li>
+      <a href="https://www.visitphilly.com/things-to-do/attractions/love-park/">
+        Love Park
+      </a> and 
+      <a href="https://www.visitphilly.com/things-to-do/attractions/city-hall/">
+        City Hall
+      </a>
+    </li>
+    <li>
+      <a href="https://readingterminalmarket.org/">Reading Terminal Market</a>
+    </li>
+    <li><a href="https://www.penzeys.com/">Penzey’s Spices</a></li>
+    <li>
+      <a href="https://www.phillyaidsthrift.com/">Philly AIDS Thrift Store</a>
+    </li>
+    <li>
+      <a href="https://www.phillymagicgardens.org/">Magic Gardens Gallery</a>
+      <br />
+      <span class="note">
+        Tickets $15/adult timed tickets
+      </span>
+    </li>
+    <li><a href="https://www.cherrystreetpier.com/">Cherry Street Pier</a></li>
+  </ol>
+</article>
 
-## Orange Plus [Plus] - In Case of Emergency
-[Emergency Room](https://www.jeffersonhealth.org/locations/emergency-department-thomas-jefferson-university-hospital-main-building)
-[Urgent Care](https://www.jeffersonhealth.org/locations/rittenhouse-urgent-care)
+<article>
+  <h2>Interactive Google Map</h2>
+  <p>Contains all of the above locations</p>
+  <iframe src="https://www.google.com/maps/d/embed?mid=1QK4AcG7aOQLzytGSKogUtPEwk4mxM2s&hl=en&ehbc=2E312F" width="640" height="480"></iframe>
+  <p>
+    <a href="https://www.google.com/maps/d/edit?hl=en&mid=1QK4AcG7aOQLzytGSKogUtPEwk4mxM2s&ll=39.96346044066759%2C-75.16770471721736&z=14" target="_blank">
+      Open Google Map in new window
+    </a>
+  </p>
+</article>
 
-## Cyan Star [Star] - Old City
-1. [Independence Hall](https://www.nps.gov/inde/planyourvisit/independencehall.htm) and [The Liberty Bell](https://www.nps.gov/inde/learn/historyculture/stories-libertybell.htm)
-2. [Betsy Ross’s House](https://historicphiladelphia.org/betsy-ross-house/)
-3. [Poe’s House](https://www.nps.gov/edal/index.htm)
-4. [African American Museum](https://www.aampmuseum.org/)
-*   Tickets $14/adult 
-5. [The National Constitution Center](https://constitutioncenter.org/)
-*   Tickets $19/adult
-And More
+<article>
+  <h2>
+    Other Things
+  </h2>
+  <p>
+    <a href="https://ridephillyphlash.com/things-to-see/">Philly Phlash Attraction Bus Line</a> - Passes in front of the hotel and connects many of Philadelphia’s most popular attractions.
+  </p>
+  <h3>
+    Events Around The City <span class="note">(may require tickets)</span>
+  </h3>
+  <ul>
+    <li class="arrow">
+      August 16
+      <br />
+      <a href="https://www.cherrystreetpier.com/event/2025/06/festival-of-india-part-of-the-peco-multicultural-series-2025/">
+        Festival of India @ The Cherry Street Pier
+      </a>
+    </li>
+    <li class="arrow">
+      August 17
+      <br />
+      <a href="https://www.cherrystreetpier.com/event/2025/06/philadelphia-caribbean-festival-part-of-the-peco-multicultural-series-2025/">
+        Philadelphia Caribbean Festival @ The Cherry Street Pier
+      </a>
+    </li>
+    <li class="arrow">
+      Monday – Saturday
+      <br />
+      <a href="https://historicphiladelphia.org/events/once-upon-a-nation-storytelling-benches/">
+        Once Upon a Nation Storytelling Benches
+      </a>
+    </li>
+    <li class="arrow">
+      Daily
+      <br />
+      <a href="https://www.cherrystreetpier.com/event/2025/06/weaving-on-the-waterfront-by-bonnie-macallister-and-jamie-campbell/">
+        Weaving on the Waterfront Exhibit @ The Cherry Street Pier
+      </a>
+    </li>
+    <li class="arrow">
+      Daily
+      <br />
+      <a href="https://fi.edu/en/exhibits-and-experiences/body-worlds-vital-last-chance">
+        Body Worlds @ The Franklin Institute
+      </a>
+    </li>
+    <li class="arrow">
+      Daily
+      <br />
+      <a href="https://philamuseum.org/calendar/exhibition/boom-art-design-1940s">
+        Boom: Art and Design in the 1940s @ The Philadelphia Museum of Art
+      </a>
+    </li>
+    <li class="arrow">
+      Daily
+      <br />
+      <a href="https://www.delawareriverwaterfront.com/where-to-go/independence-blue-cross-riverrink-summerfest">
+        RiverRink Summerfest @ Penns Landing
+      </a>
+    </li>
+    <li class="arrow">
+      Daily
+      <br />
+      <a href="https://phillychineselanternfestival.com/">
+        Philadelphia Chinese Lantern Festival @ Franklin Square
+      </a>
+    </li>
+  </ul>
+</article>
 
-## Purple Heart [Heart] - Bookstores
-1. Book Corner
-4. [Giovanni’s Room Queer Used Book Store](https://www.queerbooks.com/)
-
-## Green Circle [Circle] - Science and Arts
-1. [Franklin Institute](https://fi.edu/en)
-*   Tickets $25/adult
-2. [Academy Of Natural Sciences](https://ansp.org/)
-*   Tickets $24/adult
-3. [Mütter Museum](https://muttermuseum.org/)
-*   Tickets $20/adult
-4. [Philadelphia Museum Of Art](https://philamuseum.org/)
-*   $30/adult
-5. [Rodin Museum](https://rodinmuseum.org/)
-*   Tickets $15/adult
-6. [Philadelphia Zoo](https://www.philadelphiazoo.org/)
-*   Tickets $27/adult
-
-## Blue Square [Square] - Misc
-1. [Free Library of Philadelphia](https://libwww.freelibrary.org/locations/parkway-central-library)\*
-2. [Love Park](https://www.visitphilly.com/things-to-do/attractions/love-park/) and [City Hall](https://www.visitphilly.com/things-to-do/attractions/city-hall/)
-3. [Reading Terminal Market](https://readingterminalmarket.org/)
-4. [Penzey’s Spices](https://www.penzeys.com/)
-5. [Philly AIDs Thrift Store](https://www.phillyaidsthrift.com/)
-6. [Magic Gardens Gallery](https://www.phillymagicgardens.org/)
-*   Tickets $15/adult timed tickets
-7. [Cherry Street Pier](https://www.cherrystreetpier.com/)
-
-# Interactive Google Map
-Contains all of the above locations
-<iframe src="https://www.google.com/maps/d/embed?mid=1QK4AcG7aOQLzytGSKogUtPEwk4mxM2s&hl=en&ehbc=2E312F" width="640" height="480"></iframe>
-
-<a href="https://www.google.com/maps/d/edit?hl=en&mid=1QK4AcG7aOQLzytGSKogUtPEwk4mxM2s&ll=39.96346044066759%2C-75.16770471721736&z=14" target="_blank">
-  Open Google Map in new window
-</a>
-
-# Other Things
-[Philly Phlash Attraction Bus Line](https://ridephillyphlash.com/things-to-see/) - Passes in front of the hotel and connects many of Philadelphia's most popular attractions.
-
-## Events Around The City (may require tickets)
-Aug 16: [Festival of India @ The Cherry Street Pier](https://www.cherrystreetpier.com/event/2025/06/festival-of-india-part-of-the-peco-multicultural-series-2025/)
-Aug 17: [Philadelphia Caribbean Festival @ The Cherry Street Pier](https://www.cherrystreetpier.com/event/2025/06/philadelphia-caribbean-festival-part-of-the-peco-multicultural-series-2025/)
-Anytime (closed Sunday): [Once Upon a Nation Storytelling Benches](https://historicphiladelphia.org/events/once-upon-a-nation-storytelling-benches/)
-Anytime: [Weaving on the Waterfront Exhibit @ The Cherry Street Pier](https://www.cherrystreetpier.com/event/2025/06/weaving-on-the-waterfront-by-bonnie-macallister-and-jamie-campbell/)
-Anytime: [Body Worlds @ The Franklin Institute](https://fi.edu/en/exhibits-and-experiences/body-worlds-vital-last-chance)
-Anytime: [Boom: Art and Design in the 1940s @ The Philadelphia Museum of Art](https://philamuseum.org/calendar/exhibition/boom-art-design-1940s)
-Anytime: [RiverRink Summerfest @ Penns Landing](https://www.delawareriverwaterfront.com/where-to-go/independence-blue-cross-riverrink-summerfest)
-Anytime: [Philadelphia Chinese Lantern Festival @ Franklin Square](https://phillychineselanternfestival.com/)

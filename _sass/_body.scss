@@ -63,24 +63,36 @@
     display: block;
     
     margin-bottom: 1rem;
-        
+    
     ol {
       margin: 0;
     }
+  }
+}
+
+ol, ul {
+  li {
+    &.letter {
+      list-style-type: upper-latin;
+    }
     
-    li {
-      list-style-type: decimal;
-      
-      &.letter {
-        list-style-type: upper-latin;
-      }
-      
-      .note {
-        font-style: italic;
-        font-size: smaller;
-      }
+    &.arrow {
+      list-style-type: disclosure-closed;
+    }
+    
+    &.nodot {
+      list-style-type: none;
     }
   }
+}
+
+h3 img {
+  margin-top: -8px;
+}
+
+.note {
+  font-style: italic;
+  font-size: smaller;
 }
 
 @media(min-width: 512px) {
