@@ -6,7 +6,7 @@ order: 10
 published: true
 ---
 
-In order to attend CrossingsCon, you'll need to [register for a badge]({{ site.data.badges.url }}) in advance. While registering, you can also donate to [Lifeboats]({{ site.baseurl }}/badges/lifeboats), our fund for cousins who need help coming to con.
+In order to attend CrossingsCon, you'll need to [register for a badge]({{ site.data.badges.url }}) in advance. While registering, you can also donate to the [Dre Nall Lifeboats Fund]({{ site.baseurl }}/badges/lifeboats) to assist cousins who need help coming to con.
 
 <table class="table">
   <caption class="sr-only">Badge prices for CrossingsCon</caption>
