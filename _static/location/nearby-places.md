@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Philadelphia City Guide
-published: false
+published: true
+order: 21
 ---
 # Quick Reference: Around the Hotel
 <div style="position: relative; width: 100%; height: 0; padding-top: 74.7143%;
