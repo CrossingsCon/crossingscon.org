@@ -5,136 +5,152 @@ published: true
 order: 21
 ---
 
-<article>
+<article class="city-guide">
   <h2>Quick Reference: Around the Hotel</h2>
-
-  <div class="city-guide">
-    <div class="frame">
-      <iframe loading="lazy"
-              src="https://www.canva.com/design/DAGtNpUeBls/Xn5kmRw3HRQC-lpCARetHA/view?embed"
-              title="Map of Philadelphia around the Sonesta Rittenhouse Square hotel, with points of interest marked"
-      ></iframe>
+  <div class="dual-maps">
+    <div class="mapbox">
+      <img class="zoomable" 
+           src="/images/2025/philly-map-26-block.png" 
+           alt="A map of downtown Philadelphia showing various points of interest elucidated below."
+      />
+      <figcaption>Downtown Philly locations.</figcaption>
     </div>
-    <!--<div class="frame">
-      <iframe loading="lazy" 
-              style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-              src="https://www.canva.com/design/DAGtNpUeBls/JlYKM1zZZMEdXVsS2WkAWw/view?ui=eyJEIjp7IlQiOnsiQSI6IlBCbW0wMEowWG1QWnd6emIifX19?embed"
-              frameborder="0"
-              referrerpolicy="no-referrer"
-              allow="encrypted-media; picture-in-picture; web-share"
-              referrerpolicy="strict-origin-when-cross-origin"
-              credentialless
-              allowfullscreen
-              title="Map of Philadelphia around the Sonesta Rittenhouse Square hotel, with points of interest marked"
-      ></iframe>
-    </div>-->
-    <div class="map-reference">
-      <ol>
-        <li value="8" class="letter">Sonesta Philadelphia Hotel</li>
-          <li value="1">
-            Wawa
-            <br />
-            <span class="note">convenience store with snacks</span>
-          </li>
-          <li>Rita’s Water Ice</li>
-          <li>
-            Dunkin' Donuts
-            <br />
-            <span class="note">2 locations</span>
-          </li>
-          <li>Target</li>
-          <li>Trader Joe's</li>
-          <li>Giant Grocery Store</li>
-          <li>
-            <a href="https://www.shopsatliberty.com/directory">
-              The Shops At Liberty Place
-            </a>
-          </li>
-        <li>
-          Real Food Eatery
-          <br />
-          <span class="note">gluten-free</span>
-        </li>
-      </ol>
-      <ol>
-        <li value="9">
-          Bluestone Lane
-          <br />
-          <span class="note">Allergy Conscious — 3 locations</span>
-          <br />
-        	<span class="note">
-        	  <img src="/images/2025/sunburst.png" height="14px">
-        	  Rittenhouse square location opens at 7am
-        	</span>
-        </li>
-        <li>
-          P.S. And Co
-          <br />
-          <span class="note">gluten-free</span>
-        </li>
-        <li>
-          Sushi
-          <br />
-          <span class="note">3 locations</span>
-        </li>
-        <li>
-          HipCityVeg
-          <br />
-          <span class="note">Vegan</span>
-        </li>
-        <li>
-          20th Street Pizza
-          <br />
-          <span class="note">Vegan</span>
-        </li>
-      </ol>
-      <ol>
-        <li value="14">
-          <a href="https://www.rideindego.com/">Indego Bike Share</a>
-        </li>
-        <li>
-          El Cafe
-          <br />
-          <span class="note">
-            <img src="/images/2025/sunburst.png" height="14px">
-            Open before 9AM
-          </span>
-        </li>
-        <li>
-          Square 1682
-          <br />
-          <span class="note">
-            <img src="/images/2025/sunburst.png" height="14px">
-            Open before 9AM
-          </span>
-        </li>
-        <li>
-          Foods On First Diner
-          <br />
-          <span class="note">
-            <img src="/images/2025/sunburst.png" height="14px">
-            Open before 9AM
-          </span>
-        </li>
-        <li>
-          Capriccio Cafe
-          <br />
-          <span class="note">
-            <img src="/images/2025/sunburst.png" height="14px">
-            Open before 9AM
-          </span>
-        </li>
-        <li>
-          Five Below
-          <br />
-          <span class="note">Dollar Store kind of place</span>
-        </li>
-      </ol>
+    <div class="mapbox">
+      <img class="zoomable" 
+           src="/images/2025/philly-map-11-block.png"
+           alt="A map of a portion of downtown Philadelphia west of City Hall and east of the Schuylkill River showing various points of interest elucidated below."
+      />
+      <figcaption>Inset of the other image with places nearer the hotel.</figcaption>
     </div>
+  </div>
+  
+  <!--
+  <div class="frame">
+    <iframe loading="lazy"
+            src="https://www.canva.com/design/DAGtNpUeBls/Xn5kmRw3HRQC-lpCARetHA/view?embed"
+            title="Map of Philadelphia around the Sonesta Rittenhouse Square hotel, with points of interest marked"
+    ></iframe>
+  </div>
+  <div class="frame">
+    <iframe loading="lazy" 
+            src="https://www.canva.com/design/DAGtNpUeBls/JlYKM1zZZMEdXVsS2WkAWw/view?ui=eyJEIjp7IlQiOnsiQSI6IlBCbW0wMEowWG1QWnd6emIifX19?embed"
+            frameborder="0"
+            referrerpolicy="no-referrer"
+            allow="encrypted-media; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin"
+            credentialless
+            allowfullscreen
+            title="Map of Philadelphia around the Sonesta Rittenhouse Square hotel, with points of interest marked"
+    ></iframe>
+  </div>
+  -->
+  
+  <div class="map-reference">
+    <ol>
+      <li value="8" class="letter">Sonesta Philadelphia Hotel</li>
+      <li value="1">
+        Wawa
+        <br />
+        <span class="note">convenience store with snacks</span>
+      </li>
+      <li>Rita’s Water Ice</li>
+      <li>
+        Dunkin' Donuts
+        <br />
+        <span class="note">2 locations</span>
+      </li>
+      <li>Target</li>
+      <li>Trader Joe's</li>
+      <li>Giant Grocery Store</li>
+      <li>
+        <a href="https://www.shopsatliberty.com/directory">
+          The Shops At Liberty Place
+        </a>
+      </li>
+      <li>
+        Real Food Eatery
+        <br />
+        <span class="note">gluten-free</span>
+      </li>
+    </ol>
+    <ol>
+      <li value="9">
+        Bluestone Lane
+        <br />
+        <span class="note">Allergy Conscious — 3 locations</span>
+        <br />
+      	<span class="note">
+      	  <img src="/images/2025/sunburst.png" height="14px">
+      	  Rittenhouse square location opens at 7am
+      	</span>
+      </li>
+      <li>
+        P.S. And Co
+        <br />
+        <span class="note">gluten-free</span>
+      </li>
+      <li>
+        Sushi
+        <br />
+        <span class="note">3 locations</span>
+      </li>
+      <li>
+        HipCityVeg
+        <br />
+        <span class="note">Vegan</span>
+      </li>
+      <li>
+        20th Street Pizza
+        <br />
+        <span class="note">Vegan</span>
+      </li>
+    </ol>
+    <ol>
+      <li value="14">
+        <a href="https://www.rideindego.com/">Indego Bike Share</a>
+      </li>
+      <li>
+        El Cafe
+        <br />
+        <span class="note">
+          <img src="/images/2025/sunburst.png" height="14px">
+          Open before 9AM
+        </span>
+      </li>
+      <li>
+        Square 1682
+        <br />
+        <span class="note">
+          <img src="/images/2025/sunburst.png" height="14px">
+          Open before 9AM
+        </span>
+      </li>
+      <li>
+        Foods On First Diner
+        <br />
+        <span class="note">
+          <img src="/images/2025/sunburst.png" height="14px">
+          Open before 9AM
+        </span>
+      </li>
+      <li>
+        Capriccio Cafe
+        <br />
+        <span class="note">
+          <img src="/images/2025/sunburst.png" height="14px">
+          Open before 9AM
+        </span>
+      </li>
+      <li>
+        Five Below
+        <br />
+        <span class="note">Dollar Store kind of place</span>
+      </li>
+    </ol>
   </div>
 <article>
 
-<article>
+<article class="city-guide">
   <h2>Quick Reference: Philadelphia City Guide</h2>
 
   <div class="frame">
@@ -147,7 +163,7 @@ order: 21
   </div>
 </article>
 
-<article>
+<article class="city-guide">
   <h3>
     Blue Hex <img src="/images/2025/blue_hex.png" height="30px" /> — The Hotel
   </h3>
@@ -160,7 +176,7 @@ order: 21
   </ol>
 </article>
 
-<article>
+<article class="city-guide">
   <h3>
     Red Triangle
     <img src="/images/2025/red_chriego.png" height="30px" /> — Transit
@@ -183,7 +199,7 @@ order: 21
   </ol>
 </article>
 
-<article>
+<article class="city-guide">
   <h3>
     Orange Plus 
     <img src="/images/2025/not_violating_the_geneva_convention.png" height="30px" />
@@ -203,7 +219,7 @@ order: 21
   </ul>
 </article>
 
-<article>
+<article class="city-guide">
   <h3>
     Cyan Star <img src="/images/2025/blue_sdr.png" height="30px" /> — Old City
   </h3>
@@ -240,7 +256,7 @@ order: 21
   </ol>
 </article>
 
-<article>
+<article class="city-guide">
   <h3>
     Purple Heart
     <img src="/images/2025/purple_hrt.png" height="30px" /> — Bookstores
@@ -255,7 +271,7 @@ order: 21
   </ol>
 </article>
 
-<article>
+<article class="city-guide">
   <h3>
     Green Circle
     <img src="/images/2025/green_srko.png" height="30px" /> — Science and Arts
@@ -306,7 +322,7 @@ order: 21
   </ol>
 </article>
 
-<article>
+<article class="city-guide">
   <h3>
     Blue Square <img src="/images/2025/blue_sgr.png" height="30px" /> — Misc
   </h3>
@@ -346,7 +362,7 @@ order: 21
   </ol>
 </article>
 
-<article>
+<article class="city-guide">
   <h2>Interactive Google Map</h2>
   <p>Contains all of the above locations</p>
   <iframe src="https://www.google.com/maps/d/embed?mid=1QK4AcG7aOQLzytGSKogUtPEwk4mxM2s&hl=en&ehbc=2E312F" width="640" height="480"></iframe>
@@ -357,7 +373,7 @@ order: 21
   </p>
 </article>
 
-<article>
+<article class="city-guide">
   <h2>
     Other Things
   </h2>
