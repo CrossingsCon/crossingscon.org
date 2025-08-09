@@ -73,6 +73,57 @@
     }
   }
   
+  .mapdialog {
+    padding: .25rem;
+    
+    text-align: end;
+    
+    background: linear-gradient(to bottom, #5f445b, #002a40);
+    
+    border: none;
+    border-radius: 2rem;
+    
+    &::backdrop {
+      background: black;
+      opacity: .5;
+    }
+    
+    .mapbox {
+      background: none;
+    }
+    
+    .dialogclose {
+      display: inline-block;
+      
+      width: 24px;
+      height: 24px;
+      
+      margin-top: .5rem;
+      margin-right: .5rem;
+      
+      background: #d97d63;
+      
+      border: none;
+      border-radius: 1rem;
+      
+      &:hover {
+        background: #d97d63b8;
+      }
+      
+      &:active {
+        background: #d97d637a;
+        
+        &:focus {
+          outline: none;
+        }
+      }
+      
+      img {
+        margin-top: -5px;
+      }
+    }
+  }
+  
   .mapbox {
     padding: .5rem;
     
@@ -80,6 +131,10 @@
     
     color: white;
     background: #5f445b;
+    
+    .zoomable {
+      cursor: zoom-in;
+    }
     
     figcaption {
       padding-top: .25rem;
