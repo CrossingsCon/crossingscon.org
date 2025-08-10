@@ -210,11 +210,11 @@ order: 21
       <div>
         <h4>
           Purple Heart
-          <img src="/images/2025/purple_hrt.png" height="30px" /> — Bookstores
+          <img src="/images/2025/pink_hrt.png" height="30px" /> — Bookstores
         </h4>
         <ol>
           <li>Book Corner</li>
-          <li value="4">
+          <li>
             <a href="https://www.queerbooks.com/">
               Giovanni’s Room Queer Used Book Store
             </a>
