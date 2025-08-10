@@ -14,7 +14,6 @@ accessible as possible for all our attendees. In the spirit of building
 community and reducing entropy for everyone, we established the Lifeboats
 assistance fund to help more people make it to CrossingsCon.
 
-## The Dre Nall Lifeboats Assistance Fund
 On October 12, 2024, longtime CrossingsCon community member Dre Nall (exor674)
 passed away following a battle with cancer. She was enormously supportive of
 everyone in our community and all the endeavors that CrossingsCon has
