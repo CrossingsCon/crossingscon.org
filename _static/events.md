@@ -316,6 +316,7 @@ published: true
     <div class="subhead">Staff Led: Sarah</div>
     <div class="description">
       How much do we know about the Speech from Young Wizards, and how does it really work? Resident linguist Sarah answered that for us in 2016 and 2017—and now she's back to do it again with nearly a decade of new linguistic experience.
+      <br />
       <i>No prerequisites; may be repeated for credit as the syllabus is substantially revised.</i>
     </div>
   </div>
