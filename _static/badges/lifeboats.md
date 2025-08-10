@@ -5,6 +5,10 @@ order: 10
 published: true
 ---
 
+<div class="dre">
+  <img src="/images/dnlf/dre_lifeboat.png" />
+</div>
+
 Going to a convention is a big expense, and we want to make CrossingsCon as
 accessible as possible for all our attendees. In the spirit of building
 community and reducing entropy for everyone, we established the Lifeboats
