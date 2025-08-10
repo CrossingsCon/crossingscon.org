@@ -235,9 +235,38 @@ a:hover {
         margin-bottom: -5px;
       }
     }
+    
+    svg {
+      width: 400px;
+    }
   }
   
   .youtube {
     grid-area: youtube;
+    
+    iframe {
+      width: 560px;
+      height: 315px;
+    }
+  }
+}
+
+@media(max-width: 700px) {
+  .to-con-route {
+    display: flex;
+    flex-flow: column nowrap;
+    
+    .instructions {
+      svg {
+        width: 100%;
+      }
+    }
+    
+    .youtube {      
+      iframe {
+        width: 100%;
+        height: 50vw;
+      }
+    }
   }
 }

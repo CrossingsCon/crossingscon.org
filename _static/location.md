@@ -41,7 +41,7 @@ published: true
           </li>
         </ul>
       </li>
-      <svg width="400" height="60" viewBox="0 0 400 60" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+      <svg height="60" viewBox="0 0 400 60" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
         <line x1="30" y1="28" x2="370" y2="30" stroke="#54738a" stroke-width="3" />
         
         <circle  cx="30" cy="30" r="10" fill="#54738a" />
@@ -89,7 +89,7 @@ published: true
     </p>
   </div>
   <div class="youtube">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/WrD2bjgHPcQ" title="How to get to CrossingsCon 2025 from Philadelphia International Airport" frameborder="0" loading="lazy" referrerpolicy="no-referrer" allow="encrypted-media; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" credentialless allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/WrD2bjgHPcQ" title="How to get to CrossingsCon 2025 from Philadelphia International Airport" frameborder="0" loading="lazy" referrerpolicy="no-referrer" allow="encrypted-media; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" credentialless allowfullscreen></iframe>
   </div>
 </div>
 
@@ -118,7 +118,7 @@ published: true
         Pay with cash, tap-to-pay, the SEPTA Key Card, or on the SEPTA app. Fare
         (as of early August 2025) is $2.50.
       </li>
-      <svg width="400" height="75" viewBox="0 0 400 75" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+      <svg height="75" viewBox="0 0 400 75" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
         <path d="
                 M 93, 81
                 c 9.5 -12.6, 15.5 -24.5, 21.1 -37.9
@@ -173,7 +173,7 @@ published: true
     </p>
   </div>
   <div class="youtube">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/ZAaUvPBBles" title="How to get to CrossingsCon 2025 from Philadelphia's 30th St. Amtrak Station by SEPTA bus" frameborder="0" loading="lazy" referrerpolicy="no-referrer" allow="encrypted-media; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" credentialless allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/ZAaUvPBBles" title="How to get to CrossingsCon 2025 from Philadelphia's 30th St. Amtrak Station by SEPTA bus" frameborder="0" loading="lazy" referrerpolicy="no-referrer" allow="encrypted-media; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" credentialless allowfullscreen></iframe>
   </div>
   <div class="instructions mfl">
     <h4>
@@ -203,7 +203,7 @@ published: true
       <li>
         Get off at the 15th St. stop. (This is the first stop after 30th St.)
       </li>
-      <svg width="400" height="45" viewBox="0 0 400 45" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+      <svg height="45" viewBox="0 0 400 45" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
         <line x1="30" y1="16" x2="370" y2="16" stroke="#0097D6" stroke-width="3" />
         
         <circle  cx="30" cy="16" r="10" fill="#0097D6" />
@@ -252,7 +252,7 @@ published: true
         Get off at the 19th St. station. (This is the second stop after 30th
         St.)
       </li>
-      <svg width="400" height="45" viewBox="0 0 400 45" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+      <svg height="45" viewBox="0 0 400 45" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
         <line x1="30" y1="16" x2="370" y2="16" stroke="#5A960A" stroke-width="3" />
         
         <circle  cx="30"   cy="16" r="10" fill="#5A960A" />
