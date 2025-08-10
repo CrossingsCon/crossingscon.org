@@ -43,7 +43,7 @@ account](https://ko-fi.com/emfozzing) tagged “Lifeboats” or “GNU Dre”[^g
 ## How can I apply for assistance?
 Contact us at [lifeboats@crossingscon.org](mailto:lifeboats@crossingscon.org)
 and tell us a bit about yourself: What assistance do you need? Are you a
-first-time congoer, or do you go to conventions often? What's your relationship
+first-time con-goer, or do you go to conventions often? What's your relationship
 with the Young Wizards books and the works of our Guests of Honor?
 
 On receiving your request, we will put you on the list of potential assistance
