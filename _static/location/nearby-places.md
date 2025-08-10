@@ -40,7 +40,7 @@ order: 21
         <span class="note">Allergy Conscious — 3 locations</span>
         <br />
       	<span class="note">
-      	  <img src="/images/2025/sunburst.png" height="14px">
+      	  <img src="/images/2025/sunburst_border.png" height="14px">
       	  Rittenhouse square location opens at 7am
       	</span>
       </li>
@@ -71,7 +71,7 @@ order: 21
         El Cafe
         <br />
         <span class="note">
-          <img src="/images/2025/sunburst.png" height="14px">
+          <img src="/images/2025/sunburst_border.png" height="14px">
           Open before 9AM
         </span>
       </li>
@@ -79,7 +79,7 @@ order: 21
         Square 1682
         <br />
         <span class="note">
-          <img src="/images/2025/sunburst.png" height="14px">
+          <img src="/images/2025/sunburst_border.png" height="14px">
           Open before 9AM
         </span>
       </li>
@@ -87,7 +87,7 @@ order: 21
         Foods On First Diner
         <br />
         <span class="note">
-          <img src="/images/2025/sunburst.png" height="14px">
+          <img src="/images/2025/sunburst_border.png" height="14px">
           Open before 9AM
         </span>
       </li>
@@ -95,7 +95,7 @@ order: 21
         Capriccio Cafe
         <br />
         <span class="note">
-          <img src="/images/2025/sunburst.png" height="14px">
+          <img src="/images/2025/sunburst_border.png" height="14px">
           Open before 9AM
         </span>
       </li>
@@ -120,7 +120,7 @@ order: 21
     <div>
       <div>
         <h4>
-          Blue Hex <img src="/images/2025/blue_hex.png" height="30px" /> — The Hotel
+          Blue Hex <img src="/images/2025/blue_hex_border.png" height="30px" /> — The Hotel
         </h4>
         <ol>
           <li value="8" class="letter">
@@ -133,7 +133,7 @@ order: 21
       <div>
         <h4>
           Red Triangle
-          <img src="/images/2025/red_chriego.png" height="30px" /> — Transit
+          <img src="/images/2025/red_chriego_border.png" height="30px" /> — Transit
         </h4>
         <ol>
           <li>30<sup>th</sup> Street Station for SEPTA and Amtrak</li>
@@ -155,7 +155,7 @@ order: 21
       <div>
         <h4>
           Orange Plus 
-          <img src="/images/2025/not_violating_the_geneva_convention.png" height="30px" />
+          <img src="/images/2025/not_violating_the_geneva_convention_border.png" height="30px" />
           — In Case of Emergency
         </h4>
         <ul>
@@ -173,7 +173,7 @@ order: 21
       </div>
       <div>
         <h4>
-          Cyan Star <img src="/images/2025/blue_sdr.png" height="30px" /> — Old City
+          Pink Star <img src="/images/2025/pink_sdr_border.png" height="30px" /> — Old City
         </h4>
         <ol>
           <li>
@@ -210,7 +210,7 @@ order: 21
       <div>
         <h4>
           Purple Heart
-          <img src="/images/2025/pink_hrt.png" height="30px" /> — Bookstores
+          <img src="/images/2025/purple_hrt_border.png" height="30px" /> — Bookstores
         </h4>
         <ol>
           <li>Book Corner</li>
@@ -224,7 +224,7 @@ order: 21
       <div>
         <h4>
           Green Circle
-          <img src="/images/2025/green_srko.png" height="30px" /> — Science and Arts
+          <img src="/images/2025/green_srko_border.png" height="30px" /> — Science and Arts
         </h4>
         <ol>
           <li>
@@ -273,7 +273,7 @@ order: 21
       </div>
       <div>
         <h4>
-          Blue Square <img src="/images/2025/blue_sgr.png" height="30px" /> — Misc
+          Blue Square <img src="/images/2025/blue_sgr_border.png" height="30px" /> — Misc
         </h4>
         <ol>
           <li>
