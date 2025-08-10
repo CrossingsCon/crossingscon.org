@@ -34,6 +34,143 @@
     font-size: 24px;
 }
 
+.city-guide {
+  iframe {
+    width: 90vw;
+    height: 70vw;
+  }
+  
+  .map-with-key {
+    display: flex;
+    flex-flow: column-reverse nowrap;
+    
+    margin-bottom: 1rem;
+  }
+  
+  .mapdialog {
+    padding: .25rem;
+    
+    text-align: end;
+    
+    background: linear-gradient(to bottom, #5f445b, #002a40);
+    
+    border: none;
+    border-radius: 2rem;
+    
+    &::backdrop {
+      background: black;
+      opacity: .5;
+    }
+    
+    .mapbox {
+      background: none;
+    }
+    
+    .dialogclose {
+      display: inline-block;
+      
+      width: 24px;
+      height: 24px;
+      
+      margin-top: .5rem;
+      margin-right: .5rem;
+      
+      background: #d97d63;
+      
+      border: none;
+      border-radius: 1rem;
+      
+      &:hover {
+        background: #d97d63b8;
+      }
+      
+      &:active {
+        background: #d97d637a;
+        
+        &:focus {
+          outline: none;
+        }
+      }
+      
+      img {
+        margin-top: -5px;
+      }
+    }
+  }
+  
+  .mapbox {
+    padding: .5rem;
+    
+    text-align: center;
+    
+    color: white;
+    background: #895f72;
+    
+    .zoomable {
+      cursor: zoom-in;
+    }
+    
+    figcaption {
+      padding-top: .25rem;
+      
+      font-style: italic;
+      font-size: smaller;
+    }
+  }
+
+  ol, ul {
+    li {
+      &.letter {
+        list-style-type: upper-latin;
+      }
+      
+      &.arrow {
+        list-style-type: disclosure-closed;
+      }
+      
+      &.nodot {
+        list-style-type: none;
+      }
+    }
+  }
+  
+  h2 {
+    color: white;
+    background: #5f445b;
+    
+    padding: .25rem .25rem .25rem .5rem;
+  }
+  
+  h4 {
+    color: white;
+    background: #6f566a;
+    
+    padding: .25rem .25rem .25rem .5rem;
+    
+    img {
+      margin-top: -8px;
+    }
+  }
+}
+
+.note {
+  font-style: italic;
+  font-size: smaller;
+}
+
+@media(min-width: 700px) {
+  .city-guide {
+    .map-with-key {
+      display: grid;
+      grid-auto-rows: 1fr;
+      grid-template-columns: 2fr 3fr;
+      grid-column-gap: 1rem;
+      
+      align-items: flex-start;
+    }
+  }
+}
+
 a {
     color: $cc-purple-4;
     text-decoration: underline;
