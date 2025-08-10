@@ -29,10 +29,12 @@ presenters.
 If it is more convenient, you can drop a donation in [our Ko-Fi
 account](https://ko-fi.com/emfozzing) tagged “Lifeboats” or “GNU Dre”[^gnu].
 
-[^gnu]: Note: GNU is a popular reference to _Going Postal_ by Terry Pratchett.
-    It is a command sent over the Clacks communications system instructing the
-    message to be repeated indefinitely, since no one is truly dead whose name
-    is still spoken.
+[^gnu]: Note: "GNU" is a reference to [_Going Postal_ by Terry
+    Pratchett](https://en.wikipedia.org/wiki/Going_Postal). In the novel, it is a
+    command sent over the [Clacks system](https://discworld.fandom.com/wiki/Clacks)
+    instructing that a message be repeated indefinitely, since no one is truly
+    dead whose name is still spoken.
+    See also: [X-Clacks-Overhead](https://xclacksoverhead.org/home/about).
 
 ## How can I apply for assistance?
 Contact us at [lifeboats@crossingscon.org](mailto:lifeboats@crossingscon.org)
