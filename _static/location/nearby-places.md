@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Philadelphia City Guide
-published: false
+published: true
 order: 21
 ---
 
