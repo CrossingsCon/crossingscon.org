@@ -253,8 +253,12 @@ a:hover {
 
 @media(max-width: 700px) {
   .to-con-route {
-    display: flex;
-    flex-flow: column nowrap;
+  grid-template: 
+    "header" auto
+    "youtube" auto
+    "instrs" auto
+    "mfl" auto
+    "sst" auto / 1fr;
     
     .instructions {
       svg {
