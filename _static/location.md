@@ -274,6 +274,18 @@ published: true
       </a>
     </p>
   </div>
+  <div class="instructions regional-rail">
+    <h4>Amtrak to con via SEPTA Regional Rail</h4>
+    <p>
+      You can also take SEPTA Regional Rail one stop from 30th St. to Suburban
+      station. Follow signs from the Amtrak area to the SEPTA area, then take
+      any train headed through Center City to Suburban station.
+    </p>
+    <p style="font-style: italic">
+      Note that Amtrak tickets are valid for SEPTA fare on the same day as your
+      Amtrak travel.
+    </p>
+  </div>
 </div>
 
 ---
