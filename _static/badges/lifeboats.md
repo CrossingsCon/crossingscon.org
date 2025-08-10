@@ -27,10 +27,12 @@ Bust](https://dreamfoundry.org/con-or-bust/), and to help cover travel costs for
 presenters.
 
 If it is more convenient, you can drop a donation in [our Ko-Fi
-account](https://ko-fi.com/emfozzing) tagged “Lifeboats” or “GNU Dre”[^*].
+account](https://ko-fi.com/emfozzing) tagged “Lifeboats” or “GNU Dre”[^gnu].
 
-[^*]: Note: GNU is a popular reference to _Going Postal_ by Terry Pratchett. It
-is a command sent over the Clacks communications system instructing the message to be repeated indefinitely, since no one is truly dead whose name is still spoken.
+[^gnu]: Note: GNU is a popular reference to _Going Postal_ by Terry Pratchett.
+    It is a command sent over the Clacks communications system instructing the
+    message to be repeated indefinitely, since no one is truly dead whose name
+    is still spoken.
 
 ## How can I apply for assistance?
 Contact us at [lifeboats@crossingscon.org](mailto:lifeboats@crossingscon.org)
