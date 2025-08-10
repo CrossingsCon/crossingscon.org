@@ -219,6 +219,10 @@ a:hover {
       grid-area: sst;
     }
     
+    ul.arrow li {
+      list-style-type: disclosure-closed;
+    }
+    
     h4 {
       color: white;
       background: #976978;

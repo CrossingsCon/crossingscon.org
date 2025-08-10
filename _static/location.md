@@ -22,7 +22,52 @@ published: true
       <li>
         Go down to the platform level. Here you can buy a ticket and wait for
         the train. (Buy a ticket to Center City stations; it'll be $7.50.)
+        <ul class="arrow">
+          <li>
+            The train from the E/F terminal station leaves
+            at&nbsp;:07&nbsp;and&nbsp;:37 of every hour.
+          </li>
+          <li>
+            The train from the C/D terminal station leaves
+            at&nbsp;:09&nbsp;and&nbsp;:39 of every hour.
+          </li>
+          <li>
+            The train from the B terminal station leaves
+            at&nbsp;:10&nbsp;and&nbsp;:40 of every hour.
+          </li>
+          <li>
+            The train from the A terminal station leaves
+            at&nbsp;:11&nbsp;and&nbsp;:41 of every hour.
+          </li>
+        </ul>
       </li>
+      <svg width="400" height="60" viewBox="0 0 400 60" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <line x1="30" y1="28" x2="370" y2="30" stroke="#54738a" stroke-width="3" />
+        
+        <circle  cx="30" cy="30" r="10" fill="#54738a" />
+        <circle  cx="60" cy="30" r="10" fill="#54738a" />
+        <circle  cx="90" cy="30" r="10" fill="#54738a" />
+        <circle cx="120" cy="30" r="10" fill="#54738a" />
+        
+        <circle cx="220" cy="30" r="10" fill="#54738a" />
+        <circle cx="250" cy="30" r="10" fill="#54738a" />
+        <circle cx="280" cy="30" r="10" fill="#54738a" />
+        
+        <circle cx="370" cy="30" r="10" fill="#54738a" />
+        
+        <text  x="75" y="15" style="font-family: sans-serif; font-size: 14px" text-anchor="middle">PHL Terminals</text>
+        
+        <text  x="30"    y="57" style="font-family: sans-serif; font-size: 14px" text-anchor="middle">E/F</text>
+        <text  x="60"    y="57" style="font-family: sans-serif; font-size: 14px" text-anchor="middle">C/D</text>
+        <text  x="90.5"  y="57" style="font-family: sans-serif; font-size: 14px" text-anchor="middle">B</text>
+        <text x="120.25" y="57" style="font-family: sans-serif; font-size: 14px" text-anchor="middle">A</text>
+        
+        <text x="250" y="57" style="font-family: sans-serif; font-size: 13px" text-anchor="middle">
+          other stops
+        </text>
+        
+        <text x="370" y="57" style="font-family: sans-serif; font-size: 14px" text-anchor="middle">Suburban</text>
+      </svg>
       <li>
         Get off the train at Suburban station and proceed up the mezzanine
         level.
@@ -73,7 +118,49 @@ published: true
         Pay with cash, tap-to-pay, the SEPTA Key Card, or on the SEPTA app. Fare
         (as of early August 2025) is $2.50.
       </li>
-      <li>Get off at the "Market St. & 18th St." stop.</li>
+      <svg width="400" height="75" viewBox="0 0 400 75" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <path d="
+                M 93, 81
+                c 9.5 -12.6, 15.5 -24.5, 21.1 -37.9
+                c 5.4 -13.0, 10.8 -36.8,  0.5 -52.2
+              "
+              stroke="#00C9FF66"
+              fill="none"
+              stroke-width="12"
+              stroke-miterlimit="10"
+	      />
+        <path d="
+                M 30, 16
+                V 46
+                H 370
+              "
+              stroke="#002a40"
+              fill="none"
+              stroke-width="3"
+        />
+        
+        <circle cx="30" cy="16" r="10" fill="#002a40" />
+        <text x="45" y="20" style="font-family: sans-serif; font-size: 14px" text-anchor="start">
+          ━ JFK Blvd &amp; 30th St.
+        </text>
+        
+        <circle  cx="65" cy="46" r="10" fill="#002a40" /> <!-- market @ schuykill -->
+        <circle cx="160" cy="46" r="10" fill="#002a40" /> <!-- market @ 24th -->
+        <circle cx="195" cy="46" r="10" fill="#002a40" /> <!-- market @ 23rd -->
+        <circle cx="230" cy="46" r="10" fill="#002a40" /> <!-- market @ 22nd -->
+        <circle cx="265" cy="46" r="10" fill="#002a40" /> <!-- market @ 21st -->
+        <circle cx="300" cy="46" r="10" fill="#002a40" /> <!-- market @ 20th -->
+        <circle cx="335" cy="46" r="10" fill="#002a40" /> <!-- market @ 19th -->
+        <text x="200" y="72" style="font-family: sans-serif; font-size: 13px" text-anchor="middle">
+          ┗━━━━━━━━ other stops ━━━━━━━━┛
+        </text>
+        
+        <circle cx="370" cy="46" r="10" fill="#002a40" />
+        <text x="377" y="20" style="font-family: sans-serif; font-size: 14px" text-anchor="end">
+          Market St. &amp; 18th St. ━┓
+        </text>
+      </svg>
+      <li>Get off at the "Market St. &amp; 18th St." stop.</li>
       <li>
         The convention hotel, the Sonesta Philadelphia Rittenhouse Square, is
         right there!
