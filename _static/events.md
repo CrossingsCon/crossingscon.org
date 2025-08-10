@@ -147,149 +147,359 @@ published: true
   <h3>Friday</h3>
   
   <div class="event" id="ocer_desc">
-    <div class="name"><a href="#ocer_tab">Opening Ceremonies</a></div>
-    <div class="locus">Friday, 10:30-11am, Whistler B</div>
-    <div class="subhead">Featuring All Guests of Honor</div>
-    <div class="description">Welcome to CrossingsCon 2025!</div>
+    <div class="name">
+      <a href="#ocer_tab">Opening Ceremonies</a>
+    </div>
+    <div class="locus">
+      Friday, 10:30-11am, Whistler B
+    </div>
+    <div class="subhead">
+      Featuring All Guests of Honor
+    </div>
+    <div class="description">
+      Welcome to CrossingsCon 2025!
+    </div>
   </div>
   
   <div class="event" id="dnpi_desc">
-    <div class="name"><a href="#dnpi_tab">Deception & Political Intrigue</a></div>
-    <div class="locus">Friday, 11am-12pm, Whistler B</div>
-    <div class="subhead">Featuring Megan and Seth</div>
+    <div class="name">
+      <a href="#dnpi_tab">Deception & Political Intrigue</a>
+    </div>
+    <div class="locus">
+      Friday, 11am-12pm, Whistler B
+    </div>
+    <div class="subhead">
+      Featuring Megan and Seth
+    </div>
     <div class="description">
-    Spies! Subterfuge! Back room deals and royal drama! Join Megan and Seth to talk about what inspired their own writing, crafting tales involving deception, and how to keep things interesting in a series when the universe and characters become more familiar.</div>
+      Spies! Subterfuge! Back room deals and royal drama! Join Megan and Seth to
+      talk about what inspired their own writing, crafting tales involving
+      deception, and how to keep things interesting in a series when the
+      universe and characters become more familiar.
+    </div>
   </div>
   
   <div class="event" id="crea_desc">
-    <div class="name"><a href="#crea_tab">Creativity Off the Page</a></div>
-    <div class="locus">Friday, 11am-12pm, Homer</div>
-    <div class="subhead">Featuring Jessica Day George and Jessica Mary Best</div>
-    <div class="description">Many authors pursue other creative endeavors, such as art, costuming, cooking, knitting and photography. What do they get out of these activities that they don’t get out of writing? In what ways do these other activities feed their writing? Can they be considered research or stress-reducing techniques?</div>
+    <div class="name">
+      <a href="#crea_tab">Creativity Off the Page</a>
+    </div>
+    <div class="locus">
+      Friday, 11am-12pm, Homer
+    </div>
+    <div class="subhead">
+      Featuring Jessica Day George and Jessica Mary Best
+    </div>
+    <div class="description">
+      Many authors pursue other creative endeavors, such as art, costuming,
+      cooking, knitting and photography. What do they get out of these
+      activities that they don’t get out of writing? In what ways do these other
+      activities feed their writing? Can they be considered research or
+      stress-reducing techniques?
+    </div>
   </div>
   
   <div class="event" id="wwwy_desc">
-    <div class="name"><a href="#wwwy_tab">When We Were Young: Early Favorites and Defining Influences</a></div>
-    <div class="locus">Friday, 1pm-2pm, Whistler B</div>
-    <div class="subhead">Featuring All Guests of Honor</div>
-    <div class="description">Join all of our Guests of Honour as they discuss their favourite books from when they were teens, tweens, and children. Find out what books sparked their imaginations, hooked them on fantasy/science fiction, and inspired them to try writing their own stories. </div>
+    <div class="name">
+      <a href="#wwwy_tab">
+        When We Were Young: Early Favorites and Defining Influences
+      </a>
+    </div>
+    <div class="locus">
+      Friday, 1pm-2pm, Whistler B
+    </div>
+    <div class="subhead">
+      Featuring All Guests of Honor
+    </div>
+    <div class="description">
+      Join all of our Guests of Honour as they discuss their favourite books
+      from when they were teens, tweens, and children. Find out what books
+      sparked their imaginations, hooked them on fantasy/science fiction, and
+      inspired them to try writing their own stories. 
+    </div>
   </div>
   
   <div class="event" id="plnc_desc">
-    <div class="name"><a href="#plnc_tab">Patent Law and the Courts</a></div>
-    <div class="locus">Friday, 2:15pm-3:15pm, Whistler B</div>
-    <div class="subhead">Attendee Led: Beth</div>
-    <div class="description">What is a patent? How does it work (or not work)? Join Beth for a deep dive into American patent law and how the courts just cannot seem to figure it out.</div>
+    <div class="name">
+      <a href="#plnc_tab">Patent Law and the Courts</a>
+    </div>
+    <div class="locus">
+      Friday, 2:15pm-3:15pm, Whistler B
+    </div>
+    <div class="subhead">
+      Attendee Led: Beth
+    </div>
+    <div class="description">
+      What is a patent? How does it work (or not work)? Join Beth for a deep
+      dive into American patent law and how the courts just cannot seem to
+      figure it out.
+    </div>
   </div>
   
   <div class="event" id="bbing_desc">
-    <div class="name"><a href="#bbing_tab">Bookbinding</a></div>
-    <div class="locus">Friday, 2:15pm-3:45pm, Homer</div>
-    <div class="subhead">Staff & Attendee Led: Emma and Sam</div>
-    <div class="description">Dive into bookbinding with Emma and Sam! Get an overview of traditional binding methods before making your very own book to take home. No experience necessary, and all materials provided.</div>
+    <div class="name">
+      <a href="#bbing_tab">Bookbinding</a>
+    </div>
+    <div class="locus">
+      Friday, 2:15pm-3:45pm, Homer
+    </div>
+    <div class="subhead">
+      Staff & Attendee Led: Emma and Sam
+    </div>
+    <div class="description">
+      Dive into bookbinding with Emma and Sam! Get an overview of traditional
+      binding methods before making your very own book to take home. No
+      experience necessary, and all materials provided.
+    </div>
   </div>
   
   <div class="event" id="ssgt_desc">
-    <div class="name"><a href="#ssgt_tab">Solar System Grand Tour</a></div>
-    <div class="locus">Friday, 3:30pm-4:30pm, Whistler B</div>
-    <div class="subhead">Attendee Led: Alex</div>
-    <div class="description">Inspired by Dairine’s explorations in High Wizardry, join Planetary Scientist Alex for a road trip through the solar system to learn about our past and present explorations, as well as what the future holds.</div>
+    <div class="name">
+      <a href="#ssgt_tab">Solar System Grand Tour</a>
+    </div>
+    <div class="locus">
+      Friday, 3:30pm-4:30pm, Whistler B
+    </div>
+    <div class="subhead">
+      Attendee Led: Alex
+    </div>
+    <div class="description">
+      Inspired by Dairine’s explorations in High Wizardry, join Planetary
+      Scientist Alex for a road trip through the solar system to learn about our
+      past and present explorations, as well as what the future holds.
+    </div>
   </div>
   
   <div class="event" id="auto_fri_desc">
-    <div class="name"><a href="#auto_fri_tab">Autographs</a></div>
-    <div class="locus">Friday, 4:30pm-5:30pm, Whistler B</div>
-    <div class="subhead">Featuring All Guests of Honor</div>
-    <div class="description">Get your books (or other things!) signed by our Guests of Honor. Maximum three (3) items per Guest per turn (but you can get in line multiple times).</div>
+    <div class="name">
+      <a href="#auto_fri_tab">Autographs</a>
+    </div>
+    <div class="locus">
+      Friday, 4:30pm-5:30pm, Whistler B
+    </div>
+    <div class="subhead">
+      Featuring All Guests of Honor
+    </div>
+    <div class="description">
+      Get your books (or other things!) signed by our Guests of Honor. Maximum
+      three (3) items per Guest per turn (but you can get in line multiple
+      times).
+    </div>
   </div>
   
   <div class="event" id="shayna_desc">
-    <div class="name"><a href="#shayna_tab">Putting the Celestial in the Story</a></div>
-    <div class="locus">Friday, 4:30pm-5:30pm, Homer</div>
-    <div class="subhead">Attendee Led: Shayna</div>
-    <div class="description">Join Shayna for an exploration and discussion of the interplay between astronomy and fiction, from our favorite astronomical representations in stories to worldbuilding considerations in our own writing.</div>
+    <div class="name">
+      <a href="#shayna_tab">Putting the Celestial in the Story</a>
+    </div>
+    <div class="locus">
+      Friday, 4:30pm-5:30pm, Homer
+    </div>
+    <div class="subhead">
+      Attendee Led: Shayna
+    </div>
+    <div class="description">
+      Join Shayna for an exploration and discussion of the interplay between
+      astronomy and fiction, from our favorite astronomical representations in
+      stories to worldbuilding considerations in our own writing.
+    </div>
   </div>
   
   <div class="event" id="bmun_desc">
-    <div class="name"><a href="#bmun_tab">Baron Munchausen</a></div>
-    <div class="locus">Friday, 7pm-8:30pm, Whistler B</div>
-    <div class="subhead">Featuring All Guests of Honor</div>
-    <div class="description">Watch our Guests of Honor play a game of tall tales and collaborative storytelling that will leave you in stitches!</div>
+    <div class="name">
+      <a href="#bmun_tab">Baron Munchausen</a>
+    </div>
+    <div class="locus">
+      Friday, 7pm-8:30pm, Whistler B
+    </div>
+    <div class="subhead">
+      Featuring All Guests of Honor
+    </div>
+    <div class="description">
+      Watch our Guests of Honor play a game of tall tales and collaborative
+      storytelling that will leave you in stitches!
+    </div>
   </div>
   
   <div class="event" id="cjam_desc">
-    <div class="name"><a href="#cjam_tab">CrossingsJam</a></div>
-    <div class="locus">Friday, 8:30pm-9:30pm, Homer</div>
-    <div class="description">Open mic night returns! Bring your sing-a-longs, your poetry, your readings and filk — or, if you prefer, just sit back and enjoy the experience.</div>
+    <div class="name">
+      <a href="#cjam_tab">CrossingsJam</a>
+    </div>
+    <div class="locus">
+      Friday, 8:30pm-9:30pm, Homer
+    </div>
+    <div class="description">
+      Open mic night returns! Bring your sing-a-longs, your poetry, your
+      readings and filk — or, if you prefer, just sit back and enjoy the
+      experience.
+    </div>
   </div>
   
   <div class="event" id="gng_desc">
-    <div class="name">Games & Goofing</div>
-    <div class="locus">Friday and Saturday, Various Times, Various Rooms</div>
-    <div class="subhead">Featuring All Guests of Honor</div>
-    <div class="description">What it says on the tin! This is open space for open fun. Board games, sing-a-longs, knitting, the room is your oyster. Enjoy free time and connecting with cousins new and familiar.</div>
+    <div class="name">
+      Games & Goofing
+    </div>
+    <div class="locus">
+      Friday and Saturday, Various Times, Various Rooms
+    </div>
+    <div class="subhead">
+      Featuring All Guests of Honor
+    </div>
+    <div class="description">
+      What it says on the tin! This is open space for open fun. Board games,
+      sing-a-longs, knitting, the room is your oyster. Enjoy free time and
+      connecting with cousins new and familiar.
+    </div>
   </div>
   
   <div class="event" id="lightning_desc">
-    <div class="name">Lightning Talks</div>
-    <div class="locus">Friday, Saturday, and Sunday, Various Times, Whistler A</div>
-    <div class="subhead">Featuring Whoever Signs Up</div>
-    <div class="description">Sign up for a time slot and talk about anything you like! If you have an area of expertise that you think people might be interested in, share it here! If you want to meet up with others that share your interests or passions, book a slot! From poetry slams to animal sustainability to kite flying, anything and everything is welcome.</div>
+    <div class="name">
+      Lightning Talks
+    </div>
+    <div class="locus">
+      Friday, Saturday, and Sunday, Various Times, Whistler A
+    </div>
+    <div class="subhead">
+      Featuring Whoever Signs Up
+    </div>
+    <div class="description">
+      Sign up for a time slot and talk about anything you like! If you have an
+      area of expertise that you think people might be interested in, share it
+      here! If you want to meet up with others that share your interests or
+      passions, book a slot! From poetry slams to animal sustainability to kite
+      flying, anything and everything is welcome.
+    </div>
   </div>
   
   <h3>Saturday</h3>
   
   <div class="event" id="gohc_desc">
-    <div class="name"><a href="#gohc_tab">Guests of Honor in Conversation</a></div>
-    <div class="locus">Saturday, 11am-12pm, Whistler B</div>
-    <div class="subhead">Featuring All Guests of Honor</div>
-    <div class="description">Come and listen to our Guests of Honor have a chat amongst themselves (and with you) regarding any topics you might be curious about. Please submit your questions ahead of time using the index cards at the registration table.</div>
+    <div class="name">
+      <a href="#gohc_tab">Guests of Honor in Conversation</a>
+    </div>
+    <div class="locus">
+      Saturday, 11am-12pm, Whistler B
+    </div>
+    <div class="subhead">
+      Featuring All Guests of Honor
+    </div>
+    <div class="description">
+      Come and listen to our Guests of Honor have a chat amongst themselves (and
+      with you) regarding any topics you might be curious about. Please submit
+      your questions ahead of time using the index cards at the registration
+      table.
+    </div>
   </div>
   
   <div class="event" id="wbob_desc">
-    <div class="name"><a href="#wbob_tab">Worldbuilding Outside of Books</a></div>
-    <div class="locus">Saturday, 1pm-2pm, Homer</div>
-    <div class="subhead">Featuring Seth and Jessica Mary Best</div>
-    <div class="description">Books are one of our favourite methods of storytelling, but there’s a whole wide world of other ways to tell a story. Join Seth and Jessica as they talk about worldbuilding and storytelling in non-book formats such as writing for video games and audio-dramas/podcasts.</div>
+    <div class="name">
+      <a href="#wbob_tab">Worldbuilding Outside of Books</a>
+    </div>
+    <div class="locus">
+      Saturday, 1pm-2pm, Homer
+    </div>
+    <div class="subhead">
+      Featuring Seth and Jessica Mary Best
+    </div>
+    <div class="description">
+      Books are one of our favourite methods of storytelling, but there’s a
+      whole wide world of other ways to tell a story. Join Seth and Jessica as
+      they talk about worldbuilding and storytelling in non-book formats such as
+      writing for video games and audio-dramas/podcasts.
+    </div>
   </div>
   
   <div class="event" id="hycg_desc">
-    <div class="name"><a href="#hycg_tab">How Your Characters Grow: Evolution Over Time</a></div>
-    <div class="locus">Saturday, 1pm-2pm, Whistler B</div>
-    <div class="subhead">Featuring Megan and Jessica Day George</div>
-    <div class="description">When you’re writing multiple books with the same characters, how can they evolve without torpedoing the series? What nuances can you use? Can a character totally change during the course of a series? Which characters in published fiction live and breathe for the reader because of their emotional and/or spiritual journey?</div>
+    <div class="name">
+      <a href="#hycg_tab">How Your Characters Grow: Evolution Over Time</a>
+    </div>
+    <div class="locus">
+      Saturday, 1pm-2pm, Whistler B
+    </div>
+    <div class="subhead">
+      Featuring Megan and Jessica Day George
+    </div>
+    <div class="description">
+      When you’re writing multiple books with the same characters, how can they
+      evolve without torpedoing the series? What nuances can you use? Can a
+      character totally change during the course of a series? Which characters
+      in published fiction live and breathe for the reader because of their
+      emotional and/or spiritual journey?
+    </div>
   </div>
   
   <div class="event" id="best_desc">
-    <div class="name"><a href="#best_tab">History of Elvish</a></div>
-    <div class="locus">Saturday, 2:15pm-3:15pm, Whistler B</div>
-    <div class="subhead">Staff Led: Jenny</div>
-    <div class="description">Armed with the sword of <del>Samwise Gamgee</del> constructed languages, LxAD producer and Tolkien enthusiast Jenny explains the history and sociopolitics of Sindarin and Quenya.</div>
+    <div class="name">
+      <a href="#best_tab">History of Elvish</a>
+    </div>
+    <div class="locus">
+      Saturday, 2:15pm-3:15pm, Whistler B
+    </div>
+    <div class="subhead">
+      Staff Led: Jenny
+    </div>
+    <div class="description">
+      Armed with the sword of <del>Samwise Gamgee</del> constructed languages,
+      LxAD producer and Tolkien enthusiast Jenny explains the history and
+      sociopolitics of Sindarin and Quenya.
+    </div>
   </div>
   
   <div class="event" id="wriwo_desc">
-    <div class="name"><a href="#wriwo_tab">Writing Workshop</a></div>
-    <div class="locus">Saturday, 2:30pm-4:00pm, Homer</div>
-    <div class="subhead">Featuring Jessica Mary Best</div>
-    <div class="description">Have you ever wanted to get down to the nitty-gritty of your craft with a published author, and really talk about what makes it work? We’ll set aside some time to write a short piece in response to a prompt, then have an in-depth Q&A session with one of our wonderful Guests of Honor.</div>
+    <div class="name">
+      <a href="#wriwo_tab">Writing Workshop</a>
+    </div>
+    <div class="locus">
+      Saturday, 2:30pm-4:00pm, Homer
+    </div>
+    <div class="subhead">
+      Featuring Jessica Mary Best
+    </div>
+    <div class="description">
+      Have you ever wanted to get down to the nitty-gritty of your craft with a
+      published author, and really talk about what makes it work? We’ll set
+      aside some time to write a short piece in response to a prompt, then have
+      an in-depth Q&A session with one of our wonderful Guests of Honor.
+    </div>
   </div>
   
   <div class="event" id="cfsc_desc">
-    <div class="name"><a href="#cfsc_tab">Care and Feeding of Secondary Characters</a></div>
-    <div class="locus">Saturday, 3:30pm-4:30pm, Whistler B</div>
-    <div class="subhead">Featuring Seth and Megan</div>
-    <div class="description">They hold the horses, direct the hero to the treasure, sit in the back of bars drinking whiskey, hold the line in battles, and are the victims of murders. But how does a writer keep them from being two-dimensional and pulling the reader out of the story? What are the tricks to writing minor characters that are believable? How much of the weight of the story relies on these background players?</div>
+    <div class="name">
+      <a href="#cfsc_tab">Care and Feeding of Secondary Characters</a>
+    </div>
+    <div class="locus">
+      Saturday, 3:30pm-4:30pm, Whistler B
+    </div>
+    <div class="subhead">
+      Featuring Seth and Megan
+    </div>
+    <div class="description">
+      They hold the horses, direct the hero to the treasure, sit in the back of
+      bars drinking whiskey, hold the line in battles, and are the victims of
+      murders. But how does a writer keep them from being two-dimensional and
+      pulling the reader out of the story? What are the tricks to writing minor
+      characters that are believable? How much of the weight of the story relies
+      on these background players?
+    </div>
   </div>
   
   <div class="event" id="biod_desc">
-    <div class="name"><a href="#biod_tab">BioDesign Explorations</a></div>
-    <div class="locus">Saturday, 4pm-5:30pm, Homer</div>
-    <div class="subhead">Attendee Led: Caitlin</div>
+    <div class="name">
+      <a href="#biod_tab">BioDesign Explorations</a>
+    </div>
+    <div class="locus">
+      Saturday, 4pm-5:30pm, Homer
+    </div>
+    <div class="subhead">
+      Attendee Led: Caitlin
+    </div>
     <div class="description">
-      Science educator Caitlin has brought a collection of hands-on activities that combine open-ended creative exploration with living microorganisms. Join us to explore your choice(s) of:
-      <ul>    
+      Science educator Caitlin has brought a collection of hands-on activities
+      that combine open-ended creative exploration with living microorganisms.
+      Join us to explore your choice(s) of: 
+      <ul>
         <li>pH-sensitive biological pigments (make paints from plants!)</li>
-        <li>Mushroom mycelium (put together a kit to grow your own mushrooms!)</li>
+        <li>
+          Mushroom mycelium (put together a kit to grow your own mushrooms!)
+        </li>
         <li>Alginate biopolymers (make string from kelp!)</li>
         <li>Kombucha biomaterials (grow your own biocellulose!)</li>
       </ul>
@@ -297,64 +507,111 @@ published: true
   </div>
   
   <div class="event" id="book_desc">
-    <div class="name"><a href="#book_tab">Book Club</a></div>
-    <div class="locus">Saturday, 4:30pm-5:30pm, Whistler B</div>
-    <div class="subhead">Staff Led: Megan</div>
-    <div class="description">Join your fellow Wizards for an in-person gathering of the Crossings Con Book Club moderated by our very own Megan. </div>
+    <div class="name">
+      <a href="#book_tab">Book Club</a>
+    </div>
+    <div class="locus">
+      Saturday, 4:30pm-5:30pm, Whistler B
+    </div>
+    <div class="subhead">
+      Staff Led: Megan
+    </div>
+    <div class="description">
+      Join your fellow Wizards for an in-person gathering of the Crossings Con
+      Book Club moderated by our very own Megan. 
+    </div>
   </div>
   
   <div class="event" id="auto_sat_desc">
-    <div class="name"><a href="#auto_sat_tab">Autographs</a></div>
-    <div class="locus">Saturday, 7pm-8pm, Homer</div>
-    <div class="subhead">Featuring All Guests of Honor</div>
-    <div class="description">Get your books (or other things!) signed by our Guests of Honor. Maximum five items per turn (but you can get in line multiple times).</div>
+    <div class="name">
+      <a href="#auto_sat_tab">Autographs</a>
+    </div>
+    <div class="locus">
+      Saturday, 7pm-8pm, Homer
+    </div>
+    <div class="subhead">
+      Featuring All Guests of Honor
+    </div>
+    <div class="description">
+      Get your books (or other things!) signed by our Guests of Honor. Maximum
+      five items per turn (but you can get in line multiple times).
+    </div>
   </div>
   
   <div class="event" id="ling_desc">
-    <div class="name"><a href="#ling_tab">Linguistics of the Speech, Revised Second Edition</a></div>
-    <div class="locus">Saturday, 7:15pm-8:15pm, Whistler B</div>
-    <div class="subhead">Staff Led: Sarah</div>
+    <div class="name">
+      <a href="#ling_tab">Linguistics of the Speech, Revised Second Edition</a>
+    </div>
+    <div class="locus">
+      Saturday, 7:15pm-8:15pm, Whistler B
+    </div>
+    <div class="subhead">
+      Staff Led: Sarah
+    </div>
     <div class="description">
-      How much do we know about the Speech from Young Wizards, and how does it really work? Resident linguist Sarah answered that for us in 2016 and 2017—and now she's back to do it again with nearly a decade of new linguistic experience.
+      How much do we know about the Speech from Young Wizards, and how does it
+      really work? Resident linguist Sarah answered that for us in 2016 and
+      2017—and now she's back to do it again with nearly a decade of new
+      linguistic experience.
       <br />
-      <i>No prerequisites; may be repeated for credit as the syllabus is substantially revised.</i>
+      <i>No prerequisites; may be repeated for credit as the syllabus is
+      substantially revised.</i> 
     </div>
   </div>
   
   <div class="event" id="lxad_desc">
-    <div class="name"><a href="#lxad_tab">Linguistics After Dark</a></div>
-    <div class="locus">Saturday, 8:30pm-10:30pm, Whistler B</div>
-    <div class="subhead">Staff Led: Sarah, Eli, and Jenny</div>
-    <div class="description">Eli and Sarah get drunk and answer your random questions about language. That’s it. That’s the panel.</div>
+    <div class="name">
+      <a href="#lxad_tab">Linguistics After Dark</a>
+    </div>
+    <div class="locus">
+      Saturday, 8:30pm-10:30pm, Whistler B
+    </div>
+    <div class="subhead">
+      Staff Led: Sarah, Eli, and Jenny
+    </div>
+    <div class="description">
+      Eli and Sarah get drunk and answer your random questions about language.
+      That’s it. That’s the panel.
+    </div>
   </div>
   
   <h3>Sunday</h3>
   
   <div class="event">
-    <div class="name">Ordealer’s Choice</div>
+    <div class="name">
+      Ordealer’s Choice
+    </div>
     <div class="description">
-      In homage to our theme for 2025, this year’s Sunday “programming” is a choose-your-
-      own-adventure-style day, with options for a variety of tastes! Looking for company for your
-      
-      journey? Find sign-up sheets in the common area to connect with fellow adventurers.
-      For cousins seeking something low key, the Con space will be open for general chatting,
-      board games, and lightning talks, as well as any other chill activities you may wish to plan/
-      engage in with friends new or old.
-      For the bookworms—at least, those bookworms who still have suitcase/packing space
-      left—consider a bookstore crawl through some of Philly’s local bookstores.
-      For the historically minded, Philly has many must-see experiences. From the Liberty Bell
-      to Betsy Ross House to the Old City and more, go and explore American history in what is
-      often considered the birthplace of the USA.
-      And finally, for our most science-inclined cousins, Philadelphia is home to the Franklin
-      Institute, the Academy of Natural Sciences, and the Mütter Museum to explore to your
-      heart’s content.
+      In homage to our theme for 2025, this year’s Sunday “programming” is a
+      choose-your- own-adventure-style day, with options for a variety of
+      tastes! Looking for company for your journey? Find sign-up sheets in the
+      common area to connect with fellow adventurers. For cousins seeking
+      something low key, the Con space will be open for general chatting, board
+      games, and lightning talks, as well as any other chill activities you may
+      wish to plan/ engage in with friends new or old. For the bookworms—at
+      least, those bookworms who still have suitcase/packing space left—consider
+      a bookstore crawl through some of Philly’s local bookstores. For the
+      historically minded, Philly has many must-see experiences. From the
+      Liberty Bell to Betsy Ross House to the Old City and more, go and explore
+      American history in what is often considered the birthplace of the USA.
+      And finally, for our most science-inclined cousins, Philadelphia is home
+      to the Franklin Institute, the Academy of Natural Sciences, and the Mütter
+      Museum to explore to your heart’s content. 
     </div>
   </div>
   
   <div class="event" id="cloc_desc">
-    <div class="name"><a href="#cloc_tab">Closing Ceremonies</a></div>
-    <div class="locus">Sunday, 5:00pm-5:30pm, Whistler B</div>
-    <div class="subhead">Featuring All Guests of Honor</div>
-    <div class="description">Until the next time.</div>
+    <div class="name">
+      <a href="#cloc_tab">Closing Ceremonies</a>
+    </div>
+    <div class="locus">
+      Sunday, 5:00pm-5:30pm, Whistler B
+    </div>
+    <div class="subhead">
+      Featuring All Guests of Honor
+    </div>
+    <div class="description">
+      Until the next time.
+    </div>
   </div>
 </div>
