@@ -65,7 +65,7 @@ published: true
         <text x="370" y="57" style="font-family: sans-serif; font-size: 14px" text-anchor="middle">Suburban</text>
       </svg>
       <li>
-        Get off the train at Suburban station and proceed up the mezzanine
+        Get off the train at Suburban Station and proceed up the mezzanine
         level.
       </li>
       <li>Swipe out through the kiosks and head for the street-level exits.</li>
@@ -110,7 +110,7 @@ published: true
     <ol>
       <li>
         You'll get off your train at the lower platform level of the William H
-        Gray III 30th St. Amtrak station; proceed up to the main hall.
+        Gray III 30th St. Amtrak Station; proceed up to the main hall.
       </li>
       <li>Follow signs to the Market St. buses.</li>
       <li>
@@ -196,7 +196,7 @@ published: true
     <ol>
       <li>
         You'll get off your train at the lower platform level of the William H
-        Gray III 30th St. Amtrak station; proceed up to the main hall.
+        Gray III 30th St. Amtrak Station; proceed up to the main hall.
       </li>
       <li>
         Follow signs to the Metro L line (this is also called the
@@ -244,7 +244,7 @@ published: true
     <ol>
       <li>
         You'll get off your train at the lower platform level of the William H
-        Gray III 30th St. Amtrak station; proceed up to the main hall.
+        Gray III 30th St. Amtrak Station; proceed up to the main hall.
       </li>
       <li>
         Follow signs to the Metro T Trolley lines (these are also called
@@ -257,7 +257,7 @@ published: true
         (as of early August 2025) is $2.50.
       </li>
       <li>
-        Get off at the 19th St. station. (This is the second stop after 30th
+        Get off at the 19th St. Station. (This is the second stop after 30th
         St.)
       </li>
       <svg height="45" viewBox="0 0 400 45" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
@@ -286,16 +286,17 @@ published: true
     <h4>Amtrak to con via SEPTA Regional Rail</h4>
     <p>
       You can also take SEPTA Regional Rail one stop from 30th St. to Suburban
-      station. Follow signs from the Amtrak area to the SEPTA area, then take
-      any train headed through Center City to Suburban station.
+      Station. Follow signs from the Amtrak area to the SEPTA area, then take
+      any train headed through Center City to Suburban Station.
     </p>
     <p style="font-style: italic">
       Note: <a href="https://wwww.septa.org/fares/ways-to-pay/">Amtrak tickets for the same 
       date of travel</a> and presented for inspection will be accepted as fare to ride on 
-      Regional Rail trains between William H. Gray III 30<sup>th</sup> Street Station, 
-      Suburban Station and Jefferson Station.
+      Regional Rail trains between William H. Gray III 30th St. Station and
+      Suburban Station.
     </p>
   </div>
+<!-- we might want another button here? https://maps.app.goo.gl/zw6eBUSwC8gVKRP47 should do the thing? but it's too late for sarah to figure out if it's worth is -->
 </div>
 <div class="to-con-route">
   <div class="head">
