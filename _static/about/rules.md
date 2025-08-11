@@ -68,8 +68,22 @@ Spoilers aren’t limited to revealing future plot points. Consider this [compre
 
 ## Accessibility
 
-Accessibility information for our 2025 convention is coming soon!
+<!-- 2025 text; substantially similar to 2022 but with "con-space bathrooms" instead of "public bathrooms", and no reference to off-site or early-request things like large print or interpreters -->
+We at CrossingsCon are committed to making the convention experience as accessible and enjoyable as possible to all cousins, regardless of the nature or intensity of their disabilities.
 
+To that end (in the service of our Art), we have already made the following provisions:
+
+- All common spaces are wheelchair-accessible, and wheelchair-accessible bedrooms are available.
+- Con-space bathrooms are wheelchair-accessible.
+- Priority seating is available in panels to attendees who are hard-of-hearing and/or have low vision.
+- Official Con text, such as a program book, etc, is available digitally on crossingscon.org for ease of screen-reader access.
+- For the well-being of attendees with epilepsy, flashing lights from cameras, costumes, or presentation screens are prohibited in panels and all other Con-specific spaces.
+
+If you have a serious environmental allergy, please let us know, but we cannot guarantee that the space will be free of all allergens.
+
+If there is anything else we missed or about which you have concerns, please do not hesitate to contact us.
+
+<!-- 2022 text -->
 <!-- We at CrossingsCon are committed to making the convention experience as accessible and enjoyable as possible to all cousins, regardless of the nature or intensity of their disabilities.
 
 To that end (in the service of our Art), we have already made the following provisions:
