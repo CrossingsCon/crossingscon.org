@@ -190,6 +190,137 @@ nav a {
     text-decoration: none;
 }
 
+table.events {
+  border: 2px solid #002a40;
+  
+  border-collapse: collapse;
+  
+  col {
+    width: 5rem;
+    
+    @media(max-width: 42rem) {
+      width: 4rem;
+    }
+    
+    &.room {
+      width: 12rem;
+      
+      @media(max-width: 42rem) {
+        width: 6rem;
+      }
+    }
+    
+  }
+  
+  thead th {
+    position: sticky;
+    top: 0px;
+  }
+  
+  th {
+    color: white;
+    background: #6f566a;
+  }
+  
+  td {
+    border: 1px solid #A0A0A0;
+    
+    &#ocer_tab,
+    &#crea_tab,
+    &#wwwy_tab,
+    &#bbing_tab,
+    &#auto_fri_tab,
+    &#gohc_tab,
+    &#cfsc_tab,
+    &#auto_sat_tab,
+    &#lxad_tab,
+    &#cloc_tab,
+    &.gng_a_tab,
+    &.lightning_a_tab  {
+      background: #ebb9a6;
+    }
+    
+    &#dnpi_tab,
+    &#plnc_tab,
+    &#shayna_tab,
+    &#bmun_tab,
+    &#wbob_tab,
+    &#best_tab,
+    &#biod_tab,
+    &#ling_tab,
+    &.gng_b_tab {
+      background: #fcc89e;
+    }
+    
+    &#ssgt_tab,
+    &#cjam_tab,
+    &#hycg_tab,
+    &#wriwo_tab,
+    &#book_tab,
+    &.gng_c_tab,
+    &.lightning_c_tab {
+      background: #fed7b7;
+    }
+    
+    &.eat_nao {
+      background: #FFFFFFDD;
+    }
+  }
+  
+  td, th {
+    text-align: center; 
+    vertical-align: middle;
+    
+    &.time {
+      color: white;
+      background: #976978;
+      
+      font-size: smaller;
+    }
+    
+    &:empty {
+      background: #fff1e1;
+    }
+  }
+  
+  tbody tr th {
+    padding: .5rem 0;
+    font-size: larger;
+  }
+}
+
+.event-descriptions {
+  width: 60vw;
+  
+  padding-top: 2rem;
+  
+  @media(max-width: 60rem) {
+    width: 90vw;
+  }
+  
+  .event {
+    padding-bottom: .5rem;
+      
+    .name {
+      color: #6f566a;
+      font-size: larger;
+    }
+    
+    .locus {
+      font-weight: bold;
+    }
+    
+    .subhead {
+      font-style: italic;
+      font-weight: lighter;
+    }
+    
+    .description {
+      
+    }
+  }
+}
+
 .footnotes {
   font-size: .9rem;
 }
