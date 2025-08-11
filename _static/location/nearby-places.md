@@ -214,6 +214,9 @@ order: 21
         </h4>
         <ol>
           <li>Book Corner</li>
+            <span class="note">
+              Closed on Sunday
+            </span>
           <li>
             <a href="https://www.queerbooks.com/">
               Giovanni’s Room Queer Used Book Store
