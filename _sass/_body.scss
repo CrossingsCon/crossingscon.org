@@ -333,6 +333,31 @@ a:hover {
     color: $cc-purple-1;
 }
 
+.bookstore {
+  div {
+    padding: 0 !important;
+    margin-bottom: 1rem;
+    
+    background: #fab27a;
+    border-radius: 1rem;
+    
+    h2 {
+      padding: .5rem 1rem .5rem 1rem;
+      
+      color: white;
+      background: #d97d63;
+      
+      border-radius: 1rem;
+    }
+    
+    p.lead {
+      padding: 0 1rem 1rem 1rem;
+      
+      margin-bottom: 0;
+    }
+  }
+}
+
 .to-con-route {
   display: grid;
   grid-template: 
