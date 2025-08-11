@@ -99,10 +99,10 @@ published: true
   <div class="instructions advice">
     <p>Below are four options for getting to the hotel from 30th St. Station, which vary in speed, cost, and convenience, depending on your ability/desire to walk and what time of day you arrive. Please check the Google Maps links for each option and/or consult <a href="septa.org">septa.org</a> for time-specific travel advice once you reach 30th St. Station.
     </p>
-    <p>The cheapest option is Regional Rail, since
+    <p>The <strong>cheapest option is Regional Rail</strong>, since
       <a href="https://wwww.septa.org/fares/ways-to-pay/">Amtrak tickets for the same date of travel</a> and presented for inspection will be accepted as fare to ride on Regional Rail trains between 30th St. Station and Suburban Station.
     </p>
-    <p>The option with the least walking is the bus, since it boards on ground level outside 30th St. Station and lets off <em>literally at the doors of the hotel</em>.
+    <p>The <strong>option with the least walking is the bus</strong>, since it boards on ground level outside 30th St. Station and lets off <em>literally at the doors of the hotel</em>.
     </p>
   </div>
   <div class="instructions primary">
