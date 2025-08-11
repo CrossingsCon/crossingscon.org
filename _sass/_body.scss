@@ -337,6 +337,7 @@ a:hover {
   display: grid;
   grid-template: 
     "header header" auto
+    "advice advice"
     "instrs youtube" auto
     "instrs mfl" auto
     "sst mfl" auto
@@ -368,6 +369,11 @@ a:hover {
     
     &.regional-rail {
       grid-area: regional;
+    }
+
+    &.advice {
+      grid-area: advice;
+      font-size: 125%;
     }
     
     ul.arrow li {

@@ -77,6 +77,9 @@ published: true
         Head about a block from the exit and the convention hotel, the Sonesta
         Philadelphia Rittenhouse Square, is right there!
       </li>
+      <li>
+        <strong>For even less walking,</strong> consider switching at 30th St. Station and taking the bus (details below), which lets off directly in front of the hotel.
+      </li>
     </ol>
     <p class="text-center">
       <a class="btn btn-lg btn-badge" href="https://maps.app.goo.gl/VtZXAsT2xLVih1zn7" target="_blank">
@@ -92,6 +95,15 @@ published: true
 <div class="to-con-route">
   <div class="head">
     <h3>I'm taking Amtrak to 30th St. Station</h3>
+  </div>
+  <div class="instructions advice">
+    <p>Below are four options for getting to the hotel from 30th St. Station, which vary in speed, cost, and convenience, depending on your ability/desire to walk and what time of day you arrive. Please check the Google Maps links for each option and/or consult <a href="septa.org">septa.org</a> for time-specific travel advice once you reach 30th St. Station.
+    </p>
+    <p>The cheapest option is Regional Rail, since
+      <a href="https://wwww.septa.org/fares/ways-to-pay/">Amtrak tickets for the same date of travel</a> and presented for inspection will be accepted as fare to ride on Regional Rail trains between 30th St. Station and Suburban Station.
+    </p>
+    <p>The option with the least walking is the bus, since it boards on ground level outside 30th St. Station and lets off <em>literally at the doors of the hotel</em>.
+    </p>
   </div>
   <div class="instructions primary">
     <h4>Amtrak to con via SEPTA bus</h4>
@@ -278,9 +290,19 @@ published: true
       any train headed through Center City to Suburban station.
     </p>
     <p style="font-style: italic">
-      Note that Amtrak tickets are valid for SEPTA fare on the same day as your
-      Amtrak travel.
+      Note: <a href="https://wwww.septa.org/fares/ways-to-pay/">Amtrak tickets for the same 
+      date of travel</a> and presented for inspection will be accepted as fare to ride on 
+      Regional Rail trains between William H. Gray III 30<sup>th</sup> Street Station, 
+      Suburban Station and Jefferson Station.
     </p>
+  </div>
+</div>
+<div class="to-con-route">
+  <div class="head">
+    <h3>I'm coming to Philadelphia by worldgate</h3>
+  </div>
+  <div class="instructions primary">
+    <p>Unfortunately the closest major gating complexes are located in New York, as Philadelphia doesn’t quite have the population for gates to spawn naturally. Once you have reached New York, you will need to perform your own transit spell, or consider one of the more mundane options to get from there to Philadelphia. If you're doing a private spell, either Grand Central or NY Penn will work as a waypoint, but if not, we recommend gating into NY Penn and taking Amtrak directly from there.</p>
   </div>
 </div>
 
