@@ -313,10 +313,10 @@ published: true
     </p>
     <img src="/images/2025/next-train-centre-philly.png" alt="Image showing the sign described above" />
     <p style="font-style: italic">
-      Note: <a href="https://wwww.septa.org/fares/ways-to-pay/">Amtrak tickets for the same 
-      date of travel</a> and presented for inspection will be accepted as fare to ride on 
-      Regional Rail trains between William H. Gray III 30th St. Station and
-      Suburban Station.
+      Note: <a href="https://wwww.septa.org/fares/ways-to-pay/">Amtrak tickets
+      for the same  date of travel</a> and presented for inspection will be
+      accepted as fare to ride on Regional Rail trains between William H. Gray
+      III 30th St. Station and Suburban Station.
     </p>
     <p class="text-center">
       <a class="btn btn-lg btn-badge" href="https://maps.app.goo.gl/zw6eBUSwC8gVKRP47" target="_blank">
