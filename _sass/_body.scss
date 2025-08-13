@@ -208,8 +208,25 @@ table.events {
       @media(max-width: 42rem) {
         width: 6rem;
       }
+    } 
+  }
+  
+  tr.passe {
+    td {
+      color: gray;
+      background: transparent !important;
+      
+      font-size: smaller;
+      
+      &.time {
+        font-size: 11px;
+        padding: 0;
+      }
+      
+      a {
+        color: black;
+      }
     }
-    
   }
   
   thead th {
@@ -275,7 +292,7 @@ table.events {
       color: white;
       background: #976978;
       
-      font-size: smaller;
+      font-size: 13px;
     }
     
     &:empty {

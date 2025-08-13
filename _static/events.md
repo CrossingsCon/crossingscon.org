@@ -20,126 +20,126 @@ published: true
 	</thead>
 	<tbody>
 		<tr><th colspan="4">Friday</th></tr>
-	  <tr><td class="time">10:30 AM</td><td rowspan="2" id="ocer_tab"><a href="#ocer_desc">Opening Ceremonies</a></td><td rowspan="2" /><td rowspan="6" /></tr>
-    <tr><td class="time">10:45 AM</td></tr>
-    <tr><td class="time">11:00 AM</td><td rowspan="4" id="dnpi_tab"><a href="#dnpi_desc">Deception & Political Intrigue</a></td><td rowspan="4" id="crea_tab"><a href="#crea_desc">Creativity Off the Page</a></td></tr>
-    <tr><td class="time">11:15 AM</td></tr>
-    <tr><td class="time">11:30 AM</td></tr>
-    <tr><td class="time">11:45 AM</td></tr>
-    <tr><td class="time">12:00 PM</td><td colspan="3" rowspan="4" class="eat_nao"><a href="{{ site.baseurl }}/location/nearby-places/">Lunch Break</a></td></tr>
-    <tr><td class="time">12:15 PM</td></tr>
-    <tr><td class="time">12:30 PM</td></tr>
-    <tr><td class="time">12:45 PM</td></tr>
-    <tr><td class="time"> 1:00 PM</td><td rowspan="4" id="wwwy_tab"><a href="#wwwy_desc">When We Were Young</a></td><td rowspan="5" /><td rowspan="18" class="lightning_c_tab"><a href="#lightning_desc">Lightning Talks</a></td></tr>
-    <tr><td class="time"> 1:15 PM</td></tr>
-    <tr><td class="time"> 1:30 PM</td></tr>
-    <tr><td class="time"> 1:45 PM</td></tr>
-    <tr><td class="time"> 2:00 PM</td><td /></tr>
-    <tr><td class="time"> 2:15 PM</td><td rowspan="4" id="plnc_tab"><a href="#plnc_desc">Patent Law and the Courts</a></td><td rowspan="6" id="bbing_tab"><a href="#bbing_desc">Bookbinding</a></td></tr>
-    <tr><td class="time"> 2:30 PM</td></tr>
-    <tr><td class="time"> 2:45 PM</td></tr>
-    <tr><td class="time"> 3:00 PM</td></tr>
-    <tr><td class="time"> 3:15 PM</td><td /></tr>
-    <tr><td class="time"> 3:30 PM</td><td rowspan="4" id="ssgt_tab"><a href="#ssgt_desc">Solar System Grand Tour</a></td></tr>
-    <tr><td class="time"> 3:45 PM</td><td rowspan="3" /></tr>
-    <tr><td class="time"> 4:00 PM</td></tr>
-    <tr><td class="time"> 4:15 PM</td></tr>
-    <tr><td class="time"> 4:30 PM</td><td rowspan="4" id="auto_fri_tab"><a href="#auto_fri_desc">Autographs</a></td><td rowspan="4" id="shayna_tab"><a href="#shayna_desc">Putting the Celestial in the Story</a></td></tr>
-    <tr><td class="time"> 4:45 PM</td></tr>
-    <tr><td class="time"> 5:00 PM</td></tr>
-    <tr><td class="time"> 5:15 PM</td></tr>
-    <tr><td class="time"> 5:30 PM</td><td rowspan="6" colspan="3" class="eat_nao"><a href="{{ site.baseurl }}/location/nearby-places/">Dinner Break</a></td></tr>
-    <tr><td class="time"> 5:45 PM</td></tr>
-    <tr><td class="time"> 6:00 PM</td></tr>
-    <tr><td class="time"> 6:15 PM</td></tr>
-    <tr><td class="time"> 6:30 PM</td></tr>
-    <tr><td class="time"> 6:45 PM</td></tr>
-    <tr><td class="time"> 7:00 PM</td><td rowspan="6" id="bmun_tab"><a href="#bmun_desc">Baron Munchausen</a></td><td rowspan="6" class="gng_a_tab"><a href="#gng_1_desc">Games & Goofing</a></td><td rowspan="12" /></tr>
-    <tr><td class="time"> 7:15 PM</td></tr>
-    <tr><td class="time"> 7:30 PM</td></tr>
-    <tr><td class="time"> 7:45 PM</td></tr>
-    <tr><td class="time"> 8:00 PM</td></tr>
-    <tr><td class="time"> 8:15 PM</td></tr>
-    <tr><td class="time"> 8:30 PM</td><td rowspan="6" class="gng_a_tab"><a href="#gng_desc">Games & Goofing</a></td><td rowspan="4" id="cjam_tab"><a href="#cjam_desc">CrossingsJam</a></td></tr>
-    <tr><td class="time"> 8:45 PM</td></tr>
-    <tr><td class="time"> 9:00 PM</td></tr>
-    <tr><td class="time"> 9:15 PM</td></tr>
-    <tr><td class="time"> 9:30 PM</td><td rowspan="2" /></tr>
-    <tr><td class="time"> 9:45 PM</td></tr>
+	  <tr><td class="time" data-date="2025-08-15T10:30-0400">10:30 AM</td><td rowspan="2" id="ocer_tab"><a href="#ocer_desc">Opening Ceremonies</a></td><td rowspan="2" /><td rowspan="6" /></tr>
+    <tr><td class="time" data-date="2025-08-15T10:45-0400">10:45 AM</td></tr>
+    <tr><td class="time" data-date="2025-08-15T11:00-0400">11:00 AM</td><td rowspan="4" id="dnpi_tab"><a href="#dnpi_desc">Deception & Political Intrigue</a></td><td rowspan="4" id="crea_tab"><a href="#crea_desc">Creativity Off the Page</a></td></tr>
+    <tr><td class="time" data-date="2025-08-15T11:15-0400">11:15 AM</td></tr>
+    <tr><td class="time" data-date="2025-08-15T11:30-0400">11:30 AM</td></tr>
+    <tr><td class="time" data-date="2025-08-15T11:45-0400">11:45 AM</td></tr>
+    <tr><td class="time" data-date="2025-08-15T12:00-0400">12:00 PM</td><td colspan="3" rowspan="4" class="eat_nao"><a href="{{ site.baseurl }}/location/nearby-places/">Lunch Break</a></td></tr>
+    <tr><td class="time" data-date="2025-08-15T12:15-0400">12:15 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-15T12:30-0400">12:30 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-15T12:45-0400">12:45 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-15T13:00-0400"> 1:00 PM</td><td rowspan="4" id="wwwy_tab"><a href="#wwwy_desc">When We Were Young</a></td><td rowspan="5" /><td rowspan="18" class="lightning_c_tab"><a href="#lightning_desc">Lightning Talks</a></td></tr>
+    <tr><td class="time" data-date="2025-08-15T13:15-0400"> 1:15 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-15T13:30-0400"> 1:30 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-15T13:45-0400"> 1:45 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-15T14:00-0400"> 2:00 PM</td><td /></tr>
+    <tr><td class="time" data-date="2025-08-15T14:15-0400"> 2:15 PM</td><td rowspan="4" id="plnc_tab"><a href="#plnc_desc">Patent Law and the Courts</a></td><td rowspan="6" id="bbing_tab"><a href="#bbing_desc">Bookbinding</a></td></tr>
+    <tr><td class="time" data-date="2025-08-15T14:30-0400"> 2:30 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-15T14:45-0400"> 2:45 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-15T15:00-0400"> 3:00 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-15T15:15-0400"> 3:15 PM</td><td /></tr>
+    <tr><td class="time" data-date="2025-08-15T15:30-0400"> 3:30 PM</td><td rowspan="4" id="ssgt_tab"><a href="#ssgt_desc">Solar System Grand Tour</a></td></tr>
+    <tr><td class="time" data-date="2025-08-15T15:45-0400"> 3:45 PM</td><td rowspan="3" /></tr>
+    <tr><td class="time" data-date="2025-08-15T16:00-0400"> 4:00 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-15T16:15-0400"> 4:15 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-15T16:30-0400"> 4:30 PM</td><td rowspan="4" id="auto_fri_tab"><a href="#auto_fri_desc">Autographs</a></td><td rowspan="4" id="shayna_tab"><a href="#shayna_desc">Putting the Celestial in the Story</a></td></tr>
+    <tr><td class="time" data-date="2025-08-15T16:45-0400"> 4:45 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-15T17:00-0400"> 5:00 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-15T17:15-0400"> 5:15 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-15T17:30-0400"> 5:30 PM</td><td rowspan="6" colspan="3" class="eat_nao"><a href="{{ site.baseurl }}/location/nearby-places/">Dinner Break</a></td></tr>
+    <tr><td class="time" data-date="2025-08-15T17:45-0400"> 5:45 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-15T18:00-0400"> 6:00 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-15T18:15-0400"> 6:15 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-15T18:30-0400"> 6:30 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-15T18:45-0400"> 6:45 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-15T19:00-0400"> 7:00 PM</td><td rowspan="6" id="bmun_tab"><a href="#bmun_desc">Baron Munchausen</a></td><td rowspan="6" class="gng_a_tab"><a href="#gng_1_desc">Games & Goofing</a></td><td rowspan="12" /></tr>
+    <tr><td class="time" data-date="2025-08-15T19:15-0400"> 7:15 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-15T19:30-0400"> 7:30 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-15T19:45-0400"> 7:45 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-15T20:00-0400"> 8:00 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-15T20:15-0400"> 8:15 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-15T20:30-0400"> 8:30 PM</td><td rowspan="6" class="gng_a_tab"><a href="#gng_desc">Games & Goofing</a></td><td rowspan="4" id="cjam_tab"><a href="#cjam_desc">CrossingsJam</a></td></tr>
+    <tr><td class="time" data-date="2025-08-15T20:45-0400"> 8:45 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-15T21:00-0400"> 9:00 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-15T21:15-0400"> 9:15 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-15T21:30-0400"> 9:30 PM</td><td rowspan="2" /></tr>
+    <tr><td class="time" data-date="2025-08-15T21:45-0400"> 9:45 PM</td></tr>
     <tr><th colspan="4">Saturday</th></tr>
-	  <tr><td class="time">11:00 AM</td><td rowspan="4" id="gohc_tab"><a href="#gohc_desc">Guests of Honor in Conversation</a></td><td rowspan="4" /><td rowspan="4" /></tr>
-    <tr><td class="time">11:15 AM</td></tr>
-    <tr><td class="time">11:30 AM</td></tr>
-    <tr><td class="time">11:45 AM</td></tr>
-    <tr><td class="time">12:00 PM</td><td colspan="3" rowspan="4" class="eat_nao"><a href="{{ site.baseurl }}/location/nearby-places/">Lunch Break</a></td></tr>
-    <tr><td class="time">12:15 PM</td></tr>
-    <tr><td class="time">12:30 PM</td></tr>
-    <tr><td class="time">12:45 PM</td></tr>
-    <tr><td class="time"> 1:00 PM</td><td rowspan="4" id="hycg_tab"><a href="#hycg_desc">How Your Characters Grow: Evolution Over Time</a></td><td rowspan="4" id="wbob_tab"><a href="#wbob_desc">Worldbuilding Outside of Books</a></td><td rowspan="18" class="lightning_a_tab"><a href="#lightning_desc">Lightning Talks</a></td></tr>
-    <tr><td class="time"> 1:15 PM</td></tr>
-    <tr><td class="time"> 1:30 PM</td></tr>
-    <tr><td class="time"> 1:45 PM</td></tr>
-    <tr><td class="time"> 2:00 PM</td><td /><td rowspan="2" /></tr>
-    <tr><td class="time"> 2:15 PM</td><td rowspan="4" id="best_tab"><a href="#best_desc">History of Elvish</a></td></tr>
-    <tr><td class="time"> 2:30 PM</td><td rowspan="6" id="wriwo_tab"><a href="#wriwo_desc">Writing Workshop</a></td></tr>
-    <tr><td class="time"> 2:45 PM</td></tr>
-    <tr><td class="time"> 3:00 PM</td></tr>
-    <tr><td class="time"> 3:15 PM</td><td /></tr>
-    <tr><td class="time"> 3:30 PM</td><td rowspan="4" id="cfsc_tab"><a href="#cfsc_desc">Care and Feeding of Secondary Characters</a></td></tr>
-    <tr><td class="time"> 3:45 PM</td></tr>
-    <tr><td class="time"> 4:00 PM</td><td rowspan="6" id="biod_tab"><a href="#biod_desc">BioDesign Explorations</a></td></tr>
-    <tr><td class="time"> 4:15 PM</td></tr>
-    <tr><td class="time"> 4:30 PM</td><td rowspan="4" id="book_tab"><a href="#book_desc">Book Club</a></td></tr>
-    <tr><td class="time"> 4:45 PM</td></tr>
-    <tr><td class="time"> 5:00 PM</td></tr>
-    <tr><td class="time"> 5:15 PM</td></tr>
-    <tr><td class="time"> 5:30 PM</td><td rowspan="6" colspan="3" class="eat_nao"><a href="{{ site.baseurl }}/location/nearby-places/">Dinner Break</a></td></tr>
-    <tr><td class="time"> 5:45 PM</td></tr>
-    <tr><td class="time"> 6:00 PM</td></tr>
-    <tr><td class="time"> 6:15 PM</td></tr>
-    <tr><td class="time"> 6:30 PM</td></tr>
-    <tr><td class="time"> 6:45 PM</td></tr>
-    <tr><td class="time"> 7:00 PM</td><td /><td rowspan="4" id="auto_sat_tab"><a href="#auto_sat_desc">Autographs</a></td><td rowspan="14" /></tr>
-    <tr><td class="time"> 7:15 PM</td><td rowspan="4" id="ling_tab"><a href="#ling_desc">Linguistics of the Speech, Revised Second Edition</a></td></tr>
-    <tr><td class="time"> 7:30 PM</td></tr>
-    <tr><td class="time"> 7:45 PM</td></tr>
-    <tr><td class="time"> 8:00 PM</td><td rowspan="8" class="gng_c_tab"><a href="#gng_desc">Games & Goofing</a></td></tr>
-    <tr><td class="time"> 8:15 PM</td><td /></tr>
-    <tr><td class="time"> 8:30 PM</td><td rowspan="8" id="lxad_tab"><a href="#lxad_desc">Linguistics After Dark</a></td></tr>
-    <tr><td class="time"> 8:45 PM</td></tr>
-    <tr><td class="time"> 9:00 PM</td></tr>
-    <tr><td class="time"> 9:15 PM</td></tr>
-    <tr><td class="time"> 9:30 PM</td></tr>
-    <tr><td class="time"> 9:45 PM</td></tr>
-    <tr><td class="time">10:00 PM</td><td rowspan="2" /></tr>
-    <tr><td class="time">10:15 PM</td></tr>
+	  <tr><td class="time" data-date="2025-08-16T11:00-0400">11:00 AM</td><td rowspan="4" id="gohc_tab"><a href="#gohc_desc">Guests of Honor in Conversation</a></td><td rowspan="4" /><td rowspan="4" /></tr>
+    <tr><td class="time" data-date="2025-08-16T11:15-0400">11:15 AM</td></tr>
+    <tr><td class="time" data-date="2025-08-16T11:30-0400">11:30 AM</td></tr>
+    <tr><td class="time" data-date="2025-08-16T11:45-0400">11:45 AM</td></tr>
+    <tr><td class="time" data-date="2025-08-16T12:00-0400">12:00 PM</td><td colspan="3" rowspan="4" class="eat_nao"><a href="{{ site.baseurl }}/location/nearby-places/">Lunch Break</a></td></tr>
+    <tr><td class="time" data-date="2025-08-16T12:15-0400">12:15 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-16T12:30-0400">12:30 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-16T12:45-0400">12:45 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-16T13:00-0400"> 1:00 PM</td><td rowspan="4" id="hycg_tab"><a href="#hycg_desc">How Your Characters Grow: Evolution Over Time</a></td><td rowspan="4" id="wbob_tab"><a href="#wbob_desc">Worldbuilding Outside of Books</a></td><td rowspan="18" class="lightning_a_tab"><a href="#lightning_desc">Lightning Talks</a></td></tr>
+    <tr><td class="time" data-date="2025-08-16T13:15-0400"> 1:15 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-16T13:30-0400"> 1:30 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-16T13:45-0400"> 1:45 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-16T14:00-0400"> 2:00 PM</td><td /><td rowspan="2" /></tr>
+    <tr><td class="time" data-date="2025-08-16T14:15-0400"> 2:15 PM</td><td rowspan="4" id="best_tab"><a href="#best_desc">History of Elvish</a></td></tr>
+    <tr><td class="time" data-date="2025-08-16T14:30-0400"> 2:30 PM</td><td rowspan="6" id="wriwo_tab"><a href="#wriwo_desc">Writing Workshop</a></td></tr>
+    <tr><td class="time" data-date="2025-08-16T14:45-0400"> 2:45 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-16T15:00-0400"> 3:00 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-16T15:15-0400"> 3:15 PM</td><td /></tr>
+    <tr><td class="time" data-date="2025-08-16T15:30-0400"> 3:30 PM</td><td rowspan="4" id="cfsc_tab"><a href="#cfsc_desc">Care and Feeding of Secondary Characters</a></td></tr>
+    <tr><td class="time" data-date="2025-08-16T15:45-0400"> 3:45 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-16T16:00-0400"> 4:00 PM</td><td rowspan="6" id="biod_tab"><a href="#biod_desc">BioDesign Explorations</a></td></tr>
+    <tr><td class="time" data-date="2025-08-16T16:15-0400"> 4:15 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-16T16:30-0400"> 4:30 PM</td><td rowspan="4" id="book_tab"><a href="#book_desc">Book Club</a></td></tr>
+    <tr><td class="time" data-date="2025-08-16T16:45-0400"> 4:45 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-16T17:00-0400"> 5:00 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-16T17:15-0400"> 5:15 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-16T17:30-0400"> 5:30 PM</td><td rowspan="6" colspan="3" class="eat_nao"><a href="{{ site.baseurl }}/location/nearby-places/">Dinner Break</a></td></tr>
+    <tr><td class="time" data-date="2025-08-16T17:45-0400"> 5:45 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-16T18:00-0400"> 6:00 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-16T18:15-0400"> 6:15 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-16T18:30-0400"> 6:30 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-16T18:45-0400"> 6:45 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-16T19:00-0400"> 7:00 PM</td><td /><td rowspan="4" id="auto_sat_tab"><a href="#auto_sat_desc">Autographs</a></td><td rowspan="14" /></tr>
+    <tr><td class="time" data-date="2025-08-16T19:15-0400"> 7:15 PM</td><td rowspan="4" id="ling_tab"><a href="#ling_desc">Linguistics of the Speech, Revised Second Edition</a></td></tr>
+    <tr><td class="time" data-date="2025-08-16T19:30-0400"> 7:30 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-16T19:45-0400"> 7:45 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-16T20:00-0400"> 8:00 PM</td><td rowspan="8" class="gng_c_tab"><a href="#gng_desc">Games & Goofing</a></td></tr>
+    <tr><td class="time" data-date="2025-08-16T20:15-0400"> 8:15 PM</td><td /></tr>
+    <tr><td class="time" data-date="2025-08-16T20:30-0400"> 8:30 PM</td><td rowspan="8" id="lxad_tab"><a href="#lxad_desc">Linguistics After Dark</a></td></tr>
+    <tr><td class="time" data-date="2025-08-16T20:45-0400"> 8:45 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-16T21:00-0400"> 9:00 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-16T21:15-0400"> 9:15 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-16T21:30-0400"> 9:30 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-16T21:45-0400"> 9:45 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-16T22:00-0400">10:00 PM</td><td rowspan="2" /></tr>
+    <tr><td class="time" data-date="2025-08-16T22:15-0400">10:15 PM</td></tr>
     <tr><th colspan="4">Sunday</th></tr>
-    <tr><td class="time">11:00 AM</td><td rowspan="24" class="gng_c_tab"><a href="#gng_desc">Games & Goofing</a></td><td rowspan="24" class="lightning_a_tab"><a href="#lightning_desc">Lightning Talks</a></td><td rowspan="24" class="gng_b_tab"><a href="#gng_desc">Games & Goofing</a></td></tr>
-    <tr><td class="time">11:15 AM</td></tr>
-    <tr><td class="time">11:30 AM</td></tr>
-    <tr><td class="time">11:45 AM</td></tr>
-    <tr><td class="time">12:00 PM</td></tr>
-    <tr><td class="time">12:15 PM</td></tr>
-    <tr><td class="time">12:30 PM</td></tr>
-    <tr><td class="time">12:45 PM</td></tr>
-    <tr><td class="time"> 1:00 PM</td></tr>
-    <tr><td class="time"> 1:15 PM</td></tr>
-    <tr><td class="time"> 1:30 PM</td></tr>
-    <tr><td class="time"> 1:45 PM</td></tr>
-    <tr><td class="time"> 2:00 PM</td></tr>
-    <tr><td class="time"> 2:15 PM</td></tr>
-    <tr><td class="time"> 2:30 PM</td></tr>
-    <tr><td class="time"> 2:45 PM</td></tr>
-    <tr><td class="time"> 3:00 PM</td></tr>
-    <tr><td class="time"> 3:15 PM</td></tr>
-    <tr><td class="time"> 3:30 PM</td></tr>
-    <tr><td class="time"> 3:45 PM</td></tr>
-    <tr><td class="time"> 4:00 PM</td></tr>
-    <tr><td class="time"> 4:15 PM</td></tr>
-    <tr><td class="time"> 4:30 PM</td></tr>
-    <tr><td class="time"> 4:45 PM</td></tr>
-    <tr><td class="time"> 5:00 PM</td><td rowspan="2" id="cloc_tab"><a href="#cloc_desc">Closing Ceremonies</a></td><td rowspan="2" /><td rowspan="2" /></tr>
-    <tr><td class="time"> 5:15 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-17T11:00-0400">11:00 AM</td><td rowspan="24" class="gng_c_tab"><a href="#gng_desc">Games & Goofing</a></td><td rowspan="24" class="lightning_a_tab"><a href="#lightning_desc">Lightning Talks</a></td><td rowspan="24" class="gng_b_tab"><a href="#gng_desc">Games & Goofing</a></td></tr>
+    <tr><td class="time" data-date="2025-08-17T11:15-0400">11:15 AM</td></tr>
+    <tr><td class="time" data-date="2025-08-17T11:30-0400">11:30 AM</td></tr>
+    <tr><td class="time" data-date="2025-08-17T11:45-0400">11:45 AM</td></tr>
+    <tr><td class="time" data-date="2025-08-17T12:00-0400">12:00 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-17T12:15-0400">12:15 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-17T12:30-0400">12:30 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-17T12:45-0400">12:45 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-17T13:00-0400"> 1:00 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-17T13:15-0400"> 1:15 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-17T13:30-0400"> 1:30 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-17T13:45-0400"> 1:45 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-17T14:00-0400"> 2:00 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-17T14:15-0400"> 2:15 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-17T14:30-0400"> 2:30 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-17T14:45-0400"> 2:45 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-17T15:00-0400"> 3:00 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-17T15:15-0400"> 3:15 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-17T15:30-0400"> 3:30 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-17T15:45-0400"> 3:45 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-17T16:00-0400"> 4:00 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-17T16:15-0400"> 4:15 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-17T16:30-0400"> 4:30 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-17T16:45-0400"> 4:45 PM</td></tr>
+    <tr><td class="time" data-date="2025-08-17T17:00-0400"> 5:00 PM</td><td rowspan="2" id="cloc_tab"><a href="#cloc_desc">Closing Ceremonies</a></td><td rowspan="2" /><td rowspan="2" /></tr>
+    <tr><td class="time" data-date="2025-08-17T17:15-0400"> 5:15 PM</td></tr>
 	</tbody>
 </table>
 
