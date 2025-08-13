@@ -362,6 +362,7 @@ a:hover {
   display: grid;
   grid-template: 
     "header header" auto
+    "advice advice" auto
     "instrs youtube" auto
     "instrs mfl" auto
     "sst mfl" auto
@@ -393,6 +394,24 @@ a:hover {
     
     &.regional-rail {
       grid-area: regional;
+      
+      p + img {
+        padding: 0 .5rem .25rem .5rem;
+      }
+    }
+
+    &.advice {
+      grid-area: advice;
+      font-size: 110%;
+      padding: 0 .75rem;
+      
+      p:last-child {
+        margin-bottom: 0;
+      }
+    }
+    
+    .worldgate {
+      margin-left: 1rem;
     }
     
     ul.arrow li {
