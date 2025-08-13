@@ -6,6 +6,8 @@ order: 20
 published: true
 ---
 
+We've created a <a href="https://calendar.google.com/calendar/embed?src=c_31053090fc03afbeac2e0890dc456538aa99413609b03f9f88792945b55372e3%40group.calendar.google.com&ctz=America%2FToronto">Google calendar</a> with the schedule events, or <a href="https://calendar.google.com/calendar/ical/c_31053090fc03afbeac2e0890dc456538aa99413609b03f9f88792945b55372e3%40group.calendar.google.com/public/basic.ics">click here</a> to add the schedule to other calendar apps.
+
 <table class="events">
   <colgroup>
     <col /><col class="room" /><col class="room" /><col class="room" />
