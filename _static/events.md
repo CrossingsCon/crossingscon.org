@@ -6,6 +6,8 @@ order: 20
 published: true
 ---
 
+<h3><a href="/pdfs/CrossingsCon 2025 Program Book.pdf" target="_blank">Full Program PDF</a></h3>
+
 <table class="events">
   <colgroup>
     <col /><col class="room" /><col class="room" /><col class="room" />
