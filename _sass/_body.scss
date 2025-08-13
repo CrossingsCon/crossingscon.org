@@ -369,6 +369,10 @@ a:hover {
     
     &.regional-rail {
       grid-area: regional;
+      
+      p + img {
+        padding: 0 .5rem .25rem .5rem;
+      }
     }
 
     &.advice {

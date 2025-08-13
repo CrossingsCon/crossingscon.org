@@ -303,6 +303,15 @@ published: true
       Station. Follow signs from the Amtrak area to the SEPTA area, then take
       any train headed through Center City to Suburban Station.
     </p>
+    <p>
+      As you approach the SEPTA faregates, there is a display showing when
+      trains are coming. Look for the section with the title "Next Train to
+      Center City". These are the trains you are looking for. The leftmost
+      column is the time the train is coming and the rightmost is the platfrom
+      it will be at. Proceed through the faregates and head for the platform
+      indicated.
+    </p>
+    <img src="/images/2025/next-train-centre-philly.png" alt="Image showing the sign described above" />
     <p style="font-style: italic">
       Note: <a href="https://wwww.septa.org/fares/ways-to-pay/">Amtrak tickets for the same 
       date of travel</a> and presented for inspection will be accepted as fare to ride on 
