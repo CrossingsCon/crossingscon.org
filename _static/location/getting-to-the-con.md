@@ -328,6 +328,20 @@ published: true
 
 <div class="to-con-route">
   <div class="head">
+    <h3>I'm driving to Philadelphia</h3>
+  </div>
+  <div class="instructions primary">
+    <p class="worldgate">
+      The convention is happening at the <a href="https://www.sonesta.com/sonesta-hotels-resorts/pa/philadelphia/sonesta-philadelphia-rittenhouse-square">Sonesta Philadelphia Rittenhouse Square</a>, at 1800 Market Street, Philadelphia, PA 19103. For directions via Google maps, <a href="https://www.google.com/maps/search/?api=1&query=1800+Market+Street+Philadelphia+PA+19103">click here.</a>
+    </p>
+    <p class="worldgate">
+      There is a parking garage <a href="https://www.iparkit.com/locations/1800-market-parking?start=2025-08-14T14:30:00.000Z&end=2025-08-14T15:30:00.000Z&timezone=America%2FNew_York">in the same building as the hotel</a>, as well as several other parking lots nearby. 
+    </p>
+  </div>
+</div>
+
+<div class="to-con-route">
+  <div class="head">
     <h3>I'm coming to Philadelphia by worldgate</h3>
   </div>
   <div class="instructions primary">
