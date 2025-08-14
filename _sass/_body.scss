@@ -350,6 +350,14 @@ a:hover {
     color: $cc-purple-1;
 }
 
+.announcement {
+  background: #fab27a;
+  text-align: center;
+  a {
+    text-decoration: none;
+  }
+}
+
 .bookstore {
   div {
     padding: 0 !important;
@@ -461,6 +469,9 @@ a:hover {
       height: 25vw;
     }
   }
+  a {
+    text-decoration: none;
+  }
 }
 
 @media(min-width: 1200px) {
@@ -474,6 +485,7 @@ a:hover {
   .to-con-route {
   grid-template:
     "header" auto
+    "advice" auto
     "youtube" auto
     "instrs" auto
     "mfl" auto

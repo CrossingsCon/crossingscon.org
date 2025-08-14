@@ -2,6 +2,12 @@
 layout: home
 ---
 
+<div class="welcome announcement">
+  <div style="padding: 1rem 0 1rem 0 !important" class="py-5">
+    <h3>The schedule of events for CrossingsCon 2025 is now live! <a href="{{ '/events' | prepend: site.baseurl }}">Check it out here</a></h3>
+  </div> 
+</div>
+
 <div style="padding: 2rem 1rem; color: #FEE5C8; background: #5F445B;">
   <div style="display: flex; flex-direction: row; flex-wrap:wrap; justify-content: space-around;">
     <div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: space-evenly; align-items: center; max-width: 800px;">
@@ -31,6 +37,7 @@ layout: home
       <strong style="font-weight: bold">Registration for the convention</strong> is <strong style="font-weight: bold">open now!</strong> Information on badges and how to register <a  href="{{ site.baseurl }}/badges">can be found here</a>, and information and the booking link for the convention hotel <a href="{{ site.baseurl }}/location">are here</a>.
     </p>
     <div class="form-inline">
+      <!-- <a class="btn btn-badge my-2 px-6" style="text-decoration: none; margin:auto; font-size: 2rem;" href="{{ '/events' | prepend: site.baseurl }}">See schedule of events</a> -->
       <a class="btn btn-badge my-2 px-6" style="text-decoration: none; margin:auto; font-size: 2rem;" href="{{ site.data.badges.url }}">Get your badge!</a>
     </div>
   </div>
