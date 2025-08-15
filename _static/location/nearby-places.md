@@ -222,7 +222,66 @@ order: 21
               Giovanni’s Room Queer Used Book Store
             </a>
           </li>
+          <li>
+            <a href="https://stores.comichub.com/bravenewworldsphiladelphia">
+              Brave New Worlds
+            </a>
+          </li>
+          <li>
+            <a href="http://iffybooks.net/">
+              Iffy Books
+            </a>
+          </li>
+          <li>
+            <a href="https://bookshop.org/shop/neighborhoodbooks215">
+              Neighborhood books
+            </a>
+          </li>
+          <li>
+            <a href="http://www.bindingagentsphilly.com/">
+              Binding Agents Cook/Book Shop
+            </a>
+          </li>
+          <li>
+            <a href="http://www.woodenshoebooks.org/">
+              Wooden Shoe Books
+            </a>
+          </li>
+          <li>
+            <a href="http://www.partnersandson.com/">
+              Partners and Son
+            </a>
+          </li>
+          <li>
+            <a href="http://mostlybooksphilly.com/">
+              Mostly Books
+            </a>
+          </li>
+          <li>
+            <a href="http://www.headhousebooks.com/">
+              Head House Books
+            </a>
+          </li>
         </ol>
+        <p>
+          Further afield:
+          <ul>
+            <li><a href="https://hilltopbooks.org/">Hilltop Books</a></li>
+            <li><a href="https://www.bookedch.com/">Booked</a></li>
+            <li><a href="https://50wattsbooks.com/">50 Watts Books</a></li>
+            <li><a href="http://www.unclebobbies.com/">Uncle Bobbie's Coffee & Books</a></li>
+            <li><a href="http://cupidsbookshop.com/">Cupid’s Bookshop</a></li>
+            <li><a href="https://shopbrokenspine.com/">The Broken Spine</a></li>
+            <li><a href="https://bookshop.org/shop/americangrammar">american grammar</a></li>
+            <li><a href="http://theheadandthehand.com/">H&H Books</a></li>
+            <li><a href="http://harriettsbookshop.com/">Harriett's Bookshop</a></li>
+            <li><a href="http://bindlestiffbooks.wordpress.com/">Bindlestiff Books</a></li>
+            <li><a href="http://www.makingworldsbooks.org/">Making Worlds Cooperative Bookstore & Social Center</a></li>
+            <li><a href="http://www.biblio.com/bookstore/house_of_our_own_philadelphia">House of Our Own Books</a></li>
+            <li>The Last Word Bookshop</li>
+            <li><a href="http://www.anovelideaphilly.com/">A Novel Idea on Passyunk</a></li>
+          </ul>
+        </p>
       </div>
       <div>
         <h4>
@@ -316,7 +375,7 @@ order: 21
     </div>
     <div class="mapbox">
       <img class="zoomable" 
-           src="/images/2025/philly-map-26-block.png" 
+           src="/images/2025/philly-map-26-block_new.png" 
            alt="Map of Philadlephia between UPenn and I-95, between Grand Ave and Carpenter, with points of interest marked."
       />
     </div>
