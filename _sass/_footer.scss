@@ -1,10 +1,10 @@
 footer {
-  color: $cc-orange-4;
-  // background-color: $cc-24-blue;
+  background-color: $cc-24-blue;
+  color: white;
   display: flex;
   flex-direction: column;
-  flex: 1; 
-  
+  flex: 1;
+
   .heart {
     color: $cc-silver;
   }
@@ -38,19 +38,23 @@ footer .social-icon {
     height: 2.8rem;
     width: 3rem;
   }
-
-  // https://stackoverflow.com/a/68695062
-  // https://codepen.io/sosuke/pen/Pjoqqp
-  filter: brightness(0) saturate(100%) invert(60%) sepia(99%) saturate(641%) hue-rotate(316deg) brightness(95%) contrast(86%);
 }
 
 footer .flipper {
-  .unflipped { display: inline; }
-  .flipped { display: none; }
+  .unflipped {
+    display: inline;
+  }
+  .flipped {
+    display: none;
+  }
 
   &:hover {
-    .flipped { display: inline; }
-    .unflipped { display: none; }
+    .flipped {
+      display: inline;
+    }
+    .unflipped {
+      display: none;
+    }
   }
 }
 
@@ -59,5 +63,5 @@ footer a:hover {
 }
 
 footer .pattern {
-  width: 100%
+  width: 100%;
 }
