@@ -1,7 +1,9 @@
 # crossingscon.org
+
 The website for CrossingsCon.
 
 ## Installing
+
 The site is a [Jekyll site](https://jekyllrb.com/docs/home/), so all that stuff applies here.
 
 ```bash
@@ -24,6 +26,7 @@ You should now be able to see the site at [http://localhost:4000/](http://localh
 ## Developing
 
 ### Making significant layout-type changes
+
 Do them in a feature branch, git flow-style:
 
 ```bash
@@ -45,11 +48,13 @@ Create a pull request for your branch and have someone who knows what they're do
 Once the PR is approved, go ahead and merge it, and delete the branch.
 
 ### Making text-only changes
+
 Go ahead and just do them right on gh-pages, unless it's, like, paragraphs and paragraphs of text. We're not barbarians.
 
 ## Page Layouts
 
 ### page
+
 This is the default page layout. It should be used for just about everything.
 
 ```markdown
@@ -60,6 +65,7 @@ title: About CrossingsCon
 ```
 
 ### redirect
+
 This page layout actually causes that page to redirect to a specified external URL. We do this so we can capture that we redirected somewhere else in our analytics.
 
 ```markdown
@@ -71,3 +77,9 @@ redirect_url: http://example.com/
 ```
 
 `redirect_url`: The URL to redirect to.
+
+### Header layout
+
+- Top-level pages are at the top level in `./_static`.
+  - They have a property `category_title`: this is the label for the dropdown.
+- Second-level pages go into a folder named after the category title after it's ran through `slugify`.

@@ -13,7 +13,7 @@ body {
   // background-color: transparentize(#666666, 0.6666);
 
   // background-image: linear-gradient(
-  //   transparentize(#000000, 0.75), 
+  //   transparentize(#000000, 0.75),
   //   transparentize(#000000, 0.75)
   // ), url($baseurl + '/images/backgrounds/agate.jpg');
   // background-origin: border-box;
@@ -66,7 +66,6 @@ body {
   }
 }
 
-
 #mc_embed_signup {
   // backg
 }
@@ -94,10 +93,10 @@ body {
 .guests-front-page {
   background-color: $cc-purple-4;
   color: white;
-  display: flex; 
-  flex-direction: row; 
-  flex-wrap: wrap; 
-  justify-content: space-evenly; 
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
   align-items: center;
 
   a {
@@ -110,10 +109,10 @@ body {
   }
 
   .bios {
-    display: flex; 
-    flex-direction: row; 
-    flex-wrap: wrap; 
-    justify-content: space-evenly; 
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
     align-items: center;
     gap: 2rem;
   }
@@ -121,17 +120,21 @@ body {
   .goh-quick-bio {
     display: block;
     flex-basis: 35%;
-    color: white!important;
+    color: white !important;
     :hover {
-      color: white!important;
+      color: white !important;
     }
 
     .headshot {
       border-radius: 8px;
       min-width: 200px;
       aspect-ratio: 1;
-      background: #FEE5C8;
-      background: linear-gradient(120deg, rgba(254, 229, 200, 1) 0%, rgba(217, 125, 99, 1) 100%);
+      background: #fee5c8;
+      background: linear-gradient(
+        120deg,
+        rgba(254, 229, 200, 1) 0%,
+        rgba(217, 125, 99, 1) 100%
+      );
       img {
         aspect-ratio: 1 / 1;
         object-fit: cover;

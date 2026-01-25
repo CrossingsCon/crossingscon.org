@@ -1,12 +1,15 @@
 ---
 layout: page
 title: Rules and Policies
-order: 80
+nav_title: Rules and Policies
+order: 41
+published: true
 ---
 
 The main focus of CrossingsCon is to hang out and have fun! But there is also a code of conduct we expect our attendees, staff, and guests to adhere to so that the convention stays fun for everyone. The rules below will be in effect for the 2025 convention, and attendees should be familiar with them before arriving at the convention.
 
 ##### Table of Contents
+
 - [Convention Rules](#convention-rules)
 - [Anti-harassment Policy](#anti-harassment-policy)
 - [Spoiler Policy](#spoiler-policy)
@@ -22,13 +25,12 @@ Keep to these rules and we’ll be able to avoid speeding up entropy, at least i
 
 1. Respect your cousins.
 1. Don’t harass anyone.
-2. Don’t spoil anyone on anything!
-3. What is illegal outside the convention is illegal inside the convention.
-4. Children 12 and under should be accompanied by an adult 18 or over.
-5. Costumes should be safe enough to accidentally bump into and not get hurt.
-6. Always check your name before doing a spell.
-7. Listen to convention staff when they ask you to do something (or stop doing something).
-
+1. Don’t spoil anyone on anything!
+1. What is illegal outside the convention is illegal inside the convention.
+1. Children 12 and under should be accompanied by an adult 18 or over.
+1. Costumes should be safe enough to accidentally bump into and not get hurt.
+1. Always check your name before doing a spell.
+1. Listen to convention staff when they ask you to do something (or stop doing something).
 
 Failure to observe these rules will result in appropriate action being taken by staff, up to and including revocation of your badge and ejection from convention space at the extreme. If there is a disagreement, the ruling of the convention chair is final.
 
@@ -49,6 +51,7 @@ If you feel harassed, you are welcome to ask your harasser to stop, if you feel 
 This policy applies without exception to everyone at the convention, including attendees, special guests, convention staff, and venue staff.
 
 ## Spoiler Policy
+
 Please be aware that other attendees at the convention may not be as up-to-date as you are with books, movies, fanfiction, and other media. You should be more careful about recently released books, movies, comics, etc. Use your judgment for what counts as “recent”; in general, the longer something takes to consume (books > movies > TV episodes, for example), the longer you want to assume most people aren’t caught up.
 
 Please be especially mindful of your cousins who haven’t read the Young Wizards series as far as you, both the main series and other works such as <em>Interim Erranty</em> or the <em>Feline Wizards</em> series, and stop before spoiling something for them! Remember the wonder you felt when you first read Young Wizards, and let them experience that too.
@@ -56,6 +59,7 @@ Please be especially mindful of your cousins who haven’t read the Young Wizard
 We will have some events where spoilers are explicitly allowed, but for the rest of the convention please avoid spoilers entirely if possible. If you want to discuss spoilers about a book, movie, or other piece of media, please do so in a private conversation away from any other attendees who may overhear and be accidently spoiled, and especially avoid spoilers during panels and discussions when many attendees can hear you. If you accidentally spoil someone, apologize and move the remainder of your discussion to another location. If you are unsure whether everyone in a certain conversation has seen or read the thing that you would like to discuss, then ask!
 
 Spoilers aren’t limited to revealing future plot points. Consider this [comprehensive guide](http://markreads.net/reviews/about/) by the folks over at Mark Reads for examples of more subtle kinds of spoilers:
+
 <ul>
     <li>Stating something that happens in the future. <em>“That character dies in book two!”</em></li>
     <li>Hinting that something happens in the future. <em>“I just love what happens when that door finally opens!”</em></li>
@@ -69,6 +73,7 @@ Spoilers aren’t limited to revealing future plot points. Consider this [compre
 ## Accessibility
 
 <!-- 2025 text; substantially similar to 2022 but with "con-space bathrooms" instead of "public bathrooms", and no reference to off-site or early-request things like large print or interpreters -->
+
 We at CrossingsCon are committed to making the convention experience as accessible and enjoyable as possible to all cousins, regardless of the nature or intensity of their disabilities.
 
 To that end (in the service of our Art), we have already made the following provisions:
@@ -130,11 +135,13 @@ In order to prove vaccination status, attendees will be required to show a QR co
 While we want to afford maximum discretion for people whose names do not match their legal names, we also need to prioritize the health of our attendees. If the name on your registration does not match the name on your proof of vaccination, please email us ahead of time at [registration@crossingscon.org](mailto:registration@crossingscon.org) with an explanation, or bring a written explanation with you to pick up your badge. In the absence of either of those, we may request a verbal explanation of the discrepancy at Registration. -->
 
 ### Masking
+
 **Face masks will be required for all attendees while in convention spaces,** exempting only active presenters during their events, for accessibility reasons. Additionally, masks should cover both the nose and the mouth. The hotel may require masks under certain circumstances; in those cases, attendees must comply with the hotel’s masking guidelines as well.
 
 The convention will have N95 available to attendees who need one, but attendees are highly encouraged to bring their own masks as well.
 
 ### If you exhibit symptoms
+
 **Any attendee who exhibits flu-like symptoms or other symptoms of COVID-19 (such as cough, shortness of breath, nausea, vomiting, diarrhea, or fever) will not be allowed in convention spaces** unless they are able to show a negative viral COVID test from within the prior 48 hours. You may be asked to affirm that you do not have these symptoms upon entering the convention space.
 
 If you are showing symptoms of COVID or test positive please stay in your room and email [covid@crossingscon.org](mailto:covid@crossingscon.org) or call/text [(978) 344-2043](tel:978-344-2043). We can help get you whatever you need to stay comfortable.

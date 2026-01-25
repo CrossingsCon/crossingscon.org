@@ -2,13 +2,15 @@
 layout: page
 title: Previous Cons
 nav_title: Previous Cons
+category_title: Previous Cons
 order: 40
-published: false
+published: true
 ---
 
 Every day at CrossingsCon has its own format. Read below for the typical outline of what has happened each day for our in-person cons, and the guests of honor we’ve invited in the past.
 
 ##### Table of Contents
+
 - [Previous Guests](#previous-guests)
 - [History of the Con](#history-of-the-con)
 - [2016: Newark](#2016-newark-nj)
@@ -42,9 +44,7 @@ Every day at CrossingsCon has its own format. Read below for the typical outline
   </div>
 </div>
 
-<br>
 We always have exclusive CrossingsCon Merch available for sale during the con, and have had booksellers join us onsite in 2019 and 2022.
-
 
 ## Previous Guests
 
@@ -53,6 +53,7 @@ We always have exclusive CrossingsCon Merch available for sale during the con, a
 If you're not familiar with the works of some of our guests, our staff put together a guide on where to start with each of their respective bibliographies, including some reviews. Take a look at it <a href="{{ site.baseurl }}/pdfs/where_to_start_guests.pdf">here!</a> -->
 
 {% for guest in site.data.previous_guests %}
+
 <div class="row py-3">
   <div class="col-12 col-md-3">
     <img src="{{ site.baseurl }}/images/guests/{{ guest.image }}" alt="A picture of {{ guest.name }}">
@@ -111,6 +112,3 @@ After having been postponed, we were able to finally have our convention in-pers
 [facebook-album-2016]: https://www.facebook.com/pg/CrossingsCon/photos/?tab=album&album_id=1068827729837141
 [facebook-album-2017]: https://www.facebook.com/pg/CrossingsCon/photos/?tab=album&album_id=1478625335524043
 [meetup-post]: http://blog.crossingscon.org/post/174133728746/well-met-up-on-the-common-journey
-
-
-

@@ -12,7 +12,8 @@
         "esbenp.prettier-vscode",
         "github.vscode-github-actions",
         "vivaxy.vscode-conventional-commits",
-        "Shopify.ruby-lsp"
+        "Shopify.ruby-lsp",
+        "arcanis.vscode-zipfs"
       ]
     }
   },

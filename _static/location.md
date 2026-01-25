@@ -4,7 +4,7 @@ title: Location
 nav_title: CrossingsCon Hotel Information
 category_title: Location
 order: 20
-published: true
+published: false
 ---
 
 # About the Convention Hotel
@@ -16,7 +16,7 @@ published: true
 
 Our hotel this year is the beautiful [Sonesta Philadelphia Rittenhouse Square](https://www.sonesta.com/sonesta-hotels-resorts/pa/philadelphia/sonesta-philadelphia-rittenhouse-square), at 1800 Market Street, Philadelphia, PA 19103.
 
-The reservation due date for our discounted block has passed, but you can still book a room with the hotel!  After booking, you can call the hotel to ask that your reservation be counted in the CrossingsCon block and they may be able to do so depending on availability
+The reservation due date for our discounted block has passed, but you can still book a room with the hotel! After booking, you can call the hotel to ask that your reservation be counted in the CrossingsCon block and they may be able to do so depending on availability
 
 <p class="text-center">
   <a class="btn btn-lg btn-badge" href="https://book.passkey.com/e/50833340" target="_blank">Book your room!</a>

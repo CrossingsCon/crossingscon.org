@@ -5,7 +5,7 @@
         src="{{ '/images/crossroads-lockup.svg' | prepend: site.baseurl }}"
         alt="The CrossingsCon logo"
         class="header-logo"
-      >
+      />
     </a>
 
     <!-- <div class="navbar-text mr-3 d-none d-lg-flex d-xl-none">{{ site.data.date.full }} in Montréal, QC</div> -->
@@ -14,6 +14,7 @@
         <a class="btn btn-badge my-2 my-sm-0" href="https://store.crossingscon.org">Pre-order merch!</a>
       </div>
     -->
+    {% comment %}
     <div class="form-inline my-2 my-lg-0 mr-lg-3 d-none d-lg-block d-xl-none">
       <a
         class="btn btn-badge my-2 my-sm-0"
@@ -21,8 +22,11 @@
       >
         See schedule of events
       </a>
-      <a class="btn btn-badge my-2 my-sm-0" href="{{ site.data.badges.url }}">Get your badge!</a>
+      <a class="btn btn-badge my-2 my-sm-0" href="{{ site.data.badges.url }}"
+        >Get your badge!</a
+      >
     </div>
+    {% endcomment %}
 
     <button
       class="navbar-toggler"
@@ -37,12 +41,7 @@
     </button>
 
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <!-- <div class="navbar-text mr-3 d-lg-none">{{ site.data.date.full }} in Montréal, QC</div> -->
-      <!--
-        <div class="form-inline my-2 my-lg-0 d-lg-none">
-          <a class="btn btn-badge my-2 my-sm-0" href="https://store.crossingscon.org">Pre-order merch!</a>
-        </div>
-      -->
+      {% comment %}
       <div class="form-inline my-2 my-lg-0 d-lg-none">
         <a
           class="btn btn-badge my-2 my-sm-0"
@@ -50,85 +49,73 @@
         >
           See schedule of events
         </a>
-        <a class="btn btn-badge my-2 my-sm-0" href="{{ site.data.badges.url }}">Get your badge!</a>
+        <a class="btn btn-badge my-2 my-sm-0" href="{{ site.data.badges.url }}"
+          >Get your badge!</a
+        >
       </div>
+
       <div class="dropdown-divider"></div>
-      {% assign ordered_pages = site.static | sort: 'order' %}
+      {% endcomment %} {% assign ordered_pages = site.static | sort: 'order' %}
       <ul class="navbar-nav mr-auto">
         <li>
           <a href="/" class="nav-link">Home</a>
         </li>
 
-        {% for page_depth1 in ordered_pages %}
-          {% assign parts_depth1 = page_depth1.url | split: '/' %}
-          {% assign depth = parts_depth1 | size | minus: 1 %}
-          {% if depth == 1 -%}
-            {%- unless page_depth1.hide == true -%}
-              {%- unless page_depth1.no_children == true %}
-                <li class="nav-item dropdown">
-                  <a
-                    class="nav-link dropdown-toggle"
-                    href="{{ page_depth1.url | prepend: site.baseurl }}"
-                    id="{{ page_depth1.url | slugify }}dropdown"
-                    role="button"
-                    data-toggle="dropdown"
-                    aria-haspopup="true"
-                    aria-expanded="false"
-                  >
-                    {{- page_depth1.category_title | default: page_depth1.title -}}
-                  </a>
-                  <div
-                    class="dropdown-menu"
-                    aria-labelledby="{{ page_depth1.url | slugify }}dropdown"
-                  >
-                    <!-- Repeat the top-level link with a more-focused name, always as the first link. -->
-                    <a
-                      class="dropdown-item {% if page.url == page_depth1.url %}active{% endif %}"
-                      href="{{ page_depth1.url | prepend: site.baseurl }}"
-                    >
-                      {{- page_depth1.nav_title | default: page_depth1.title -}}
-                    </a>
+        {% for page_depth1 in ordered_pages %} {% assign parts_depth1 =
+        page_depth1.url | split: '/' %} {% assign depth = parts_depth1 | size |
+        minus: 1 %} {% if depth == 1 -%} {%- unless page_depth1.hide == true -%}
+        {%- unless page_depth1.no_children == true %}
+        <li class="nav-item dropdown">
+          <a
+            class="nav-link dropdown-toggle"
+            href="{{ page_depth1.url | prepend: site.baseurl }}"
+            id="{{ page_depth1.url | slugify }}dropdown"
+            role="button"
+            data-toggle="dropdown"
+            aria-haspopup="true"
+            aria-expanded="false"
+          >
+            {{- page_depth1.category_title | default: page_depth1.title -}}
+          </a>
+          <div
+            class="dropdown-menu"
+            aria-labelledby="{{ page_depth1.url | slugify }}dropdown"
+          >
+            <!-- Repeat the top-level link with a more-focused name, always as the first link. -->
+            <a
+              class="dropdown-item {% if page.url == page_depth1.url %}active{% endif %}"
+              href="{{ page_depth1.url | prepend: site.baseurl }}"
+            >
+              {{- page_depth1.nav_title | default: page_depth1.title -}}
+            </a>
 
-                    {% for page_depth2 in ordered_pages %}
-                      {% assign parts_depth2 = page_depth2.url | split: '/' %}
-                      {% assign depth = parts_depth2 | size | minus: 1 %}
-                      {% if parts_depth2[1] == parts_depth1[1] -%}
-                        {%- if depth == 2 -%}
-                          {%- unless page_depth2.hide == true %}
-                            <a
-                              class="dropdown-item {% if page.url == page_depth2.url %}active{% endif %}"
-                              href="{{ page_depth2.url | prepend: site.baseurl }}"
-                            >
-                              {{- page_depth2.nav_title | default: page_depth2.title -}}
-                            </a>
-                          {% endunless -%}
-                        {%- endif -%}
-                      {%- endif %}
-                    {% endfor %}
-                  </div>
-                </li>
-              {% endunless %}
-              {% if page_depth1.no_children == true %}
-                <li class="nav-item">
-                  <a
-                    class="nav-link"
-                    href="{{ page_depth1.url | prepend: site.baseurl }}"
-                    id="{{ page_depth1.url | slugify }}dropdown"
-                  >
-                    {{- page_depth1.category_title | default: page_depth1.title -}}
-                  </a>
-                </li>
-              {% endif %}
-            {% endunless -%}
-          {%- endif %}
-        {% endfor %}
+            {% for page_depth2 in ordered_pages %} {% assign parts_depth2 =
+            page_depth2.url | split: '/' %} {% assign depth = parts_depth2 |
+            size | minus: 1 %} {% if parts_depth2[1] == parts_depth1[1] -%} {%-
+            if depth == 2 -%} {%- unless page_depth2.hide == true %}
+            <a
+              class="dropdown-item {% if page.url == page_depth2.url %}active{% endif %}"
+              href="{{ page_depth2.url | prepend: site.baseurl }}"
+            >
+              {{- page_depth2.nav_title | default: page_depth2.title -}}
+            </a>
+            {% endunless -%} {%- endif -%} {%- endif %} {% endfor %}
+          </div>
+        </li>
+        {% endunless %} {% if page_depth1.no_children == true %}
+        <li class="nav-item">
+          <a
+            class="nav-link"
+            href="{{ page_depth1.url | prepend: site.baseurl }}"
+            id="{{ page_depth1.url | slugify }}dropdown"
+          >
+            {{- page_depth1.category_title | default: page_depth1.title -}}
+          </a>
+        </li>
+        {% endif %} {% endunless -%} {%- endif %} {% endfor %}
       </ul>
-      <!-- <div class="navbar-text mr-3 d-none d-xl-flex">{{ site.data.date.full }} in Montréal, QC</div> -->
-      <!--
-        <div class="form-inline my-2 my-lg-0 d-none d-xl-block px-2">
-          <a class="btn btn-badge my-2 my-sm-0" href="https://store.crossingscon.org">Pre-order merch!</a>
-        </div>
-      -->
+
+      {% comment %}
       <div class="form-inline my-2 my-lg-0 d-none d-xl-block">
         <a
           class="btn btn-badge my-2 my-sm-0"
@@ -136,8 +123,11 @@
         >
           See schedule of events
         </a>
-        <a class="btn btn-badge my-2 my-sm-0" href="{{ site.data.badges.url }}">Get your badge!</a>
+        <a class="btn btn-badge my-2 my-sm-0" href="{{ site.data.badges.url }}"
+          >Get your badge!</a
+        >
       </div>
     </div>
+    {% endcomment %}
   </nav>
 </header>

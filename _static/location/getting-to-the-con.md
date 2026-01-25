@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Getting to the Convention
-published: true
+published: false
 ---
 
 <div class="to-con-route">
@@ -38,29 +38,29 @@ published: true
       </li>
       <svg height="60" viewBox="0 0 400 60" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
         <line x1="30" y1="28" x2="370" y2="30" stroke="#54738a" stroke-width="3" />
-        
+
         <circle  cx="30" cy="30" r="10" fill="#54738a" />
         <circle  cx="60" cy="30" r="10" fill="#54738a" />
         <circle  cx="90" cy="30" r="10" fill="#54738a" />
         <circle cx="120" cy="30" r="10" fill="#54738a" />
-        
+
         <circle cx="220" cy="30" r="10" fill="#54738a" />
         <circle cx="250" cy="30" r="10" fill="#54738a" />
         <circle cx="280" cy="30" r="10" fill="#54738a" />
-        
+
         <circle cx="370" cy="30" r="10" fill="#54738a" />
-        
+
         <text  x="75" y="15" style="font-family: sans-serif; font-size: 14px" text-anchor="middle">PHL Terminals</text>
-        
+
         <text  x="30"    y="57" style="font-family: sans-serif; font-size: 14px" text-anchor="middle">E/F</text>
         <text  x="60"    y="57" style="font-family: sans-serif; font-size: 14px" text-anchor="middle">C/D</text>
         <text  x="90.5"  y="57" style="font-family: sans-serif; font-size: 14px" text-anchor="middle">B</text>
         <text x="120.25" y="57" style="font-family: sans-serif; font-size: 14px" text-anchor="middle">A</text>
-        
+
         <text x="250" y="57" style="font-family: sans-serif; font-size: 13px" text-anchor="middle">
           other stops
         </text>
-        
+
         <text x="370" y="57" style="font-family: sans-serif; font-size: 14px" text-anchor="middle">Suburban</text>
       </svg>
       <li>
@@ -87,6 +87,7 @@ published: true
         Google Maps directions
       </a>
     </p>
+
   </div>
   <div class="youtube">
     <iframe src="https://www.youtube.com/embed/WrD2bjgHPcQ" title="How to get to CrossingsCon 2025 from Philadelphia International Airport" frameborder="0" loading="lazy" referrerpolicy="no-referrer" allow="encrypted-media; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" credentialless allowfullscreen></iframe>
@@ -102,7 +103,7 @@ published: true
       Below are four options for getting to the hotel from 30th St. Station,
       which vary in speed, cost, and convenience, depending on your
       ability/desire to walk and what time of day you arrive. Please check the
-      Google Maps links for each option and/or consult 
+      Google Maps links for each option and/or consult
       <a href="septa.org">septa.org</a> for time-specific travel advice once you
       reach 30th St. Station.
     </p>
@@ -160,12 +161,12 @@ published: true
               fill="none"
               stroke-width="3"
         />
-        
+
         <circle cx="30" cy="16" r="10" fill="#002a40" />
         <text x="45" y="20" style="font-family: sans-serif; font-size: 14px" text-anchor="start">
           ━ JFK Blvd &amp; 30th St.
         </text>
-        
+
         <circle  cx="65" cy="46" r="10" fill="#002a40" /> <!-- market @ schuykill -->
         <circle cx="160" cy="46" r="10" fill="#002a40" /> <!-- market @ 24th -->
         <circle cx="195" cy="46" r="10" fill="#002a40" /> <!-- market @ 23rd -->
@@ -176,7 +177,7 @@ published: true
         <text x="200" y="72" style="font-family: sans-serif; font-size: 13px" text-anchor="middle">
           ┗━━━━━━━━ other stops ━━━━━━━━┛
         </text>
-        
+
         <circle cx="370" cy="46" r="10" fill="#002a40" />
         <text x="377" y="20" style="font-family: sans-serif; font-size: 14px" text-anchor="end">
           Market St. &amp; 18th St. ━┓
@@ -193,13 +194,14 @@ published: true
         Google Maps directions
       </a>
     </p>
+
   </div>
   <div class="youtube">
     <iframe src="https://www.youtube.com/embed/ZAaUvPBBles" title="How to get to CrossingsCon 2025 from Philadelphia's 30th St. Amtrak Station by SEPTA bus" frameborder="0" loading="lazy" referrerpolicy="no-referrer" allow="encrypted-media; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" credentialless allowfullscreen></iframe>
   </div>
   <div class="instructions mfl">
     <h4>
-      Amtrak to con via SEPTA Metro 
+      Amtrak to con via SEPTA Metro
       <svg width="51" height="51" viewBox="0 0 51 51" xmlns="http://www.w3.org/2000/svg" aria-labelledby="mfl-title">
         <title id="mfl-title">L line</title>
         <path d="M50.3 0H0V50.3H50.3V0Z" fill="#0097D6" />
@@ -227,10 +229,10 @@ published: true
       </li>
       <svg height="45" viewBox="0 0 400 45" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
         <line x1="30" y1="16" x2="370" y2="16" stroke="#0097D6" stroke-width="3" />
-        
+
         <circle  cx="30" cy="16" r="10" fill="#0097D6" />
         <circle cx="370" cy="16" r="10" fill="#0097D6" />
-        
+
         <text  x="30" y="42" style="font-family: sans-serif" text-anchor="middle">30th St.</text>
         <text x="370" y="42" style="font-family: sans-serif" text-anchor="middle">15th St.</text>
       </svg>
@@ -244,6 +246,7 @@ published: true
         Google Maps directions (Metro L)
       </a>
     </p>
+
   </div>
   <div class="instructions sst">
     <h4>
@@ -276,11 +279,11 @@ published: true
       </li>
       <svg height="45" viewBox="0 0 400 45" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
         <line x1="30" y1="16" x2="370" y2="16" stroke="#5A960A" stroke-width="3" />
-        
+
         <circle  cx="30"   cy="16" r="10" fill="#5A960A" />
         <circle cx="193.5" cy="16" r="10" fill="#5A960A" />
         <circle cx="370"   cy="16" r="10" fill="#5A960A" />
-        
+
         <text  x="30"   y="42" style="font-family: sans-serif" text-anchor="middle">30th St.</text>
         <text x="193.5" y="42" style="font-family: sans-serif" text-anchor="middle">22nd St.</text>
         <text x="370"   y="42" style="font-family: sans-serif" text-anchor="middle">19th St.</text>
@@ -295,6 +298,7 @@ published: true
         Google Maps directions (T Trolley)
       </a>
     </p>
+
   </div>
   <div class="instructions regional-rail">
     <h4>Amtrak to con via SEPTA Regional Rail</h4>
@@ -335,7 +339,7 @@ published: true
       The convention is happening at the <a href="https://www.sonesta.com/sonesta-hotels-resorts/pa/philadelphia/sonesta-philadelphia-rittenhouse-square">Sonesta Philadelphia Rittenhouse Square</a>, at 1800 Market Street, Philadelphia, PA 19103. For directions via Google maps, <a href="https://www.google.com/maps/search/?api=1&query=1800+Market+Street+Philadelphia+PA+19103">click here.</a>
     </p>
     <p class="worldgate">
-      There is a parking garage <a href="https://www.iparkit.com/locations/1800-market-parking?start=2025-08-14T14:30:00.000Z&end=2025-08-14T15:30:00.000Z&timezone=America%2FNew_York">in the same building as the hotel</a>, as well as several other parking lots nearby. 
+      There is a parking garage <a href="https://www.iparkit.com/locations/1800-market-parking?start=2025-08-14T14:30:00.000Z&end=2025-08-14T15:30:00.000Z&timezone=America%2FNew_York">in the same building as the hotel</a>, as well as several other parking lots nearby.
     </p>
   </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Philadelphia City Guide
-published: true
+published: false
 order: 21
 ---
 
@@ -106,7 +106,7 @@ order: 21
       </li>
     </ol>
     <div class="mapbox">
-      <img class="zoomable" 
+      <img class="zoomable"
            src="/images/2025/philly-map-11-block.png"
            alt="Map of Philadelphia around the Sonesta Rittenhouse Square hotel, with points of interest marked."
       />
@@ -154,7 +154,7 @@ order: 21
       </div>
       <div>
         <h4>
-          Orange Plus 
+          Orange Plus
           <img src="/images/2025/not_violating_the_geneva_convention_border.png" height="30px" />
           — In Case of Emergency
         </h4>
@@ -179,7 +179,7 @@ order: 21
           <li>
             <a href="https://www.nps.gov/inde/planyourvisit/independencehall.htm">
               Independence Hall
-            </a> and 
+            </a> and
             <a href="https://www.nps.gov/inde/learn/historyculture/stories-libertybell.htm">
               The Liberty Bell
             </a>
@@ -350,7 +350,7 @@ order: 21
           <li>
             <a href="https://www.visitphilly.com/things-to-do/attractions/love-park/">
               Love Park
-            </a> and 
+            </a> and
             <a href="https://www.visitphilly.com/things-to-do/attractions/city-hall/">
               City Hall
             </a>
@@ -374,8 +374,8 @@ order: 21
       </div>
     </div>
     <div class="mapbox">
-      <img class="zoomable" 
-           src="/images/2025/philly-map-26-block_new.png" 
+      <img class="zoomable"
+           src="/images/2025/philly-map-26-block_new.png"
            alt="Map of Philadlephia between UPenn and I-95, between Grand Ave and Carpenter, with points of interest marked."
       />
     </div>
@@ -387,13 +387,13 @@ order: 21
   <p>
     Contains all of the above locations
     <a class="note"
-       href="https://www.google.com/maps/d/edit?hl=en&mid=1QK4AcG7aOQLzytGSKogUtPEwk4mxM2s&ll=39.96346044066759%2C-75.16770471721736&z=14" 
+       href="https://www.google.com/maps/d/edit?hl=en&mid=1QK4AcG7aOQLzytGSKogUtPEwk4mxM2s&ll=39.96346044066759%2C-75.16770471721736&z=14"
        target="_blank"
     >
       Open Google Map in new window
     </a>
   </p>
-  <iframe src="https://www.google.com/maps/d/embed?mid=1QK4AcG7aOQLzytGSKogUtPEwk4mxM2s&hl=en&ehbc=2E312F" 
+  <iframe src="https://www.google.com/maps/d/embed?mid=1QK4AcG7aOQLzytGSKogUtPEwk4mxM2s&hl=en&ehbc=2E312F"
           loading="lazy"
   ></iframe>
 </article>
@@ -474,4 +474,3 @@ order: 21
     </li>
   </ul>
 </article>
-
