@@ -15,5 +15,8 @@
         "Shopify.ruby-lsp"
       ]
     }
+  },
+  "postCreateCommand": {
+    "corepack": "corepack enable"
   }
 }
