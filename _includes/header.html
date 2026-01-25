@@ -2,7 +2,7 @@
   <nav class="navbar navbar-expand-xl">
     <a class="navbar-brand col mr-auto mr-xl-3 header-link" href="/">
       <img
-        src="{{ "/images/crossroads-lockup.svg" | prepend: site.baseurl }}"
+        src="{{ '/images/crossroads-lockup.svg' | prepend: site.baseurl }}"
         alt="The CrossingsCon logo"
         class="header-logo"
       >
@@ -105,13 +105,6 @@
                         {%- endif -%}
                       {%- endif %}
                     {% endfor %}
-                    {% if page_depth1.nav_title == 'Events' %}
-                      <a
-                        class="dropdown-item {% if page.url == page_depth2.url %}active{% endif %}"
-                        href="{{ '/pdfs/CC25-Program-Book-FINAL.pdf' | prepend: site.baseurl }}"
-                        >Program Book Download</a
-                      >
-                    {% endif %}
                   </div>
                 </li>
               {% endunless %}
