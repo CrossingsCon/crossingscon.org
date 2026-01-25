@@ -1,42 +1,42 @@
 $white: white !default;
-$cc-blue: #005BAB;
-$cc-dark-blue: #1B344C;
+$cc-blue: #005bab;
+$cc-dark-blue: #1b344c;
 
-$cc-logo-blue: #00AEEF;
+$cc-logo-blue: #00aeef;
 
-$cc-cyan: #2ED3E5;
+$cc-cyan: #2ed3e5;
 $cc-dark-cyan: $cc-dark-blue;
 
-$cc-green: #134C21;
+$cc-green: #134c21;
 $cc-medium-green: lighten($cc-green, 15%);
 $cc-light-green: lighten($cc-green, 40%);
 
 $cc-green-new: rgb(50, 82, 61);
 
 // 2021/2022 colours
-$cc-gold-old: #E58E0B;
-$cc-gold: #E3B861; // lighten(#E3B861, 5%);
-$cc-silver: #B1B4B9; //
-$cc-cream: #FFFEF2;
+$cc-gold-old: #e58e0b;
+$cc-gold: #e3b861; // lighten(#E3B861, 5%);
+$cc-silver: #b1b4b9; //
+$cc-cream: #fffef2;
 
 // 2024 colours
 $cc-sky-blue: #99dbf8;
-$cc-24-green: #00A550;
-$cc-24-blue: #0066AA;
+$cc-24-green: #00a550;
+$cc-24-blue: #0066aa;
 
 // 2025 colours
-$cc-orange-1: #FEE5C8;
-$cc-orange-2: #FED09D;
-$cc-orange-3: #FAB27A;
-$cc-orange-4: #D97D63;
+$cc-orange-1: #fee5c8;
+$cc-orange-2: #fed09d;
+$cc-orange-3: #fab27a;
+$cc-orange-4: #d97d63;
 $cc-purple-1: #976978;
-$cc-purple-2: #895F72;
-$cc-purple-3: #6F566A;
-$cc-purple-4: #5F445B;
-$cc-navy: #002A40;
+$cc-purple-2: #895f72;
+$cc-purple-3: #6f566a;
+$cc-purple-4: #5f445b;
+$cc-navy: #002a40;
 
 $theme-colors: (
-  "primary": $cc-purple-4
+  "primary": $cc-24-green,
 );
 
 $dropdown-divider-bg: $cc-navy;
