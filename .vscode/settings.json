@@ -6,7 +6,8 @@
   },
   "prettier.prettierPath": ".yarn/sdks/prettier/index.cjs",
   "files.associations": {
-    "*.html": "liquid"
+    "*.html": "liquid",
+    "*.md": "liquid"
   },
 
   "[liquid]": {
