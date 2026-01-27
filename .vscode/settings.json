@@ -6,12 +6,16 @@
   },
   "prettier.prettierPath": ".yarn/sdks/prettier/index.cjs",
   "files.associations": {
-    "*.html": "liquid",
-    "*.md": "liquid"
+    "*.html": "liquid"
   },
 
   "[liquid]": {
     "editor.defaultFormatter": "Shopify.theme-check-vscode",
     "editor.formatOnSave": true
+  },
+
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "prettier.printWidth": 120
   }
 }
