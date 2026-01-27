@@ -1,17 +1,14 @@
+a {
+  color: $cc-24-green;
+  text-decoration: underline;
+
+  &:hover {
+    color: $cc-green;
+  }
+}
+
 .gradient {
   background-image: linear-gradient(to right, $white, $cc-sky-blue);
-}
-
-.bg-blue {
-  background-color: $cc-24-blue;
-}
-
-.bg-green {
-  background-color: $cc-24-green;
-}
-
-.text-white {
-  color: white;
 }
 
 .dre {
@@ -31,18 +28,6 @@
     10% 100%,
     0 90%
   );
-}
-
-.testimonal-quote {
-  padding: 3rem;
-  img {
-    width: 5rem;
-  }
-}
-
-.testimonial-body {
-  vertical-align: middle;
-  font-size: 24px;
 }
 
 .city-guide {
@@ -181,15 +166,6 @@
       align-items: flex-start;
     }
   }
-}
-
-a {
-  color: $cc-24-green;
-  text-decoration: underline;
-}
-
-nav a {
-  text-decoration: none;
 }
 
 table.events {
@@ -333,54 +309,6 @@ table.events {
     .subhead {
       font-style: italic;
       font-weight: lighter;
-    }
-
-    .description {
-    }
-  }
-}
-
-.footnotes {
-  font-size: 0.9rem;
-}
-
-footer a {
-  text-decoration: none;
-}
-
-a:hover {
-  color: $cc-purple-1;
-}
-
-.announcement {
-  background: #fab27a;
-  text-align: center;
-  a {
-    text-decoration: none;
-  }
-}
-
-.bookstore {
-  div {
-    padding: 0 !important;
-    margin-bottom: 1rem;
-
-    background: #fab27a;
-    border-radius: 1rem;
-
-    h2 {
-      padding: 0.5rem 1rem 0.5rem 1rem;
-
-      color: white;
-      background: #d97d63;
-
-      border-radius: 1rem;
-    }
-
-    p.lead {
-      padding: 0 1rem 1rem 1rem;
-
-      margin-bottom: 0;
     }
   }
 }

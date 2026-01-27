@@ -1,29 +1,21 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
+
 @charset "utf-8";
 
 // Site-specific variables
 $baseurl: "{{ site.baseurl }}";
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import
-  // setup
-  'variables',
-  'theme',
-
+@import // setup
+  "variables",
+  "theme",
   // libraries
-  'bootstrap-4.0.0/bootstrap',
-
+  "bootstrap-4.0.0/bootstrap",
   // shared components
-  'site',
-  'header',
-  'footer',
-
+  "site",
+  "header", "footer",
   // specific to a page
-  'page',
-  'guests',
-  'splash',
-  'body',
-  'carousel'
-  ;
+  "page",
+  "splash", "body", "carousel";
