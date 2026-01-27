@@ -5,11 +5,7 @@ nav_title: About CrossingsCon
 category_title: About
 order: 30
 ---
-<img
-  src="{{ site.baseurl }}/images/carousel/2016-sunday.jpg"
-  class="img-fluid"
-  alt="Group photo on the 2016 sunday tour"
->
+![Group photo on the 2016 sunday tour]({{ site.baseurl }}/images/carousel/2016-sunday.jpg)
 
 Welcome to CrossingsCon, a convention dedicated to promoting the works of speculative fiction authors and the
 speculative fiction genre by facilitating discussion, analysis, recommendation, and distribution of these works. We aim
