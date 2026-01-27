@@ -18,7 +18,18 @@
       ]
     }
   },
-  "postCreateCommand": {
-    "corepack": "corepack enable"
+  "onCreateCommand": {
+    "corepack-enable": "corepack enable",
+    "corepack-install": "corepack install"
+  },
+  "updateContentCommand": {
+    "deps-yarn": "yarn",
+    "deps-ruby": "make setup"
+  },
+  "portsAttributes": {
+    "4000": {
+      "label": "Jekyll preview",
+      "onAutoForward": "notify"
+    }
   }
 }
