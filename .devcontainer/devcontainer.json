@@ -13,7 +13,8 @@
         "github.vscode-github-actions",
         "vivaxy.vscode-conventional-commits",
         "Shopify.ruby-lsp",
-        "arcanis.vscode-zipfs"
+        "arcanis.vscode-zipfs",
+        "Shopify.theme-check-vscode"
       ]
     }
   },
