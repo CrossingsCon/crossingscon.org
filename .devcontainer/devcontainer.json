@@ -9,12 +9,12 @@
   "customizations": {
     "vscode": {
       "extensions": [
+        "arcanis.vscode-zipfs",
         "esbenp.prettier-vscode",
         "github.vscode-github-actions",
-        "vivaxy.vscode-conventional-commits",
         "Shopify.ruby-lsp",
-        "arcanis.vscode-zipfs",
-        "Shopify.theme-check-vscode"
+        "Shopify.theme-check-vscode",
+        "vivaxy.vscode-conventional-commits"
       ]
     }
   },
