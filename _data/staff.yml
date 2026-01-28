@@ -1,98 +1,56 @@
 - section: Stationmaster's Office
   staff:
     - name: Sarah Cowett
-      title: Stationmaster, Con Chair, Chauffeur
+      title: Con Chair
       specialty: The Speech on sevarfrith worlds
-    - name: Jenny Peterson
-      title: Vice Stationmaster, Assistant Con Chair
-      specialty: Curating and archiving information
-
-    # - name: Eli Morris-Heft
-    #   title: Stationmaster
-    #   specialty: Simultaneous haberdashery
-
-# - section: Events
-#   staff:
-#     - name: Emma Heuchert
-#       title: Director of Events
-#       specialty: Translation, storytelling, and folklore
-#     - name: Sonia Grace
-#       title: Events Coordinator
-#       specialty: Walking the High Road
-    # - name: Claudia Kowalski
-    #   title: Events Coordinator
-    #   specialty: Ecosystem management and conservation
+    - name: Pej Lyles
+      title: Assistant Chair
+      specialty: Human swiss army knife
+    - name: Riker
+      title: Assistant Chair
+      specialty: Undecided
 
 - section: Guest Relations & Events
   staff:
-    - name: Emma Heuchert
-      title: Director of Guests & Events
-      specialty: Translation, storytelling, and folklore
-    # - name: Alliah Krahn
-    #   title: Guest Liaison
-    #   specialty: Cortisotopology
     - name: Sky Callahan
-      title: Guest Liaison
+      title: Head of Guests
       specialty: Energy combination and amplification
+    - name: Megan Wegenke
+      title: Guest Liasion
+      specialty: Enthusiasm incorporator
     - name: Sus Mellinger
-      title: Publishing Liaison
+      title: Head of Events
       specialty: Interspecies Nexus Construction
     - name: Kali Larsen
-      title: Guevents Team
+      title: Events Assistant
       specialty: Energy transformation
-    
-
-#- section: Merchandise
-#  staff:
-#    - name: Could be you!
-#      title: Head of Merchandise
-#      specialty: ???
 
 - section: Operations
   staff:
-    - name: Andy Rusterholz, Sneaky Monster
-      title: Director of Operations
-      specialty: Dysparanomasia
-    - name: Pej Lyles
-      title: Stablemaster, Hostler, Gopher
-      specialty: Human swiss army knife
-    - name: Ashani Opal
-      title: Webmaster
-      specialty: Principles of spell design
+    - name: Bex Fortin
+      title: Head of AV
+      specialty: Timeline maintenance
+    - name: Chris Y
+      title: Design and Merch
+      specialty: Repair and design
+    - name: Eli Morris-Heft
+      title: Venue Liasion
+      specialty: Simultaneous haberdashery
+    - name: Jenny Peterson
+      title: Head of Registration
+      specialty: Curating and archiving information
 
 - section: Marketing & Communications
   staff:
     - name: Amy Hall
-      title: Director of Design & Merchandise
+      title: Director of Marketing
       specialty: Interactive storytelling
-    - name: Chris Y
-      title: Design assistant
-      specialty: Repair and design
     - name: Kayla Forshey
-      title: Director of Public Relations
+      title: Director of Communications
       specialty: Writing spells
-    # - name: Eva Lindquist
-    #   title: Social Media Team
-    #   specialty: Member of the Rubber Duck Squad
-    - name: Megan Wegenke
-      title: Social Media Team
-      specialty: Enthusiasm incorporator
-    # - name: Rosemary
-    #   title: Social Media Team
-    #   specialty: Worldgate string maintenance
-
-
-- section: Registration
-  staff:
-    - name: Jenny Peterson
-      title: Director of Registration
-      specialty: Curating and archiving information
-
-- section: Venue & Location
-  staff:
-    - name: Bex Fortin
-      title: Venue Liaison, Armorer
-      specialty: Timeline maintenance
-    # - name: Eli Morris-Heft
-    #   title: Venue Liaison
-    #   specialty: Enacture in non-Speech languages
+    - name: Darion
+      title: Social Media Assistant
+      specialty: Undecided
+    - name: Lego
+      title: Webmaster
+      specialty: Digital spelling
