@@ -2,8 +2,9 @@
 layout: page
 title: Dre Nall Lifeboats Assistance Fund
 order: 10
-published: false
+published: true
 ---
+
 <div class="dre">
   <img src="/images/dnlf/dre_lifeboat.png">
 </div>
@@ -21,16 +22,17 @@ renamed in her honor.
 
 When you [buy your badge]({{ site.baseurl }}/badges), you will have the option to donate money to the assistance fund.
 (You can also come back and donate later.) Your donated money will be used to help pay for badges and travel for people
-who would have financial trouble coming to the con otherwise. We will also use the fund to donate some badges to [Con or
-Bust](https://dreamfoundry.org/con-or-bust/), and to help cover travel costs for presenters.
+who would have financial trouble coming to the con otherwise. We will also use the fund to donate some badges to
+[Con or Bust](https://dreamfoundry.org/con-or-bust/), and to help cover travel costs for presenters.
 
 If it is more convenient, you can drop a donation in [our Ko-Fi account](https://ko-fi.com/emfozzing) tagged “Lifeboats”
 or “GNU Dre”[^gnu].
 
-[^gnu]: Note: "GNU" is a reference to [_Going Postal_ by Terry Pratchett](https://en.wikipedia.org/wiki/Going_Postal).
-In the novel, it is a command sent over the [Clacks system](https://discworld.fandom.com/wiki/Clacks) instructing that a
-message be repeated indefinitely, since no one is truly dead whose name is still spoken. See also:
-[X-Clacks-Overhead](https://xclacksoverhead.org/home/about).
+[^gnu]:
+    Note: "GNU" is a reference to [_Going Postal_ by Terry Pratchett](https://en.wikipedia.org/wiki/Going_Postal). In
+    the novel, it is a command sent over the [Clacks system](https://discworld.fandom.com/wiki/Clacks) instructing that
+    a message be repeated indefinitely, since no one is truly dead whose name is still spoken. See also:
+    [X-Clacks-Overhead](https://xclacksoverhead.org/home/about).
 
 ## How can I apply for assistance?
 
