@@ -10,9 +10,9 @@ twitter:
 bluesky:
   link: https://bsky.app/profile/did:plc:vc542r5f4xv4gi2cndzua7wc
   icon: /images/social-icons/Icon_Website_bsky2024-white.svg
-tiktok:
-  link: https://www.tiktok.com/@crossingscon
-  icon: /images/social-icons/tiktok-white.svg
+# tiktok:
+#   link: https://www.tiktok.com/@crossingscon
+#   icon: /images/social-icons/tiktok-white.svg
 instagram:
   link: https://www.instagram.com/crossingscon/
   icon: /images/social-icons/instagram-white.svg
