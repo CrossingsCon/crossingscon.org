@@ -1,65 +1,69 @@
-<footer class="container-fluid py-3 gradient-purple">
+<footer class="container-fluid py-3">
   <div class="container-wrapper">
     <div class="row align-items-center py-2">
       <div class="col order-1 text-center">
         {% for social in site.data.social_media %}
-        <a href="{{ social[1].link }}">
-          <img class="social-icon px-1 py-1" src="{{site.baseurl}}{{social[1].icon}}" alt="{{social[1].name | default: social[0] | capitalize}} icon"/>
-        </a>
+          <a href="{{ social[1].link }}">
+            <img
+              class="social-icon px-1 py-1"
+              src="{{site.baseurl}}{{social[1].icon}}"
+              alt="{{social[1].name | default: social[0] | capitalize}} icon"
+            >
+          </a>
         {% endfor %}
       </div>
-    <!-- <div id="con-info-lat-long" class="footer-text col order-3 text-center order-md-4 text-md-left">
-      <span class="unflipped">
-        45°30′27.1656″N<br/>
-        73°33′55.6488″W
-      </span>
-      <span class="flipped">Montréal, Québec</span>
-    </div> -->
-  </div>
-  <div class="row align-items-center py-2 flipper">
-    <div class="col order-1 text-center order-md-1">
-      <div class="row">
-        <div class="col">
-          <span class="unflipped">JD {{ site.data.date.julian }}</span>
-          <span class="flipped">{{ site.data.date.full }}</span>
+    </div>
+    {% comment %}
+      <div class="row align-items-center py-2 flipper">
+        <div class="col order-1 text-center order-md-1">
+          <div class="row">
+            <div class="col">
+              <span class="unflipped">JD {{ site.data.date.julian }}</span>
+              <span class="flipped">{{ site.data.date.full }}</span>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col">
+              <span class="unflipped">{{ site.data.date.latlong }}</span>
+              <span class="flipped">{{ site.data.date.address }}</span>
+            </div>
+          </div>
         </div>
       </div>
-      <div class="row">
-        <div class="col">
-          <span class="unflipped">{{ site.data.date.latlong }}</span>
-          <span class="flipped">{{ site.data.date.address }}</span>
-        </div>
-      </div>     
-    </div>
-    <!-- <div class="order-1 col-md-auto text-center text-md-right py-2"> -->
-  </div>
-  <div class="col order-1 text-center">
-      <!-- <a href="/" class="px-2">
-        <img
-          src="{{ "/images/hex-white.svg" | prepend: site.baseurl }}"
-          alt="The CrossingsCon logo"
-          height="40"
-        />
-      </a> -->
+    {% endcomment %}
+    <div class="col order-1 text-center">
+      <!--
+        <a href="/" class="px-2">
+          <img
+            src="{{ "/images/hex-white.svg" | prepend: site.baseurl }}"
+            alt="The CrossingsCon logo"
+            height="40"
+          />
+        </a>
+      -->
       <span id="made-with-love" class="col-12 text-center">Made with ♥ on Rirhath B</span>
     </div>
-  <!-- <div class="row py-1 social-list">
-    {% for sm in site.data.social_media %}
-    <div class="px-2"><a href="{{sm.site}}"><img src="{{site.baseurl}}/images/social-icons/{{sm.service}}-gold.png" alt="{{sm.service}} logo"/></a></div>
-    {% endfor %}
-  </div> -->
-  <!-- <div class="row py-1 align-items-center">
-    <picture class="pattern px-3">
-        <source
-        media="(min-width: 1024px)"
-        srcset="{{site.baseurl}}/images/gold/pattern-large.svg"
-      >
-      <source
-        media="(max-width: 1023px)"
-        srcset="{{site.baseurl}}/images/gold/pattern-small-knot.svg"
-      >
-      <img src="{{site.baseurl}}/images/gold/pattern-large.svg" alt="">
-    </picture>
-  </div> -->
+    <!--
+      <div class="row py-1 social-list">
+        {% for sm in site.data.social_media %}
+        <div class="px-2"><a href="{{sm.site}}"><img src="{{site.baseurl}}/images/social-icons/{{sm.service}}-gold.png" alt="{{sm.service}} logo"/></a></div>
+        {% endfor %}
+      </div>
+    -->
+    <!--
+      <div class="row py-1 align-items-center">
+        <picture class="pattern px-3">
+            <source
+            media="(min-width: 1024px)"
+            srcset="{{site.baseurl}}/images/gold/pattern-large.svg"
+          >
+          <source
+            media="(max-width: 1023px)"
+            srcset="{{site.baseurl}}/images/gold/pattern-small-knot.svg"
+          >
+          <img src="{{site.baseurl}}/images/gold/pattern-large.svg" alt="">
+        </picture>
+      </div>
+    -->
   </div>
 </footer>

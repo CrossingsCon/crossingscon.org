@@ -1,6 +1,6 @@
-html{
-  height:100%;
-  min-height:100%;
+html {
+  height: 100%;
+  min-height: 100%;
 }
 
 body.splash {
@@ -11,7 +11,7 @@ body.splash {
   right: 0;
 
   background-color: $dark;
-  background-image: url('../images/backgrounds/hills-final.jpg');
+  background-image: url("../images/backgrounds/hills-final.jpg");
   background-origin: border-box;
   background-repeat: no-repeat;
   background-size: cover;
@@ -26,7 +26,7 @@ body.splash {
     width: 100%;
     background-color: transparentize(#666666, 0.6666);
 
-    font-family: 'Source Sans Pro', 'freight-sans-pro';
+    font-family: "Source Sans Pro", "freight-sans-pro";
 
     text-align: center;
     line-height: 1;
@@ -38,8 +38,8 @@ body.splash {
       text-shadow: black 2px 2px 9px;
 
       i {
-        font-family: 'FontAwesome'!important;
-        font-style: normal!important;
+        font-family: "FontAwesome" !important;
+        font-style: normal !important;
       }
     }
 
@@ -51,7 +51,7 @@ body.splash {
     .con-name img {
       height: 4vw;
       text-transform: uppercase;
-      filter: drop-shadow( 4px 4px 6px $dark );
+      filter: drop-shadow(4px 4px 6px $dark);
     }
 
     .stats {
@@ -73,27 +73,62 @@ body.splash {
       margin-top: 4.5vw;
     }
 
-    .con-name img { height: 5vw; }
-    .con-year { font-size: 7vw; }
-    .stats { font-size: 2vw; }
-    .tagline { font-size: 3vw; }
-    footer i { font-size: 1.5vw; } 
+    .con-name img {
+      height: 5vw;
+    }
+    .con-year {
+      font-size: 7vw;
+    }
+    .stats {
+      font-size: 2vw;
+    }
+    .tagline {
+      font-size: 3vw;
+    }
+    footer i {
+      font-size: 1.5vw;
+    }
 
     @media screen and (max-width: 1080px) {
-      .con-name img { height: 8.57vw; }
-      .con-year { font-size: 12vw; }
-      .stats { font-size: 4vw; }
-      .tagline { font-size: 5.2vw; }
-      footer { font-size: 3vw; i { font-size: 4vw; } }
+      .con-name img {
+        height: 8.57vw;
+      }
+      .con-year {
+        font-size: 12vw;
+      }
+      .stats {
+        font-size: 4vw;
+      }
+      .tagline {
+        font-size: 5.2vw;
+      }
+      footer {
+        font-size: 3vw;
+        i {
+          font-size: 4vw;
+        }
+      }
     }
 
     @media screen and (max-width: 576px) {
-      .con-name img { height: 10vw; }
-      .con-year { font-size: 14vw; }
-      .stats { font-size: 4vw; }
-      .tagline { font-size: 6vw; }
-      footer { font-size: 3vw; i { font-size: 4vw; } }
+      .con-name img {
+        height: 10vw;
+      }
+      .con-year {
+        font-size: 14vw;
+      }
+      .stats {
+        font-size: 4vw;
+      }
+      .tagline {
+        font-size: 6vw;
+      }
+      footer {
+        font-size: 3vw;
+        i {
+          font-size: 4vw;
+        }
+      }
     }
-
   }
 }

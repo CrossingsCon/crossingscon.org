@@ -1,7 +1,20 @@
+# Build artifacts
 _site
 .sass-cache
-.jekyll-metadata
 
+# filesystem artifacts
 .DS_Store
+
+# Yarn stuff
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+# ???
 vendor/
 .bundle/
+.jekyll-metadata

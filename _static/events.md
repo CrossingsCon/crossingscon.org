@@ -3,7 +3,7 @@ layout: page
 title: Events
 nav_title: Events
 order: 20
-published: true
+published: false
 ---
 
 We've created a <a href="https://calendar.google.com/calendar/embed?src=c_31053090fc03afbeac2e0890dc456538aa99413609b03f9f88792945b55372e3%40group.calendar.google.com&ctz=America%2FToronto">Google calendar</a> with the schedule events, or <a href="https://calendar.google.com/calendar/ical/c_31053090fc03afbeac2e0890dc456538aa99413609b03f9f88792945b55372e3%40group.calendar.google.com/public/basic.ics">click here</a> to add the schedule to other calendar apps.
@@ -147,7 +147,7 @@ We've created a <a href="https://calendar.google.com/calendar/embed?src=c_310530
 
 <div class="event-descriptions">
   <h3>Friday</h3>
-  
+
   <div class="event" id="ocer_desc">
     <div class="name">
       <a href="#ocer_tab">Opening Ceremonies</a>
@@ -162,7 +162,7 @@ We've created a <a href="https://calendar.google.com/calendar/embed?src=c_310530
       Welcome to CrossingsCon 2025!
     </div>
   </div>
-  
+
   <div class="event" id="dnpi_desc">
     <div class="name">
       <a href="#dnpi_tab">Deception & Political Intrigue</a>
@@ -180,7 +180,7 @@ We've created a <a href="https://calendar.google.com/calendar/embed?src=c_310530
       universe and characters become more familiar.
     </div>
   </div>
-  
+
   <div class="event" id="crea_desc">
     <div class="name">
       <a href="#crea_tab">Creativity Off the Page</a>
@@ -199,7 +199,7 @@ We've created a <a href="https://calendar.google.com/calendar/embed?src=c_310530
       stress-reducing techniques?
     </div>
   </div>
-  
+
   <div class="event" id="wwwy_desc">
     <div class="name">
       <a href="#wwwy_tab">
@@ -216,10 +216,10 @@ We've created a <a href="https://calendar.google.com/calendar/embed?src=c_310530
       Join all of our Guests of Honour as they discuss their favourite books
       from when they were teens, tweens, and children. Find out what books
       sparked their imaginations, hooked them on fantasy/science fiction, and
-      inspired them to try writing their own stories. 
+      inspired them to try writing their own stories.
     </div>
   </div>
-  
+
   <div class="event" id="plnc_desc">
     <div class="name">
       <a href="#plnc_tab">Patent Law and the Courts</a>
@@ -236,7 +236,7 @@ We've created a <a href="https://calendar.google.com/calendar/embed?src=c_310530
       figure it out.
     </div>
   </div>
-  
+
   <div class="event" id="bbing_desc">
     <div class="name">
       <a href="#bbing_tab">Bookbinding</a>
@@ -253,7 +253,7 @@ We've created a <a href="https://calendar.google.com/calendar/embed?src=c_310530
       experience necessary, and all materials provided.
     </div>
   </div>
-  
+
   <div class="event" id="ssgt_desc">
     <div class="name">
       <a href="#ssgt_tab">Solar System Grand Tour</a>
@@ -270,7 +270,7 @@ We've created a <a href="https://calendar.google.com/calendar/embed?src=c_310530
       past and present explorations, as well as what the future holds.
     </div>
   </div>
-  
+
   <div class="event" id="auto_fri_desc">
     <div class="name">
       <a href="#auto_fri_tab">Autographs</a>
@@ -287,7 +287,7 @@ We've created a <a href="https://calendar.google.com/calendar/embed?src=c_310530
       times).
     </div>
   </div>
-  
+
   <div class="event" id="shayna_desc">
     <div class="name">
       <a href="#shayna_tab">Putting the Celestial in the Story</a>
@@ -304,7 +304,7 @@ We've created a <a href="https://calendar.google.com/calendar/embed?src=c_310530
       stories to worldbuilding considerations in our own writing.
     </div>
   </div>
-  
+
   <div class="event" id="bmun_desc">
     <div class="name">
       <a href="#bmun_tab">Baron Munchausen</a>
@@ -320,7 +320,7 @@ We've created a <a href="https://calendar.google.com/calendar/embed?src=c_310530
       storytelling that will leave you in stitches!
     </div>
   </div>
-  
+
   <div class="event" id="cjam_desc">
     <div class="name">
       <a href="#cjam_tab">CrossingsJam</a>
@@ -334,7 +334,7 @@ We've created a <a href="https://calendar.google.com/calendar/embed?src=c_310530
       experience.
     </div>
   </div>
-  
+
   <div class="event" id="gng_desc">
     <div class="name">
       Games & Goofing
@@ -351,7 +351,7 @@ We've created a <a href="https://calendar.google.com/calendar/embed?src=c_310530
       connecting with cousins new and familiar.
     </div>
   </div>
-  
+
   <div class="event" id="lightning_desc">
     <div class="name">
       Lightning Talks
@@ -370,9 +370,9 @@ We've created a <a href="https://calendar.google.com/calendar/embed?src=c_310530
       flying, anything and everything is welcome.
     </div>
   </div>
-  
+
   <h3>Saturday</h3>
-  
+
   <div class="event" id="gohc_desc">
     <div class="name">
       <a href="#gohc_tab">Guests of Honor in Conversation</a>
@@ -390,7 +390,7 @@ We've created a <a href="https://calendar.google.com/calendar/embed?src=c_310530
       table.
     </div>
   </div>
-  
+
   <div class="event" id="wbob_desc">
     <div class="name">
       <a href="#wbob_tab">Worldbuilding Outside of Books</a>
@@ -408,7 +408,7 @@ We've created a <a href="https://calendar.google.com/calendar/embed?src=c_310530
       writing for video games and audio-dramas/podcasts.
     </div>
   </div>
-  
+
   <div class="event" id="hycg_desc">
     <div class="name">
       <a href="#hycg_tab">How Your Characters Grow: Evolution Over Time</a>
@@ -427,7 +427,7 @@ We've created a <a href="https://calendar.google.com/calendar/embed?src=c_310530
       emotional and/or spiritual journey?
     </div>
   </div>
-  
+
   <div class="event" id="best_desc">
     <div class="name">
       <a href="#best_tab">History of Elvish</a>
@@ -444,7 +444,7 @@ We've created a <a href="https://calendar.google.com/calendar/embed?src=c_310530
       sociopolitics of Sindarin and Quenya.
     </div>
   </div>
-  
+
   <div class="event" id="wriwo_desc">
     <div class="name">
       <a href="#wriwo_tab">Writing Workshop</a>
@@ -462,7 +462,7 @@ We've created a <a href="https://calendar.google.com/calendar/embed?src=c_310530
       an in-depth Q&A session with one of our wonderful Guests of Honor.
     </div>
   </div>
-  
+
   <div class="event" id="cfsc_desc">
     <div class="name">
       <a href="#cfsc_tab">Care and Feeding of Secondary Characters</a>
@@ -482,7 +482,7 @@ We've created a <a href="https://calendar.google.com/calendar/embed?src=c_310530
       on these background players?
     </div>
   </div>
-  
+
   <div class="event" id="biod_desc">
     <div class="name">
       <a href="#biod_tab">BioDesign Explorations</a>
@@ -496,7 +496,7 @@ We've created a <a href="https://calendar.google.com/calendar/embed?src=c_310530
     <div class="description">
       Science educator Caitlin has brought a collection of hands-on activities
       that combine open-ended creative exploration with living microorganisms.
-      Join us to explore your choice(s) of: 
+      Join us to explore your choice(s) of:
       <ul>
         <li>pH-sensitive biological pigments (make paints from plants!)</li>
         <li>
@@ -507,7 +507,7 @@ We've created a <a href="https://calendar.google.com/calendar/embed?src=c_310530
       </ul>
     </div>
   </div>
-  
+
   <div class="event" id="book_desc">
     <div class="name">
       <a href="#book_tab">Book Club</a>
@@ -520,10 +520,10 @@ We've created a <a href="https://calendar.google.com/calendar/embed?src=c_310530
     </div>
     <div class="description">
       Join your fellow Wizards for an in-person gathering of the Crossings Con
-      Book Club moderated by our very own Megan. 
+      Book Club moderated by our very own Megan.
     </div>
   </div>
-  
+
   <div class="event" id="auto_sat_desc">
     <div class="name">
       <a href="#auto_sat_tab">Autographs</a>
@@ -539,7 +539,7 @@ We've created a <a href="https://calendar.google.com/calendar/embed?src=c_310530
       five items per turn (but you can get in line multiple times).
     </div>
   </div>
-  
+
   <div class="event" id="ling_desc">
     <div class="name">
       <a href="#ling_tab">Linguistics of the Speech, Revised Second Edition</a>
@@ -557,10 +557,10 @@ We've created a <a href="https://calendar.google.com/calendar/embed?src=c_310530
       linguistic experience.
       <br />
       <i>No prerequisites; may be repeated for credit as the syllabus is
-      substantially revised.</i> 
+      substantially revised.</i>
     </div>
   </div>
-  
+
   <div class="event" id="lxad_desc">
     <div class="name">
       <a href="#lxad_tab">Linguistics After Dark</a>
@@ -576,9 +576,9 @@ We've created a <a href="https://calendar.google.com/calendar/embed?src=c_310530
       That’s it. That’s the panel.
     </div>
   </div>
-  
+
   <h3>Sunday</h3>
-  
+
   <div class="event">
     <div class="name">
       Ordealer’s Choice
@@ -598,10 +598,10 @@ We've created a <a href="https://calendar.google.com/calendar/embed?src=c_310530
       American history in what is often considered the birthplace of the USA.
       And finally, for our most science-inclined cousins, Philadelphia is home
       to the Franklin Institute, the Academy of Natural Sciences, and the Mütter
-      Museum to explore to your heart’s content. 
+      Museum to explore to your heart’s content.
     </div>
   </div>
-  
+
   <div class="event" id="cloc_desc">
     <div class="name">
       <a href="#cloc_tab">Closing Ceremonies</a>

@@ -1,63 +1,57 @@
 footer {
-  color: $cc-orange-4;
-  // background-color: $cc-24-blue;
+  background-color: $cc-24-blue;
+  color: white;
   display: flex;
   flex-direction: column;
-  flex: 1; 
-  
-  .heart {
-    color: $cc-silver;
+  flex: 1;
+
+  a {
+    text-decoration: none;
   }
 
-  .footer-text {
-    height: 2.5em;
-    display: grid;
-    align-items: center;
+  .container-wrapper {
+    margin-top: auto;
   }
-}
 
-footer .container-wrapper {
-  margin-top: auto;
-}
+  .social-list {
+    justify-content: center;
 
-footer .social-list {
-  justify-content: center;
-
-  img {
-    height: 2.5rem;
-    @media (max-width: 768px) {
-      height: 1.5rem;
+    img {
+      height: 2.5rem;
+      @media (max-width: 768px) {
+        height: 1.5rem;
+      }
     }
   }
-}
 
-footer .social-icon {
-  height: 3.25rem;
-  width: 3.5rem;
-  @media (max-width: 768px) {
-    height: 2.8rem;
-    width: 3rem;
+  .social-icon {
+    height: 3.25rem;
+    width: 3.5rem;
+    @media (max-width: 768px) {
+      height: 2.8rem;
+      width: 3rem;
+    }
   }
 
-  // https://stackoverflow.com/a/68695062
-  // https://codepen.io/sosuke/pen/Pjoqqp
-  filter: brightness(0) saturate(100%) invert(60%) sepia(99%) saturate(641%) hue-rotate(316deg) brightness(95%) contrast(86%);
-}
+  .flipper {
+    .unflipped {
+      display: inline;
+    }
+    .flipped {
+      display: none;
+    }
 
-footer .flipper {
-  .unflipped { display: inline; }
-  .flipped { display: none; }
-
-  &:hover {
-    .flipped { display: inline; }
-    .unflipped { display: none; }
+    &:hover {
+      .flipped {
+        display: inline;
+      }
+      .unflipped {
+        display: none;
+      }
+    }
   }
-}
 
-footer a:hover {
-  text-decoration: none;
-}
-
-footer .pattern {
-  width: 100%
+  .pattern {
+    width: 100%;
+  }
 }

@@ -13,7 +13,7 @@
   margin: auto;
   padding: 0;
   * {
-    box-sizing:border-box
+    box-sizing: border-box;
   }
 
   aspect-ratio: 2000 / 667;
@@ -35,8 +35,6 @@
     display: block;
   }
 }
-
-
 
 // new version with crossfading
 // built following https://www.devtwins.com/blog/css-cross-fading-images

@@ -1,129 +1,34 @@
 ---
 layout: home
 ---
-
-<div class="welcome announcement">
-  <div style="padding: 1rem 0 1rem 0 !important" class="py-5">
-    <h3>The schedule of events for CrossingsCon 2025 is now live! <a href="{{ '/events' | prepend: site.baseurl }}">Check it out here</a></h3>
-  </div> 
-</div>
-
-<div style="padding: 2rem 1rem; color: #FEE5C8; background: #5F445B;">
-  <div style="display: flex; flex-direction: row; flex-wrap:wrap; justify-content: space-around;">
-    <div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: space-evenly; align-items: center; max-width: 800px;">
-      <h2 style="text-align: center;">
-        The <img src="/images/CC-2025-BookClub-AtCon.png" alt="Crossings Book Club logo" title="Crossings Book Club" style="height: 45px;margin-top: -6px;" /> is happening live at CrossingsCon! We'll be reading <i>Sun and Moon, Ice and Snow</i> by Jessica Day George
-      </h2>
-      <!-- <div style="display: flex; flex-flow: row nowrap; gap: 1rem;" class="py-2">
-        <a class="btn btn-badge my-2 my-sm-0" style="text-decoration-line: none; background-color: #D97D63; border-color: #FEE5C8; height: fit-content; font-size: 1.7rem" href="https://docs.google.com/forms/d/e/1FAIpQLSfqUYvPaXmZqCpf356lKE6416xnHpn8BywQeTmCdfCN4DZeqA/viewform?usp=dialog">
-          Vote Here
-        </a>
-        <a class="btn btn-badge my-2 my-sm-0" style="text-decoration-line: none; background-color: #D97D63; border-color: #FEE5C8; height: fit-content; font-size: 1.7rem" href="https://www.universe.com/events/crossingscon-2025-tickets-HZNPJQ?ref=CCsite">
-          Then Register
-        </a>
-      </div> -->
-    </div>
-    <img src="/images/2025/sun-moon-ice-snow.jpg" alt="Cover of Sun and Moon and Ice and Snow by Jessica Day George" style="max-height: 250px; display: flex;" />
-  </div>
-</div>
-
-<div class="welcome">
-  <div style="padding: 1rem 0 2rem 0 !important" class="py-5">
-    <h1>Dai stihó, cousin!</h1>
-    <p class="lead">
-      Welcome to CrossingsCon, a convention dedicated to promoting the works of speculative fiction authors and the speculative fiction genre by facilitating discussion, analysis, recommendation, and distribution of these works. We aim to create a welcoming, diverse, accessible, and friendly space for our community to thrive and explore our world and many others. The next edition of CrossingsCon is happening on <strong style="font-weight: bold">August 15th to 17th, 2025 in Philadelphia, USA!</strong>
-    </p>
-    <p class="lead">
-      <strong style="font-weight: bold">Registration for the convention</strong> is <strong style="font-weight: bold">open now!</strong> Information on badges and how to register <a  href="{{ site.baseurl }}/badges">can be found here</a>, and information and the booking link for the convention hotel <a href="{{ site.baseurl }}/location">are here</a>.
-    </p>
-    <div class="form-inline">
-      <!-- <a class="btn btn-badge my-2 px-6" style="text-decoration: none; margin:auto; font-size: 2rem;" href="{{ '/events' | prepend: site.baseurl }}">See schedule of events</a> -->
-      <a class="btn btn-badge my-2 px-6" style="text-decoration: none; margin:auto; font-size: 2rem;" href="{{ site.data.badges.url }}">Get your badge!</a>
-    </div>
-  </div>
-</div>
-
-<div class="welcome bookstore">
-  <div class="py-5">
-    <h2>We have a bookstore!</h2>
-    <p class="lead">
-      We are joined by our new cousins, the fabulous booksellers from 
-      <a href="https://www.multiversephilly.com/">Multiverse</a>! They will be 
-      bringing an excellent curated selection of works from our Guests of Honor,
-      local authors, and familiar favorites.
-    </p>
-  </div>
-</div>
-
-<div class="guests-front-page">
-  <div style="padding: 1rem 0 2rem 0 !important" class="py-5">
-    <p class="lead py-3" style="text-align: center; font-size: 1.5rem;">
-      We're so lucky to have several wonderful writers and creatives joining us as guests of honor this year!
-    </p>
-    <div class="bios">
-      {% for guest in site.data.guests %}
-      <!--  -->
-        <div class="goh-quick-bio">
-          <a href="{{ site.baseurl }}/events/guests">
-          <div class="headshot">
-            {% if guest.image != "" and guest.image != nil %}
-            <img src="{{ site.baseurl }}/images/guests/{{ guest.image }}" alt="A picture of {{ guest.name }}">
-            {% endif %}
-          </div>
-          <div class="works">
-            <p class="lead" style="font-weight: bold;">
-              {{ guest.name }}
-            </p>
-            <p class="lead">
-              {{ guest.works | markdownify }}
-            </p>
-          </div>
-          </a>
-        </div>
-      <!-- </a> -->
-      {% endfor %}
-    </div>
-  </div>
-</div>
-
 <div class="slideshow-container">
   {% assign reversed_slideshow = site.data.slideshow | reverse %}
   {% for image in reversed_slideshow %}
     <div class="carousel-image" id="pic{{ forloop.index }}">
-      <img class="carousel-desktop" src="{{ site.baseurl }}{{ image.desktop }}" style="width:100%">
-      <img class="carousel-mobile" src="{{ site.baseurl }}{{ image.mobile }}" style="width:100%">
+      <img
+        class="carousel-desktop"
+        src="{{ site.baseurl }}{{ image.desktop }}"
+        style="width: 100%"
+      >
+      <img
+        class="carousel-mobile"
+        src="{{ site.baseurl }}{{ image.mobile }}"
+        style="width: 100%"
+      >
     </div>
   {% endfor %}
 </div>
 
-<!-- <div class="testimonials bg-green text-white">
-  <div class="row">
-    <div class="col-2 px-0 testimonal-quote text-right">
-      <img src="{{ site.baseurl }}/images/quotemark.svg">
-    </div>
-    <div class="col testimonial-body my-auto">
-      Lorem ipsum dolor si amet <i class="fa-solid fa-bars"></i>
-    </div>
-  </div>
-</div> -->
-
-
-<!-- <h1>Dai stihó, cousin!</h1>
-<p class="lead">Welcome to CrossingsCon, a convention about all the universes that we visit when we read, where people can come together to share what they love and have fun doing it.
-</p>
-<p class="lead">Join us in 2022 as we explore literature, geekdom, and Montréal in a fun-filled three-day extravaganza with special guests, a little wizardry, and many new cousins to meet!</p>
-<div class="row d-flex d-lg-none mb-3">
-    <div class="col"><img src="{{ site.baseurl }}/images/2019new/staff-and-diane-crop.jpg" class="img-fluid" alt="The CrossingsCon 2019 staff with Diane"></div>
+<div class="welcome gradient p-5">
+  <h1>Dai stihó, cousin!</h1>
+  <p class="lead">
+    CrossingsCon is where nerds from all universes gather to share experiences, meet friends both old and new, and stoke
+    their passion for many fandoms. Enjoy panel discussions and interactive events led by Guests of Honor and other
+    attendees, snag some fun merch, get a book signed by your favorite author, or maybe just hang out with them in the
+    hallway! Originally inspired by Young Wizards, we invite you to join us at the Crossings, a gateway to any world.
+  </p>
+  <p class="lead">
+    Our most recent convention was in August of 2025. We are currently in between con cycles, but check back later and
+    follow us on social media for more updates!
+  </p>
 </div>
-
-<div class="row d-none d-lg-flex py-3">
-    <div class="col"><img src="{{ site.baseurl }}/images/2019new/diane-eli.jpg" class="img-fluid" alt="Diane and Eli laughing during a panel"></div>
-    <div class="col"><img src="{{ site.baseurl }}/images/2019new/staff-and-diane-crop.jpg" class="img-fluid" alt="The CrossingsCon 2019 staff with Diane"></div>
-    <div class="col"><img src="{{ site.baseurl }}/images/2019new/sunday-pond.jpg" class="img-fluid" alt="An attendee at the 2019 Sunday tour"></div>
-  </div>
-
-<div class="row d-none d-lg-flex py-3">
-  <div class="col"><img src="{{ site.baseurl }}/images/2019new/filif-cosplay-landscape.jpg" class="img-fluid" alt="An attendee proudly display's their Filif cosplay"></div>
-  <div class="col"><img src="{{ site.baseurl }}/images/2019new/signings-group.jpg" class="img-fluid" alt="Attendees posing while waiting in the signings line"></div>
-  <div class="col"><img src="{{ site.baseurl }}/images/2019new/diane-mark.jpg" class="img-fluid" alt="Diane and Mark Oshiro talking during a panel"></div>
-</div> -->

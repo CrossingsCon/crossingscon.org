@@ -2,6 +2,7 @@
   "recommendations": [
     "vivaxy.vscode-conventional-commits",
     "github.vscode-github-actions",
-    "esbenp.prettier-vscode"
+    "esbenp.prettier-vscode",
+    "arcanis.vscode-zipfs"
   ]
 }

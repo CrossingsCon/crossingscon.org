@@ -1,27 +1,31 @@
-#page > header > nav {
-  background-color: $cc-orange-1;
-  // background-color: white;
-  // background-color: rgba($color: #aaa, $alpha: 0.5);
-  // position: fixed;
+nav a {
+  text-decoration: none;
+}
+
+header {
+  background-color: lightgray;
   width: 100%;
-  color: $cc-navy;
-  button {
-    padding: 0;
-    font-size: 36px;
+  z-index: 20;
+
+  & > nav {
+    // background-color: $cc-orange-1;
+    background-color: white;
+    // background-color: rgba($color: #aaa, $alpha: 0.5);
+    // position: fixed;
+    width: 100%;
+    button {
+      padding: 0;
+      font-size: 36px;
+    }
   }
 }
 
 .nav-link {
-  color: $cc-purple-4!important;
+  color: $cc-24-green !important;
 }
-
-// .dropdown-toggle::after {
-//   color: $cc-silver!important;
-// }
 
 .header-logo {
   width: 100%;
-  
 }
 
 .header-link {
@@ -36,23 +40,23 @@
 }
 
 .btn-badge {
-  background-color: $cc-purple-4;
-  border-color: $cc-purple-4;
-  color: $white;
-}
+  background-color: $cc-24-green;
+  border-color: $cc-24-green;
+  color: $black;
 
-.btn-badge:hover {
-  background-color: $cc-purple-1;
-  border-color: $cc-purple-1;
-  color: $white;
+  &:hover {
+    background-color: $cc-green;
+    border-color: $cc-green;
+    color: $white;
+  }
 }
 
 .navbar-toggler-icon {
-  color: $cc-purple-4;
+  color: $cc-24-green;
   height: 1.5em;
   line-height: 1.5em;
 }
 
 .dropdown-menu {
-  background-color: $cc-orange-1;
+  background-color: white;
 }

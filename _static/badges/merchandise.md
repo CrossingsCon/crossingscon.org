@@ -2,7 +2,7 @@
 layout: page
 title: Merchandise
 order: 40
-published: true
+published: false
 ---
 
 <script src="{{ site.baseurl | prepend: site.url }}/js/buybutton.js"></script>
@@ -18,7 +18,6 @@ You can pre-order merch separate from buying your badge. You can even order merc
 Pre-orders for CrossingsCon 2025 merch will close at the end of the day on May 31st! Make sure to get your orders in before then.
 
 If you have any questions reach out to <info@crossingscon.org> or <merch@crossingscon.org>.
-
 
 <div id='collection-component-5160491c5be'></div>
 

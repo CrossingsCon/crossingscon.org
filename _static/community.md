@@ -5,27 +5,19 @@ nav_title: Follow us!
 order: 50
 ---
 
-<div class="row mb-3">
-    <div class="col">
-    <img src="{{ site.baseurl }}/images/carousel/dead-dog2.jpg" class="img-fluid" alt="Four cousins talking at the after-con party">
-    </div>
-</div>
+![Four cousins talking at the after-con party]({{ site.baseurl }}/images/carousel/dead-dog2.jpg)
 
-The best way to stay in touch with the con and all the friends you met there is over social media! Here's how to connect
-with CrossingsCon:
+The best way to stay in touch with the con and all the friends you met there is over social media! You can find all of
+our social accounts in the site footer.
 
-- [Facebook]({{ site.data.social_media.facebook.link }})
-- [Tumblr]({{ site.data.social_media.tumblr.link }})
-- [Twitter]({{ site.data.social_media.twitter.link }})
-- [Instagram]({{ site.data.social_media.instagram.link }})
-- [Bluesky]({{ site.data.social_media.bluesky.link }})
-- [TikTok]({{ site.data.social_media.tiktok.link }})
+And the best way to keep talking with your newfound cousins is on The Crossings on Slack. [Sign up for an account
+today!]({{ site.data.social_media.slack.link }})
 
-And the best way to keep talking with your newfound cousins is on The Crossings on Slack.  [Sign up for an account today!]({{ site.data.social_media.slack.link }})
+For behind-the-scenes updates or if you'd like to support us and help us continue to make CrossingsCon fact instead of
+fiction, [visit our Patreon]({{ site.data.social_media.patreon.link }}).
 
-For behind-the-scenes updates or if you'd like to support us and help us continue to make CrossingsCon fact instead of fiction, [visit our Patreon]({{ site.data.social_media.patreon.link }}).
-
-If you'd like to get periodic (max 3-4 per year) updates on what's happening at CrossingsCon delivered to your inbox, you can also sign up for our mailing list below.
+If you'd like to get periodic (max 3-4 per year) updates on what's happening at CrossingsCon delivered to your inbox,
+you can also sign up for our mailing list below.
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">

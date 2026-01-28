@@ -1,16 +1,5 @@
-.page-main {
-  // background-color: white;
-  // margin-top: 5em!important;
-}
-
 .page-main img {
   max-width: 100%;
-}
-
-#page > header {
-  background-color: lightgray;
-  width: 100%;
-  z-index: 20;
 }
 
 .desktop-schedule {
@@ -25,7 +14,7 @@
   .desktop-schedule {
     display: none;
   }
-  
+
   .mobile-schedule {
     display: block;
   }
@@ -41,13 +30,13 @@
   padding-right: 10rem;
   padding-top: 2rem;
   padding-bottom: 2rem;
-  
+
   @media (max-width: 1200px) {
     padding-top: 0rem;
     padding-left: 2rem;
     padding-right: 2rem;
   }
-  
+
   @media (max-width: 700px) {
     padding-top: 0rem;
     padding-left: 1rem;
