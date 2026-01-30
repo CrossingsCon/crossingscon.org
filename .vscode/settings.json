@@ -4,7 +4,11 @@
     "**/.yarn": true,
     "**/.pnp.*": true
   },
+  "rubyLsp.rubyVersionManager": {
+    "identifier": "none"
+  },
   "prettier.prettierPath": ".yarn/sdks/prettier/index.cjs",
+
   "files.associations": {
     "*.html": "liquid"
   },
