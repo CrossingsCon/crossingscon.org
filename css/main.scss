@@ -12,10 +12,9 @@ $baseurl: "{{ site.baseurl }}";
   "variables",
   "theme",
   // libraries
-  // "bootstrap-4.0.0/bootstrap",
-  // shared components
-  // "site",
-  // "header", "footer",
-  // specific to a page
-  "page",
-  "splash", "body", "carousel";
+  "bootstrap-4.0.0/bootstrap"; // shared components
+// "site",
+// "header", "footer",
+// specific to a page
+// "page",
+// "splash", "body", "carousel";
