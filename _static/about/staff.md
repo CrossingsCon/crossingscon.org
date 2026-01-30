@@ -6,8 +6,11 @@ order: 40
 
 Who's minding these worldgates anyway? Here's who does what at CrossingsCon.
 
-{% if site.data.jobs %} Interested in joining us?
-[Click here to see our open positions.]({{site.baseurl}}/badges/volunteering) {: .alert .alert-info} {% endif %}
+{% if site.data.jobs %}
+
+Interested in joining us? [Click here to see our open positions.]({{site.baseurl}}/volunteer)
+
+{% endif %}
 
 {% for section in site.data.staff %}
 

@@ -1,9 +1,30 @@
-# This data file holds open job descriptions. Use this format when adding one:
-# - title: Minion Extraordinaire
-#   description: |
-#    Do things, get things, run errands, sit at a table.
-#
-#    Must be able to **sit**, stand, walk, and *swim* 1000 yards.
-# 
-#    > This one is the real one.
-#   instructions: Fill out [this form](/form), and we'll contact you within a week.
+- title: Marketing Lead
+  description: >
+    In this position, you will plan and implement a marketing strategy for
+    CrossingsCon. You'll be collaborating with our Head of Marketing & Design,
+    and with 3-5 other people in the design and PR departments, as well as
+    support from the rest of the staff.
+
+- title: Social Media Manager
+  description: >
+    In this position, you will engage with social media platforms on behalf of
+    Linguistics After Dark (LxAD) and/or CrossingsCon (CC), posting original
+    content and sharing and/or engaging with other users’ posts. You’ll be
+    working with the existing social media teams, including Sarah (LxAD) and
+    Kayla (CC), and with graphic design help from the rest of the design team.
+
+- title: Audio/Video Editor
+  description: >
+    In this position, you will be working with videos and podcast episodes by
+    trimming beginnings and ends, adding title cards, and possibly adjusting
+    sound if needed. You’ll be part of a video/caption team of 3-4 people,
+    working on video panels from previous CrossingsCon conventions and new
+    Linguistics After Dark episodes as they are recorded.
+
+- title: Events/Programming Coordinator
+  description: >
+    In this position, you will plan, schedule, and facilitate activities and
+    events that take place at CrossingsCon. (You don't have to facilitate all of
+    them! Bi-location is not required, though it would certainly be a valuable
+    asset =P) You'll be collaborating with Emma, our Head of Events, in a
+    guests/events team of 3-4 people, with support from the rest of the staff.
