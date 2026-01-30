@@ -9,13 +9,14 @@ $baseurl: "{{ site.baseurl }}";
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import // setup
-  "variables",
-  "theme",
+  // "variables",
+  // "theme",
   // libraries
-  "bootstrap-4.0.0/bootstrap",
+  // "bootstrap-4.0.0/bootstrap",
   // shared components
-  "site",
-  "header", "footer",
+  // "site",
+  // "header",
+  "footer",
   // specific to a page
   "page",
   "splash", "body", "carousel";
