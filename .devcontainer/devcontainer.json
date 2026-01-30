@@ -20,10 +20,11 @@
   },
   "onCreateCommand": {
     "corepack-enable": "corepack enable",
-    "corepack-install": "corepack install"
+    "rbenv-init-bash": "rbenv init bash fish ksh zsh"
   },
   "updateContentCommand": {
-    "deps-yarn": "yarn",
+    "corepack-install": "corepack install",
+    "deps-yarn": "corepack yarn",
     "deps-ruby": "make setup"
   },
   "portsAttributes": {

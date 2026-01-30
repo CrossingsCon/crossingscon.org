@@ -4,6 +4,7 @@ setup: install
 
 install:
 	@echo "\033[1;34m-----> \033[1;39mInstalling dependencies...\033[0m"
+	@rbenv install -s
 	@bundle install
 
 build:

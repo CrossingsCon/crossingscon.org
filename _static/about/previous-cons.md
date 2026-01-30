@@ -2,7 +2,6 @@
 layout: page
 title: Previous Cons
 nav_title: Previous Cons
-category_title: Previous Cons
 order: 40
 published: true
 ---

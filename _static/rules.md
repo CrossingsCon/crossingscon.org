@@ -4,6 +4,7 @@ title: Rules and Policies
 nav_title: Rules and Policies
 order: 41
 published: true
+no_children: true
 ---
 
 The main focus of CrossingsCon is to hang out and have fun! But there is also a code of conduct we expect our attendees,
