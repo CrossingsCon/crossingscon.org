@@ -1,0 +1,50 @@
+.staff-section {
+  margin-bottom: 2em;
+}
+
+.staff-section-people {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
+  gap: 1em;
+}
+
+.staff-card {
+  border: 1px solid grey;
+  border-radius: 0.25rem;
+
+  display: flex;
+  flex-direction: row;
+  gap: 1em;
+
+  .image {
+    aspect-ratio: 1 / 1;
+    height: 128px;
+    object-position: center;
+  }
+
+  .text {
+    > * {
+      margin: 0;
+    }
+
+    .name-pronouns {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      gap: 1em;
+
+      .name {
+        font-size: 2em;
+      }
+
+      .pronouns {
+        font-size: 1.5em;
+        color: grey;
+      }
+    }
+
+    .title {
+      font-size: 1.3em;
+    }
+  }
+}

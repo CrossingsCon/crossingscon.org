@@ -14,20 +14,34 @@ Interested in joining us? [Click here to see our open positions.]({{site.baseurl
 
 {% for section in site.data.staff %}
 
-<div class="row mt-4">
-  <h3 class="col-12">{{ section.section }}</h3>
-</div>
-<div class="row">
-  {% for staffer in section.staff %}
-  <div class="col-12 col-md-6 p-3">
-    <div class="card">
-      <div class="card-body">
-        <h4 class="card-title">{{ staffer.name }}</h4>
-        <h5 class="card-title">{{ staffer.title }}</h5>
-        <div class="card-text text-muted">Wizardly specialty: {{ staffer.specialty }}</div>
-      </div>
+  <section class="staff-section">
+    <h3>{{section.section}}</h3>
+
+    <div class="staff-section-people">
+      {% for person in section.staff %}
+        <div class="staff-card">
+          {% if person.image %}
+            <img class="image" src="{{person.image}}">
+          {% else %}
+            <img class="image" src="/images/crossroads.svg" style="padding: 1em;">
+          {% endif %}
+
+          <div class="text">
+            <p class="name-pronouns">
+              <span class="name">{{person.name}}</span>
+              {% if person.pronouns %}
+                <span class="pronouns">{{person.pronouns}}</span>
+              {% endif %}
+            </p>
+            <p class="title">{{person.title}}</p>
+
+            {% if person.specialty %}
+              <p>Wizardly specialty: {{person.specialty}}</p>
+            {% endif %}
+          </div>
+        </div>
+      {% endfor %}
     </div>
-  </div>
-  {% endfor %}
-</div>
+
+  </section>
 {% endfor %}
