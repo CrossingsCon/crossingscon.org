@@ -10,8 +10,10 @@
       specialty: Human swiss army knife
       pronouns: they/them
       image: /images/staff/pej.jpg
-    - name: Riker
+    - name: Andy Rusterholz
       title: Assistant Chair
+      pronouns: he/they
+      image: /images/staff/andy.png
 
 - section: Guest Relations & Events
   staff:
