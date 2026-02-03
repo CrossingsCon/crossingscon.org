@@ -20,19 +20,22 @@ Interested in joining us? [Click here to see our open positions.]({{site.baseurl
     <div class="staff-section-people">
       {% for person in section.staff %}
         <div class="staff-card">
-          {% if person.image %}
-            <img class="image" src="{{person.image}}">
-          {% else %}
-            <img class="image" src="/images/crossroads.svg" style="padding: 1em;">
-          {% endif %}
+          <div class="staff-card-heading">
+            {% if person.image %}
+              <img class="image" src="{{person.image}}">
+            {% else %}
+              <img class="image" src="/images/crossroads.svg" style="padding: 1em;">
+            {% endif %}
 
-          <div class="text">
             <p class="name-pronouns">
               <span class="name">{{person.name}}</span>
               {% if person.pronouns %}
                 <span class="pronouns">{{person.pronouns}}</span>
               {% endif %}
             </p>
+          </div>
+
+          <div class="staff-card-body">
             <p class="title">{{person.title}}</p>
 
             {% if person.specialty %}
