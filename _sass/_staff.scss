@@ -1,0 +1,57 @@
+.staff-section {
+  margin-bottom: 2em;
+}
+
+.staff-section-people {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  gap: 1em;
+}
+
+.staff-card {
+  border: 1px solid grey;
+  border-radius: 0.25rem;
+
+  display: flex;
+  flex-direction: column;
+
+  container-type: inline-size;
+
+  .staff-card-heading {
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+    align-items: center;
+
+    .image {
+      aspect-ratio: 1 / 1;
+      height: 6em;
+      object-position: center;
+      align-self: flex-start;
+    }
+
+    .name-pronouns {
+      display: flex;
+      flex-direction: column;
+      padding-right: 1em;
+
+      .name {
+        font-size: 2em;
+      }
+
+      .pronouns {
+        font-size: 1.5em;
+        color: grey;
+      }
+    }
+  }
+
+  .staff-card-body {
+    padding: 0 1em;
+
+    .title {
+      font-size: 1.5em;
+      text-align: center;
+    }
+  }
+}

@@ -3,54 +3,90 @@
     - name: Sarah Cowett
       title: Con Chair
       specialty: The Speech on sevarfrith worlds
+      pronouns: she
+      image: /images/staff/sarah.png
     - name: Pej Lyles
       title: Assistant Chair
       specialty: Human swiss army knife
-    - name: Riker
+      pronouns: they/them
+      image: /images/staff/pej.jpg
+    - name: Andy Rusterholz
       title: Assistant Chair
-      specialty: Undecided
+      pronouns: he/they
+      image: /images/staff/andy.png
 
 - section: Guest Relations & Events
   staff:
     - name: Sky Callahan
       title: Head of Guests
       specialty: Energy combination and amplification
+      pronouns: they/them/theirs
+      image: /images/staff/sky.png
     - name: Megan Wegenke
       title: Guest Liasion
       specialty: Enthusiasm incorporator
+      image: /images/staff/meg.png
+      pronouns: she/her/hers
     - name: Sus Mellinger
       title: Head of Events
       specialty: Interspecies Nexus Construction
+      pronouns: she/her
+      image: /images/staff/sus.jpg
     - name: Kali Larsen
       title: Events Assistant
       specialty: Energy transformation
+      image: /images/staff/kali.png
+      pronouns: she/her
 
 - section: Operations
   staff:
     - name: Bex Fortin
       title: Head of AV
       specialty: Timeline maintenance
+      pronouns: they/them
+      image: /images/staff/bex.png
     - name: Chris Y
       title: Design and Merch
       specialty: Repair and design
+      pronouns: she/her
+      image: /images/staff/chris.jpg
     - name: Eli Morris-Heft
       title: Venue Liasion
       specialty: Simultaneous haberdashery
+      pronouns: he/him/his
+      image: /images/staff/eli.png
     - name: Jenny Peterson
       title: Head of Registration
       specialty: Curating and archiving information
+      pronouns: she/they
+      image: /images/staff/jenny.png
+    - name: Charlotte Seelig
+      title: Assistant Video Editor
+      pronouns: she/her/hers
+      image: /images/staff/charlotte.png
+    - name: Zippy Spanjer
+      title: Venue Assistant
+      pronouns: she/her/היא
+      image: /images/staff/zippy.jpg
 
 - section: Marketing & Communications
   staff:
     - name: Amy Hall
       title: Director of Marketing
       specialty: Interactive storytelling
+      pronouns: she/her/hers
+      image: /images/staff/amy.jpg
     - name: Kayla Forshey
       title: Director of Communications
       specialty: Writing spells
+      pronouns: they/them
+      image: /images/staff/kayla.jpg
     - name: Darion
       title: Social Media Assistant
-      specialty: Undecided
+      pronouns: he/him
+      image: /images/staff/darion.jpg
     - name: Lego
       title: Webmaster
       specialty: Digital spelling
+      pronouns: he/they
+      image: /images/staff/lego.png
