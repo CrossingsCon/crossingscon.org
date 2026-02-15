@@ -3,7 +3,7 @@
     - name: Sarah Cowett
       title: Con Chair
       specialty: The Speech on sevarfrith worlds
-      pronouns: she
+      pronouns: she/her
       image: /images/staff/sarah.png
     - name: Pej Lyles
       title: Assistant Chair
@@ -12,7 +12,7 @@
       image: /images/staff/pej.jpg
     - name: Andy Rusterholz
       title: Assistant Chair
-      pronouns: he/they
+      pronouns: he/him/his
       image: /images/staff/andy.png
 
 - section: Guest Relations & Events
@@ -30,25 +30,25 @@
     - name: Sus Mellinger
       title: Head of Events
       specialty: Interspecies Nexus Construction
-      pronouns: she/her
+      pronouns: she/her/hers
       image: /images/staff/sus.jpg
     - name: Kali Larsen
       title: Events Assistant
       specialty: Energy transformation
       image: /images/staff/kali.png
-      pronouns: she/her
+      pronouns: she/her/🐈
 
 - section: Operations
   staff:
     - name: Bex Fortin
       title: Head of AV
       specialty: Timeline maintenance
-      pronouns: they/them
+      pronouns: they/them/🐱🚅🚀
       image: /images/staff/bex.png
     - name: Chris Y
       title: Design and Merch
       specialty: Repair and design
-      pronouns: she/her
+      pronouns: she/her/hers
       image: /images/staff/chris.jpg
     - name: Eli Morris-Heft
       title: Venue Liasion
@@ -72,14 +72,14 @@
 - section: Marketing & Communications
   staff:
     - name: Amy Hall
-      title: Director of Marketing
+      title: Brand Director
       specialty: Interactive storytelling
-      pronouns: she/her/hers
+      pronouns: she/her
       image: /images/staff/amy.jpg
     - name: Kayla Forshey
-      title: Director of Communications
+      title: Comunications Director
       specialty: Writing spells
-      pronouns: they/them
+      pronouns: they/them/theirs
       image: /images/staff/kayla.jpg
     - name: Darion
       title: Social Media Assistant
