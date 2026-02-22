@@ -38,12 +38,7 @@ the con, and have had booksellers join us onsite since 2019.
 
 ## History of the Con
 
-In 2013,
-[a fateful chain of posts](https://dispatchrabbi.tumblr.com/post/52352879845/woven-from-sapphire-fiber-robotamputee) was
-made on Tumblr. Determined to make the words into reality, a group of Young Wizards fans got together and planned the
-first CrossingsCon. We arranged an Indiegogo fund drive for start-up money and got almost twice as much as we asked for!
-Turns out, a lot of other cousins out there wanted to see CrossingsCon happen too. With that, we set our sights on
-Manhattan…
+For our origin story, check out our [About CrossingsCon]({% link _static/about.md %}) page!
 
 ### 2016: Newark, NJ
 
