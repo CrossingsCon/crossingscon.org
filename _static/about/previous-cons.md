@@ -6,8 +6,9 @@ order: 40
 published: true
 ---
 
-Every day at CrossingsCon has its own format. Read below for the typical outline of what has happened each day for our
-in-person cons, and the guests of honor we’ve invited in the past.
+Every day at CrossingsCon is unique. Read below for a brief description of what happened at each of our previous
+conventions, and the guests of honor we hosted. We always have exclusive CrossingsCon Merch available for sale during
+the con, and have had booksellers join us onsite since 2019.
 
 ##### Table of Contents
 
@@ -18,61 +19,7 @@ in-person cons, and the guests of honor we’ve invited in the past.
 - [2019: Montréal](#2019-montréal-canada)
 - [2021: Slipping Sideways](#2021-slipping-sideways)
 - [2022: Montréal](#2022-montréal-canada)
-
-<div class="card-deck">
-  <div class="card">
-    <img
-      class="card-img-top"
-      src="{{site.baseurl}}/images/2019new/panel-audience-square.jpg"
-      alt="Attendees at a panel at CrossingsCon 2018"
-    >
-    <div class="card-body">
-      <h5 class="card-title">Friday</h5>
-      <p class="card-text">
-        Friday is built around saying hi to old cousins and meeting new ones! We introduce our Guests of Honor at
-        opening ceremonies, play games with each other, and have a variety of panels, activities, and book signings.
-        Activities typically go long into the night on the first day of the con!
-      </p>
-    </div>
-  </div>
-  <div class="card">
-    <img
-      class="card-img-top"
-      src="{{site.baseurl}}/images/2019new/invitational-judging-square.jpg"
-      alt="Emily Skrutskie and Mark Oshiro answer questions"
-    >
-    <div class="card-body">
-      <h5 class="card-title">Saturday</h5>
-      <p class="card-text">
-        On Saturday, we kick it up a notch. We have stories, discussions, panels, and highly-requested attendee-led
-        lightning talks. On Saturday night, we play tabletop games and hang out until the hotel kicks us back to our
-        rooms.
-      </p>
-    </div>
-  </div>
-  <div class="card">
-    <img
-      class="card-img-top"
-      src="{{site.baseurl}}/images/2019new/sunday-bridge-square.jpg"
-      alt="Four cousins ready to go whale-watching on a boat"
-    >
-    <div class="card-body">
-      <h5 class="card-title">Sunday</h5>
-      <p class="card-text">
-        Even though it's the last day of the con, day three doesn't have us slowing down. We usually have a group
-        excursion on Sunday, which gives us one last chance to hang out and build amazing memories together before we
-        head home! So far, we have explored Manhattan, the Aquarium of the Pacific, and the Montréal Space for Life.
-      </p>
-      <p class="card-text">
-        At the end of the day we have closing ceremonies, and we finish out the con with our (unofficial) post-con party
-        somewhere nearby.
-      </p>
-    </div>
-  </div>
-</div>
-
-We always have exclusive CrossingsCon Merch available for sale during the con, and have had booksellers join us onsite
-since 2019.
+- [2025: Philadelphia, PA](#2025-philadelphia-pa)
 
 ## Previous Guests
 
@@ -91,12 +38,7 @@ since 2019.
 
 ## History of the Con
 
-In 2013,
-[a fateful chain of posts](https://dispatchrabbi.tumblr.com/post/52352879845/woven-from-sapphire-fiber-robotamputee) was
-made on Tumblr. Determined to make the words into reality, a group of Young Wizards fans got together and planned the
-first CrossingsCon. We arranged an Indiegogo fund drive for start-up money and got almost twice as much as we asked for!
-Turns out, a lot of other cousins out there wanted to see CrossingsCon happen too. With that, we set our sights on
-Manhattan…
+For our origin story, check out our [About CrossingsCon]({% link _static/about.md %}) page!
 
 ### 2016: Newark, NJ
 
@@ -126,12 +68,6 @@ Then, on Sunday, we walked to the Aquarium of the Pacific to spend the day conve
 also took an afternoon cruise and got to exchange spelling tips with the local whale and dolphin wizards!
 [Take a look at some of the highlights](https://www.facebook.com/pg/CrossingsCon/photos/?tab=album&album_id=1478625335524043).
 
-<!--
-  ## 2018: Summer Meetups
-  After the 2017 convention, the CrossingsCon staff made the decision to hold CrossingsCon every other year in order to make the convention better and more accessible to attendees. However, two years is a long time to go without seeing your cousins, so we’re hosting meetups across the continental U.S. over the course of the summer!
-  Find more information [here](http://blog.crossingscon.org/post/174133728746/well-met-up-on-the-common-journey).
--->
-
 ### 2019: Montréal, Canada
 
 ![Attendees on their walk to the aquarium]({{ site.baseurl }}/images/2019new/baron1-wide.jpg)
@@ -144,11 +80,15 @@ gardens, visiting Filif’s extended cousins, as well as seeing a show at the pl
 
 ### 2021: Slipping Sideways
 
+![A screenshot of the Guests of Honor and a staffer during the opening ceremonies](/images/2021-opening-ceremonies.png)
+
 Due to the pandemic, we decided to postpone our in-person convention to 2022 and held a virtual Slipping Sideways
 convention on gather.town. We spread out the con over a week, and were able to host 6 Guests of Honor virtually! Diane
 Duane, Ursula Vernon, Megan Whalen Turner, C.B. Lee, Cat Valente, and Jessica Day George were all able to join us, as
 well as 70 attendees and 12 staff and volunteer moderators. Our Gather space had several panel rooms as well as a
 library with functional games, teleportation, and hidden easter eggs such as a duck pond livestream in the park.
+
+[Watch the panels on YouTube.](https://youtube.com/playlist?list=PLR-NNe5h-pt7c0XrLfRLUtHFb3M8J1uKq)
 
 ### 2022: Montréal, Canada
 
@@ -159,3 +99,14 @@ After having been postponed, we were able to finally have our convention in-pers
 Montréal, Canada once more on August 5-7, with more than 70 attendees, 11 CrossingsCon Staff, as well as Guest of Honor
 Megan Whalen Turner. Guests of Honor Ursula Vernon and Diane Duane joined remotely. On Sunday we explored Montréal’s
 Biodôme, which mostly entailed hiding in the penguin exhibit to beat the heat.
+
+### 2025: Philadelphia, PA
+
+![A crowd of Cousins take a selfie.](/images/2025-group-photo.jpg)
+
+For the 2025 convention, we decided to move back to the United States, and went to Philadelphia, PA on August
+15-17, 2026. We had 61 attendees and 14 staff members, and all 4 of our Guests of Honor in person for the first time
+ever! Megan Whalen Turner and Jessica Day George returned, Jessica Mary Best and Seth Dickinson joined us for the first
+time, and we were lucky enough to be Jessica Mary Best’s first convention as a Guest of Honor! We had two days of
+panels, games, and events, and Sunday was an Ordealer’s Choice: attendees grouped together to go on individual
+adventures all over the city.

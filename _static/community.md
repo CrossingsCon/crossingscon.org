@@ -10,11 +10,11 @@ order: 50
 The best way to stay in touch with the con and all the friends you met there is over social media! You can find all of
 our social accounts in the site footer.
 
-And the best way to keep talking with your newfound cousins is on The Crossings on Slack. [Sign up for an account
+Keep chatting with your fellow attendees between conventions on our community Slack. [Sign up for an account
 today!]({{ site.data.social_media.slack.link }})
 
-For behind-the-scenes updates or if you'd like to support us and help us continue to make CrossingsCon fact instead of
-fiction, [visit our Patreon]({{ site.data.social_media.patreon.link }}).
+For behind-the-scenes updates and to support our efforts financially between cons, [visit our
+Patreon]({{ site.data.social_media.patreon.link }}).
 
 If you'd like to get periodic (max 3-4 per year) updates on what's happening at CrossingsCon delivered to your inbox,
 you can also sign up for our mailing list below.
