@@ -62,5 +62,10 @@
 
   a {
     color: white;
+    text-decoration: none;
+
+    &:hover {
+      color: $cc-sky-blue;
+    }
   }
 }
