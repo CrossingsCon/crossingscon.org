@@ -8,8 +8,8 @@ no_children: true
 ---
 
 The main focus of CrossingsCon is to hang out and have fun! But there is also a code of conduct we expect our attendees,
-staff, and guests to adhere to so that the convention stays fun for everyone. The rules below will be in effect for the
-2025 convention, and attendees should be familiar with them before arriving at the convention.
+staff, and guests to adhere to so that the convention stays fun for everyone. The rules below were in effect for the
+2025 convention. Please familiarize yourself with them and stay tuned for updates closer to the event.
 
 ##### Table of Contents
 
