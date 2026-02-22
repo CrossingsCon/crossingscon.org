@@ -2,58 +2,90 @@
   author:
     - Megan Whalen Turner
   when: 2024-01-20
+  links:
+    - name: Libby
+      href: https://share.libbyapp.com/title/267204
 
 - title: The Queen of Attolia
   author:
     - Megan Whalen Turner
   when: 2024-02-24
+  links:
+    - name: Libby
+      href: https://share.libbyapp.com/title/267201
 
 - title: This Is How You Lose the Time War
   author:
     - Amal El-Mohtar
     - Max Gladstone
   when: 2024-04-06
+  links:
+    - name: Libby
+      href: https://share.libbyapp.com/title/4501234
 
 - title: The King of Attolia
   author:
     - Megan Whalen Turner
   when: 2024-04-27
+  links:
+    - name: Libby
+      href: https://share.libbyapp.com/title/267199
 
 - title: The Long Way to a Small, Angry Planet
   author:
     - Becky Chambers
   when: 2024-06-01
+  links:
+    - name: Libby
+      href: https://share.libbyapp.com/title/2245998
 
 - title: A Conspiracy of Kings
   author:
     - Megan Whalen Turner
   when: 2024-06-29
+  links:
+    - name: Libby
+      href: https://share.libbyapp.com/title/319273
 
 - title: Omnitopia Dawn
   author:
     - Diane Duane
   when: 2024-07-27
+  links:
+    - name: Libby
+      href: https://share.libbyapp.com/title/346963
 
 - title: Thick as Thieves
   author:
     - Megan Whalen Turner
   when: 2024-08-24
+  links:
+    - name: Libby
+      href: https://share.libbyapp.com/title/2968693
 
 - title: The Westing Game
   author:
     - Ellen Raskin
   when: 2024-09-28
+  links:
+    - name: Libby
+      href: https://share.libbyapp.com/title/283610
 
 - title: Return of the Thief
   author:
     - Megan Whalen Turner
   when: 2024-10-26
+  links:
+    - name: Libby
+      href: https://share.libbyapp.com/title/4128464
 
 - title: Stealing the Elf-King's Roses
   author:
     - Diane Duane
   when: 2024-11-23
   links:
+    - name: Libby
+      href: https://share.libbyapp.com/title/205974
     - name: Ebooks Direct
       href: https://ebooks.direct/products/stealing-the-elf-kings-roses-the-authors-cut
 
@@ -61,56 +93,89 @@
   author:
     - Megan Whalen Turner
   when: 2024-12-29
+  links:
+    - name: Libby
+      href: https://share.libbyapp.com/title/8755304
 
 - title: Stars, Hide Your Fires
   author:
     - Jessica Mary Best
   when: 2025-01-25
+  links:
+    - name: Libby
+      href: https://share.libbyapp.com/title/9311254
 
 - title: Dragon Slippers
   author:
     - Jessica Day George
   when: 2025-03-02
+  links:
+    - name: Libby
+      href: https://share.libbyapp.com/title/1209791
 
 - title: Dragon Flight
   author:
     - Jessica Day George
   when: 2025-03-29
+  links:
+    - name: Libby
+      href: https://share.libbyapp.com/title/546101
 
 - title: Dragon Spear
   author:
     - Jessica Day George
   when: 2025-05-03
+  links:
+    - name: Libby
+      href: https://share.libbyapp.com/title/456875
 
-- title: The Traitor Beru Cormorant
+- title: The Traitor Baru Cormorant
   author:
     - Seth Dickinson
   when: 2025-06-07
+  links:
+    - name: Libby
+      href: https://share.libbyapp.com/title/2163717
 
-- title: The Monster Beru Cormorant
+- title: The Monster Baru Cormorant
   author:
     - Seth Dickinson
   when: 2025-07-12
+  links:
+    - name: Libby
+      href: https://share.libbyapp.com/title/3750171
 
 - title: Sun and Moon, Ice and Snow
   author:
     - Jessica Day George
   when: 2025-08-16
+  links:
+    - name: Libby
+      href: https://share.libbyapp.com/title/558709
 
 - title: The Tyrant Baru Cormorant
   author:
     - Seth Dickinson
   when: 2025-09-20
+  links:
+    - name: Libby
+      href: https://share.libbyapp.com/title/4908705
 
 - title: Princess of the Midnight Ball
   author:
     - Jessica Day George
   when: 2025-10-25
+  links:
+    - name: Libby
+      href: https://share.libbyapp.com/title/558707
 
 - title: The Goblin Emperor
   author:
     - Katherine Addison
   when: 2025-11-29
+  links:
+    - name: Libby
+      href: https://share.libbyapp.com/title/1423963
 
 - title: The Adventures of Amina al-Sirafi
   author:
