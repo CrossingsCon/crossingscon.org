@@ -1,5 +1,5 @@
 - name: Diane Duane
-  image: diane-selfie.png
+  image: diane_duane.png
   bio: >
     Diane has been a Guest of Honor for CrossingsCon in 2016, 2017, 2019, 2021,
     and 2022. Diane is now in her fourth decade as a writer of science fiction
@@ -29,7 +29,7 @@
     CLEARANCE.
 
 - name: Mark Oshiro
-  image: mark-flowers.jpg
+  image: mark_oshiro.jpg
   bio: >
     Mark Oshiro joined us as a Guest of Honor for CrossingsCon in 2016, 2017,
     and 2019. Mark is the award-winning author of the young adult books *Anger
@@ -43,7 +43,7 @@
     Photo courtesy of Zoraida Cordova
 
 - name: Megan Whalen Turner
-  image: megan.jpg
+  image: megan_whalen_turner.jpg
   bio: >
     Megan Whalen Turner has joined us for CrossingsCon as a Guest of Honor in
     2021, 2022, and 2025. Megan is an award winning and NYT bestselling author
@@ -58,7 +58,7 @@
     awaiting the arrival of *Return of the Thief* in October 2020.
 
 - name: Ursula Vernon
-  image: ursula.jpg
+  image: ursula_vernon.jpg
   bio: >
     Ursula Vernon, author and illustrator, has been a CrossingsCon Guest of
     Honor in 2021 and 2022. Ursula has written over fifteen books for children,
@@ -71,7 +71,7 @@
     where she works full-time as an artist, writer, and creator of oddities.
 
 - name: Kate Howells
-  image: kate.jpg
+  image: kate_howells.jpg
   bio: >
     Kate Howells joined us for CrossingsCon 2019. Kate is the author of *Space
     is Cool as Fuck*, former member of the Government of Canada's Space Advisory
@@ -89,7 +89,7 @@
     pursuing a Master of Arts in Educational Studies at Concordia University.
 
 - name: Seanan McGuire
-  image: mcguire.jpg
+  image: seanan_mcguire.jpg
   bio: >
     Seanan McGuire was a Guest of Honor at our first CrossingsCon in 2016. She
     is an American author, and the vanguard of an invading race of alien plant
@@ -100,7 +100,7 @@
     her abnormally large Maine Coon cats. They’re enormous.
 
 - name: Emily Skrutskie
-  image: skrutskie.jpg
+  image: emily_skrutskie.jpg
   bio: >
     Emily Skrutskie was a CrossingsCon Guest of Honor in 2017. She is an author
     best known for _The Abyss Surrounds Us_, a young adult novel following
@@ -113,15 +113,16 @@
     for the record that she is also six feet tall.
 
 - name: Jessica Day George
-  image: JessicaDayGeorgeHeadshot.jpg
+  image: jessica_day_george.jpg
   bio: >
-    Jessica Day George joined us as a Guest of Honor in 2021 and 2025. Jessica —
-    author of the _Rose Legacy_, _Castle Glower_, and _Dragon Slippers_ series —
-    earned a BA in Humanities/Comparative Literature from Brigham Young
-    University, where she enjoyed classes in Pottery and Old Norse, and
-    dutifully forced herself to take Algebra and Biology. Originally from Idaho,
-    she now resides in Salt Lake City, Utah, with her husband and three young
-    children.
+    Jessica Day George is the NYT bestselling author of 16 books and counting
+    for middle grade and teen readers. She has a degree in Fairy Tales and
+    Mythology - okay, Humanities - from Brigham Young University, and loves
+    collecting books on Norse mythology, Norwegian folktales, and the sagas.
+    Originally from Idaho, she has lived in Delaware, New Jersey, and Utah,
+    where she currently lives with her husband and three children. She likes
+    books, dark chocolate, dogs, movies, and Dr. Pepper Zero Sugar with a shot
+    of coconut syrup.
 
 - name: C.B. Lee
   image: cb_lee.jpg
@@ -150,16 +151,23 @@
     the Nebula and World Fantasy Awards. She lives on an island off the coast of
     Maine with a small but growing menagerie of beasts, some of which are human.
 
-# - name: Mark Oshiro
-#   image: oshiro.jpg
-#   bio: |
-#     Mark Oshiro, creator of "Mark Reads” and “Mark Watches”, is a beloved fan and creator. In
-#     addition to recording himself reading novels and short stories, Mark makes YouTube videos,
-#     writes, and travels extensively.
+- name: Jessica Mary Best
+  image: jessica_mary_best.jpg
+  bio: >
+    Jessica Mary Best is a multi-award-winning freelance writer/editor, an
+    amateur singer/songwriter and a well-intentioned ball of pure quivering
+    anxiety. Her audio drama work includes creating and scripting *The Strange
+    Case of Starship Iris* and *Keep It Steady*, and she has also written for
+    *Unwell: A Midwestern Gothic Mystery* and *World Gone Wrong*. Her first
+    novel is a queer YA sci-fi mystery called *Stars, Hide Your Fires*. Her
+    fanfiction was once quoted very briefly in an NPR feature, which frankly
+    continues to boggle her mind.
 
-#     Mark attended CrossingsCon 2016 and we are delighted to have him back again this year. For
-#     first-timers and Mark Reads veterans alike, he is an experience we won't spoil for you.
-
-#     Find him at his [website](http://markreads.net/reviews/), [Tumblr](http://markdoesstuff.tumblr.com/),
-#     and [Twitter](https://twitter.com/markdoesstuff)!
-# the Hugo finalist (in the Fan Writer category) creator of the online Mark Does Stuff universe (Mark Reads and Mark Watches), where he analyzes book and television series unspoiled. He was the nonfiction editor of *Queers Destroy Science Fiction!* and the co-editor of *Speculative Fiction 2015* with Foz Meadows. He is the President of the [Con or Bust](http://con-or-bust.org/about/) Board of Directors. His first novel, *Anger is a Gift*, is a YA contemporary about queer friendship, love, and fighting police brutality. When he is not writing, crying on camera about fictional characters, or ruining lives at conventions, he is busy trying to fulfill his lifelong goal: to pet every dog in the world.
+- name: Seth Dickinson
+  image: sethpic.jpeg
+  bio: >
+    Seth Dickinson is the author of *The Traitor Baru Cormorant* and *Exordia*,
+    and a writer on video game universes including *Destiny*, *House of the
+    Dying Sun*, and the upcoming *Subnautica 2*. Seth's favorite book growing up
+    was *My Enemy, My Ally* by Diane Duane. Seth dreams of becoming a muscular
+    yet small-brained deepwater fish.
