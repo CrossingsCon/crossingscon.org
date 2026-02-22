@@ -70,26 +70,8 @@ the side.
 
 So far the book club has read:
 
-- _The Thief_ by Megan Whalen Turner
-- _The Queen of Attolia_ by Megan Whalen Turner
-- _This Is How You Lose the Time War_ by Amal El-Mohtar and Max Gladstone
-- _The King of Attolia_ by Megan Whalen Turner
-- _The Long Way to a Small, Angry Planet_ by Becky Chambers
-- _A Conspiracy of Kings_ by Megan Whalen Turner
-- _Omnitopia Dawn_ by Diane Duane
-- _Thick as Thieves_ by Megan Whalen Turner
-- _The Westing Game_ by Ellen Raskin
-- _Return of the Thief_ by Megan Whalen Turner
-- _Stealing the Elf-King's Roses_ by Diane Duane
-- _Moira's Pen_ by Megan Whalen Turner
-- _Stars hide your fires_ by Jessica Mary Best
-- _Dragon Slippers_ by Jessica Day George
-- _Dragon Flight_ by Jessica Day George
-- _Dragon Spear_ by Jessica Day George
-- _The Traitor Baru Cormorant_ by Seth Dickinson
-- _The Monster Baru Cormorant_ by Seth Dickinson
-- _Sun and Moon, Ice and Snow_ by Jessica Day George
-- _The Tyrant Baru Cormorant_ by Seth Dickinson
-- _Princess of the Midnight Ball_ by Jessica Day George
-- _The Goblin Emperor_ by Katherine Addison
-- _The Adventures of Amina al-Sirafi_ by Shannon Chakraborty
+<ul>
+  {% for book in site.data.book_club_history %}
+    <li>{{book.title}} by {{book.author | array_to_sentence_string}} ({{book.when | date_to_string}})</li>
+  {% endfor %}
+</ul>
