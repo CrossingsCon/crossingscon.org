@@ -53,6 +53,9 @@
   author:
     - Diane Duane
   when: 2024-11-23
+  links:
+    - name: Ebooks Direct
+      href: https://ebooks.direct/products/stealing-the-elf-kings-roses-the-authors-cut
 
 - title: Moira's Pen
   author:
@@ -113,8 +116,8 @@
   author:
     - Shannon Chakraborty
   when: 2026-01-24
-
-- title: Test Book, Please Ignore
-  author:
-    - Lego The Werewolf
-  when: 2030-01-01
+  links:
+    - name: Libby
+      href: https://share.libbyapp.com/title/9055211
+    - name: The Storygraph
+      href: https://app.thestorygraph.com/books/b7e49888-6582-4d09-b330-1615ac1852b9

@@ -47,3 +47,20 @@
     padding-right: 1rem;
   }
 }
+
+.book-club-banner {
+  font-size: 24px;
+
+  text-align: center;
+
+  margin: 1em 0;
+
+  padding: 0.5em;
+
+  background-color: $cc-24-blue;
+  color: white;
+
+  a {
+    color: white;
+  }
+}

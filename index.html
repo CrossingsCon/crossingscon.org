@@ -1,6 +1,18 @@
 ---
 layout: home
 ---
+{% assign now_date = 'now' | date: '%s' | plus: 86400 %}
+{% assign book = site.data.book_club_history.last %}
+{% assign last_book_date = book.when | date: '%s' | plus: 0 %}
+{% if last_book_date > now_date %}
+  <p class="book-club-banner">
+    The
+    <a href="{% link _static/community/book_club.md %}">CrossingsCon Book Club</a>
+    is reading {{ book.title }} by {{ book.author | array_to_sentence_string }} and will be discussing it on
+    {{ book.when | date_to_string }}.
+  </p>
+{% endif %}
+
 <div class="slideshow-container">
   {% assign reversed_slideshow = site.data.slideshow | reverse %}
   {% for image in reversed_slideshow %}
