@@ -72,6 +72,6 @@ So far the book club has read:
 
 <ul>
   {% for book in site.data.book_club_history %}
-    <li>{{book.title}} by {{book.author | array_to_sentence_string}} ({{book.when | date_to_string}}){% if book.links %} ({% for link in book.links %}<a href="{{link.href}}">{{link.name}}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}){% endif %}</li>
+    <li><em>{{book.title}}</em> by {{book.author | array_to_sentence_string}} ({{book.when | date_to_string}}){% if book.links %} ({% for link in book.links %}<a href="{{link.href}}">{{link.name}}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}){% endif %}</li>
   {% endfor %}
 </ul>

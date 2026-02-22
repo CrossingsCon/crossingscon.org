@@ -8,7 +8,7 @@ layout: home
   <p class="book-club-banner">
     The
     <a href="{% link _static/community/book_club.md %}">CrossingsCon Book Club</a>
-    is reading {{ book.title }} by {{ book.author | array_to_sentence_string }} and will be discussing it on
+    is reading <em>{{ book.title }}</em> by {{ book.author | array_to_sentence_string }} and will be discussing it on
     {{ book.when | date_to_string }}.
   </p>
 {% endif %}
