@@ -184,5 +184,15 @@
   links:
     - name: Libby
       href: https://share.libbyapp.com/title/9055211
-    - name: The Storygraph
+    - name: The StoryGraph
       href: https://app.thestorygraph.com/books/b7e49888-6582-4d09-b330-1615ac1852b9
+
+- title: All Systems Red
+  author:
+    - Martha Wells
+  when: 2026-03-28
+  links:
+    - name: Libby
+      href: https://share.libbyapp.com/title/3071631
+    - name: The StoryGraph
+      href: https://app.thestorygraph.com/books/0885d5f1-edc2-435f-b17c-7e881829dbc6
