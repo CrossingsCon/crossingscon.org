@@ -69,3 +69,39 @@
     }
   }
 }
+
+.about-link-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+
+  a {
+    font-size: 1.5rem;
+    color: black;
+    text-decoration: none;
+
+    padding: 3rem 1rem;
+
+    text-align: center;
+    align-content: center;
+  }
+
+  .prev-cons {
+    color: white;
+    background-color: #2398ca;
+  }
+
+  .our-staff {
+    color: black;
+    background-color: #bfe8fb;
+  }
+
+  .parent-org {
+    color: white;
+    background-color: #0366a9;
+  }
+
+  .support {
+    color: white;
+    background-color: #237f44;
+  }
+}

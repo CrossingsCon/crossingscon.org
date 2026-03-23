@@ -39,7 +39,9 @@ much as we asked for), CrossingsCon came into being three years later in 2016 wi
 USA. You can read more about that first con, and all our other past conventions,
 [here]({% link _static/about/previous-cons.md %}).
 
-- [Previous Cons]({% link _static/about/previous-cons.md%})
-- [Our Staff]({% link _static/about/staff.md %})
-- [Parent Organization: Emfozzing Enterprises]({% link _static/about/emfozzing-enterprises.md %})
-- [Support the Con]({% link _static/about/support.md %})
+<div class="about-link-grid">
+  <a class="prev-cons" href="{% link _static/about/previous-cons.md%}">Previous Cons</a>
+  <a class="our-staff" href="{% link _static/about/staff.md %}">Our Staff</a>
+  <a class="parent-org" href="{% link _static/about/emfozzing-enterprises.md %}"> Parent Organization: Emfozzing Enterprises</a>
+  <a class="support" href="{% link _static/about/support.md %}">Support the Con</a>
+</div>
