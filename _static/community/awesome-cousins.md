@@ -4,9 +4,10 @@ title: Wall of Awesome Cousins
 order: 20
 ---
 
-These are (some of) the cousins who supported us in the beginning during our official fundraiser. Hats off to you,
-cousins! You're the reason CrossingsCon exists!
-
+These are (some of) the cousins who supported us in the beginning during our official fundraiser. Many more have
+supported us since then via [Patreon](https://www.patreon.com/emfozzing), and are honoured
+[here](https://emfozzingenterprises.org/awesome-cousins/). Hats off to you, cousins! You’re the reason CrossingsCon and
+Emfozzing Enterprises exists!
 
 <div id="wall-of-awesome-cousins" class="row">
   <div class="col-12 col-md-4">
