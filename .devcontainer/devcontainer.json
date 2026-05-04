@@ -4,7 +4,7 @@
   "name": "Ruby",
   "image": "mcr.microsoft.com/devcontainers/ruby:dev-3.4-trixie",
   "features": {
-    "ghcr.io/devcontainers/features/node:1": {}
+    "ghcr.io/devcontainers/features/node:2": {}
   },
   "customizations": {
     "vscode": {
