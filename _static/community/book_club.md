@@ -10,6 +10,9 @@ in the time between conventions. The book club takes place on Gather, the same p
 convention, and you can
 [join the room for the book club here](https://app.gather.town/app/UTJowCQNBVZCyla3/CrossingsCon%20Bookclub).
 
+If you have questions, comments, or suggestions, send us an email at
+[bookclub@crossingscon.org](mailto:bookclub@crossingscon.org).
+
 See the calendar below for dates of upcoming book club meetings.
 
 <iframe src="https://calendar.google.com/calendar/embed?height=300&wkst=1&ctz=America%2FToronto&bgcolor=%23ffffff&showPrint=0&mode=AGENDA&src=Y182OTE5NmFiZGRmNDI3Njg3NWVmYzgyMmNiZDNiYzU3ODg4ZWExMGNiOWY4NjhkOGYyOWE5MjAzMGIzNjJiZmVkQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%234285F4" style="border-width:0" width="100%" height="300" frameborder="0" scrolling="no"></iframe>
