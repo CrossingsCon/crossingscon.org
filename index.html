@@ -6,7 +6,7 @@ layout: home
 {% assign last_book_date = book.when | date: '%s' | plus: 0 %}
 {% if last_book_date > now_date %}
   <p class="book-club-banner">
-    <a href="{% link _static/community/book_club.md %}">
+    <a href="{% link _static/community/book_club.md %}#{{ book.when }}">
       The CrossingsCon Book Club is reading <em>{{ book.title }}</em> by
       {{ book.author | array_to_sentence_string }} and will be discussing it on {{ book.when | date_to_string }}.</a
     >

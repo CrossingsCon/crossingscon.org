@@ -15,7 +15,14 @@ If you have questions, comments, or suggestions, send us an email at
 
 See the calendar below for dates of upcoming book club meetings.
 
-<iframe src="https://calendar.google.com/calendar/embed?height=300&wkst=1&ctz=America%2FToronto&bgcolor=%23ffffff&showPrint=0&mode=AGENDA&src=Y182OTE5NmFiZGRmNDI3Njg3NWVmYzgyMmNiZDNiYzU3ODg4ZWExMGNiOWY4NjhkOGYyOWE5MjAzMGIzNjJiZmVkQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%234285F4" style="border-width:0" width="100%" height="300" frameborder="0" scrolling="no"></iframe>
+<iframe
+  src="https://calendar.google.com/calendar/embed?height=300&wkst=1&ctz=America%2FToronto&bgcolor=%23ffffff&showPrint=0&mode=AGENDA&src=Y182OTE5NmFiZGRmNDI3Njg3NWVmYzgyMmNiZDNiYzU3ODg4ZWExMGNiOWY4NjhkOGYyOWE5MjAzMGIzNjJiZmVkQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%234285F4"
+  style="border-width:0"
+  width="100%"
+  height="300"
+  frameborder="0"
+  scrolling="no"
+></iframe>
 
 ##### Table of Contents
 
@@ -67,14 +74,15 @@ If you get lost in the gather space, here's a map of the entire thing! The centr
 discussion will take place, with smaller breakout spaces in the cafe at the top of the map and in the little cubbies on
 the side.
 
-<img src="/images/book_club_gather.png" style="max-width: 800px; display: block; margin: auto;" alt="A map of the gather space used for the book club"/>
+<img src="/images/book_club_gather.png" style="max-width: 800px; aspect-ratio: 1 / 1; display: block; margin: auto;" alt="A map of the gather space used for the book club"/>
 
 ### Past books
 
-So far the book club has read:
+_Emfozzing Enterprises, the parent organization of CrossingsCon, is an affiliate of Bookshop.org and earns a commission
+from purchases made through the Bookshop.org links below._
 
 <ul>
   {% for book in site.data.book_club_history %}
-    <li><em>{{book.title}}</em> by {{book.author | array_to_sentence_string}} ({{book.when | date_to_string}}){% if book.links %} ({% for link in book.links %}<a href="{{link.href}}">{{link.name}}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}){% endif %}</li>
+    <li id="{{book.when}}"><em>{{book.title}}</em> by {{book.author | array_to_sentence_string}} ({{book.when | date_to_string}}){% if book.links %} ({% for link in book.links %}<a href="{{link.href}}">{{link.name}}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}){% endif %}</li>
   {% endfor %}
 </ul>
